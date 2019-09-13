@@ -10,7 +10,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-[Patricia Aas](https://patricia.no/)
+[Joel Donfak](https://donfak.me)  
+[Patricia Aas](https://patricia.no/)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
