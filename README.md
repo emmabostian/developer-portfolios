@@ -65,6 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Kyle Shook](http://Kyleshook.com)  
 [Vaibhav Singh](http://vaibhavsingh97.com)  
 [Ali Spittel](http://alispit.tel)  
+[Herman Starikov](http://starikov.dev)  
 [Roland L. Taylor](http://rolandixor.pro)  
 [Janessa Tran](http://janessatran.github.io)  
 [James Turner](http://turnerj.com)  
