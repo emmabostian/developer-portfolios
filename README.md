@@ -37,7 +37,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Alex Goff](http://alex-goff.com)  
 [Ben Greenberg](http://bengreenberg.dev)  
 [Caitlyn Greffly](https://caitlyngreffly.com/)  
-[Louay Hamada](https://louayhamada.com)
+[Louay Hamada](https://louayhamada.com)  
 [Jamie Hammond](https://jamiehammond.dev/)  
 [Jacob Herrington](http://jh.codes)  
 [Jerry Hirsch](https://jerryhirsch.com/)  
