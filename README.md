@@ -15,7 +15,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Laurie Barth](http://laurieontech.dev)  
 [Lisa Savoie](http://lscodes.com)  
 [Jacob Herrington](http://jh.codes)  
-Ali Spittel](http://alispit.tel)  
+[Ali Spittel](http://alispit.tel)  
 [Joseph Friedman](http://DecentGradient.com)  
 [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)  
 [Ashlee Boyer](http://ashleemboyer.dev)  
