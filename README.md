@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Vicente G. Reyes](https://highcenburg.herokuapp.com/)  
 [Brianna Roby](http://brianna-roby.com)  
 [Lisa Savoie](http://lscodes.com)  
+[Patrick Reid](http://iamreliq.com)  
 [Kaleigh Scruggs](http://kaleighscruggs.com)  
 [Mark Shaffer](http://codemelted.com)  
 [Maya Shavin](https://www.mayashavin.com/)  
