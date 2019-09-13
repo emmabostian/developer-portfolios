@@ -10,8 +10,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-[Brad Garropy](https://bradgarropy.com)
-[Patricia Aas](https://patricia.no/)
+[Brad Garropy](https://bradgarropy.com)  
+[Patricia Aas](https://patricia.no/)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
