@@ -12,7 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 [Patricia Aas](https://patricia.no/)
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
-[Ahman Awais](https://ahmadawais.com/)  
+[Ahmad Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
 [Becca Bailey](http://Becca.is)  
