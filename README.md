@@ -73,3 +73,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Vincent Milum Jr](darkain.com)  
 [Marc Backes](marc.dev)  
 [James Turner](turnerj.com)  
+[Benjamin Lannon](https://lannonbr.com)  
