@@ -38,6 +38,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ### D
 
 - [Saurabh Daware](https://www.saurabhdaware.in/)
+- [Vitor Dino](https://vitordino.com/)
 - [Conlin Durbin](https://wuz.fyi/)
 
 ### E
