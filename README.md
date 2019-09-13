@@ -71,5 +71,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Lee Warrick](http://leewarrick.com)  
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
-[Santosh Yadav](http://santoshyadav.dev)  
-
+[Santosh Yadav](http://santoshyadav.dev) 
+[Jeremy Grifski](https://jeremygrifski.com/)
