@@ -72,4 +72,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
 [Santosh Yadav](http://santoshyadav.dev)  
+[Marouane Rassili](https://mrassili.com)  
 
