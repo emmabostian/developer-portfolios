@@ -65,6 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Kyle Shook](http://Kyleshook.com)  
 [Vaibhav Singh](http://vaibhavsingh97.com)  
 [Ali Spittel](http://alispit.tel)  
+[Alejandro Sobko](http://alejandrosobko.com)
 [Roland L. Taylor](http://rolandixor.pro)  
 [Janessa Tran](http://janessatran.github.io)  
 [James Turner](http://turnerj.com)  
@@ -78,6 +79,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Marc Backes](http://marc.dev)  
 [James Turner](http://turnerj.com)  
 [Benjamin Lannon](https://lannonbr.com)  
-[Alejandro Sobko](http://alejandrosobko.com)
 [Santosh Yadav](http://santoshyadav.dev)  
 
