@@ -74,4 +74,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Marc Backes](http://marc.dev)  
 [James Turner](http://turnerj.com)  
 [Benjamin Lannon](https://lannonbr.com)  
+[Louay Hamada](https://louayhamada.com)
 
