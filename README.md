@@ -9,9 +9,9 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
-[Abdelouahed Medjoudja](https://geekabdelouahed.github.io/Flutter-Web-Portfolio)
-[Patricia Aas](https://patricia.no/)
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
+[Abdelouahed Medjoudja](https://geekabdelouahed.github.io/Flutter-Web-Portfolio)<br>
+[Patricia Aas](https://patricia.no/)<br>
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/)<br>
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
