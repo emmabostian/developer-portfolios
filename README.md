@@ -53,6 +53,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)  
 [Danstan Onyango](https://zemuldo.com/)  
 [Dimitri Pashutskii](https://dpashutskii.com/)  
+[Chris Poole](https://chrispoole.com)
 [Gabriela Radu](http://gabrielaradu.me)  
 [Bhavani Ravi](http://bhavaniravi.com)  
 [Nicolo Rebughini](https://nirebu.com/)  
