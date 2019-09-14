@@ -39,6 +39,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Caitlyn Greffly](https://caitlyngreffly.com/)  
 [Jamie Hammond](https://jamiehammond.dev/)  
 [Jacob Herrington](http://jh.codes)  
+[EchoEye](https://echoeyecodes.com)
 [Jerry Hirsch](https://jerryhirsch.com/)  
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
 [Yechiel K](http://yechiel.me)  
