@@ -45,7 +45,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Yechiel K](http://yechiel.me)  
 [Mary Kathryn](http://marykrzesicki.me)  
 [Moritz Kornher](https://moritzkornher.de/)
-[Isitha Subasinghe](https://isub.dev)  
 [Tejas Kumar](http://tej.as)  
 [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
 [Ryan MacLean](http://ryanmaclean.com)  
@@ -74,3 +73,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
 [Santosh Yadav](http://santoshyadav.dev)
+[Isitha Subasinghe](https://isub.dev)
