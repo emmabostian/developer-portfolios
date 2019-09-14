@@ -12,7 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/Flutter-Web-Portfolio)<br>
 [Patricia Aas](https://patricia.no/)<br>
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)<br>
-[Ahman Awais](https://ahmadawais.com/)  
+[Ahman Awais](https://ahmadawais.com/)<br>
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
 [Becca Bailey](http://Becca.is)  
