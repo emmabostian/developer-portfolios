@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
-[Abdelouahed Medjoudja](https://geekabdelouahed.github.io/Flutter-Web-Portfolio)<br>
+[Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)<br>
 [Patricia Aas](https://patricia.no/)<br>
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)<br>
 [Ahman Awais](https://ahmadawais.com/)<br>
