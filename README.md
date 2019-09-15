@@ -35,6 +35,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Gianluca Fiore](http://gianlucafiore.it)  
 [Joseph Friedman](http://DecentGradient.com)  
 [Farai Gandiya](http://fgandiya.me)  
+[Sagar Giri](https://girisagar46.github.io/)  
 [Sree Godavarthi](http://sreegodavarthi.github.io)  
 [Alex Goff](http://alex-goff.com)  
 [Alexey Golub](http://tyrrrz.me)  
