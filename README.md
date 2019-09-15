@@ -46,6 +46,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Caitlyn Greffly](https://caitlyngreffly.com/)  
 [Jeremy Grifski](https://jeremygrifski.com/)  
 [Louay Hamada](https://louayhamada.com)  
+[Kamran Hamid](https://mkamranhamid.netlify.com)  
 [Jamie Hammond](https://jamiehammond.dev/)  
 [Lwin Moe Hein](http://lwinmoehein.me)  
 [Jacob Herrington](http://jh.codes)  
