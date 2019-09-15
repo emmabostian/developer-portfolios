@@ -67,6 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jacobo Martinez](https://cobimr.xyz)  
 [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)  
 [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
+[Agney Menon](https://agney.dev)  
 [Vincent Milum Jr](http://darkain.com)  
 [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)  
 [Danstan Onyango](https://zemuldo.com/)  
