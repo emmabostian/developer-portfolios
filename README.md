@@ -42,6 +42,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jeremy Grifski](https://jeremygrifski.com/)  
 [Louay Hamada](https://louayhamada.com)  
 [Jamie Hammond](https://jamiehammond.dev/)  
+[Lwin Moe Hein](http://lwinmoehein.me)  
 [Jacob Herrington](http://jh.codes)  
 [Jerry Hirsch](https://jerryhirsch.com/)  
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
@@ -79,5 +80,3 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
 [Santosh Yadav](http://santoshyadav.dev)  
-
-
