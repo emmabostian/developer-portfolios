@@ -28,6 +28,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Adam Conrad](http://conradadam.com)  
 [Shannon Crabill](http://shannoncrabill.com)  
 [Saurabh Daware](https://www.saurabhdaware.in/)  
+[Varun Dey](https://varundey.me)  
 [Conlin Durbin](https://wuz.fyi)  
 [Cole Emeruche](https://coleruche.com/works/)  
 [Gianluca Fiore](http://gianlucafiore.it)  
@@ -75,5 +76,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
 [Santosh Yadav](http://santoshyadav.dev)  
-
 
