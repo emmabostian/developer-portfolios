@@ -50,6 +50,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jamie Hammond](https://jamiehammond.dev/)  
 [Lwin Moe Hein](http://lwinmoehein.me)  
 [Jacob Herrington](http://jh.codes)  
+[EchoEye](https://echoeyecodes.com)
 [Jerry Hirsch](https://jerryhirsch.com/)  
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
 [Yechiel K](http://yechiel.me)  
