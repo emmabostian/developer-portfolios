@@ -10,7 +10,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-[Patricia Aas](https://patricia.no/)
+[Patricia Aas](https://patricia.no/)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
@@ -34,7 +34,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Gianluca Fiore](http://gianlucafiore.it)  
 [Joseph Friedman](http://DecentGradient.com)  
 [Farai Gandiya](http://fgandiya.me)  
-[Sree Godavarthi](http://sreegodavarthi.github.io)
+[Sree Godavarthi](http://sreegodavarthi.github.io)  
 [Alex Goff](http://alex-goff.com)  
 [Ben Greenberg](http://bengreenberg.dev)  
 [Caitlyn Greffly](https://caitlyngreffly.com/)  
@@ -67,7 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Maya Shavin](https://www.mayashavin.com/)  
 [Kyle Shook](http://Kyleshook.com)  
 [Vaibhav Singh](http://vaibhavsingh97.com)  
-[Alejandro Sobko](http://alejandrosobko.com)
+[Alejandro Sobko](http://alejandrosobko.com)  
 [Ali Spittel](http://alispit.tel)  
 [Roland L. Taylor](http://rolandixor.pro)  
 [Janessa Tran](http://janessatran.github.io)  
