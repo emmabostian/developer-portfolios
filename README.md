@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Laurie Barth](http://laurieontech.dev)  
 [Andy Bell](https://andy-bell.design/)  
 [Ashlee Boyer](http://ashleemboyer.dev)  
+[Dillion Megida](http://dillionmegida.com/about)
 [Michelle Brenner](http://MichelleBrenner.com)  
 [Ryan Burgess](http://ryanburgess.com)  
 [Chicago IT Systems](https://www.chicagoitsystems.com/)  
