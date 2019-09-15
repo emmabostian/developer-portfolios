@@ -36,6 +36,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Farai Gandiya](http://fgandiya.me)  
 [Sree Godavarthi](http://sreegodavarthi.github.io)  
 [Alex Goff](http://alex-goff.com)  
+[Alexey Golub](http://tyrrrz.me)  
 [Ben Greenberg](http://bengreenberg.dev)  
 [Caitlyn Greffly](https://caitlyngreffly.com/)  
 [Jeremy Grifski](https://jeremygrifski.com/)  
@@ -73,8 +74,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Roland L. Taylor](http://rolandixor.pro)  
 [Janessa Tran](http://janessatran.github.io)  
 [James Turner](http://turnerj.com)  
+[Abhijith Vijayan](https://abhijithvijayan.in)  
 [Lee Warrick](http://leewarrick.com)  
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
-[Abhijith Vijayan](https://abhijithvijayan.in)  
 [Santosh Yadav](http://santoshyadav.dev)  
+
+
