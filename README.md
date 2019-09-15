@@ -46,6 +46,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Mary Kathryn](http://marykrzesicki.me)  
 [Moritz Kornher](https://moritzkornher.de/)  
 [Tejas Kumar](http://tej.as)  
+[Benjamin Lannon](https://lannonbr.com)  
 [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
 [Ryan MacLean](http://ryanmaclean.com)  
 [Cecelia Martinez](http://ceceliacreates.com)  
@@ -65,6 +66,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Maya Shavin](https://www.mayashavin.com/)  
 [Kyle Shook](http://Kyleshook.com)  
 [Vaibhav Singh](http://vaibhavsingh97.com)  
+[Alejandro Sobko](http://alejandrosobko.com)
 [Ali Spittel](http://alispit.tel)  
 [Roland L. Taylor](http://rolandixor.pro)  
 [Janessa Tran](http://janessatran.github.io)  
@@ -72,4 +74,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Lee Warrick](http://leewarrick.com)  
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
+[Santosh Yadav](http://santoshyadav.dev)  
+
 
