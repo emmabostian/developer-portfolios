@@ -14,6 +14,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Patricia Aas](https://patricia.no/)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
 [AbdulHafeez AbdulRaheem](https://feezyhendrix.github.io)  
+[Victor Aremu](http://bit.ly/victoraremu)  
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
