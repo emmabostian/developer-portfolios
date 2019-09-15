@@ -35,6 +35,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Saurabh Daware](https://www.saurabhdaware.in/)  
 [Varun Dey](https://varundey.me)  
 [Conlin Durbin](https://wuz.fyi)  
+[Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 [Cole Emeruche](https://coleruche.com/works/)  
 [Gianluca Fiore](http://gianlucafiore.it)  
 [Joseph Friedman](http://DecentGradient.com)  
