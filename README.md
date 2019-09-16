@@ -40,6 +40,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Gianluca Fiore](http://gianlucafiore.it)  
 [Joseph Friedman](http://DecentGradient.com)  
 [Farai Gandiya](http://fgandiya.me)  
+[Arjun Ganesan](https://arjun-g.com)
 [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)  
 [Sagar Giri](https://girisagar46.github.io/)  
 [Sree Godavarthi](http://sreegodavarthi.github.io)  
