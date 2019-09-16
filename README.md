@@ -77,6 +77,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Gabriela Radu](http://gabrielaradu.me)  
 [Bhavani Ravi](http://bhavaniravi.com)  
 [Nicolo Rebughini](https://nirebu.com/)  
+[Nico van Zyl](https://nicovanzyl.com)  
 [Vicente G. Reyes](https://highcenburg.herokuapp.com/)  
 [Brianna Roby](http://brianna-roby.com)  
 [Lisa Savoie](http://lscodes.com)  
