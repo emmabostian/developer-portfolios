@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Margaret M Barringer](http://webwabisabi.com)  
 [Laurie Barth](http://laurieontech.dev)  
 [Andy Bell](https://andy-bell.design/)  
+[Lisa Blunt](https://lisablunt.github.io)
 [Ashlee Boyer](http://ashleemboyer.dev)  
 [Michelle Brenner](http://MichelleBrenner.com)  
 [Ryan Burgess](http://ryanburgess.com)  
