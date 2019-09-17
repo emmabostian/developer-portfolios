@@ -12,7 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 [Patricia Aas](https://patricia.no/)  
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 [AbdulHafeez AbdulRaheem](https://feezyhendrix.github.io)  
 [Victor Aremu](http://bit.ly/victoraremu)  
 [Ahman Awais](https://ahmadawais.com/)  
@@ -97,4 +97,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
 [Dick Wyn Yong](https://dickwyn.xyz)  
-[Santosh Yadav](http://santoshyadav.dev) 
+[Santosh Yadav](http://santoshyadav.dev)
+[Alexander Schmidt](https://alexanderschmidt.info/)
