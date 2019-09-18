@@ -75,6 +75,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Dimitri Pashutskii](https://dpashutskii.com/)  
 [Chris Poole](https://chrispoole.com)  
 [Gabriela Radu](http://gabrielaradu.me)  
+[Abdul Rauf](https://armujahid.me)
 [Bhavani Ravi](http://bhavaniravi.com)  
 [Nicolo Rebughini](https://nirebu.com/)  
 [Vicente G. Reyes](https://highcenburg.herokuapp.com/)  
