@@ -41,7 +41,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Joseph Friedman](http://DecentGradient.com)  
 [Farai Gandiya](http://fgandiya.me)  
 [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
-[Simon Gilbert](https://www.simongilbert.net)   
+[Simon Gilbert](https://www.simongilbert.net)  
 [Sagar Giri](https://girisagar46.github.io/)  
 [Sree Godavarthi](http://sreegodavarthi.github.io)  
 [Alex Goff](http://alex-goff.com)  
