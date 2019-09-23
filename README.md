@@ -27,7 +27,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Ryan Burgess](http://ryanburgess.com)  
 [Chicago IT Systems](https://www.chicagoitsystems.com/)  
 [Franklin Castellanos](https://onecastell.github.io)  
-[Brittany Chiang](brittanychiang.com)  
+[Brittany Chiang](https://brittanychiang.com)  
 [Brooks Cody](http://brookscody.com/)  
 [Dann Conn](https://t.co/3WsyCciW3H?amp=1)  
 [Adam Conrad](http://conradadam.com)  
