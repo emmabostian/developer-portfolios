@@ -57,7 +57,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [EchoEye](https://echoeyecodes.com)
 [Jerry Hirsch](https://jerryhirsch.com/)  
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
-[Yechiel K](http://yechiel.me)  
+[Yechiel Kalmenson](https://yechiel.me)  
 [Mary Kathryn](http://marykrzesicki.me)  
 [Moritz Kornher](https://moritzkornher.de/)
 [Tejas Kumar](http://tej.as)  
