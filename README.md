@@ -12,6 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 [Patricia Aas](https://patricia.no/)  
+[Josef Aidt](https://josefaidt.dev)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
 [Victor Aremu](http://bit.ly/victoraremu)  
 [Ahmad Awais](https://ahmadawais.com/)  
