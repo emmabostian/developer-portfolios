@@ -99,4 +99,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Georgi Yanev](https://gyanev.com)  
 [Dick Wyn Yong](https://dickwyn.xyz)  
 [Santosh Yadav](http://santoshyadav.dev) 
-
+[Bob Matyas](https://www.bobmatyas.com)
+ 
