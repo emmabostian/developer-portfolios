@@ -13,7 +13,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 [Patricia Aas](https://patricia.no/)  
 [Josef Aidt](https://josefaidt.dev)  
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 [Victor Aremu](http://bit.ly/victoraremu)  
 [Ahmad Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
@@ -98,5 +98,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jane Manchun Wong](http://wongmjane.com)  
 [Georgi Yanev](https://gyanev.com)  
 [Dick Wyn Yong](https://dickwyn.xyz)  
-[Santosh Yadav](http://santoshyadav.dev) 
-
+[Santosh Yadav](http://santoshyadav.dev)
+[Karen Fletcher](https://knpfletcher.dev)
