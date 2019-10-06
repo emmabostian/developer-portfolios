@@ -10,6 +10,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
+[Gabriele Corti](https://borntofrappe.github.io/)
 [Patricia Aas](https://patricia.no/)
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
 [Ahman Awais](https://ahmadawais.com/)  
