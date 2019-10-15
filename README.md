@@ -12,10 +12,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 [Patricia Aas](https://patricia.no/)  
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/)
-[AbdulHafeez AbdulRaheem](https://feezyhendrix.github.io)  
+[Josef Aidt](https://josefaidt.dev)  
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
 [Victor Aremu](http://bit.ly/victoraremu)  
-[Ahman Awais](https://ahmadawais.com/)  
+[Ahmad Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
 [Bankole Ahmed](http://bankoleahmed.netlify.com)  
@@ -57,7 +57,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [EchoEye](https://echoeyecodes.com)
 [Jerry Hirsch](https://jerryhirsch.com/)  
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
-[Yechiel K](http://yechiel.me)  
+[Yechiel Kalmenson](https://yechiel.me)  
 [Mary Kathryn](http://marykrzesicki.me)  
 [Moritz Kornher](https://moritzkornher.de/)
 [Tejas Kumar](http://tej.as)  
@@ -98,3 +98,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jane Manchun Wong](http://wongmjane.com)  
 [Santosh Yadav](http://santoshyadav.dev)  
 [Omar Gastón Chalas](https://ogaston.com/en/knowme)
+
