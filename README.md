@@ -98,6 +98,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Jane Manchun Wong](http://wongmjane.com)  
 [Georgi Yanev](https://gyanev.com)  
 [Dick Wyn Yong](https://dickwyn.xyz)  
-[Santosh Yadav](http://santoshyadav.dev)
-[Fidalgo Pedro](http://fidalgo.dev)
+[Santosh Yadav](http://santoshyadav.dev)  
+[Fidalgo Pedro](http://fidalgo.dev)  
+[Liz Lam](https://lizlam.github.io/)
 
