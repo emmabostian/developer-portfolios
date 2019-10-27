@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
-
+[Gabriele Corti](https://borntofrappe.github.io/)  
 [Patricia Aas](https://patricia.no/)  
 [Josef Aidt](https://josefaidt.dev)  
 [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
