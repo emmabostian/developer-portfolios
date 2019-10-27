@@ -104,3 +104,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Liz Lam](https://lizlam.github.io/)  
 [Marissa Phul](http://mphul.codes/)  
 [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
+[Soham Mondal](https://sohammondal.com)  
