@@ -13,7 +13,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 [Patricia Aas](https://patricia.no/)  
 [Josef Aidt](https://josefaidt.dev)  
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/) 
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 [Victor Aremu](http://bit.ly/victoraremu)  
 [Ahmad Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
@@ -103,3 +103,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Fidalgo Pedro](http://fidalgo.dev)  
 [Liz Lam](https://lizlam.github.io/)  
 [Marissa Phul](http://mphul.codes/)  
+[Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
