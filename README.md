@@ -10,11 +10,11 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
-[Ariel Barboza](http://www.arielbarboza.com/)
+[Ariel Barboza](http://www.arielbarboza.com/)  
 [Gabriele Corti](https://borntofrappe.github.io/)  
 [Patricia Aas](https://patricia.no/)  
 [Josef Aidt](https://josefaidt.dev)  
-[Md Nabil Ahsan](https://www.mdnabilahsan.com/)
+[Md Nabil Ahsan](https://www.mdnabilahsan.com/)  
 [Victor Aremu](http://bit.ly/victoraremu)  
 [Ahmad Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
@@ -60,7 +60,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Patrick Hyatt](https://www.patrickhyatt.com/)  
 [Yechiel Kalmenson](https://yechiel.me)  
 [Mary Kathryn](http://marykrzesicki.me)  
-[Moritz Kornher](https://moritzkornher.de/)
+[Moritz Kornher](https://moritzkornher.de/)  
 [Tejas Kumar](http://tej.as)  
 [Benjamin Lannon](https://lannonbr.com)  
 [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
