@@ -106,3 +106,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
 [Soham Mondal](https://sohammondal.com)  
 [Bouwe Westerdijk](https://bouwe.io)  
+[Hassan Murtaza](https://hassanmurtaza.com)  
