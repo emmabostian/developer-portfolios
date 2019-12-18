@@ -108,6 +108,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Moritz Kornher](https://moritzkornher.de/)
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
+* [Nico van Zyl](https://nicovanzyl.com)  
 * [Nicolo Rebughini](https://nirebu.com/)  
 * [Nikush Dalia](https://nikushx.com) 
 * [Opeyemi Obembe](http://obem.be/opeyemi) 
