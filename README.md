@@ -84,6 +84,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Kamran Hamid](https://mkamranhamid.netlify.com)  
 * [Kapil Gorve](http://jskap.com)
 * [Karen Fletcher](https://knpfletcher.dev)
+* [Karthik Menon](https://karthikmenon.me/)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
 * [Kyle Shook](http://Kyleshook.com)  
 * [Laurie Barth](http://laurieontech.dev)  
