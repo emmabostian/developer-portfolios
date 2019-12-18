@@ -47,6 +47,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Drew Bredvick](https://drewb.tech/about)
 * [EchoEye](https://echoeyecodes.com)
 * [Enea Xharja](https://eneaxharja.com)  
+* [Ezekiel Ekunola](https://ezekielekunola.com)  
 * [Farai Gandiya](http://fgandiya.me)  
 * [Fidalgo Pedro](http://fidalgo.dev)  
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)  
