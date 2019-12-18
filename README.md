@@ -90,6 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Lisa Savoie](http://lscodes.com)  
 * [Liz Lam](https://lizlam.github.io/)  
 * [Louay Hamada](https://louayhamada.com)  
+* [Luisa Rojas García](https://luisarojas.com)
 * [Lwin Moe Hein](http://lwinmoehein.me)  
 * [Marc Backes](http://marc.dev)  
 * [Marcos Aguayo](https://marcosaguayo.com)
