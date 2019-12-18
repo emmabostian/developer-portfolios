@@ -29,7 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Benjamin Lannon](https://lannonbr.com)  
 * [Bhavani Ravi](http://bhavaniravi.com)  
 * [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
-* [Bouwe Westerdijk](https://bouwe.io)  
+* [Bouwe Westerdijk](https://bouwe.io) 
 * [Brad Garropy](https://bradgarropy.com)  
 * [Brianna Roby](http://brianna-roby.com)  
 * [Brittany Chiang](brittanychiang.com)  
