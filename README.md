@@ -96,6 +96,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Patrick Hyatt](https://www.patrickhyatt.com/)  
 * [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
+* [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Roland L. Taylor](http://rolandixor.pro)  
 * [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)  
 * [Ryan Burgess](http://ryanburgess.com)  
