@@ -111,6 +111,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Moritz Kornher](https://moritzkornher.de/)
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
+* [Muntadhar Haydar](https://muntadhar.net) 
 * [Nico van Zyl](https://nicovanzyl.com)  
 * [Nicolo Rebughini](https://nirebu.com/)  
 * [Nikush Dalia](https://nikushx.com) 
@@ -145,3 +146,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
+
