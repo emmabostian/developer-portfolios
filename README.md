@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Aman Mittal](http://amanhimself.dev)  
 * [Andrew Woods](https://andrewwoods.net)  
 * [Andy Bell](https://andy-bell.design/)  
+* [Anshuman Verma](https://anshumanv.dev/)  
 * [Ashlee Boyer](http://ashleemboyer.dev)  
 * [Bankole Ahmed](http://bankoleahmed.netlify.com)  
 * [Becca Bailey](http://Becca.is)  
