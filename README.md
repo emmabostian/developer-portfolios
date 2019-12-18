@@ -67,6 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Joseph Friedman](http://DecentGradient.com)  
 * [Kaleigh Scruggs](http://kaleighscruggs.com)  
 * [Kamran Hamid](https://mkamranhamid.netlify.com)  
+* [Kapil Gorve](http://jskap.com)  
 * [Kyle Harrison](http://kyle.teamharrison.ca)
 * [Kyle Shook](http://Kyleshook.com)  
 * [Laurie Barth](http://laurieontech.dev)  
