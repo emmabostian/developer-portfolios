@@ -92,6 +92,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Michelle Brenner](http://MichelleBrenner.com)  
 * [Mike Perry Y Attara](https://mikeattara.com)  
 * [Moritz Kornher](https://moritzkornher.de/)
+* [Muhammad](http://muhammadraza.me)
 * [Nicolo Rebughini](https://nirebu.com/)  
 * [Patricia Aas](https://patricia.no/)  
 * [Patrick Hyatt](https://www.patrickhyatt.com/)  
