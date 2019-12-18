@@ -106,6 +106,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
 * [Nicolo Rebughini](https://nirebu.com/)  
+* [Nikush Dalia](https://nikushx.com) 
 * [Opeyemi Obembe](http://obem.be/opeyemi) 
 * [Patricia Aas](https://patricia.no/)  
 * [Patrick Hyatt](https://www.patrickhyatt.com/)  
