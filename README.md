@@ -10,7 +10,6 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
-
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
 * [Abdul Rauf](https://armujahid.me)
 * [Adam Conrad](http://conradadam.com)
@@ -93,7 +92,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Lwin Moe Hein](http://lwinmoehein.me)  
 * [Marc Backes](http://marc.dev)  
 * [Marcos Aguayo](https://marcosaguayo.com)
-* [Margaret M Barringer](http://webwabisabi.com)  
+* [Margaret M Barringer](http://webwabisabi.com)
+* [Mario Kandut](https://www.mariokandut.com)  
 * [Marissa Phul](http://mphul.codes/)  
 * [Mark Shaffer](http://codemelted.com)  
 * [Marouane Rassili](https://mrassili.com)  
