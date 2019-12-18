@@ -75,6 +75,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jens van Wijhe](https://jens.ai) 
 * [Jeremy Grifski](https://jeremygrifski.com/)  
 * [Jerry Hirsch](https://jerryhirsch.com/)  
+* [Johnson Ogwuru](https://johnsonogwuru.tech/)
 * [Josef Aidt](https://josefaidt.dev)  
 * [Joseph Friedman](http://DecentGradient.com)  
 * [Kaleigh Scruggs](http://kaleighscruggs.com)  
