@@ -121,6 +121,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Soham Mondal](https://sohammondal.com)  
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 * [Sree Godavarthi](http://sreegodavarthi.github.io)  
+* [Stefan Bohacek](https://fourtonfish.com/)
 * [Syeda Aimen Batool](http://aimen.dev)  
 * [Tejas Kumar](http://tej.as)  
 * [Tom Sherman](https://tom-sherman.com)  
