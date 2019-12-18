@@ -39,6 +39,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 * [Bouwe Westerdijk](https://bouwe.io) 
 * [Brad Garropy](https://bradgarropy.com)  
+* [Brandon Morse](https://www.morsecodemedia.com)
 * [Brianna Roby](http://brianna-roby.com)  
 * [Brittany Chiang](brittanychiang.com)  
 * [Brooks Cody](http://brookscody.com/)  
