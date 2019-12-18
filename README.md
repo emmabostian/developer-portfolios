@@ -31,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ben Greenberg](http://bengreenberg.dev)  
 * [Benjamin Lannon](https://lannonbr.com)  
 * [Bhavani Ravi](http://bhavaniravi.com)  
+* [Bob Matyas](https://www.bobmatyas.com)
 * [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 * [Bouwe Westerdijk](https://bouwe.io) 
 * [Brad Garropy](https://bradgarropy.com)  
