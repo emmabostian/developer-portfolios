@@ -111,6 +111,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vicente G. Reyes](https://highcenburg.herokuapp.com/)  
 * [Victor Aremu](http://bit.ly/victoraremu)  
 * [Vincent Milum Jr](http://darkain.com)  
+* [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel K](http://yechiel.me)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
