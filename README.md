@@ -92,6 +92,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Kyle Shook](http://Kyleshook.com)  
 * [Laurie Barth](http://laurieontech.dev)  
 * [Lee Warrick](http://leewarrick.com)  
+* [Lisa Blunt](https://lisablunt.github.io)
 * [Lisa Savoie](http://lscodes.com)  
 * [Liz Lam](https://lizlam.github.io/)  
 * [Luca Lischetti](https://sirlisko.com)
