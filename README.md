@@ -128,6 +128,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nicolo Rebughini](https://nirebu.com/)  
 * [Nikush Dalia](https://nikushx.com) 
 * [Opeyemi Obembe](http://obem.be/opeyemi) 
+* [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 * [Patricia Aas](https://patricia.no/)  
 * [Patrick Hyatt](https://www.patrickhyatt.com/)  
 * [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
