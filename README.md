@@ -46,6 +46,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dann Conn](https://t.co/3WsyCciW3H?amp=1)  
 * [Danstan Onyango](https://zemuldo.com/)  
 * [Dick Wyn Yong](https://dickwyn.xyz)  
+* [Dillion Megida](http://dillionmegida.com/about)
 * [Dimitri Pashutskii](https://dpashutskii.com/) 
 * [Drew Bredvick](https://drewb.tech/about)
 * [EchoEye](https://echoeyecodes.com)
