@@ -48,6 +48,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dimitri Pashutskii](https://dpashutskii.com/) 
 * [Drew Bredvick](https://drewb.tech/about)
 * [EchoEye](https://echoeyecodes.com)
+* [Emmanuel ADEKPLOVI](https://homescriptone.com)  
 * [Enea Xharja](https://eneaxharja.com)  
 * [Ezekiel Ekunola](https://ezekielekunola.com)  
 * [Farai Gandiya](http://fgandiya.me)  
