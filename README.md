@@ -12,8 +12,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 
-
-
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
 * [Abdul Rauf](https://armujahid.me)
 * [Adam Conrad](http://conradadam.com)
@@ -43,7 +41,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Brianna Roby](http://brianna-roby.com)  
 * [Brittany Chiang](brittanychiang.com)  
 * [Brooks Cody](http://brookscody.com/)  
-* [Caitlyn Greffly](https://caitlyngreffly.com/)  
+* [Cade Kynaston](https://cade.codes)
+* [Caitlyn Greffly](https://caitlyngreffly.com/)
 * [Cecelia Martinez](http://ceceliacreates.com) 
 * [Charles C. Pustejovsky III](https://cpustejovsky.com/)
 * [Chetan Padia](https://chetbox.com)
@@ -157,3 +156,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
+
