@@ -131,6 +131,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Patrick Reid](http://iamreliq.com)  
 * [Praveen Saini](https://praveen-me.github.io) 
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
+* [Rahul Sawant](http://raalzz.com)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Riley J. Shaw](https://rileyjshaw.com)
 * [Roland L. Taylor](http://rolandixor.pro)  
