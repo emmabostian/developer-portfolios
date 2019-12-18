@@ -111,3 +111,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vincent Milum Jr](http://darkain.com)  
 * [Yechiel K](http://yechiel.me)
 * [Yechiel Kalmenson](https://yechiel.me)  
+* [Zunaid Aslam](https://zunaidaslam.com)
