@@ -128,6 +128,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nico van Zyl](https://nicovanzyl.com)  
 * [Nicolo Rebughini](https://nirebu.com/)  
 * [Nikush Dalia](https://nikushx.com) 
+* [Omar Gastón Chalas](https://ogaston.com/en/knowme)
 * [Opeyemi Obembe](http://obem.be/opeyemi) 
 * [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 * [Patricia Aas](https://patricia.no/)  
