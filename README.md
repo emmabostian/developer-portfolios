@@ -84,6 +84,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Margaret M Barringer](http://webwabisabi.com)  
 * [Marissa Phul](http://mphul.codes/)  
 * [Mark Shaffer](http://codemelted.com)  
+* [Marouane Rassili](https://mrassili.com)  
 * [Mary Kathryn](http://marykrzesicki.me)  
 * [Maya Shavin](https://www.mayashavin.com/)  
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
