@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Andrew Woods](https://andrewwoods.net)  
 * [Andy Bell](https://andy-bell.design/)  
 * [Anshuman Verma](https://anshumanv.dev/)  
+* [Arjun Ganesan](https://arjun-g.com)
 * [Ashlee Boyer](http://ashleemboyer.dev)  
 * [Bankole Ahmed](http://bankoleahmed.netlify.com)  
 * [Becca Bailey](http://Becca.is)  
