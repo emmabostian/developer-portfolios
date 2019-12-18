@@ -51,6 +51,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chris Poole](https://chrispoole.com)  
 * [Cole Emeruche](https://coleruche.com/works/)  
 * [Conlin Durbin](https://wuz.fyi)  
+* [Damian Markowski](http://damianmarkowski.pl) 
 * [Dann Conn](https://t.co/3WsyCciW3H?amp=1)  
 * [Danstan Onyango](https://zemuldo.com/)  
 * [Dick Wyn Yong](https://dickwyn.xyz)  
@@ -161,3 +162,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
+
