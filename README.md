@@ -97,6 +97,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Patricia Aas](https://patricia.no/)  
 * [Patrick Hyatt](https://www.patrickhyatt.com/)  
 * [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
+* [Patrick Reid](http://iamreliq.com)  
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Roland L. Taylor](http://rolandixor.pro)  
