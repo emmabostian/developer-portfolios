@@ -64,6 +64,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jamie Hammond](https://jamiehammond.dev/)  
 * [Jane Manchun Wong](http://wongmjane.com)  
 * [Janessa Tran](http://janessatran.github.io)  
+* [Jens van Wijhe](https://jens.ai) 
 * [Jeremy Grifski](https://jeremygrifski.com/)  
 * [Jerry Hirsch](https://jerryhirsch.com/)  
 * [Josef Aidt](https://josefaidt.dev)  
