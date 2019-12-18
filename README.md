@@ -96,6 +96,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Lee Warrick](http://leewarrick.com)  
 [Bekah Hawrot Weigel](http://bekahhw.github.io)  
 [Jane Manchun Wong](http://wongmjane.com)  
+[Marcos Aguayo](https://marcosaguayo.com)
 [Andrew Woods](https://andrewwoods.net)  
 [Georgi Yanev](https://gyanev.com)  
 [Dick Wyn Yong](https://dickwyn.xyz)  
