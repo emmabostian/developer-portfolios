@@ -102,6 +102,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Soham Mondal](https://sohammondal.com)  
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 * [Sree Godavarthi](http://sreegodavarthi.github.io)  
+* [Syeda Aimen Batool](http://aimen.dev)  
 * [Tejas Kumar](http://tej.as)  
 * [Tom Sherman](https://tom-sherman.com)  
 * [Vaibhav Singh](http://vaibhavsingh97.com)  
