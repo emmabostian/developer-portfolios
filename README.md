@@ -10,6 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
+
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
 * [Abdul Rauf](https://armujahid.me)
 * [Adam Conrad](http://conradadam.com)
@@ -132,6 +133,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Santosh Yadav](http://santoshyadav.dev)  
 * [Saurabh Daware](https://www.saurabhdaware.in/)  
 * [Shannon Crabill](http://shannoncrabill.com)  
+* [Simon Gilbert](https://www.simongilbert.net)
 * [Soham Mondal](https://sohammondal.com)  
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 * [Sree Godavarthi](http://sreegodavarthi.github.io)  
