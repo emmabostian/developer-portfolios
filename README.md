@@ -132,6 +132,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Praveen Saini](https://praveen-me.github.io) 
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
+* [Riley J. Shaw](https://rileyjshaw.com)
 * [Roland L. Taylor](http://rolandixor.pro)  
 * [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)  
 * [Ryan Burgess](http://ryanburgess.com)  
