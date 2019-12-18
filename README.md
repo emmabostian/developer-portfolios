@@ -9,12 +9,10 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
----
-
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
 * [Adam Conrad](http://conradadam.com)
 * [Agney Menon](https://agney.dev)  
-* [Ahman Awais](https://ahmadawais.com/)
+* [Ahmad Awais](https://ahmadawais.com/)
 * [Alejandro Sobko](http://alejandrosobko.com)  
 * [Alex Goff](http://alex-goff.com)  
 * [Alexey Golub](http://tyrrrz.me)  
