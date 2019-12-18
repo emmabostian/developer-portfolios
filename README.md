@@ -55,6 +55,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Georgi Yanev](https://gyanev.com)  
 * [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)  
 * [Gianluca Fiore](http://gianlucafiore.it)  
+* [Herman Starikov](http://starikov.dev) 
 * [Isitha Subasinghe](https://isub.dev)  
 * [Jacob Herrington](http://jh.codes)  
 * [Jacobo Martinez](https://cobimr.xyz)  
@@ -117,3 +118,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
+
