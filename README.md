@@ -50,7 +50,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ezekiel Ekunola](https://ezekielekunola.com)  
 * [Farai Gandiya](http://fgandiya.me)  
 * [Fidalgo Pedro](http://fidalgo.dev)  
-* [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)  
+* [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1) 
+* [Flavia Nunes](https://fluvixx.dev/)
 * [Franklin Castellanos](https://onecastell.github.io)  
 * [Gabriela Radu](http://gabrielaradu.me)  
 * [Gabriele Corti](https://borntofrappe.github.io/)  
@@ -126,3 +127,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Yechiel Kalmenson](https://yechiel.me)  
 * [Zunaid Aslam](https://zunaidaslam.com)
+
