@@ -12,6 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 
 
+
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)  
 * [Abdul Rauf](https://armujahid.me)
 * [Adam Conrad](http://conradadam.com)
@@ -111,6 +112,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mary Kathryn](http://marykrzesicki.me)  
 * [Maya Shavin](https://www.mayashavin.com/)  
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
+* [Michael Johnston](https://michaeljamie.com/)
 * [Michelle Brenner](http://MichelleBrenner.com)  
 * [Mike Perry Y Attara](https://mikeattara.com)  
 * [Moritz Kornher](https://moritzkornher.de/)
