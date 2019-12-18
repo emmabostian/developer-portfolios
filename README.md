@@ -45,6 +45,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dick Wyn Yong](https://dickwyn.xyz)  
 * [Dimitri Pashutskii](https://dpashutskii.com/)  
 * [EchoEye](https://echoeyecodes.com)
+* [Enea Xharja](https://eneaxharja.com)  
 * [Farai Gandiya](http://fgandiya.me)  
 * [Fidalgo Pedro](http://fidalgo.dev)  
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)  
