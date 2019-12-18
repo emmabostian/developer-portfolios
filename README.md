@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ahmad Awais](https://ahmadawais.com/)
 * [Alejandro Sobko](http://alejandrosobko.com)  
 * [Alex Goff](http://alex-goff.com)  
+* [Alexander Schmidt](https://alexanderschmidt.info/)
 * [Alexey Golub](http://tyrrrz.me)  
 * [Ali Spittel](http://alispit.tel)  
 * [Aman Mittal](http://amanhimself.dev)  
