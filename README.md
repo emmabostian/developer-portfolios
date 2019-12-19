@@ -96,6 +96,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Kapil Gorve](http://jskap.com)
 * [Karen Fletcher](https://knpfletcher.dev)
 * [Karthik Menon](https://karthikmenon.me/)
+* [Kouceyla Hadji](https://be.net/kossa)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
 * [Kyle Shook](http://Kyleshook.com)  
 * [Laurie Barth](http://laurieontech.dev)  
