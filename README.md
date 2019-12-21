@@ -84,6 +84,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 * [Hassan Murtaza](https://hassanmurtaza.com)  
 * [Herman Starikov](http://starikov.dev) 
+* [Hungry Bear Studio](https://www.hungrybearstudio.com/)
 
 ## I
 * [Isitha Subasinghe](https://isub.dev)
