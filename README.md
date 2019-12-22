@@ -184,6 +184,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 * [Sree Godavarthi](http://sreegodavarthi.github.io)  
 * [Stefan Bohacek](https://fourtonfish.com/)
+* [Steve Baros](https://steveebaros.me)
 * [Syeda Aimen Batool](http://aimen.dev)  
 
 ## T
