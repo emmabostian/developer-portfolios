@@ -200,6 +200,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Victor Aremu](http://bit.ly/victoraremu)  
 * [Vincent Milum Jr](http://darkain.com)  
 * [Vishwasa Navada K](https://vishwas.tech)
+* [Vidushan Chooriyakumaran](https://vidu.sh/an)
 
 ## Y
 * [Yechiel Kalmenson](https://yechiel.me)  
