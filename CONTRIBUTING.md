@@ -15,7 +15,7 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 
 ### Forking Developer Portfolios
 
-1.  Go to the top level page of this [repository](https://github.com/polishedwp/modulus)
+1.  Go to the top level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
 2.  Click the "Fork" Button in the upper right hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo/))
 3.  After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
 
@@ -168,7 +168,7 @@ As a note, use the presrnt tense for your commit messages (i.e. `Add` instead of
 12. Once the edits have been committed, you will be prompted to create a pull request on your fork's GitHub Page.
 
 13. By default, all pull requests should be against the `Developer Portfolios` main repo, `master` branch.
-    **Make sure that your Base Fork is set to prometheus/develop when raising a Pull Request.**
+    **Make sure that your Base Fork is set to developer-portfolios/master when raising a Pull Request.**
 
 14. Submit a pull request from your branch to `Developer Portfolios` `master` branch.
 
