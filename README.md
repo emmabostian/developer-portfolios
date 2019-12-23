@@ -203,6 +203,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Vidushan Chooriyakumaran](https://vidu.sh/an)
 
+## W
+* [Wajahat Ali Abid](https://wajahataliabid.github.io/)  
+
 ## Y
 * [Yechiel Kalmenson](https://yechiel.me)  
 
