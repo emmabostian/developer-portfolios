@@ -50,7 +50,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chetan Padia](https://chetbox.com)
 * [Chicago IT Systems](https://www.chicagoitsystems.com/)
 * [Chris Poole](https://chrispoole.com)  
-* [Cole Emeruche](https://coleruche.com/works/)  
+* [Cole Emeruche](https://coleruche.com/works/)
+* [Colin Lord](https://colinlord.com/)
 * [Conlin Durbin](https://wuz.fyi)  
 
 ## D
