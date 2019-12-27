@@ -136,6 +136,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Marissa Phul](http://mphul.codes/)  
 * [Marouane Rassili](https://mrassili.com)  
 * [Mary Kathryn](http://marykrzesicki.me)  
+* [Matteo Lobello](https://matteolobello.it) 
 * [Maya Shavin](https://www.mayashavin.com/)  
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 * [Michael Johnston](https://michaeljamie.com/)
