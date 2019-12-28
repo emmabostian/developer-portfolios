@@ -1,5 +1,14 @@
-# Contributor's Guide
+# TLTR: Create a Pull Request
+1. Fork this repository.
+2. Clone the your new repository to your system.
+3. Create a new branch (i.e. `add/your-name`).
+4. Add your new site. Remember to add **alphabetically to thew list.**
+5. Commit changes and push the new branch.
+6. Open and submit a PR.
 
+If you have never opened a PR and need direction, read more below.
+
+# Contributor's Guide
 Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues).
 
 Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
