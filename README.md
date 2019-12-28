@@ -50,7 +50,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chetan Padia](https://chetbox.com)
 * [Chicago IT Systems](https://www.chicagoitsystems.com/)
 * [Chris Poole](https://chrispoole.com)  
-* [Cole Emeruche](https://coleruche.com/works/)  
+* [Cole Emeruche](https://coleruche.com/works/)
+* [Colin Lord](https://colinlord.com/)
 * [Conlin Durbin](https://wuz.fyi)  
 
 ## D
@@ -110,6 +111,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Kapil Gorve](http://jskap.com)
 * [Karen Fletcher](https://knpfletcher.dev)
 * [Karthik Menon](https://karthikmenon.me/)
+* [Kenny Tran Co](https://www.kennytran.co)
 * [Kouceyla Hadji](https://www.behance.net/kossa)
 * [Kumar Abhirup](http://kumar.now.sh)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
@@ -134,6 +136,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Marissa Phul](http://mphul.codes/)  
 * [Marouane Rassili](https://mrassili.com)  
 * [Mary Kathryn](http://marykrzesicki.me)  
+* [Matteo Lobello](https://matteolobello.it) 
 * [Maya Shavin](https://www.mayashavin.com/)  
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 * [Michael Johnston](https://michaeljamie.com/)
@@ -166,6 +169,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
 * [Rahul Sawant](http://raalzz.com)
 * [Rajan Bhattarai](https://cdrrazan.com)
+* [Rajekevin](http://rajekevin.fr)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Riley J. Shaw](https://rileyjshaw.com)
 * [Roland L. Taylor](http://rolandixor.pro)  
@@ -184,6 +188,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)  
 * [Sree Godavarthi](http://sreegodavarthi.github.io)  
 * [Stefan Bohacek](https://fourtonfish.com/)
+* [Steve Baros](https://steveebaros.me)
 * [Syeda Aimen Batool](http://aimen.dev)  
 
 ## T
@@ -199,6 +204,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Victor Aremu](http://bit.ly/victoraremu)  
 * [Vincent Milum Jr](http://darkain.com)  
 * [Vishwasa Navada K](https://vishwas.tech)
+* [Vidushan Chooriyakumaran](https://vidu.sh/an)
+
+## W
+* [Wajahat Ali Abid](https://wajahataliabid.github.io/)  
 
 ## Y
 * [Yechiel Kalmenson](https://yechiel.me)  
