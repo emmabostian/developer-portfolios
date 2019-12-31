@@ -90,6 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## I
 * [Isitha Subasinghe](https://isub.dev)
+* [Ismail Ghallou aka Smakosh](https://smakosh.com)
 
 ## J
 * [Jacob Herper](https://herper.io)  
