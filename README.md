@@ -166,6 +166,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Patrick Reid](http://iamreliq.com)
 * [Praveen Kumar Purushothaman](https://praveen.science/)
 * [Praveen Saini](https://praveen-me.github.io)
+* [Priyadharshini Rajaram](https://priya.ws/)
 
 ## R
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)  
