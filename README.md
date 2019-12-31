@@ -146,6 +146,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mike Perry Y Attara](https://mikeattara.com) 
 * [Mimi Kim](https://seeyouspacecow.com)
 * [Moritz Kornher](https://moritzkornher.de/)
+* [Mouad ZIANI](https://mouadziani.github.io/)
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
 * [Muntadhar Haydar](https://muntadhar.net) 
