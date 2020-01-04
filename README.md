@@ -157,6 +157,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nikush Dalia](https://nikushx.com) 
 
 ## O
+* [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/en/knowme)
 * [Opeyemi Obembe](http://obem.be/opeyemi) 
 
