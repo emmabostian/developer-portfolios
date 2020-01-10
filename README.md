@@ -27,6 +27,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Andy Bell](https://andy-bell.design/)
 * [Anil Khatri](https://imkaka.github.io)
 * [Anshuman Verma](https://anshumanv.dev/)
+* [Antoni Kepinski](https://kepinski.me)  
 * [Arjun Ganesan](https://arjun-g.com)
 * [Ashlee Boyer](http://ashleemboyer.dev)
 
@@ -89,6 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## I
 * [Isitha Subasinghe](https://isub.dev)
+* [Ismail Ghallou aka Smakosh](https://smakosh.com)
 
 ## J
 * [Jacob Herper](https://herper.io)
@@ -144,6 +146,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mike Perry Y Attara](https://mikeattara.com)
 * [Mimi Kim](https://seeyouspacecow.com)
 * [Moritz Kornher](https://moritzkornher.de/)
+* [Mouad ZIANI](https://mouadziani.github.io/)
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
 * [Muntadhar Haydar](https://muntadhar.net)
@@ -154,16 +157,19 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nikush Dalia](https://nikushx.com)
 
 ## O
+* [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/en/knowme)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
 
 ## P
 * [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
-* [Patricia Aas](https://patricia.no/)
-* [Patrick Hyatt](https://www.patrickhyatt.com/)
-* [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
+* [Patricia Aas](https://patricia.no/)  
+* [Patrick Hyatt](https://www.patrickhyatt.com/)  
+* [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)  
 * [Patrick Reid](http://iamreliq.com)
+* [Praveen Kumar Purushothaman](https://praveen.science/)
 * [Praveen Saini](https://praveen-me.github.io)
+* [Priyadharshini Rajaram](https://priya.ws/)
 
 ## R
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
@@ -213,4 +219,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Yechiel Kalmenson](https://yechiel.me)
 
 ## Z
+* [Ziyad](https://ziyadsk.github.io/Portfolio/)
 * [Zunaid Aslam](https://zunaidaslam.com)
