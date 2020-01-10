@@ -2,7 +2,7 @@
 1. Fork this repository.
 2. Clone the your new repository to your system.
 3. Create a new branch (i.e. `add/your-name`).
-4. Add your new site. Remember to add **alphabetically to thew list.**
+4. Add your new site. Remember to add **alphabetically to the list.**
 5. Commit changes and push the new branch.
 6. Open and submit a PR.
 
