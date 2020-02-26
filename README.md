@@ -106,8 +106,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jerry Hirsch](https://jerryhirsch.com/)
 * [Jibin Thomas](http://jibin.tech)
 * [Johnson Ogwuru](https://johnsonogwuru.tech/)
+* [Jordan Liu](https://jordanxliu.com)
 * [Josef Aidt](https://josefaidt.dev)
 * [Joseph Friedman](http://DecentGradient.com)
+
 
 ## K
 * [Kaleigh Scruggs](http://kaleighscruggs.com)
