@@ -108,6 +108,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Johnson Ogwuru](https://johnsonogwuru.tech/)
 * [Josef Aidt](https://josefaidt.dev)
 * [Joseph Friedman](http://DecentGradient.com)
+* [Jordan Liu](https://jordanxliu.com)
 
 ## K
 * [Kaleigh Scruggs](http://kaleighscruggs.com)
