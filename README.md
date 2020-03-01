@@ -29,6 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Anshuman Verma](https://anshumanv.dev/)
 * [Antoni Kepinski](https://kepinski.me)  
 * [Arjun Ganesan](https://arjun-g.com)
+* [Aromal Anil](https://aromalanil.me)
 * [Ashlee Boyer](http://ashleemboyer.dev)
 
 ## B
