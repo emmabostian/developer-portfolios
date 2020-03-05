@@ -181,6 +181,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Rahul Sawant](http://raalzz.com)
 * [Rajan Bhattarai](https://cdrrazan.com)
 * [Rajekevin](http://rajekevin.fr)
+* [Rick Hanlon](https://rickhanlon.codes)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Riley J. Shaw](https://rileyjshaw.com)
 * [Roland L. Taylor](http://rolandixor.pro)
