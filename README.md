@@ -150,6 +150,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Michelle Brenner](http://MichelleBrenner.com)
 * [Mike Perry Y Attara](https://mikeattara.com)
 * [Mimi Kim](https://seeyouspacecow.com)
+* [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
 * [Moritz Kornher](https://moritzkornher.de/)
 * [Mouad ZIANI](https://mouadziani.github.io/)
 * [Muhammad](http://muhammadraza.me)
