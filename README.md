@@ -181,6 +181,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
+* [Rahul Mahesh](https://rahulmahesh.netlify.com)
 * [Rahul Sawant](http://raalzz.com)
 * [Rajan Bhattarai](https://cdrrazan.com)
 * [Rajekevin](http://rajekevin.fr)
