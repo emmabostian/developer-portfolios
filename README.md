@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Lwin Moe Hein](http://lwinmoehein.me)
 
 ## M
+* [Madhan K](https://madhank93.github.io/)
 * [Marc Backes](http://marc.dev)
 * [Marcos Aguayo](https://marcosaguayo.com)
 * [Margaret M Barringer](http://webwabisabi.com)
