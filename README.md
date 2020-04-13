@@ -153,7 +153,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 * [Michael Johnston](https://michaeljamie.com/)
 * [Michelle Brenner](http://MichelleBrenner.com)
-* [Miguel Rodriguez] (https://migu.es)
+* [Miguel Rodriguez](https://migu.es)
 * [Mike Perry Y Attara](https://mikeattara.com)
 * [Mimi Kim](https://seeyouspacecow.com)
 * [Mitul Savani](http://mitulsavani.com)
