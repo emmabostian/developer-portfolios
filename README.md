@@ -109,6 +109,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jens van Wijhe](https://jens.ai)
 * [Jeremy Grifski](https://jeremygrifski.com/)
 * [Jerry Hirsch](https://jerryhirsch.com/)
+* [Jesus Rios](https://etxcoding.com/)
 * [Jibin Thomas](http://jibin.tech)
 * [Johnson Ogwuru](https://johnsonogwuru.tech/)
 * [Jordan Liu](https://jordanxliu.com)
