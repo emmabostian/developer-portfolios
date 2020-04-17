@@ -73,7 +73,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
-* [Fayaz Bin Salam](https://p32929.github.io/Portfolio/)
+* [Fayaz Bin Salam](https://p32929.github.io/)
 * [Felix Leupold](https://xiel.dev)
 * [Fidalgo Pedro](http://fidalgo.dev)
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
