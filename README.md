@@ -55,6 +55,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chicago IT Systems](https://www.chicagoitsystems.com/)
 * [Chris Otto](https://chrisotto.dev/)
 * [Chris Poole](https://chrispoole.com)
+* [Chuck Smith](https://chucksmith.dev)
 * [Cole Emeruche](https://coleruche.com/works/)
 * [Colin Lord](https://colinlord.com/)
 * [Conlin Durbin](https://wuz.fyi)
