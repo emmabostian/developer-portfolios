@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Alexey Golub](http://tyrrrz.me)
 * [Ali Spittel](http://alispit.tel)
 * [Aman Mittal](http://amanhimself.dev)
+* [Amruth Pillai](https://amruthpillai.com)
 * [Andrew Woods](https://andrewwoods.net)
 * [Andy Bell](https://andy-bell.design/)
 * [Anil Khatri](https://imkaka.github.io)
