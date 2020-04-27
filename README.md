@@ -189,6 +189,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Praveen Kumar Purushothaman](https://praveen.science/)
 * [Praveen Saini](https://praveen-me.github.io)
 * [Priyadharshini Rajaram](https://priya.ws/)
+* [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## R
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
