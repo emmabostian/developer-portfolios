@@ -29,6 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Anil Khatri](https://imkaka.github.io)
 * [Anshuman Verma](https://anshumanv.dev/)
 * [Antoni Kepinski](https://kepinski.me)  
+* [Anurag Hazra](https://anuraghazra.github.io)  
 * [Arjun Ganesan](https://arjun-g.com)
 * [Aromal Anil](https://aromalanil.me)
 * [Ashlee Boyer](http://ashleemboyer.dev)
