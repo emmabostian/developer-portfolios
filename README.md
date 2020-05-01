@@ -242,5 +242,5 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Yechiel Kalmenson](https://yechiel.me)
 
 ## Z
-* [Ziyad](https://ziyadsk.github.io/Portfolio/)
+* [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 * [Zunaid Aslam](https://zunaidaslam.com)
