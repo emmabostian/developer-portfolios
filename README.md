@@ -164,6 +164,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mimi Kim](https://seeyouspacecow.com)
 * [Mitul Savani](http://mitulsavani.com)
 * [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
+* [Mohammed Boudad](https://matrixersp.design/)
 * [Moritz Kornher](https://moritzkornher.de/)
 * [Mouad ZIANI](https://mouadziani.github.io/)
 * [Muhammad](http://muhammadraza.me)
