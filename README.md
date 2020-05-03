@@ -166,6 +166,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
 * [Mohammed Boudad](https://matrixersp.design/)
 * [Moritz Kornher](https://moritzkornher.de/)
+* [Mostafa Sameti](https://sameti.dev/)
 * [Mouad ZIANI](https://mouadziani.github.io/)
 * [Muhammad](http://muhammadraza.me)
 * [Muhammad Muhaddis](https://muhaddis.info)
