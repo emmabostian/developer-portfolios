@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Alexander Schmidt](https://alexanderschmidt.info/)
 * [Alexey Golub](http://tyrrrz.me)
 * [Ali Spittel](http://alispit.tel)
+* [Aloys Dillar](https://trolologuy.github.io/)
 * [Aman Mittal](http://amanhimself.dev)
 * [Amruth Pillai](https://amruthpillai.com)
 * [Andrew Woods](https://andrewwoods.net)
