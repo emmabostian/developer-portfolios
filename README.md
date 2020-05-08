@@ -67,6 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Damian Markowski](http://damianmarkowski.pl)
 * [Danstan Onyango](https://zemuldo.com/)
 * [Dave Hill](https://davehill.dev/)
+* [Davide Santangelo](https://davidesantangelo.com)
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/about)
 * [Dimitri Pashutskii](https://dpashutskii.com/)
