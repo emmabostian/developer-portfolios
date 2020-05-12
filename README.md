@@ -75,6 +75,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## E
 * [Efrén Martínez Rodríguez](https://efren.xyz)
+* [Emily Kondziola](https://emilykondziola.com/)
 * [Emmanuel ADEKPLOVI](https://homescriptone.com)
 * [Enea Xharja](https://eneaxharja.com)
 * [Ezekiel Ekunola](https://ezekielekunola.com)
