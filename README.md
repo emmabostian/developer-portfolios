@@ -185,6 +185,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## O
 * [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/en/knowme)
+* [Oguzhan Ince](https://oguz.live)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
 
 ## P
