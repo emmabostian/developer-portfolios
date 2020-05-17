@@ -42,6 +42,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Becca Bailey](http://Becca.is)
 * [Bekah Hawrot Weigel](http://bekahhw.github.io)
 * [Benjamin Lannon](https://lannonbr.com)
+* [Berat Bozkurt](https://beratbozkurt.net/)
 * [Bhavani Ravi](http://bhavaniravi.com)
 * [Bob Matyas](https://www.bobmatyas.com)
 * [Bouwe Westerdijk](https://bouwe.io)
