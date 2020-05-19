@@ -180,10 +180,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Muntadhar Haydar](https://muntadhar.net)
 
 ## N
+* [Nesrine Sghaier](https://nesrinesghaier.me)
 * [Nico van Zyl](https://nicovanzyl.com)
 * [Nicolo Rebughini](https://nirebu.com/)
 * [Nikush Dalia](https://nikushx.com)
-
 ## O
 * [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/en/knowme)
