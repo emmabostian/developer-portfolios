@@ -106,6 +106,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 
 ## I
+* [Ian Trent](https://iantrent.com)
 * [Isitha Subasinghe](https://isub.dev)
 * [Ismail Ghallou aka Smakosh](https://smakosh.com)
 
