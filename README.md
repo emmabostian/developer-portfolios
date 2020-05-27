@@ -72,12 +72,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dave Hill](https://davehill.dev/)
 * [Davide Santangelo](https://davidesantangelo.com)
 * [Dick Wyn Yong](https://dickwyn.xyz)
-* [Dillion Megida](http://dillionmegida.com/about)
+* [Dillion Megida](http://dillionmegida.com/me)
 * [Dimitri Pashutskii](https://dpashutskii.com/)
-* [Drew Bredvick](https://drewb.tech/about)
+* [Drew Bredvick](https://drewb.tech/)
 
 ## E
-* [Efrén Martínez Rodríguez](https://efren.xyz)
+* [Efrén Martínez Rodríguez](https://sitiopersonal.netlify.app/)
 * [Emily Kondziola](https://emilykondziola.com/)
 * [Emmanuel ADEKPLOVI](https://homescriptone.com)
 * [Enea Xharja](https://eneaxharja.com)
@@ -122,7 +122,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jerry Hirsch](https://jerryhirsch.com/)
 * [Jesus Rios](https://etxcoding.com/)
 * [Jibin Thomas](http://jibin.tech)
-* [Johnson Ogwuru](https://johnsonogwuru.tech/)
 * [Jordan Liu](https://jordanxliu.com)
 * [Josef Aidt](https://josefaidt.dev)
 * [Joseph Friedman](http://DecentGradient.com)
@@ -184,10 +183,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nesrine Sghaier](https://nesrinesghaier.me)
 * [Nico van Zyl](https://nicovanzyl.com)
 * [Nicolo Rebughini](https://nirebu.com/)
-* [Nikush Dalia](https://nikushx.com)
 ## O
 * [Olaolu Olawuyi](https://olaolu.dev)
-* [Omar Gastón Chalas](https://ogaston.com/en/knowme)
+* [Omar Gastón Chalas](https://ogaston.com/)
 * [Oguzhan Ince](https://oguz.live)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
 
@@ -208,7 +206,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Rahul Mahesh](https://rahulmahesh.netlify.com)
 * [Rahul Sawant](http://raalzz.com)
 * [Rajan Bhattarai](https://cdrrazan.com)
-* [Rajekevin](http://rajekevin.fr)
 * [Rick Hanlon](https://rickhanlon.codes)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Riley J. Shaw](https://rileyjshaw.com)
@@ -229,7 +226,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 * [Sree Godavarthi](http://sreegodavarthi.github.io)
 * [Stefan Bohacek](https://fourtonfish.com/)
-* [Steve Baros](https://steveebaros.me)
+* [Steve Baros](https://stevebaros.me)
 * [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
