@@ -98,6 +98,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Georgi Yanev](https://gyanev.com)
 * [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
 * [Gianluca Fiore](http://gianlucafiore.it)
+* [Gift Egwuenu](https://giftegwuenu.com)
 
 ## H
 * [Hassan Murtaza](https://hassanmurtaza.com)
