@@ -235,6 +235,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Tejas Kumar](http://tej.as)
 * [Thea Mushambadze](https://highflyer910.github.io/)
 * [Tom Sherman](https://tom-sherman.com)
+* [Travis Fischer](https://transitivebullsh.it)
 
 ## V
 * [Vaibhav Singh](http://vaibhavsingh97.com)
