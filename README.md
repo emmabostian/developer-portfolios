@@ -61,6 +61,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chris Otto](https://chrisotto.dev/)
 * [Chris Poole](https://chrispoole.com)
 * [Chuck Smith](https://chucksmith.dev)
+* [Chuckz Okoye](https://chuckzokoye.com)
 * [Cole Emeruche](https://coleruche.com/works/)
 * [Colin Lord](https://colinlord.com/)
 * [Conlin Durbin](https://wuz.fyi)
