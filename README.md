@@ -4,7 +4,7 @@ A list of developer portfolios for your inspiration
 
 Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
 
-This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet  
+This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 [<img width="597" alt="Portfolio" src="https://user-images.githubusercontent.com/7671983/64871043-bab42880-d644-11e9-8e87-4a98d06339c9.png">](https://twitter.com/ASpittel/status/1171604728951779328)
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
@@ -30,8 +30,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Andy Bell](https://andy-bell.design/)
 * [Anil Khatri](https://imkaka.github.io)
 * [Anshuman Verma](https://anshumanv.dev/)
-* [Antoni Kepinski](https://kepinski.me)  
-* [Anurag Hazra](https://anuraghazra.github.io)  
+* [Antoni Kepinski](https://kepinski.me)
+* [Anurag Hazra](https://anuraghazra.github.io)
 * [Arjun Ganesan](https://arjun-g.com)
 * [Aromal Anil](https://aromalanil.me)
 * [Ashlee Boyer](http://ashleemboyer.dev)
@@ -196,8 +196,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 * [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
-* [Patricia Aas](https://patricia.no/)  
-* [Patrick Hyatt](https://www.patrickhyatt.com/)  
+* [Patricia Aas](https://patricia.no/)
+* [Patrick Hyatt](https://www.patrickhyatt.com/)
 * [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
 * [Patrick Obermeier](https://www.patrickobermeier.dev/)
 * [Patrick Reid](http://iamreliq.com)
@@ -224,6 +224,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Santosh Yadav](http://santoshyadav.dev)
 * [Saurabh Daware](https://www.saurabhdaware.in/)
 * [Scott Spence](https://scottspence.me)
+* [Shahid Shaikh](http://shahidshaikh.com)
 * [Shannon Crabill](http://shannoncrabill.com)
 * [Simon Gilbert](https://www.simongilbert.net)
 * [Simon Knott](https://simonknott.de)
