@@ -151,6 +151,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Lisa Savoie](http://lscodes.com)
 * [Liz Lam](https://lizlam.github.io/)
 * [Luca Lischetti](https://sirlisko.com)
+* [Long Do](https://longpdo.github.io/)
 * [Louay Hamada](https://louayhamada.com)
 * [Luis Cacho](https://luiscachog.io)
 * [Luisa Rojas García](https://luisarojas.com)
