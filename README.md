@@ -57,6 +57,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Charles C. Pustejovsky III](https://cpustejovsky.com/)
 * [Chetan Padia](https://chetbox.com)
 * [Chetan Raj](https://chetanraj.in/)
+* [Chetanya Kandhari](https://availchet.github.io)
 * [Chicago IT Systems](https://www.chicagoitsystems.com/)
 * [Chris Otto](https://chrisotto.dev/)
 * [Chris Poole](https://chrispoole.com)
