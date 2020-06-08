@@ -177,6 +177,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mimi Kim](https://seeyouspacecow.com)
 * [Mitul Savani](http://mitulsavani.com)
 * [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
+* [Mohammad Darmousa](https://mdarmousa.github.io/)
 * [Mohammed Boudad](https://matrixersp.design/)
 * [Moritz Kornher](https://moritzkornher.de/)
 * [Mostafa Sameti](https://sameti.dev/)
