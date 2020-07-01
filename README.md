@@ -117,6 +117,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## J
 * [Jacob Herper](https://herper.io)
 * [Jacob Herrington](http://jh.codes)
+* [Jakub Łukasiewicz](https://joren.ga)
 * [James Turner](http://turnerj.com)
 * [Jamie Hammond](https://jamiehammond.dev/)
 * [Jane Manchun Wong](http://wongmjane.com)
@@ -130,7 +131,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Josef Aidt](https://josefaidt.dev)
 * [Joseph Friedman](http://DecentGradient.com)
 * [Julia Johnson](http://juliacodes.com)
-
 
 ## K
 * [Kaleigh Scruggs](http://kaleighscruggs.com)
