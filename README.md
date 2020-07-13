@@ -229,6 +229,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Santosh Yadav](http://santoshyadav.dev)
 * [Saurabh Daware](https://www.saurabhdaware.in/)
 * [Scott Spence](https://scottspence.me)
+* [Shaan Khan](https://shaancoding.com)
 * [Shahid Shaikh](http://shahidshaikh.com)
 * [Shannon Crabill](http://shannoncrabill.com)
 * [Simon Gilbert](https://www.simongilbert.net)
