@@ -197,6 +197,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Omar Gastón Chalas](https://ogaston.com/)
 * [Oguzhan Ince](https://oguz.live)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
+* [Oscar Tian](http://www.bluexguardian.com)
 
 ## P
 * [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
