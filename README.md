@@ -198,6 +198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/)
 * [Oguzhan Ince](https://oguz.live)
+* [OOQQ](https://ooqq.me)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
 * [Oscar Tian](http://www.bluexguardian.com)
 
