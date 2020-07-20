@@ -12,7 +12,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
@@ -40,7 +39,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Azhar Zafar](http://azharr.com)
 
 ## B
-
 - [Bankole Ahmed](http://bankoleahmed.netlify.com)
 - [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
@@ -54,7 +52,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brittany Chiang](https://brittanychiang.com)
 
 ## C
-
 - [Cade Kynaston](https://cade.codes)
 - [Caitlyn Greffly](https://caitlyngreffly.com/)
 - [Cecelia Martinez](http://ceceliacreates.com)
@@ -72,7 +69,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Conlin Durbin](https://wuz.fyi)
 
 ## D
-
 - [Damian Markowski](http://damianmarkowski.pl)
 - [Daniel Canetti](https://danielcanetti.com/)
 - [Danstan Onyango](https://zemuldo.com/)
@@ -84,7 +80,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Drew Bredvick](https://drewb.tech/)
 
 ## E
-
 - [Efrén Martínez Rodríguez](https://sitiopersonal.netlify.app/)
 - [Emily Kondziola](https://emilykondziola.com/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
@@ -92,7 +87,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
-
 - [Fayaz Bin Salam](https://p32929.github.io/)
 - [Felix Leupold](https://xiel.dev)
 - [Fidalgo Pedro](http://fidalgo.dev)
@@ -102,7 +96,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fred Adams](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 
 ## G
-
 - [Gabriela Radu](http://gabrielaradu.me)
 - [Gabriele Corti](https://borntofrappe.github.io/)
 - [Georgi Yanev](https://gyanev.com)
@@ -111,20 +104,17 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gift Egwuenu](https://giftegwuenu.com)
 
 ## H
-
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Herman Starikov](http://starikov.dev)
 - [Hungry Bear Studio](https://www.hungrybearstudio.com/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 
 ## I
-
 - [Ian Trent](https://iantrent.com)
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
 
 ## J
-
 - [Jacob Herper](https://herper.io)
 - [Jacob Herrington](http://jh.codes)
 - [Jai Kirdatt](https://JaiK.me)
@@ -145,7 +135,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
-
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
 - [Kapil Gorve](http://jskap.com)
@@ -159,7 +148,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katheesh](http://katheesh.gitleaf.com) [console](https://katheesh.github.io/console/)
 
 ## L
-
 - [Laurie Barth](http://laurieontech.dev)
 - [Lee Warrick](http://leewarrick.com)
 - [Lisa Blunt](https://lisablunt.github.io)
@@ -173,7 +161,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lwin Moe Hein](http://lwinmoehein.me)
 
 ## M
-
 - [Madhan K](https://madhank93.github.io/)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
@@ -203,14 +190,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muntadhar Haydar](https://muntadhar.net)
 
 ## N
-
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nurhak Altın](https://nurhakaltin.com)
 
 ## O
-
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Omar Gastón Chalas](https://ogaston.com/)
 - [Oguzhan Ince](https://oguz.live)
@@ -218,7 +203,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oscar Tian](http://www.bluexguardian.com)
 
 ## P
-
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Patricia Aas](https://patricia.no/)
 - [Patrick Hyatt](https://www.patrickhyatt.com/)
@@ -231,7 +215,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## R
-
 - [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
@@ -245,7 +228,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
-
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
@@ -264,14 +246,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
-
 - [Tejas Kumar](http://tej.as)
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [Tom Sherman](https://tom-sherman.com)
 - [Travis Fischer](https://transitivebullsh.it)
 
 ## V
-
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vansh Bhardwaj](http://iamvansh.pythonanywhere.com/)
 - [Varun Dey](https://varundey.me)
@@ -283,16 +263,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 
 ## W
-
 - [Wajahat Ali Abid](https://wajahataliabid.github.io/)
 
 ## Y
-
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
 
 ## Z
-
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 - [Zonayed Ahmed](https://zonayed.me/)
 - [Zunaid Aslam](https://zunaidaslam.com)
