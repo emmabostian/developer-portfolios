@@ -54,6 +54,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## C
 * [Cade Kynaston](https://cade.codes)
 * [Caitlyn Greffly](https://caitlyngreffly.com/)
+* [Casper Iversen](https://caspertheghost.me)
 * [Cecelia Martinez](http://ceceliacreates.com)
 * [Charles C. Pustejovsky III](https://cpustejovsky.com/)
 * [Chetan Padia](https://chetbox.com)
