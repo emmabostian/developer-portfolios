@@ -239,6 +239,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Soham Mondal](https://sohammondal.com)
 * [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 * [Sree Godavarthi](http://sreegodavarthi.github.io)
+* [Stephen Klop](https://stephenklop.nl)
 * [Stefan Bohacek](https://fourtonfish.com/)
 * [Steve Baros](https://stevebaros.me)
 * [Syeda Aimen Batool](http://aimen.dev)
