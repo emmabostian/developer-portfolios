@@ -123,6 +123,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jakub Łukasiewicz](https://joren.ga)
 * [James Turner](http://turnerj.com)
 * [Jamie Hammond](https://jamiehammond.dev/)
+* [Jainam Desai](https://th3c0d3br34ker.github.io)
 * [Jane Manchun Wong](http://wongmjane.com)
 * [Janessa Tran](http://janessatran.github.io)
 * [Jens van Wijhe](https://jens.ai)
