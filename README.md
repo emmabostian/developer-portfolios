@@ -237,6 +237,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Sagar Giri](https://girisagar46.github.io/)
 * [Santosh Yadav](http://santoshyadav.dev)
 * [Saurabh Daware](https://www.saurabhdaware.in/)
+* [Saurav M H](https://sauravmh.com)
 * [Scott Spence](https://scottspence.me)
 * [Shaan Khan](https://shaancoding.com)
 * [Shahid Shaikh](http://shahidshaikh.com)
