@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Abhinav Galodha](https://www.galodha.com)
 * [Adam Alston](https://www.adamalston.com)
 * [Adam Conrad](http://conradadam.com)
+* [Aditya Vikram Singh](https://www.adityavsingh.com/)
 * [Agney Menon](https://agney.dev)
 * [Ahmad Awais](https://ahmadawais.com/)
 * [Alejandro Sobko](http://alejandrosobko.com)
