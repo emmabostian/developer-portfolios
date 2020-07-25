@@ -108,8 +108,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 * [Hassan Murtaza](https://hassanmurtaza.com)
 * [Herman Starikov](http://starikov.dev)
+* [Hulya Karakaya](https://hulya.netlify.app/)
 * [Hungry Bear Studio](https://www.hungrybearstudio.com/)
 * [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
+
 
 ## I
 * [Ian Trent](https://iantrent.com)
