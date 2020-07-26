@@ -250,6 +250,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Stephen Klop](https://stephenklop.nl)
 * [Stefan Bohacek](https://fourtonfish.com/)
 * [Steve Baros](https://stevebaros.me)
+* [Subhayu Kr Bala](http://subhayu.me)
 * [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
