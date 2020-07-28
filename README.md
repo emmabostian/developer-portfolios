@@ -123,6 +123,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## J
 * [Jacob Herper](https://herper.io)
 * [Jacob Herrington](http://jh.codes)
+* [Jahir Fiquitiva](https://jahir.dev)
 * [Jai Kirdatt](https://JaiK.me)
 * [Jakub Łukasiewicz](https://joren.ga)
 * [James Turner](http://turnerj.com)
