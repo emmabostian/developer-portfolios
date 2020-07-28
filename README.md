@@ -31,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Andrew Woods](https://andrewwoods.net)
 * [Andy Bell](https://andy-bell.design/)
 * [Anil Khatri](https://imkaka.github.io)
+* [Ankit Kumar](https://ankitdroidgit.github.io/)
 * [Anshuman Verma](https://anshumanv.dev/)
 * [Antoni Kepinski](https://kepinski.me)
 * [Anurag Hazra](https://anuraghazra.github.io)
