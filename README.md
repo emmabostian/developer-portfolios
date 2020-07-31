@@ -91,6 +91,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
+* [Faisal Ahmed Khan](https://FaisalAhmedKhan.github.io/)
 * [Fayaz Bin Salam](https://p32929.github.io/)
 * [Felix Leupold](https://xiel.dev)
 * [Fidalgo Pedro](http://fidalgo.dev)
