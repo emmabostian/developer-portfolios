@@ -200,10 +200,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Muntadhar Haydar](https://muntadhar.net)
 
 ## N
+* [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 * [Nesrine Sghaier](https://nesrinesghaier.me)
 * [Nico van Zyl](https://nicovanzyl.com)
 * [Nicolo Rebughini](https://nirebu.com/)
 * [Nurhak Altın](https://nurhakaltin.com)
+
 ## O
 * [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/)
