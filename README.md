@@ -257,6 +257,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Stefan Bohacek](https://fourtonfish.com/)
 * [Steve Baros](https://stevebaros.me)
 * [Subhayu Kr Bala](http://subhayu.me)
+* [Sulaiman Kareem](https://suleiman94.github.io/)
 * [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
