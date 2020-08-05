@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jesus Rios](https://etxcoding.com/)
 * [Jibin Thomas](http://jibin.tech)
 * [Jim Raptis](http://www.raptis.wtf)
+* [Jo Lienhoop](https://jolienhoop.com/)
 * [Jordan Liu](https://jordanxliu.com)
 * [Josef Aidt](https://josefaidt.dev)
 * [Joseph Friedman](http://DecentGradient.com)
