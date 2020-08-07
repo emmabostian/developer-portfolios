@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Alex Goff](http://alex-goff.com)
 * [Alexander Schmidt](https://alexanderschmidt.info/)
 * [Alexey Golub](http://tyrrrz.me)
+* [Alfred Dagenais](https://alfreddagenais.com)
 * [Ali Spittel](http://alispit.tel)
 * [Aloys Dillar](https://trolologuy.github.io/)
 * [Aman Mittal](http://amanhimself.dev)
