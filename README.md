@@ -99,9 +99,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
 * [Flavia Nunes](https://fluvixx.dev/)
 * [Franklin Castellanos](https://onecastell.github.io)
-* [Fred Adams](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 
 ## G
+* [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 * [Gabriela Radu](http://gabrielaradu.me)
 * [Gabriele Corti](https://borntofrappe.github.io/)
 * [Georgi Yanev](https://gyanev.com)
