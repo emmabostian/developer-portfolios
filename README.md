@@ -250,6 +250,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Shaan Khan](https://shaancoding.com)
 * [Shahid Shaikh](http://shahidshaikh.com)
 * [Shannon Crabill](http://shannoncrabill.com)
+* [Shuvam Manna](http://shuvam.xyz)
 * [Simon Gilbert](https://www.simongilbert.net)
 * [Simon Knott](https://simonknott.de)
 * [Soham Mondal](https://sohammondal.com)
