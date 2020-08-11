@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Aditya Vikram Singh](https://www.adityavsingh.com/)
 * [Agney Menon](https://agney.dev)
 * [Ahmad Awais](https://ahmadawais.com/)
+* [Ahsan Khan](https://ahsankhan.me/)
 * [Alejandro Sobko](http://alejandrosobko.com)
 * [Alex Goff](http://alex-goff.com)
 * [Alexander Schmidt](https://alexanderschmidt.info/)
