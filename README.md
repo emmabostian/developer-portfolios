@@ -15,7 +15,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 [Ahman Awais](https://ahmadawais.com/)  
 [Bolaji Ayodeji](https://www.bolajiayodeji.com/about/)  
 [Marc Backes](http://marc.dev)  
-[Ahmed Bankole](https://geekyahmed.github.io/)
+[Ahmed Bankole](https://geekyahmed.github.io/) 
 [Becca Bailey](http://Becca.is)  
 [Margaret M Barringer](http://webwabisabi.com)  
 [Laurie Barth](http://laurieontech.dev)  
