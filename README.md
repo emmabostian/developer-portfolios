@@ -80,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Daniel Canetti](https://danielcanetti.com/)
 * [Danstan Onyango](https://zemuldo.com/)
 * [Davide Santangelo](https://davidesantangelo.com)
+* [Deepraj Rakshit](http://deeprajrakshit.me/)
 * [Denis Tokarev](https://devlato.com)
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/me)
