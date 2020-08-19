@@ -279,9 +279,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vatsal Shah](https://vatsalshah.in)
 * [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 * [Victor Aremu](http://bit.ly/victoraremu)
+* [Vidushan Chooriyakumaran](https://vidu.sh/an)
 * [Vincent Milum Jr](http://darkain.com)
 * [Vishwasa Navada K](https://vishwas.tech)
-* [Vidushan Chooriyakumaran](https://vidu.sh/an)
+* [Vito Sartori](https://vito.io)
 
 ## W
 * [Wajahat Ali Abid](https://wajahataliabid.github.io/)
