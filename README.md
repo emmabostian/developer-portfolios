@@ -12,6 +12,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+* [Aashutosh Rathi](https://aashutosh.dev)
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
 * [Abdul Rauf](https://armujahid.me)
 * [Abhinav Galodha](https://www.galodha.com)
@@ -20,10 +21,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Aditya Vikram Singh](https://www.adityavsingh.com/)
 * [Agney Menon](https://agney.dev)
 * [Ahmad Awais](https://ahmadawais.com/)
+* [Ahsan Khan](https://ahsankhan.me/)
 * [Alejandro Sobko](http://alejandrosobko.com)
 * [Alex Goff](http://alex-goff.com)
 * [Alexander Schmidt](https://alexanderschmidt.info/)
 * [Alexey Golub](http://tyrrrz.me)
+* [Alfred Dagenais](https://alfreddagenais.com)
 * [Ali Spittel](http://alispit.tel)
 * [Aloys Dillar](https://trolologuy.github.io/)
 * [Aman Mittal](http://amanhimself.dev)
@@ -77,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Daniel Canetti](https://danielcanetti.com/)
 * [Danstan Onyango](https://zemuldo.com/)
 * [Davide Santangelo](https://davidesantangelo.com)
+* [Deepraj Rakshit](http://deeprajrakshit.me/)
 * [Denis Tokarev](https://devlato.com)
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/me)
@@ -98,9 +102,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
 * [Flavia Nunes](https://fluvixx.dev/)
 * [Franklin Castellanos](https://onecastell.github.io)
-* [Fred Adams](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 
 ## G
+* [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 * [Gabriela Radu](http://gabrielaradu.me)
 * [Gabriele Corti](https://borntofrappe.github.io/)
 * [Georgi Yanev](https://gyanev.com)
@@ -249,6 +253,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Shaan Khan](https://shaancoding.com)
 * [Shahid Shaikh](http://shahidshaikh.com)
 * [Shannon Crabill](http://shannoncrabill.com)
+* [Shuvam Manna](http://shuvam.xyz)
 * [Simon Gilbert](https://www.simongilbert.net)
 * [Simon Knott](https://simonknott.de)
 * [Soham Mondal](https://sohammondal.com)
@@ -274,9 +279,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vatsal Shah](https://vatsalshah.in)
 * [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 * [Victor Aremu](http://bit.ly/victoraremu)
+* [Vidushan Chooriyakumaran](https://vidu.sh/an)
 * [Vincent Milum Jr](http://darkain.com)
 * [Vishwasa Navada K](https://vishwas.tech)
-* [Vidushan Chooriyakumaran](https://vidu.sh/an)
+* [Vito Sartori](https://vito.io)
 
 ## W
 * [Wajahat Ali Abid](https://wajahataliabid.github.io/)
@@ -284,6 +290,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Y
 * [Yechiel Kalmenson](https://yechiel.me)
 * [YiMing Han](https://yiminghan.com)
+* [Yuri Faria](https://windows87.github.io/)
 
 ## Z
 * [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
