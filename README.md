@@ -122,6 +122,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## I
 * [Ian Trent](https://iantrent.com)
+* [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 * [Isitha Subasinghe](https://isub.dev)
 * [Ismail Ghallou aka Smakosh](https://smakosh.com)
 
