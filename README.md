@@ -232,6 +232,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Priyadharshini Rajaram](https://priya.ws/)
 * [Pushpak Chhajed](https://pushpak1300.github.io/)
 
+## Q
+* [Qudusayo A](https://mequdusayo.netlify.app)
+
 ## R
 * [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
 * [Rahul Mahesh](https://rahulmahesh.netlify.com)
