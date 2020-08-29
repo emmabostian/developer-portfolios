@@ -71,6 +71,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Chicago IT Systems](https://www.chicagoitsystems.com/)
 * [Chris Otto](https://chrisotto.dev/)
 * [Chris Poole](https://chrispoole.com)
+* [Christian Kaisermann](https://kaisermann.me)
 * [Chuck Smith](https://chucksmith.dev)
 * [Chuckz Okoye](https://chuckzokoye.com)
 * [Cole Emeruche](https://coleruche.com/works/)
