@@ -211,6 +211,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 * [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
+* [Nam Phan](https://namtphan.github.io)
 * [Nesrine Sghaier](https://nesrinesghaier.me)
 * [Nico van Zyl](https://nicovanzyl.com)
 * [Nicolo Rebughini](https://nirebu.com/)
