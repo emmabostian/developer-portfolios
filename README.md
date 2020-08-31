@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ahmad Awais](https://ahmadawais.com/)
 * [Ahsan Khan](https://ahsankhan.me/)
 * [Alejandro Sobko](http://alejandrosobko.com)
+* [Alestor Aldous](http://alestor123.github.io/)
 * [Alex Goff](http://alex-goff.com)
 * [Alexander Schmidt](https://alexanderschmidt.info/)
 * [Alexey Golub](http://tyrrrz.me)
@@ -44,7 +45,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ashlee Boyer](http://ashleemboyer.dev)
 * [Atanas Atanasov](https://atanas.info)
 * [Azhar Zafar](http://azharr.com)
-* [Alestor Aldous](http://alestor123.github.io/)
 
 ## B
 * [Bankole Ahmed](http://bankoleahmed.netlify.com)
