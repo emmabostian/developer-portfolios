@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Brad Garropy](https://bradgarropy.com)
 * [Brianna Roby](http://brianna-roby.com)
 * [Brittany Chiang](https://brittanychiang.com)
+* [Bilal Tahseen](https://finalartproduct.com)
 
 ## C
 * [Cade Kynaston](https://cade.codes)
