@@ -90,7 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/me)
 * [Dimitri Pashutskii](https://dpashutskii.com/)
-* [Drew Bredvick](https://drewb.tech/)
+* [Drew Bredvick](https://drew.tech/)
 
 ## E
 * [Efrén Martínez Rodríguez](https://sitiopersonal.netlify.app/)
