@@ -233,6 +233,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
 * [Patrick Obermeier](https://www.patrickobermeier.dev/)
 * [Patrick Reid](http://iamreliq.com)
+* [Pavel Rahman](https://pavstar619.github.io/pavel.rahman/)
 * [Praveen Kumar Purushothaman](https://praveen.science/)
 * [Praveen Saini](https://praveen-me.github.io)
 * [Priyadharshini Rajaram](https://priya.ws/)
