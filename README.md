@@ -54,6 +54,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Berat Bozkurt](https://beratbozkurt.net/)
 * [Bertil Tandayamo](https://www.bertiltandayamo.me/)
 * [Bhavani Ravi](http://bhavaniravi.com)
+* [Bilal Tahseen](https://finalartproduct.com)
 * [Bob Matyas](https://www.bobmatyas.com)
 * [Bouwe Westerdijk](https://bouwe.io)
 * [Brad Garropy](https://bradgarropy.com)
