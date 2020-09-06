@@ -288,6 +288,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 * [Vaibhav Singh](http://vaibhavsingh97.com)
+* [Valentine Elum](https://vahlcode.vercel.app)
 * [Vansh Bhardwaj](http://iamvansh.pythonanywhere.com/)
 * [Varun Dey](https://varundey.me)
 * [Vatsal Shah](https://vatsalshah.in)
@@ -297,7 +298,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Vincent Milum Jr](http://darkain.com)
 * [Vishwasa Navada K](https://vishwas.tech)
 * [Vito Sartori](https://vito.io)
-* [Valentine Elum](https://vahlcode.vercel.app)
 
 ## W
 * [Wajahat Ali Abid](https://wajahataliabid.github.io/)
