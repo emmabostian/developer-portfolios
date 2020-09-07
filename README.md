@@ -112,6 +112,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 * [Gabriela Radu](http://gabrielaradu.me)
 * [Gabriele Corti](https://borntofrappe.github.io/)
+* [Genesis Gabiola](https://genesisgabiola.netlify.app/)
 * [Georgi Yanev](https://gyanev.com)
 * [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
 * [Gianluca Fiore](http://gianlucafiore.it)
