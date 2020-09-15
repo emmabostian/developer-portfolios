@@ -139,6 +139,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jai Kirdatt](https://JaiK.me)
 * [Jakub Łukasiewicz](https://joren.ga)
 * [James Turner](http://turnerj.com)
+* [James Mutuku](https://jim4067.github.io/portfolio/)
 * [Jamie Hammond](https://jamiehammond.dev/)
 * [Jainam Desai](https://th3c0d3br34ker.github.io)
 * [Jane Manchun Wong](http://wongmjane.com)
