@@ -79,6 +79,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Cole Emeruche](https://coleruche.com/works/)
 * [Colin Lord](https://colinlord.com/)
 * [Conlin Durbin](https://wuz.fyi)
+* [Collins Koech](https://collinskoechportfolio.web.app)
 
 ## D
 * [Damian Markowski](http://damianmarkowski.pl)
