@@ -47,6 +47,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Azhar Zafar](http://azharr.com)
 
 ## B
+* [Bah Cheick Marc Herve](https://marcbah.com)
 * [Bankole Ahmed](http://bankoleahmed.netlify.com)
 * [Becca Bailey](http://Becca.is)
 * [Bekah Hawrot Weigel](http://bekahhw.github.io)
