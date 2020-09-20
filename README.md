@@ -96,7 +96,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Drew Bredvick](https://drew.tech/)
 
 ## E
-* [Efrén Martínez Rodríguez](https://sitiopersonal.netlify.app/)
+* [Efrén Martínez Rodríguez](https://www.efrenmartinez.dev/)
 * [Emily Kondziola](https://emilykondziola.com/)
 * [Emmanuel ADEKPLOVI](https://homescriptone.com)
 * [Enea Xharja](https://eneaxharja.com)
@@ -108,14 +108,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Felix Leupold](https://xiel.dev)
 * [Fidalgo Pedro](http://fidalgo.dev)
 * [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
-* [Flavia Nunes](https://fluvixx.dev/)
 * [Franklin Castellanos](https://onecastell.github.io)
 
 ## G
 * [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 * [Gabriela Radu](http://gabrielaradu.me)
 * [Gabriele Corti](https://borntofrappe.github.io/)
-* [Genesis Gabiola](https://genesisgabiola.netlify.app/)
+* [Genesis Gabiola](https://genesisgabiola.now.sh/)
 * [Georgi Yanev](https://gyanev.com)
 * [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
 * [Gianluca Fiore](http://gianlucafiore.it)
@@ -125,7 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Hassan Murtaza](https://hassanmurtaza.com)
 * [Herman Starikov](http://starikov.dev)
 * [Hulya Karakaya](https://hulya.netlify.app/)
-* [Hungry Bear Studio](https://www.hungrybearstudio.com/)
+* [Hungry Bear Studio](https://www.hungrybearstudios.com/)
 * [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 
 
@@ -137,7 +136,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## J
 * [Jacob Herper](https://herper.io)
-* [Jacob Herrington](http://jh.codes)
 * [Jahir Fiquitiva](https://jahir.dev)
 * [Jai Kirdatt](https://JaiK.me)
 * [Jakub Łukasiewicz](https://joren.ga)
@@ -150,7 +148,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jens van Wijhe](https://jens.ai)
 * [Jeremy Grifski](https://jeremygrifski.com/)
 * [Jerry Hirsch](https://jerryhirsch.com/)
-* [Jesus Rios](https://etxcoding.com/)
+* [Jesus Rios](https://etxcoding.github.io/etxcodingcom/)
 * [Jibin Thomas](http://jibin.tech)
 * [Jim Raptis](http://www.raptis.wtf)
 * [Jo Lienhoop](https://jolienhoop.com/)
@@ -164,13 +162,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Kamran Hamid](https://mkamranhamid.netlify.com)
 * [Kapil Gorve](http://jskap.com)
 * [Karen Fletcher](https://knpfletcher.dev)
-* [Karthik Menon](https://karthikmenon.me/)
+* [Karthik Menon](https://www.karthikmenon.com/)
 * [Kenny Tran Co](https://www.kennytran.co)
 * [Kouceyla Hadji](https://www.behance.net/kossa)
 * [Kumar Abhirup](http://kumar.now.sh)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
 * [Kyle Shook](http://Kyleshook.com)
-* [Katheesh](http://katheesh.gitleaf.com) [console](https://katheesh.github.io/console/)
+* [Katheesh](https://katheesh.buzz) [console](https://katheesh.github.io/console/)
 
 ## L
 * [Laurie Barth](http://laurieontech.dev)
@@ -194,13 +192,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Mario Kandut](https://www.mariokandut.com)
 * [Marissa Phul](http://mphul.codes/)
 * [Marouane Rassili](https://mrassili.com)
-* [Mary Kathryn](http://marykrzesicki.me)
 * [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 * [Matt Filer](http://mattfiler.co.uk)
 * [Matteo Lobello](https://matteolobello.it)
 * [Maya Shavin](https://www.mayashavin.com/)
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
-* [Michael Johnston](https://michaeljamie.com/)
 * [Michelle Brenner](http://MichelleBrenner.com)
 * [Miguel Rodriguez](https://migu.es)
 * [Mike Perry Y Attara](https://mikeattara.com)
@@ -253,7 +249,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Rahul Mahesh](https://rahulmahesh.netlify.com)
 * [Rahul Sawant](http://raalzz.com)
 * [Rajan Bhattarai](https://cdrrazan.com)
-* [Rick Hanlon](https://rickhanlon.codes)
+* [Rick Hanlon](https://rickhanlonii.github.io/)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
 * [Riley J. Shaw](https://rileyjshaw.com)
 * [Roland L. Taylor](http://rolandixor.pro)
@@ -270,7 +266,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Saurav M H](https://sauravmh.com)
 * [Scott Spence](https://scottspence.me)
 * [Sedanur Yıldız](https://sedanuryildiz.com)
-* [Shaan Khan](https://shaancoding.com)
+* [Shaan Khan](https://www.shaankhan.dev/)
 * [Shahid Shaikh](http://shahidshaikh.com)
 * [Shannon Crabill](http://shannoncrabill.com)
 * [Shuvam Manna](http://shuvam.xyz)
@@ -295,7 +291,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## V
 * [Vaibhav Singh](http://vaibhavsingh97.com)
 * [Valentine Elum](https://vahlcode.vercel.app)
-* [Vansh Bhardwaj](http://iamvansh.pythonanywhere.com/)
 * [Varun Dey](https://varundey.me)
 * [Vatsal Shah](https://vatsalshah.in)
 * [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
