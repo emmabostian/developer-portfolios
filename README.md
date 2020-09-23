@@ -231,6 +231,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [OOQQ](https://ooqq.me)
 * [Opeyemi Obembe](http://obem.be/opeyemi)
 * [Oscar Tian](http://www.bluexguardian.com)
+* [Oussama Bouchikhi](https://oussamabouchikhi.github.io/)
 
 ## P
 * [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
