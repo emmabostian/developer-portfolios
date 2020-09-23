@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Agney Menon](https://agney.dev)
 * [Ahmad Awais](https://ahmadawais.com/)
 * [Ahsan Khan](https://ahsankhan.me/)
+* [Akshat Gupta](https://www.akshatvg.com)
 * [Alejandro Sobko](http://alejandrosobko.com)
 * [Alestor Aldous](http://alestor123.github.io/)
 * [Alex Goff](http://alex-goff.com)
