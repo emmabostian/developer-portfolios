@@ -45,7 +45,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ashlee Boyer](http://ashleemboyer.dev)
 * [Atanas Atanasov](https://atanas.info)
 * [Avi Patil](https://avipatil.ml)
-* [ProAviPatil](https://avipatilweb.me)
 * [Azhar Zafar](http://azharr.com)
 
 ## B
@@ -245,6 +244,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Praveen Kumar Purushothaman](https://praveen.science/)
 * [Praveen Saini](https://praveen-me.github.io)
 * [Priyadharshini Rajaram](https://priya.ws/)
+* [ProAviPatil](https://avipatilweb.me)
 * [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## Q
