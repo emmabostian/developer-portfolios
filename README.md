@@ -187,6 +187,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 * [Madhan K](https://madhank93.github.io/)
+* [Mads Hougesen](https://mhouge.dk/)
 * [Marc Backes](http://marc.dev)
 * [Marcos Aguayo](https://marcosaguayo.com)
 * [Margaret M Barringer](http://webwabisabi.com)
