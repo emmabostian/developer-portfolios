@@ -37,6 +37,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ali Spittel](http://alispit.tel)
 * [Aloys Dillar](https://trolologuy.github.io/)
 * [Aman Mittal](http://amanhimself.dev)
+* [Amit Gujar](https://amitgujar.github.io/)
 * [Amruth Pillai](https://amruthpillai.com)
 * [Andrew Woods](https://andrewwoods.net)
 * [Andy Bell](https://andy-bell.design/)
