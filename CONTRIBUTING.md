@@ -168,7 +168,7 @@ Please make sure to write a commit message that summarizes the changes. If you f
 
 See [Useful Tips for writing better Git commit messages](https://code.likeagirl.io/useful-tips-for-writing-better-git-commit-messages-808770609503) for inspiration.
 
-As a note, use the presrnt tense for your commit messages (i.e. `Add` instead of `Added`).
+As a note, use the present tense for your commit messages (i.e. `Add` instead of `Added`).
 
 10. If you would want to add/remove changes to previous commit, add the files as in Step 5 earlier, and use `git commit --amend` or `git commit --amend --no-edit` (for keeping the same commit message).
 
