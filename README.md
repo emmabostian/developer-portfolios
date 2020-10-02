@@ -175,6 +175,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Katheesh](https://katheesh.buzz) [console](https://katheesh.github.io/console/)
 * [Kenny Tran Co](https://www.kennytran.co)
 * [Kumar Abhirup](http://kumar.now.sh)
+* [Kunal Gaurav](https://kunalgaurav.me)
 * [Kyle Harrison](http://kyle.teamharrison.ca)
 * [Kyle Shook](http://Kyleshook.com)
 
