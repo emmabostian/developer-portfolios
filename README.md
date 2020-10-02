@@ -270,6 +270,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
+* [Sachin Srinivasan](https://s8sachin.github.io/)
 * [Sagar Giri](https://girisagar46.github.io/)
 * [Santosh Yadav](http://santoshyadav.dev)
 * [Saurabh Daware](https://www.saurabhdaware.in/)
