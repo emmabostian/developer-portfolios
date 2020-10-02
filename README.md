@@ -136,6 +136,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Hulya Karakaya](https://hulya.netlify.app/)
 * [Hungry Bear Studio](https://www.hungrybearstudios.com/)
 * [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
+* [Houari Zegai](https://zegai.netlify.com/)
 
 
 ## I
