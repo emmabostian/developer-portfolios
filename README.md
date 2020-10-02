@@ -131,6 +131,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Gift Egwuenu](https://giftegwuenu.com)
 
 ## H
+* [Hassan Ahmed](https://hassan11196.codes)
 * [Hassan Murtaza](https://hassanmurtaza.com)
 * [Herman Starikov](http://starikov.dev)
 * [Hulya Karakaya](https://hulya.netlify.app/)
