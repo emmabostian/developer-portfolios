@@ -161,7 +161,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Jens van Wijhe](https://jens.ai)
 * [Jeremy Grifski](https://jeremygrifski.com/)
 * [Jerry Hirsch](https://jerryhirsch.com/)
-* [Jesus Rios](https://etxcoding.github.io/etxcodingcom/)
 * [Jibin Thomas](http://jibin.tech)
 * [Jim Raptis](http://www.raptis.wtf)
 * [Jo Lienhoop](https://jolienhoop.com/)
@@ -236,7 +235,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Nurhak Altın](https://nurhakaltin.com)
 
 ## O
-* [Oguzhan Ince](https://oguz.live)
 * [Olaolu Olawuyi](https://olaolu.dev)
 * [Omar Gastón Chalas](https://ogaston.com/)
 * [OOQQ](https://ooqq.me)
