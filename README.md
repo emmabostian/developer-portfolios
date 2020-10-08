@@ -204,7 +204,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Marcos Aguayo](https://marcosaguayo.com)
 * [Margaret M Barringer](http://webwabisabi.com)
 * [Mario Kandut](https://www.mariokandut.com)
-* [Marissa Phul](http://mphul.codes/)
 * [Marouane Rassili](https://mrassili.com)
 * [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 * [Matt Filer](http://mattfiler.co.uk)
