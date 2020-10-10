@@ -274,6 +274,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Roshan Kr Soni](https://roshankrsoni.github.io)
 * [Ryan Burgess](http://ryanburgess.com)
 * [Ryan MacLean](http://ryanmaclean.com)
+* [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 
 ## S
 * [Sachin Srinivasan](https://s8sachin.github.io/)
