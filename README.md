@@ -110,6 +110,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Emmanuel ADEKPLOVI](https://homescriptone.com)
 * [Enea Xharja](https://eneaxharja.com)
 * [Ezekiel Ekunola](https://ezekielekunola.com)
+* [Elio Jordan Lopes](https://develioper.vercel.app)
+
 
 ## F
 * [Faisal Ahmed Khan](https://FaisalAhmedKhan.github.io/)
