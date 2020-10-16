@@ -277,6 +277,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## S
 * [Sachin Srinivasan](https://s8sachin.github.io/)
 * [Sagar Giri](https://girisagar46.github.io/)
+* [Samir Djelal](https://samirdjelal.com/)
 * [Santosh Yadav](http://santoshyadav.dev)
 * [Saurabh Daware](https://www.saurabhdaware.in/)
 * [Saurav M H](https://sauravmh.com)
