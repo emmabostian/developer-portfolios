@@ -51,7 +51,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Aromal Anil](https://aromalanil.me)
 * [Ashlee Boyer](http://ashleemboyer.dev)
 * [Atanas Atanasov](https://atanas.info)
-* [Avi Patil](https://avipatil.ml)
+* [Avi Patil](https://avipatilweb.me)
 * [Azhar Zafar](http://azharr.com)
 
 ## B
