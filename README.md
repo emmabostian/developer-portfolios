@@ -268,13 +268,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Rick Hanlon](https://rickhanlonii.github.io/)
 * [Riley J. Shaw](https://rileyjshaw.com)
 * [Rimenes Ribeiro](https://rimenesribeiro.com)
+* [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 * [Roland L. Taylor](http://rolandixor.pro)
 * [Roman Smunyov](https://romanisthere.github.io/)
 * [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)
 * [Roshan Kr Soni](https://roshankrsoni.github.io)
 * [Ryan Burgess](http://ryanburgess.com)
 * [Ryan MacLean](http://ryanmaclean.com)
-* [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 
 ## S
 * [Sachin Srinivasan](https://s8sachin.github.io/)
