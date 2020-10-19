@@ -102,6 +102,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Dick Wyn Yong](https://dickwyn.xyz)
 * [Dillion Megida](http://dillionmegida.com/me)
 * [Dimitri Pashutskii](https://dpashutskii.com/)
+* [Dino Gomez](https://dinogomez.github.io/)
 * [Drew Bredvick](https://drew.tech/)
 
 ## E
