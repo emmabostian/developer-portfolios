@@ -152,7 +152,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 * [Ian Trent](https://iantrent.com)
 * [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-* [Ionut Alixandroae](http://ialixandroae.github.io)
+* [Ionut Alixandroae](https://ialixandroae.github.io)
 * [Isitha Subasinghe](https://isub.dev)
 * [Ismail Ghallou aka Smakosh](https://smakosh.com)
 * [Iulian Rotaru](https://iulian.rotaru.fr)
