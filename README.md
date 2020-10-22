@@ -11,7 +11,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) 
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
@@ -212,6 +212,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Matteo Lobello](https://matteolobello.it)
 * [Maya Shavin](https://www.mayashavin.com/)
 * [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
+* [Mertcan Kose](https://mertcankose.vercel.app)
 * [Michelle Brenner](http://MichelleBrenner.com)
 * [Miguel Rodriguez](https://migu.es)
 * [Mike Perry Y Attara](https://mikeattara.com)
