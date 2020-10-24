@@ -56,7 +56,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Azhar Zafar](http://azharr.com)
 
 ## B
-* [Bah Cheick Marc Herve](https://marcbah.com)
 * [Bankole Ahmed](http://bankoleahmed.netlify.com)
 * [Becca Bailey](http://Becca.is)
 * [Bekah Hawrot Weigel](http://bekahhw.github.io)
@@ -198,7 +197,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Luca Lischetti](https://sirlisko.com)
 * [Luis Cacho](https://luiscachog.io)
 * [Luisa Rojas García](https://luisarojas.com)
-* [Lwin Moe Hein](http://lwinmoehein.me)
 
 ## M
 * [Madhan K](https://madhank93.github.io/)
@@ -300,7 +298,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 * [Sree Godavarthi](http://sreegodavarthi.github.io)
 * [Stefan Bohacek](https://fourtonfish.com/)
 * [Stephen Klop](https://stephenklop.nl)
-* [Steve Baros](https://stevebaros.me)
 * [Subhayu Kr Bala](http://subhayu.me)
 * [Sulaiman Kareem](https://suleiman94.github.io/)
 * [Syeda Aimen Batool](http://aimen.dev)
