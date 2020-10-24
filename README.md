@@ -18,6 +18,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 * [Aashutosh Rathi](https://aashutosh.dev)
 * [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
+* [Abdo elmkadmi](https://aelmkadmi.com)
 * [Abdul Rauf](https://armujahid.me)
 * [Abhinav Galodha](https://www.galodha.com)
 * [Abhushan Adhikari Joshi](https://www.abhushan.live/)
