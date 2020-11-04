@@ -16,6 +16,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
@@ -246,6 +247,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
+- [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nurhak Altın](https://nurhakaltin.com)
 
 ## O
