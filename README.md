@@ -289,6 +289,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
+- [Rodrigo Kamada](https://rodrigo.kamada.com.br/)
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io/)
