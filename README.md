@@ -303,6 +303,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Samir Djelal](https://samirdjelal.com/)
 - [Santosh Yadav](http://santoshyadav.dev)
+- [Sarang N](https://srng.dev)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.com)
