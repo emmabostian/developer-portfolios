@@ -309,6 +309,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.com)
 - [Sedanur Yıldız](https://sedanuryildiz.com)
+- [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
