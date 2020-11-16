@@ -217,6 +217,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
 - [Margaret M Barringer](http://webwabisabi.com)
+- [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
