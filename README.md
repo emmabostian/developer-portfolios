@@ -232,6 +232,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mike Perry Y Attara](https://mikeattara.com)
 - [Mimi Kim](https://seeyouspacecow.com)
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohamad Fadhil Yaacob](https://fadhil-blog.dev/)
 - [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
 - [Mohammad Darmousa](https://mdarmousa.github.io/)
 - [Mohammed Boudad](https://matrixersp.design/)
