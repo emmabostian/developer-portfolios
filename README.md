@@ -90,6 +90,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Christian Kaisermann](https://kaisermann.me)
 - [Chuck Smith](https://chucksmith.dev)
 - [Chuckz Okoye](https://chuckzokoye.com)
+- [Clyde D'Souza](https://clydedsouza.net)
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
