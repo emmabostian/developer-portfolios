@@ -171,6 +171,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jamie Hammond](https://jamiehammond.dev/)
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
+- [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
 - [Jerry Hirsch](https://jerryhirsch.com/)
