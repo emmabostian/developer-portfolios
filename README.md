@@ -256,6 +256,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nurhak Altın](https://nurhakaltin.com)
+- [Nwaobi Daniel](https://nwaobidaniel.me)
 
 ## O
 
