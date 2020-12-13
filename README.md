@@ -226,6 +226,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Lobello](https://matteolobello.it)
+- [Maxim Villivald](https://proj.create-react-app.com/)
 - [Maya Shavin](https://www.mayashavin.com/)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 - [Mertcan Kose](https://mertcankose.vercel.app)
