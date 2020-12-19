@@ -193,6 +193,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Katheesh](https://katheesh.buzz) [console](https://katheesh.github.io/console/)
+- [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kenny Tran Co](https://www.kennytran.co)
 - [Kumar Abhirup](http://kumar.now.sh)
 - [Kunal Gaurav](https://kunalgaurav.me)
