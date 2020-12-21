@@ -102,6 +102,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Damian Markowski](http://damianmarkowski.pl)
 - [Daniel Canetti](https://danielcanetti.com/)
 - [Danstan Onyango](https://zemuldo.com/)
+- [Daniel Michael](https://www.daniel-michael.com/)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
