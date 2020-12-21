@@ -31,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
 - [Akhil Jacob John](https://akhiljacobjohn.github.io/)
+- [Akira Ito](https://akiracv.com)
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Alestor Aldous](http://alestor123.github.io/)
