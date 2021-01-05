@@ -370,6 +370,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [YiMing Han](https://yiminghan.com)
 - [Yuri Faria](https://windows87.github.io/)
 - [Yuvraj](https://yuvv.xyz/)
+- [Yash Purohit](https://yashpurohit.cf/)
 
 ## Z
 
