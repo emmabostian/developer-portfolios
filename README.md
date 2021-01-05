@@ -262,6 +262,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nurhak Altın](https://nurhakaltin.com)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
+- [Nithish Reddy] (https://nmudd-dev.netlify.app/)
 
 ## O
 
