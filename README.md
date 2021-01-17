@@ -336,6 +336,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sukhpal Saini](https://sssaini.io/)
 - [Sulaiman Kareem](https://suleiman94.github.io/)
 - [Syeda Aimen Batool](http://aimen.dev)
+- [Sajid Ansari](https://www.sajidansari.ml/)
 
 ## T
 
