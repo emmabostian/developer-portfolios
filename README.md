@@ -11,7 +11,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
@@ -347,6 +347,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [Tom Sherman](https://tom-sherman.com)
 - [Travis Fischer](https://transitivebullsh.it)
+
+## U
+
+- [Uğur Atmaca](https://uguratmacacv.web.app/)
 
 ## V
 
