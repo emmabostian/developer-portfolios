@@ -149,7 +149,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
-- [Hassan Ahmed](https://hassan11196.codes)
+- [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Herman Starikov](http://starikov.dev)
 - [Hulya Karakaya](https://hulya.netlify.app/)
