@@ -261,6 +261,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
+- [Nikita Sobolev](https://sobolevn.me/)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nurhak Altın](https://nurhakaltin.com)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
