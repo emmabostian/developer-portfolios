@@ -260,9 +260,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
+- [Nithish Reddy](https://nmudd-dev.netlify.app/)
 - [Nurhak Altın](https://nurhakaltin.com)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
-- [Nithish Reddy] (https://nmudd-dev.netlify.app/)
 
 ## O
 
