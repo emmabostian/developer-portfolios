@@ -215,8 +215,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Fluri](https://www.lucafluri.ch/)
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
-- [Luisa Rojas García](https://luisarojas.com)
 - [Luis Yong Chun](https://luisycdevweb.xyz/)
+- [Luisa Rojas García](https://luisarojas.com)
 
 ## M
 
