@@ -46,6 +46,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Amit Gujar](https://amitgujar.github.io/)
 - [Amruth Pillai](https://amruthpillai.com)
+- [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Simpson](https://andrewsimpson.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andy Bell](https://andy-bell.design/)
