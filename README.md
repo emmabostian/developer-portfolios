@@ -342,6 +342,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Simon Gilbert](https://www.simongilbert.net)
 - [Simon Knott](https://simonknott.de)
 - [Soham Mondal](https://sohammondal.com)
+- [Somanyu Samal](https://somanyu.github.io)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io/)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
