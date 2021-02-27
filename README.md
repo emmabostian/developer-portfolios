@@ -35,6 +35,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akash Rajpurohit](https://akashrajpurohit.com/)
 - [Akira Ito](https://akiracv.com)
 - [Akshat Gupta](https://www.akshatvg.com)
+- [Alec Campbell](https://fu4303.github.io/personal-website/)
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Alestor Aldous](http://alestor123.github.io/)
 - [Alex Goff](http://alex-goff.com)
