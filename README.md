@@ -21,10 +21,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
-- [Abdo elmkadmi](https://aelmkadmi.com)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
-- [Abhushan Adhikari Joshi](https://www.abhushan.live/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Conrad](http://conradadam.com)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
@@ -58,7 +56,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antoni Kepinski](https://kepinski.me)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arjun Ganesan](https://arjun-g.com)
-- [Aromal Anil](https://aromalanil.me)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Pham](https://auspham.dev)
@@ -103,7 +100,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
-- [Conlin Durbin](https://wuz.fyi)
 
 ## D
 
@@ -142,7 +138,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 - [Gabriel Tekombo](https://gabrielthecode.com/)
-- [Gabriela Radu](http://www.gabrielaradu.me/)
 - [Gabriele Corti](https://borntofrappe.github.io/)
 - [Garv Nanwani](https://garvnanwani.netlify.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh/)
@@ -181,7 +176,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jakub Łukasiewicz](https://joren.ga)
 - [James Mutuku](https://jim4067.github.io/portfolio/)
 - [James Turner](http://turnerj.com)
-- [Jamie Hammond](https://jamiehammond.dev/)
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
@@ -207,7 +201,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katheesh](https://katheesh.buzz) [console](https://katheesh.github.io/console/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kenny Tran Co](https://www.kennytran.co)
-- [Kumar Abhirup](http://kumar.now.sh)
 - [Kunal Gaurav](https://kunalgaurav.me)
 - [Kyle Shook](http://Kyleshook.com)
 
@@ -273,8 +266,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
-- [Nithish Reddy](https://nmudd-dev.netlify.app/)
-- [Nurhak Altın](https://nurhakaltin.com)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
 
 ## O
@@ -329,7 +320,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sachin Srinivasan](https://s8sachin.github.io/)
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Sajal Sharma](https://sajalsharma.com)
-- [Samir Djelal](https://samirdjelal.com/)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sarang N](https://srng.dev)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
@@ -351,7 +341,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Bohacek](https://fourtonfish.com/)
 - [Subhayu Kr Bala](http://subhayu.me)
 - [Sukhpal Saini](https://sssaini.io/)
-- [Sulaiman Kareem](https://suleiman94.github.io/)
 - [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
@@ -373,7 +362,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
-- [Vicente G. Reyes](https://highcenburg.herokuapp.com/)
 - [Victor Aremu](http://bit.ly/victoraremu)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vincent Milum Jr](http://darkain.com)
