@@ -182,7 +182,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
 - [Jerry Hirsch](https://jerryhirsch.com/)
-- [Jibin Thomas](http://jibin.tech)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
 - [Jordan Liu](https://jordanxliu.com)
@@ -245,7 +244,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mimi Kim](https://seeyouspacecow.com)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev/)
-- [Mohamed Abdel Nasser](https://www.mohdabdelnasser.live/)
 - [Mohammad Darmousa](https://mdarmousa.github.io/)
 - [Mohammed Boudad](https://matrixersp.design/)
 - [Moritz Kornher](https://moritzkornher.de/)
@@ -386,4 +384,3 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 - [Zonayed Ahmed](https://zonayed.me/)
-- [Zunaid Aslam](https://zunaidaslam.com)
