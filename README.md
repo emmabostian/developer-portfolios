@@ -353,6 +353,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## U
 
 - [Uğur Atmaca](https://uguratmacacv.web.app/)
+- [Utsav Devadiga](https://utsav-dev.netlify.app/)
 
 ## V
 
