@@ -230,6 +230,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Margaret M Barringer](http://webwabisabi.com)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
+- [Markus Polzer](https://www.rapidtech1898.com/)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matt Filer](http://mattfiler.co.uk)
