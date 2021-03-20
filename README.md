@@ -164,8 +164,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Ian Trent](https://iantrent.com)
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [Ingus Jansons](https://ingus.co.uk)
 - [Indrajeet Nikam](https://indrajeet.me/)
+- [Ingus Jansons](https://ingus.co.uk)
 - [Ishaan Sheikh](https://frikishaan.com)
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
