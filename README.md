@@ -55,6 +55,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anshu Raj](https://anshuraj.github.io/)
 - [Anshuman Verma](https://anshumanv.dev/)
 - [Antoni Kepinski](https://kepinski.me)
+- [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Ashlee Boyer](http://ashleemboyer.dev)
