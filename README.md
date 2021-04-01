@@ -102,6 +102,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
+- [Cristiano Filho](https://cristianofilho.com.br)
+
 
 ## D
 
