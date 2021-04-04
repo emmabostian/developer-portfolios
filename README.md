@@ -154,7 +154,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grace Snow](https://gracesnowdesign.co.uk)
 
 ## H
-
+- [Harsh Singhvi](https://harshsinghvi.com)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Herman Starikov](http://starikov.dev)
