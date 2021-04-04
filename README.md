@@ -204,7 +204,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kapil Gorve](http://jskap.com)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
-- [Katheesh](https://katheesh.buzz) [console](https://katheesh.github.io/console/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kenny Tran Co](https://www.kennytran.co)
 - [Kunal Gaurav](https://kunalgaurav.me)
