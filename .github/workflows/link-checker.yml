@@ -8,12 +8,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Link Checker
-        uses: peter-evans/link-checker@v1
+        uses: lycheeverse/lychee-action@v1.0.6
         with:
          args: README.md
       - name: Create Issue From File
         uses: peter-evans/create-issue-from-file@v2
         with:
           title: "[Bot] Broken Links Report"
-          content-filepath: ./link-checker/out.md
+          content-filepath: ./lychee/out.md
           labels: report
