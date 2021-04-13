@@ -50,6 +50,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrew Simpson](https://andrewsimpson.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andy Bell](https://andy-bell.design/)
+- [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankit Kumar](https://ankitdroidgit.github.io/)
 - [Anshu Raj](https://anshuraj.github.io/)
