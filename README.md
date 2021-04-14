@@ -329,6 +329,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sarang N](https://srng.dev)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
+- [Sayush Kamat](https://sayushkamat.com)
 - [Scott Spence](https://scottspence.com)
 - [Sedanur Yıldız](https://sedanuryildiz.com)
 - [Serhii Hidenko](https://lookmy.dev/)
