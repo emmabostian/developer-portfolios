@@ -74,6 +74,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Berat Bozkurt](https://beratbozkurt.net/)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me/)
 - [Bhavani Ravi](http://bhavaniravi.com)
+- [Bhavya Tomar](https://bhavya.dev)
 - [Bilal Tahseen](https://finalartproduct.com)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
@@ -104,7 +105,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
 - [Cristiano Filho](https://cristianofilho.com.br)
-
 
 ## D
 
@@ -155,6 +155,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grace Snow](https://gracesnowdesign.co.uk)
 
 ## H
+
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
