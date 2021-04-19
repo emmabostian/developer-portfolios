@@ -153,6 +153,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gift Egwuenu](https://giftegwuenu.com)
 - [Grace Snow](https://gracesnowdesign.co.uk)
+- [Godswill Umukoro](https://godswillumukoro.com/)
 
 ## H
 
