@@ -262,6 +262,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mouad ZIANI](https://mouadziani.github.io/)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad](http://muhammadraza.me)
+- [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
 - [Muntadhar Haydar](https://muntadhar.net)
 
