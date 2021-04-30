@@ -341,6 +341,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
+- [Shubham Tarade](https://coder-shanks.github.io/)
 - [Shuvam Manna](http://shuvam.xyz)
 - [Simon Gilbert](https://www.simongilbert.net)
 - [Simon Knott](https://simonknott.de)
