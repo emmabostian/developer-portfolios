@@ -111,6 +111,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dale French](https://dalefrench.dev/)
 - [Damian Markowski](http://damianmarkowski.pl)
 - [Daniel Canetti](https://danielcanetti.com/)
+- [Danilo Castro](https://www.welcomedeveloper.com/)
 - [Danstan Onyango](https://zemuldo.com/)
 - [Daniel Michael](https://www.daniel-michael.com/)
 - [Davide Santangelo](https://davidesantangelo.com)
