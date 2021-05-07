@@ -218,6 +218,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Warrick](http://leewarrick.com)
+- [Leroy Rosales](https://leroyrosales.com)
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io/)
