@@ -122,6 +122,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dimitri Pashutskii](https://dpashutskii.com/)
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
+- [Dheeraj Gupta](https://nero002.github.io/dheeraj.github.io/#/)
 
 ## E
 
