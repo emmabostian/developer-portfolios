@@ -250,6 +250,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maya Shavin](https://www.mayashavin.com/)
 - [Md Ghulam Azad Ansari](http://mdghulamazadansari.github.io/)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
+- [Md Usman Ansari](https://mdusmanansari.netlify.app/)
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de/)
 - [Michelle Brenner](http://MichelleBrenner.com)
