@@ -281,6 +281,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
+- [Nipun Jain](https://lucifernipun22.github.io/)
 
 ## O
 
