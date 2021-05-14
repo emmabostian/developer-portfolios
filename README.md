@@ -117,7 +117,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
-- [Dheeraj Gupta](https://nero002.github.io/dheeraj.github.io/#/)
+- [Dheeraj Gupta](https://dheerajgupta.netlify.app/#/)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/me)
 - [Dimitri Pashutskii](https://dpashutskii.com/)
