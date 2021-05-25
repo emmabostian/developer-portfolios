@@ -31,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Agney Menon](https://agney.dev)
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahsan Khan](https://ahsankhan.me/)
+- [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com/)
 - [Akira Ito](https://akiracv.com)
 - [Akshat Gupta](https://www.akshatvg.com)
