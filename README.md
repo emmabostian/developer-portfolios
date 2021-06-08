@@ -304,6 +304,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Reid](http://iamreliq.com)
 - [Paul Ehikhuemen](https://pauloe.me)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
+- [Puneesh Gogia](https://puneesh-gogia.netlify.app/)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
 - [Priyadharshini Rajaram](https://priya.ws/)
