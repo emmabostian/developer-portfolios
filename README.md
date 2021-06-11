@@ -276,6 +276,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nam Phan](https://namtphan.github.io)
 - [Nathan Simpson](https://nathansimpson.design)
 - [Nesrine Sghaier](https://nesrinesghaier.me)
+- [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
