@@ -20,6 +20,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Aayush Kurup](https://aayushk47.tech)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
