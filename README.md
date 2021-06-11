@@ -170,6 +170,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hungry Bear Studio](https://www.hungrybearstudios.com/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 - [Houari Zegai](https://zegai.netlify.com/)
+- [Harsh Goel](https://harshgoel.me)
 
 ## I
 
