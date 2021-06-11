@@ -306,6 +306,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Obermeier](https://www.patrickobermeier.dev/)
 - [Patrick Reid](http://iamreliq.com)
 - [Paul Ehikhuemen](https://pauloe.me)
+- [Philipe Almeida](https://palmeida.netlify.app)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
