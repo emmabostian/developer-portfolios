@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antoni Kepinski](https://kepinski.me)
 - [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
+- [Arda Kalaycı](https://akalayci.com)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Atanas Atanasov](https://atanas.info)
