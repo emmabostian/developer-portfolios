@@ -312,7 +312,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
 - [Priyadharshini Rajaram](https://priya.ws/)
-- [Puneesh Gogia](https://puneesh-gogia.netlify.app/)
+- [Puneesh Gogia](https://puneesh-writes.netlify.app/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## Q
