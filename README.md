@@ -62,6 +62,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arda Kalaycı](https://akalayci.com)
 - [Arjun Ganesan](https://arjun-g.com)
+- [Arpit Gupta](http://arpitfolio.herokuapp.com)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Pham](https://auspham.dev)
