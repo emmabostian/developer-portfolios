@@ -412,6 +412,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Yash Johri](https://yash1200.github.io/)
 - [Yash Purohit](https://yashpurohit.cf/)
+- [Yashita Namdeo](https://yashitanamdeo.github.io/)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
 - [Yuri Faria](https://windows87.github.io/)
