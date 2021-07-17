@@ -63,6 +63,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Arda Kalaycı](https://akalayci.com)
+- [Ariel Chura](https://arielchura.com)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
 - [Ashlee Boyer](http://ashleemboyer.dev)
