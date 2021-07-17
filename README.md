@@ -356,6 +356,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayush Kamat](https://sayushkamat.com)
 - [Scott Spence](https://scottspence.com)
 - [Sedanur Yıldız](https://sedanuryildiz.com)
+- [Sergei Chestakov](https://sergei.com)
 - [Seth  Hall](https://sethhallcreative.com)
 - [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
