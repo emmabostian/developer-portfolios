@@ -345,7 +345,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## S
 
-- [Sagar Mude](https://sagarmude.github.io)
+- [Sagar Mude](https://sagarmude.netlify.app/)
 - [Sachin Srinivasan](https://s8sachin.github.io/)
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Sajal Sharma](https://sajalsharma.com)
