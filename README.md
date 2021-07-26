@@ -307,6 +307,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## P
 
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
+- [Pankaj Gaikar](https://pankajgaikar.com/)
 - [Patricia Aas](https://patricia.no/)
 - [Patrick Hyatt](https://www.patrickhyatt.com/)
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
