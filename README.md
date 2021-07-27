@@ -254,6 +254,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Lobello](https://matteolobello.it)
+- [Matvey Kottsov](https://matvey.codes/)
 - [Max Mohammadi](http://www.maxmohammadi.com/)
 - [Maxim Villivald](https://villivald.com/)
 - [Maya Shavin](https://www.mayashavin.com/)
