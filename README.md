@@ -148,6 +148,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
 - [Franklin Castellanos](https://onecastell.github.io)
+- [Franklin Huichi Contreras](https://franh20.github.io/)
 
 ## G
 
