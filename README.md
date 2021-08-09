@@ -48,6 +48,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aloys Dillar](https://trolologuy.github.io/)
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Mittal](http://amanhimself.dev)
+- [Aman Shrivastava](https://aman04.netlify.app/)
 - [Amit Gujar](https://amitgujar.github.io/)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Andrej Sharapov](https://sharapov.dev)
