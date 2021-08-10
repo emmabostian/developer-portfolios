@@ -408,6 +408,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vikas Ukani](https://vikas-ukani.github.io/)
 - [Vincent Milum Jr](http://darkain.com)
+- [Visinigiri Aditya](https://visinigiri-aditya.me/)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
 
