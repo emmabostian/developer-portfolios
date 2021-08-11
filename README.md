@@ -246,6 +246,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Madhan K](https://madhank93.github.io/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Mahmoud AlSharif](https://malsharif.me)
+- [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
 - [Margaret M Barringer](http://webwabisabi.com)
