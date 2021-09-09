@@ -68,6 +68,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
 - [Ashlee Boyer](http://ashleemboyer.dev)
+- [Ashutosh Singh](https://thecodepapaya.me)
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Pham](https://auspham.dev)
 - [Avi Patil](https://avipatilweb.me)
@@ -166,6 +167,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Godswill Umukoro](https://godswillumukoro.com/)
 - [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
+- [Guru Pawar](https://gportfolio.vercel.app/)
+
 
 ## H
 
@@ -198,7 +201,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jakub Łukasiewicz](https://joren.ga)
-- [James Mutuku](https://jim4067.github.io/portfolio/)
+- [James Mutuku](https://mutuku.me)
 - [James Turner](http://turnerj.com)
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
@@ -298,6 +301,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
+- [Nawrasse Dahman](https://nawrassedahman.github.io/)
 
 ## O
 
