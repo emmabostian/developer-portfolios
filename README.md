@@ -166,6 +166,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gift Egwuenu](https://giftegwuenu.com)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Godswill Umukoro](https://godswillumukoro.com/)
+- [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
 - [Guru Pawar](https://gportfolio.vercel.app/)
 
 
