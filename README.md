@@ -87,6 +87,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bilal Tahseen](https://finalartproduct.com)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
+  [Bipin MV](https://bipinmv.github.io)
 - [Brad Garropy](https://bradgarropy.com)
 - [Brianna Roby](http://brianna-roby.com)
 - [Brittany Chiang](https://brittanychiang.com)
@@ -168,7 +169,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Godswill Umukoro](https://godswillumukoro.com/)
 - [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
 - [Guru Pawar](https://gportfolio.vercel.app/)
-
 
 ## H
 
@@ -358,6 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
+
 - [Sagar Mude](https://sagarmude.netlify.app/)
 - [Sachin Srinivasan](https://s8sachin.github.io/)
 - [Sagar Giri](https://girisagar46.github.io/)
@@ -373,7 +374,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Scott Spence](https://scottspence.com)
 - [Sedanur Yıldız](https://sedanuryildiz.com)
 - [Sergei Chestakov](https://sergei.com)
-- [Seth  Hall](https://sethhallcreative.com)
+- [Seth Hall](https://sethhallcreative.com)
 - [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
