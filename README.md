@@ -302,7 +302,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nwaobi Daniel](https://nwaobidaniel.me)
-- [Nawrasse Dahman](https://nawrassedahman.github.io/)
+- [Nawrasse Dahman](https://nawrassedahman.vercel.app/)
 
 ## O
 
