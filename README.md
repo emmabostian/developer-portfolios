@@ -345,6 +345,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
+- [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
