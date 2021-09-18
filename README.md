@@ -85,6 +85,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bilal Tahseen](https://finalartproduct.com)
+- [Bipin MV](https://bipinmv.github.io)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
