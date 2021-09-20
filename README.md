@@ -356,6 +356,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saket Lakhotia](https://saketlakhotia17.github.io)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Santosh Yadav](http://santoshyadav.dev)
+- [Sagar Khurana](https://hellosagar.vercel.app/)
 - [Sanyam Kumar](https://sanyam.dev/)
 - [Sarang N](https://srng.dev)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
