@@ -290,6 +290,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
 - [Nipun Jain](https://lucifernipun22.github.io/)
+- [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nawrasse Dahman](https://nawrassedahman.vercel.app/)
