@@ -264,7 +264,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Md Usman Ansari](https://mdusmanansari.netlify.app/)
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de/)
-- [Michelle Brenner](https://MichelleBrenner.com)
+- [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Rodriguez](https://migu.es)
 - [Mimi Kim](https://seeyouspacecow.com)
 - [Mitul Savani](http://mitulsavani.com)
