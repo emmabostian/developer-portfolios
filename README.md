@@ -258,6 +258,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Max Mohammadi](http://www.maxmohammadi.com/)
 - [Maxim Villivald](https://villivald.com/)
 - [Maya Shavin](https://www.mayashavin.com/)
+- [Mayank Agarwal](https://mayankagarwal.me/)
 - [Mayank Aggarwal](https://mayank0255.github.io/)
 - [Md Ghulam Azad Ansari](http://mdghulamazadansari.github.io/)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
