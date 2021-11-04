@@ -221,6 +221,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kyle Shook](http://Kyleshook.com)
+- [Khalid Saifullah](https://khaliddev.com)
 
 ## L
 
