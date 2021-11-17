@@ -297,6 +297,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 
 ## O
 
