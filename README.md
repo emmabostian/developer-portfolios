@@ -221,6 +221,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
+- [Khalid Saifullah](https://khaliddev.com)
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
