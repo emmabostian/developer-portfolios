@@ -64,6 +64,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ariel Chura](https://arielchura.com)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
+- [Arpit Sharma](https://yesarpit.github.io)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashutosh Singh](https://thecodepapaya.dev)
 - [Atanas Atanasov](https://atanas.info)
