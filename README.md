@@ -64,6 +64,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ariel Chura](https://arielchura.com)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
+- [Arpit Sharma](https://yesarpit.github.io)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashutosh Singh](https://thecodepapaya.dev)
 - [Atanas Atanasov](https://atanas.info)
@@ -220,6 +221,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
+- [Khalid Saifullah](https://khaliddev.com)
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
@@ -296,6 +298,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 
 ## O
 
