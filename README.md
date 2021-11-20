@@ -251,6 +251,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marcos Aguayo](https://marcosaguayo.com)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
+- [Mark Vergel Banguis](https://www.banguismv.me/)
 - [Markus Polzer](https://www.rapidtech1898.com/)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
@@ -282,7 +283,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
 - [Muntadhar Haydar](https://muntadhar.net)
-- [Mark Vergel Banguis](https://www.banguismv.me/)
 
 ## N
 
