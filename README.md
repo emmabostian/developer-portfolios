@@ -115,6 +115,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Dale French](https://dalefrench.dev/)
 - [Damian Markowski](http://damianmarkowski.pl)
+- [Dania Al-Hakim](https://pixeldania.netlify.app/)
 - [Daniel Canetti](https://danielcanetti.com/)
 - [Danilo Castro](https://www.welcomedeveloper.com/)
 - [Danstan Onyango](https://zemuldo.com/)
@@ -128,6 +129,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dimitri Pashutskii](https://dpashutskii.com/)
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
+
 
 ## E
 
