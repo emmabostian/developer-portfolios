@@ -253,6 +253,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
+- [Mark Vergel Banguis](https://www.banguismv.me/)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Markus Polzer](https://www.rapidtech1898.com/)
