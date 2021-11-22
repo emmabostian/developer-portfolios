@@ -130,7 +130,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
 
-
 ## E
 
 - [Efrén Martínez Rodríguez](https://www.efrenmartinez.dev/)
