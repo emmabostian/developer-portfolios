@@ -103,6 +103,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chris Otto](https://chrisotto.dev/)
 - [Chris Poole](https://chrispoole.com)
 - [Christian Kaisermann](https://kaisermann.me)
+- [Christian Toscano](https://achris.me)
 - [Chuck Smith](https://chucksmith.dev)
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Clyde D'Souza](https://clydedsouza.net)
