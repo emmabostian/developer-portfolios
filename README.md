@@ -35,7 +35,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahsan Khan](https://ahsankhan.me/)
 - [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com/)
-- [Akira Ito](https://akiracv.com)
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Alestor Aldous](http://alestor123.github.io/)
@@ -166,7 +165,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Godswill Umukoro](https://godswillumukoro.com/)
 - [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
-- [Guru Pawar](https://gportfolio.vercel.app/)
 
 
 ## H
@@ -210,7 +208,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
-- [Jordan Liu](https://jordanxliu.com)
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
@@ -433,7 +430,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Y
 
 - [Yash Johri](https://yash1200.github.io/)
-- [Yash Purohit](https://yashpurohit.cf/)
 - [Yashita Namdeo](https://yashitanamdeo.github.io/)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
