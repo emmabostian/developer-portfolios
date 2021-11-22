@@ -278,6 +278,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev/)
 - [Mohammad Darmousa](https://mdarmousa.github.io/)
+- [Mohammad Rahmani](https://afgprogrammer.com)
 - [Moritz Kornher](https://moritzkornher.de/)
 - [Mostafa Sameti](https://sameti.dev/)
 - [Mouad ZIANI](https://mouadziani.github.io/)
