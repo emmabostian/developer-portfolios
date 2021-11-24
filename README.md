@@ -345,6 +345,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rodrigo Kamada](https://rodrigo.kamada.com.br/)
 - [Rohit Jakhar](http://rohitjakhar.me/)
+- [Rohit Jain](https://kingtechnologies.in/)
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io/)
