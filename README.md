@@ -164,6 +164,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gift Egwuenu](https://giftegwuenu.com)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Godswill Umukoro](https://godswillumukoro.com/)
+- [Govind Singh Ranawat](https://govindsingh9447.github.io/ranawattecofficial.github.io/)
 - [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
 
 
