@@ -232,6 +232,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
+- [Leonardo Oliveira](https://leonardoliveira.com)
 - [Lee Warrick](http://leewarrick.com)
 - [Leroy Rosales](https://leroyrosales.com)
 - [Lewis Ndiritu](https://thirsty-ritchie-2c12b7.netlify.app/)
