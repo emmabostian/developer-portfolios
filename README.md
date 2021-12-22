@@ -99,6 +99,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chetan Raj](https://chetanraj.in/)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chicago IT Systems](https://www.chicagoitsystems.com/)
+- [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io/)
 - [Chris Otto](https://chrisotto.dev/)
 - [Chris Poole](https://chrispoole.com)
