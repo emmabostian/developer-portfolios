@@ -53,6 +53,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andy Bell](https://andy-bell.design/)
+- [Angel Martinez](https://angelmtz.dev)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankit Kumar](https://ankitdroidgit.github.io/)
@@ -166,7 +167,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Godswill Umukoro](https://godswillumukoro.com/)
 - [Govind Singh Ranawat](https://govindsingh9447.github.io/ranawattecofficial.github.io/)
 - [Gudi Varaprasad](https://gudivaraprasad.github.io/GVP/)
-
 
 ## H
 
@@ -358,6 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
+
 - [Sagar Mude](https://sagarmude.netlify.app/)
 - [Sachin Srinivasan](https://s8sachin.github.io/)
 - [Sagar Giri](https://girisagar46.github.io/)
@@ -373,7 +374,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.com)
 - [Sergei Chestakov](https://sergei.com)
-- [Seth  Hall](https://sethhallcreative.com)
+- [Seth Hall](https://sethhallcreative.com)
 - [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
@@ -391,6 +392,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
+
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio/)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me/)
@@ -399,7 +401,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [Tom Sherman](https://tom-sherman.com)
 - [Travis Fischer](https://transitivebullsh.it)
-
 
 ## U
 
