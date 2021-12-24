@@ -208,6 +208,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeff Chiu][https://jeffchiucp.github.io/portfolio]
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
+- [Jerrin Bright](jbright.tech)
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
