@@ -310,7 +310,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 
 ## O
-
+- [Om Shrivastava](https://omshrivastava19.github.io/portfolio/)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Omar Gastón Chalas](https://ogaston.com/)
 - [OOQQ](https://ooqq.me)
@@ -318,6 +318,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oscar Tian](http://www.bluexguardian.com)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io/)
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio/)
+
 
 ## P
 
