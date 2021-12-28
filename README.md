@@ -209,6 +209,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeff Chiu][https://jeffchiucp.github.io/portfolio]
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
+- [Jerrin Bright](https://jbright.tech/)
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
@@ -226,6 +227,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
+- [Kelven Rubalaine](https://kelven.dev)
 - [Khalid Saifullah](https://khaliddev.com)
 - [Kyle Shook](http://Kyleshook.com)
 
