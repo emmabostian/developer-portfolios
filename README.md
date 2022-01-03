@@ -133,6 +133,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dimitri Pashutskii](https://dpashutskii.com/)
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
+- [Durgesh Chaudhary](https://yodkwtf.com/)
 
 ## E
 
