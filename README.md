@@ -199,6 +199,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
+- [Jake Ginesin](https://jakegines.in/)
 - [Jakub Łukasiewicz](https://joren.ga)
 - [James Mutuku](https://mutuku.me)
 - [James Turner](http://turnerj.com)
