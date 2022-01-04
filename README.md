@@ -50,6 +50,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Shrivastava](https://aman04.netlify.app/)
 - [Amit Gujar](https://amitgujar.github.io/)
 - [Amruth Pillai](https://amruthpillai.com)
+- [Andreas Beuger](https://beuger.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andy Bell](https://andy-bell.design/)
