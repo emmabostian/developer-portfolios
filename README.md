@@ -210,7 +210,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Javier Diaz](https://coderdiaz.me)
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
-- [Jeff Chiu][https://jeffchiucp.github.io/portfolio]
+- [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
 - [Jerrin Bright](https://jbright.tech/)
