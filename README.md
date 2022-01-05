@@ -233,6 +233,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
 - [Khalid Saifullah](https://khaliddev.com)
+- [Khoironi Kurnia Syah](https://zekhoi.my.id/)
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
