@@ -222,6 +222,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joseph Friedman](http://DecentGradient.com)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Julia Johnson](http://juliacodes.com)
+- [Jayant Goel](http://jayantgoel001.github.io/)
 
 ## K
 
