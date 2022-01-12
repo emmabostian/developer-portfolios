@@ -199,7 +199,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## J
 
 - [Jack Parsons](https://jackparsonss.me)
-- [Jacob Herper](https://herper.io)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
