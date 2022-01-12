@@ -204,7 +204,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jake Ginesin](https://jakegines.in/)
-- [Jakub Łukasiewicz](https://joren.ga)
 - [James Mutuku](https://mutuku.me)
 - [James Turner](http://turnerj.com)
 - [Jane Manchun Wong](http://wongmjane.com)
@@ -255,7 +254,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Fluri](https://www.lucafluri.ch/)
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
-- [Luis Yong Chun](https://luisycdevweb.xyz/)
 - [Luisa Rojas García](https://luisarojas.com)
 
 ## M
@@ -281,7 +279,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maya Shavin](https://www.mayashavin.com/)
 - [Mayank Agarwal](https://mayankagarwal.me/)
 - [Mayank Aggarwal](https://mayank0255.github.io/)
-- [Md Ghulam Azad Ansari](http://mdghulamazadansari.github.io/)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com/)
 - [Md Usman Ansari](https://mdusmanansari.netlify.app/)
 - [Mertcan Kose](https://mertcankose.vercel.app)
