@@ -1,6 +1,8 @@
 on:
- push:
-   branches: master
+ repository_dispatch:
+ workflow_dispatch:
+ schedule:
+   - cron: "00 18 * * *"
 name: Check markdown links
 jobs:
   linkChecker:
