@@ -304,6 +304,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nam Phan](https://namtphan.github.io)
 - [Nathan Simpson](https://nathansimpson.design)
+- [Nawrasse Dahman](https://nawrasse.netlify.app/)
+- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
 - [Nico van Zyl](https://nicovanzyl.com)
@@ -313,8 +315,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app/)
 - [Nitesh Seram](https://niteshseram.in)
-- [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
-- [Nawrasse Dahman](https://nawrasse.netlify.app/)
+
 ## O
 
 - [Olaolu Olawuyi](https://olaolu.dev)
