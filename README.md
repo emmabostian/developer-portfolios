@@ -7,7 +7,7 @@ Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md)
 This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 [<img width="597" alt="Portfolio" src="https://user-images.githubusercontent.com/7671983/64871043-bab42880-d644-11e9-8e87-4a98d06339c9.png">](https://twitter.com/ASpittel/status/1171604728951779328)
 
-Hopefully this repo can serve as a source of inspiration for your portfolio!
+Hopefully this repo can serve as a source of inspiration for your portfolio!https://saketlakhotia17.github.io/
 
 ---
 
@@ -375,7 +375,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Sagar Khurana](https://hellosagar.vercel.app/)
 - [Sajal Sharma](https://sajalsharma.com)
-- [Saket Lakhotia](https://saketlakhotia17.github.io)
 - [Sambhav Saxena](https://sambhav.vercel.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app/)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
