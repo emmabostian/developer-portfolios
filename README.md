@@ -89,6 +89,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!http
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
+- [Brahim Boulhend](https://brahime.com)
 - [Brianna Roby](http://brianna-roby.com)
 - [Brittany Chiang](https://brittanychiang.com)
 
