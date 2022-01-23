@@ -19,6 +19,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!http
 
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
+- [Abubakar Suraj dulah](https://tell-dem.netlify.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aayush Kurup](https://aayushk47.tech)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
