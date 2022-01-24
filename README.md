@@ -334,7 +334,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!http
 - [Patricia Aas](https://patricia.no/)
 - [Patrick Hyatt](https://www.patrickhyatt.com/)
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
-- [Patrick Obermeier](https://www.patrickobermeier.dev/)
+- [Patrick Obermeier](https://www.patrickobermeier.at/)
 - [Patrick Reid](http://iamreliq.com)
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
