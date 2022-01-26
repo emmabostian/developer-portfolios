@@ -241,6 +241,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## L
 
 - [Laurie Barth](http://laurieontech.dev)
+- [Lars Roettig](https://larsroettig.dev)
 - [Leandro Simões](https://lesimoes.dev)
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Lee Warrick](http://leewarrick.com)
