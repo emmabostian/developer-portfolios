@@ -239,7 +239,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
-
+- [Lars Roettig](https://larsroettig.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
 - [Leonardo Oliveira](https://leonardoliveira.com)
