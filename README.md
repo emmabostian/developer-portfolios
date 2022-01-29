@@ -70,6 +70,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashutosh Singh](https://thecodepapaya.dev)
+- [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Pham](https://auspham.dev)
 - [Azhar Zafar](http://azharr.com)
