@@ -68,6 +68,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io/)
 - [Arsh Sahzad](https://www.arsh.dev)
+- [Aryan Yadav](https://aryan77.github.io/)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashutosh Singh](https://thecodepapaya.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
@@ -242,6 +243,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
+
 - [Lars Roettig](https://larsroettig.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
