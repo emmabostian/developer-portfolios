@@ -62,6 +62,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anshuman Verma](https://anshumanv.dev/)
 - [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
+- [Ariel Andrade](https://sudoariel.github.io/)
 - [Ariel Chura](https://arielchura.com)
 - [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
