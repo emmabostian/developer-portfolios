@@ -24,8 +24,8 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 
 ### Forking Developer Portfolios
 
-1.  Go to the top level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
-2.  Click the "Fork" Button in the upper right hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo/))
+1.  Go to the top-level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
+2.  Click the "Fork" button in the upper right-hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo/))
 3.  After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
 
 ### Cloning Your Fork
@@ -68,7 +68,7 @@ On branch master
 Your branch is up to date with 'origin/master'.
 ```
 
-If your aren't on `master`, resolve outstanding files / commits and checkout the `master` branch
+If you aren't on `master`, resolve outstanding files/commits and checkout the `master` branch
 
 ```shell
 $ git checkout master
@@ -80,7 +80,7 @@ $ git checkout master
 $ git pull --rebase upstream master
 ```
 
-This will pull down all of the changes to the official master branch, without making an additional commits in your local repo.
+This will pull down all of the changes to the official master branch, without making additional commits in your local repo.
 
 3.  Merge remote changes to your local master fork:
 
@@ -90,15 +90,15 @@ $ git merge upstream/master
 
 ### Create a Branch
 
-Before you start working, you will need to create a separate branch specific to the issue / feature you're working on. You will push your work to this branch.
+Before you start working, you will need to create a separate branch specific to the issue/feature you're working on. You will push your work to this branch.
 
 #### Naming Your Branch
 
-There several strategies for naming branches.
+There are several strategies for naming branches.
 
 You could name the branch something like `fix/xxx` or `feature/xxx` where `xxx` is a short description of the changes or feature you are attempting to add. For example `fix/email-login` would be a branch where you fix something specific to email login.
 
-We'd recommend to name it something that relevant to your new site (i.e. `add/your-name`
+We'd recommend naming it something that is relevant to your new site (i.e. `add/your-name`
 
 #### Adding Your Branch
 
@@ -158,7 +158,7 @@ This is the recommended method. Read about [How to Setup and Maintain a Local In
 
 6.  Check your `git status` to see unstaged files.
 
-7.  Add your edited files: `git add path/to/filename.ext` You can also do: `git add .` to add all unstaged files. Take care, though, because you can accidentally add files you don't want added. Review your `git status` first.
+7.  Add your edited files: `git add path/to/filename.ext` You can also do: `git add .` to add all unstaged files. Take care, though, because you can accidentally add files you don't want to be added. Review your `git status` first.
 
 8.  Make sure your new site is added **alphabetically** to the existing list.
 
@@ -170,7 +170,7 @@ See [Useful Tips for writing better Git commit messages](https://code.likeagirl.
 
 As a note, use the present tense for your commit messages (i.e. `Add` instead of `Added`).
 
-10. If you would want to add/remove changes to previous commit, add the files as in Step 5 earlier, and use `git commit --amend` or `git commit --amend --no-edit` (for keeping the same commit message).
+10. If you would want to add/remove changes to the previous commit, add the files as in Step 5 earlier, and use `git commit --amend` or `git commit --amend --no-edit` (for keeping the same commit message).
 
 11. Push your commits to your GitHub Fork: `git push origin add/your-name`
 
@@ -179,7 +179,7 @@ As a note, use the present tense for your commit messages (i.e. `Add` instead of
 13. By default, all pull requests should be against the `Developer Portfolios` main repo, `master` branch.
     **Make sure that your Base Fork is set to developer-portfolios/master when raising a Pull Request.**
 
-14. Submit a pull request from your branch to `Developer Portfolios` `master` branch.
+14. Submit a pull request from your branch to the `Developer Portfolios` `master` branch.
 
 15. The title (also called the subject) of your PR should be descriptive of your changes and succinctly indicate what is being fixed.
 
