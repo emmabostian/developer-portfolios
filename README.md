@@ -364,6 +364,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
+- [Roberto Andrade](https://robertandradejr.dev/)
 - [Rodrigo Kamada](https://rodrigo.kamada.com.br/)
 - [Rohit Jakhar](http://rohitjakhar.me/)
 - [Rohit Jain](https://kingtechnologies.in/)
