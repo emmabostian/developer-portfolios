@@ -436,6 +436,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
+- [Vedant Athavale](https://vedantathavale.webflow.io/)
 - [Vedant Athavale](https://vedantathavale.netlify.app/)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Victor Aremu](http://bit.ly/victoraremu)
