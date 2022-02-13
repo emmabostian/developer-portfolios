@@ -400,6 +400,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shubham Tarade](https://coder-shanks.github.io/)
 - [Shuvam Manna](http://shuvam.xyz)
+- [Sijey Praveen](https://sijey-praveen.github.io)
 - [Simon Knott](https://simonknott.de)
 - [Soham Mondal](https://sohammondal.com)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io/)
