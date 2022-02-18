@@ -181,6 +181,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Hariket Sukesh Kumar Sheth](https://hariketsheth.github.io)
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
