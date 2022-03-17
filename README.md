@@ -420,7 +420,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me/)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
-- [Thea Choem](https://www.theachoem.com/)
+- [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Tom Sherman](https://tom-sherman.com)
