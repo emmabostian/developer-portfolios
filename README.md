@@ -350,6 +350,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pranav Choudhary](https://pranavelric.me/)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
+- [Priya Nayak](https://priya180975.github.io/portfolio/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## Q
