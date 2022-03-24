@@ -317,6 +317,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
+- [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com/)
 - [Nikita Sobolev](https://sobolevn.me/)
