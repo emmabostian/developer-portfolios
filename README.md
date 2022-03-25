@@ -17,11 +17,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aakash Sharma](https://aakash-sharma.netlify.app/)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aayush Kurup](https://aayushk47.tech)
-- [Aakash Sharma](https://aakash-sharma.netlify.app/)
 - [Abdelouahed Medjoudja](https://geekabdelouahed.github.io/flutter-web-portfolio)
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
