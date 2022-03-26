@@ -300,6 +300,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev/)
 - [Mohammad Darmousa](https://mdarmousa.github.io/)
 - [Mohammad Rahmani](https://afgprogrammer.com)
+- [Mohan Raj](https://zolomohan.com)
 - [Moritz Kornher](https://moritzkornher.de/)
 - [Mostafa Sameti](https://sameti.dev/)
 - [Mouad ZIANI](https://mouadziani.github.io/)
