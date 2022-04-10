@@ -305,6 +305,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
 - [Muntadhar Haydar](https://muntadhar.net)
+- [Muhammad Essa](https://muhammadessa.com/)
 
 ## N
 
