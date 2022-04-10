@@ -217,6 +217,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Janessa Tran](http://janessatran.github.io)
 - [Javier Diaz](https://coderdiaz.me)
 - [Jayant Goel](http://jayantgoel001.github.io/)
+- [Jayant Parashar](https://jparasha.github.io/)
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
