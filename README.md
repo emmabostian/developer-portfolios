@@ -306,6 +306,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad](http://muhammadraza.me)
+- [Muhammad Essa](https://muhammadessa.com/)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
 - [Muntadhar Haydar](https://muntadhar.net)
