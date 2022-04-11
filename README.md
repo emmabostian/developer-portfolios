@@ -398,6 +398,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.com)
+- [Sebastian Richter](https://gismo1337.dev/)
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
 - [Serhii Hidenko](https://lookmy.dev/)
