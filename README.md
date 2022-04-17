@@ -473,6 +473,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [YiMing Han](https://yiminghan.com)
 - [Yosra Hashim](https://yhshi26.github.io/)
 - [Yuji Sato](https://www.yujisatojr.com/)
+- [Yuri Corredor](https://www.yuricorredor.tech/)
 - [Yuri Faria](https://windows87.github.io/)
 
 ## Z
