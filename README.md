@@ -198,6 +198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Indrajeet Nikam](https://indrajeet.me/)
 - [Ingus Jansons](https://ingus.co.uk)
+- [Ioan Manu](https://manuioan.com/)
 - [Ishaan Sheikh](https://frikishaan.com)
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
