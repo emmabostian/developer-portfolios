@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Abdelaziz El Arassi](http://aelarassi.com/)
 - [Aayush Kurup](https://aayushk47.tech)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app/)
 - [Abdul Rahman](https://abdulrahman.id/)
