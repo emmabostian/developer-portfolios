@@ -27,7 +27,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Adam Alston](https://www.adamalston.com)
-- [Adam Conrad](http://conradadam.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
 - [Adityakumar Sinha](https://aditya113141.github.io/)
