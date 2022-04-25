@@ -21,7 +21,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashutosh Rathi](https://aashutosh.dev)
-- [Aayush Kurup](https://aayushk47.tech)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app/)
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
@@ -57,14 +56,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Angel Martinez](https://angelmtz.dev)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
-- [Ankit Kumar](https://ankitdroidgit.github.io/)
 - [Anshu Raj](https://anshuraj.github.io/)
 - [Anshuman Verma](https://anshumanv.dev/)
 - [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io/)
 - [Ariel Chura](https://arielchura.com)
-- [Arjun Ganesan](https://arjun-g.com)
 - [Arpit Gupta](http://arpitfolio.herokuapp.com)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io/)
@@ -119,7 +116,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
-- [Cristiano Filho](https://cristianofilho.com.br)
 
 ## D
 
@@ -225,7 +221,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens van Wijhe](https://jens.ai)
 - [Jeremy Grifski](https://jeremygrifski.com/)
-- [Jerrin Bright](https://jbright.tech/)
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
@@ -244,7 +239,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
-- [Khalid Saifullah](https://khaliddev.com)
 - [Khoironi Kurnia Syah](https://zekhoi.my.id/)
 - [Kyle Shook](http://Kyleshook.com)
 
@@ -361,7 +355,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Q
 
-- [Qudusayo A](https://mequdusayo.netlify.app)
+
 
 ## R
 
