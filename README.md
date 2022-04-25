@@ -26,6 +26,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!http
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
+- [Abubakar Suraj dulah](https://tell-dem.netlify.app)
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Conrad](http://conradadam.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
