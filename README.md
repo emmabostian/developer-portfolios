@@ -142,7 +142,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Efrén Martínez Rodríguez](https://www.efrenmartinez.dev/)
 - [Elio Jordan Lopes](https://develioper.vercel.app)
-- [Emily Kondziola](https://emilykondziola.com/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
@@ -302,7 +301,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mouad ZIANI](https://mouadziani.github.io/)
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
-- [Muhammad](http://muhammadraza.me)
 - [Muhammad Essa](https://muhammadessa.com/)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
@@ -415,8 +413,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com/)
 - [Subhayu Kr Bala](http://subhayu.me)
-- [Sukhpal Saini](https://sssaini.io/)
-- [Syeda Aimen Batool](http://aimen.dev)
 
 ## T
 
