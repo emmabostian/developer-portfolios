@@ -154,6 +154,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
+- [Frances Coronel](https://francescoronel.com)
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io/)
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
