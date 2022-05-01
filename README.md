@@ -240,6 +240,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
+- [keyur kakadiya](https://keyur-kakadiya.herokuapp.com/)
 - [Khoironi Kurnia Syah](https://zekhoi.my.id/)
 - [Kyle Shook](http://Kyleshook.com)
 
