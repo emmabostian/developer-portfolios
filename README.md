@@ -26,6 +26,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
 - [Abhinav Galodha](https://www.galodha.com)
+- [Abhishek Jha](https://abhijha.live/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
