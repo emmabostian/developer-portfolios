@@ -137,6 +137,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/)
 - [Dimitri Pashutskii](https://dpashutskii.com/)
+- [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio/)
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
 - [Durgesh Chaudhary](https://yodkwtf.com/)
