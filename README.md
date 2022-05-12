@@ -88,6 +88,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bertil Tandayamo](https://www.bertiltandayamo.me/)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
+- [Bhushan Borole](https://bhushan-borole.github.io/)
 - [Bipin MV](https://bipinmv.github.io)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
@@ -359,8 +360,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
 ## Q
-
-
 
 ## R
 
