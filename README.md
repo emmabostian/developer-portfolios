@@ -454,6 +454,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vinay Somawat](https://vinaysomawat.github.io/)
 - [Vincent Milum Jr](http://darkain.com)
 - [Visinigiri Aditya](https://visinigiri-aditya.me/)
+- [Vishwa Gaurav](https://itsvg.in)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
 
