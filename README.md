@@ -308,6 +308,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Moritz Kornher](https://moritzkornher.de/)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com/)
 - [Mostafa Sameti](https://sameti.dev/)
+- [Moustapha Mahmoud](https://moustapha.me)
 - [Mouad ZIANI](https://mouadziani.github.io/)
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
