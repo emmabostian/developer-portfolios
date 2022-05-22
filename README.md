@@ -246,6 +246,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
+- [Kaustubh Dwivedi](https://onlykingkd.github.io/portfolio/)
 - [Kelven Rubalaine](https://kelven.dev)
 - [keyur kakadiya](https://keyur-kakadiya.herokuapp.com/)
 - [Khoironi Kurnia Syah](https://zekhoi.my.id/)
