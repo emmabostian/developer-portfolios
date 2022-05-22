@@ -400,6 +400,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev/)
 - [Sarang N](https://srng.dev)
+- [Sai Teja](https://saiteja13427.github.io/)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
 - [Scott Spence](https://scottspence.com)
