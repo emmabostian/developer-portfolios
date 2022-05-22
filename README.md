@@ -219,6 +219,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Turner](http://turnerj.com)
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
+- [Jatin Sharma](http://j471n.in/)
 - [Javier Diaz](https://coderdiaz.me)
 - [Jayant Goel](http://jayantgoel001.github.io/)
 - [Jayant Parashar](https://jparasha.github.io/)
