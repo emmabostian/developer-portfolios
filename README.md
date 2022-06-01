@@ -151,6 +151,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
+- [Erdal TAŞKESEN](https://www.erdaltaskesen.com)
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
