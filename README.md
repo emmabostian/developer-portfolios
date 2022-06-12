@@ -126,6 +126,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## D
 
 - [Dale French](https://dalefrench.dev/)
+- [Dale Larroder](https://dalelarroder.com/)
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app/)
 - [Daniel Alberski](https://danielalberski.redark.pl/)
