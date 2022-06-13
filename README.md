@@ -26,6 +26,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdelaziz El Arassi](http://aelarassi.com/)
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
+- [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhishek Jha](https://abhijha.live/)
 - [Adam Alston](https://www.adamalston.com)
