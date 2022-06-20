@@ -189,6 +189,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hamza Ehsan](https://www.hamzaehsan.com)
+- [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
