@@ -264,6 +264,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Lee Warrick](http://leewarrick.com)
 - [Leroy Rosales](https://leroyrosales.com)
+- [Leonel Ngoya](https://lndev.me)
 - [Lewis Ndiritu](https://thirsty-ritchie-2c12b7.netlify.app/)
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
