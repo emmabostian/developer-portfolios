@@ -391,6 +391,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com/)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io/)
+- [Ronny Coste](https://ronnycoste.com/)
 - [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Roxza](https://roxza.me)
