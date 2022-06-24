@@ -122,7 +122,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
-- [Cristiano Filho](https://cristianofilho.github.io/ )
+- [Cristiano Filho](https://cristianofilho.github.io/)
 
 ## D
 
@@ -188,6 +188,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Hafid Ziti](https://www.hafidziti.dev/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
@@ -373,6 +374,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Q
 
 ## R
+
 - [Rabin Poudyal](https://rabinpoudyal.com.np/)
 - [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
