@@ -176,6 +176,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Tekombo](https://gabrielthecode.com/)
 - [Gabriele Corti](https://borntofrappe.github.io/)
 - [Garv Nanwani](https://garvnanwani.netlify.app/)
+- [Ganesh Patil](https://hardikjain.netlify.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh/)
 - [Georges Atalla](https://www.georgesatalla.com/)
 - [Georgi Yanev](https://gyanev.com)
