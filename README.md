@@ -175,6 +175,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
 - [Gabriel Tekombo](https://gabrielthecode.com/)
 - [Gabriele Corti](https://borntofrappe.github.io/)
+- [Ganesh Patil](https://hardikjain.netlify.app/)
 - [Garv Nanwani](https://garvnanwani.netlify.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh/)
 - [Georges Atalla](https://www.georgesatalla.com/)
