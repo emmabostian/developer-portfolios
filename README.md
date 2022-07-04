@@ -72,6 +72,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arsalan Shakil](https://arsalanshakil.github.io/)
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Aryan Yadav](https://aryan77.github.io/)
+- [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashutosh Singh](https://thecodepapaya.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
