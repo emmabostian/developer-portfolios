@@ -221,6 +221,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jack Childs](https://jackchilds.tech)
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com/)
+- [Jahidul Islam](https://xahidex.com)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
