@@ -462,6 +462,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#/)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
+- [Vaibhav Vikas](https://vaibhavvikas.github.io/)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app/)
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
