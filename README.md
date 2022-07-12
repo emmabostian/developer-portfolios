@@ -479,6 +479,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Visinigiri Aditya](https://visinigiri-aditya.me/)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
+- [Varun Kumar Tiwari](https://varuntiwari.xyz/)
 
 ## W
 
