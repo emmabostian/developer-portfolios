@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Michael](https://www.daniel-michael.com/)
 - [Darshan Joshi](https://darshanjoshi-portfolio.hostman.site/)
 - [Davide Santangelo](https://davidesantangelo.com)
+- [Davi Lacerda](https://davilacerda.tech)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#/)
