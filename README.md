@@ -43,6 +43,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Alestor Aldous](http://alestor123.github.io/)
 - [Alex Goff](http://alex-goff.com)
+- [Alex Michailidis](https://alexandros.tech/)
 - [Alexander Schmidt](https://alexanderschmidt.info/)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
