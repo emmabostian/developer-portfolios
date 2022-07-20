@@ -142,6 +142,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Davi Lacerda](https://davilacerda.tech)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
+- [Derryk Theberge](https://dtheberge.com/)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#/)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/)
