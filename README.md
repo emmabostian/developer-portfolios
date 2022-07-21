@@ -359,6 +359,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
+- [Paal Stakvik](https://paalss.github.io/portfolio/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Pankaj Gaikar](https://pankajgaikar.com/)
 - [Patricia Aas](https://patricia.no/)
@@ -375,7 +376,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveesh Pavithran](https://praveeshpavithran.online/)
 - [Priya Nayak](https://priya180975.github.io/portfolio/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
-- [Pål Stakvik](https://paalss.github.io/portfolio/)
 
 ## Q
 
