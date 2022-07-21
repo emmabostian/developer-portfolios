@@ -468,6 +468,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app/)
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
+- [Varun Kumar Tiwari](https://varuntiwari.xyz/)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io/)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
@@ -479,7 +480,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Visinigiri Aditya](https://visinigiri-aditya.me/)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
-- [Varun Kumar Tiwari](https://varuntiwari.xyz/)
 
 ## W
 
