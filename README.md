@@ -29,6 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhishek Jha](https://abhijha.live/)
+- [Abolfazl Abdali](https://abdali.dev/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
 - [Aditya Vikram Singh](https://www.adityavsingh.com/)
