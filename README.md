@@ -193,6 +193,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Hussein Sarea](https://ho011.vercel.app/)
 - [Hafid Ziti](https://www.hafidziti.dev/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
