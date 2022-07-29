@@ -204,6 +204,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Herman Starikov](http://starikov.dev)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com/)
+- [Hussein Sarea](https://ho011.vercel.app/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 - [Houari Zegai](https://zegai.netlify.com/)
 
