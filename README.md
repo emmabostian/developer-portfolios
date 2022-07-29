@@ -193,7 +193,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
-- [Hussein Sarea](https://ho011.vercel.app/)
 - [Hafid Ziti](https://www.hafidziti.dev/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
@@ -203,6 +202,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Herman Starikov](http://starikov.dev)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com/)
+- [Hussein Sarea](https://ho011.vercel.app/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
 - [Houari Zegai](https://zegai.netlify.com/)
 
