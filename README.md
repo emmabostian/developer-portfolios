@@ -371,6 +371,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Paal Stakvik](https://paalss.github.io/portfolio/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Pankaj Gaikar](https://pankajgaikar.com/)
+- [Pazindu Shane](https://pazindushane.github.io/)
 - [Patricia Aas](https://patricia.no/)
 - [Patrick Hyatt](https://www.patrickhyatt.com/)
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
