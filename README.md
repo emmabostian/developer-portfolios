@@ -379,6 +379,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Obermeier](https://www.patrickobermeier.at/)
 - [Patrick Reid](http://iamreliq.com)
 - [Pan Wei Lian](https://williampan.mystrikingly.com/?fbclid=IwAR0bXUiZEH2EJcuQZPAY-8yGLFpHJdxcQTtNAw1dbvRq8V_lBoRahaMTmTs)
+- [Pazindu Shane](https://pazindushane.github.io/)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
