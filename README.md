@@ -155,6 +155,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## E
 
+- [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Efrén Martínez Rodríguez](https://www.efrenmartinez.dev/)
 - [Elio Jordan Lopes](https://develioper.vercel.app)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
