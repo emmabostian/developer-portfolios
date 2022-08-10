@@ -256,6 +256,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
 - [Joshua Chinwendu](http://joshualine.github.io)
+- [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
