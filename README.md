@@ -338,6 +338,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Essa](https://muhammadessa.com/)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Zeeshan](https://mzeeshan.me)
+- [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 
 ## N
