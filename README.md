@@ -456,6 +456,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com/)
 - [Subhayu Kr Bala](http://subhayu.me)
+- [Suhail Roushan](https://suhailroushan.com)
 
 ## T
 
