@@ -8,13 +8,17 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      
       - name: Link Checker
-        uses: lycheeverse/lychee-action@v1.4.1
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.5.1
         with:
          args: README.md
+         
       - name: Create Issue From File
-        uses: peter-evans/create-issue-from-file@v2
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v4
         with:
           title: "[Bot] Broken Links Report"
           content-filepath: ./lychee/out.md
