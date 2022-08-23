@@ -98,7 +98,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
-- [Brahim Boulhend](https://brahime.com)
 - [Brianna Roby](http://brianna-roby.com)
 - [Brittany Chiang](https://brittanychiang.com)
 
@@ -240,7 +239,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
 - [Jatin Sharma](http://j471n.in/)
-- [Javier Diaz](https://coderdiaz.me)
 - [Jayant Goel](http://jayantgoel001.github.io/)
 - [Jayant Parashar](https://jparasha.github.io/)
 - [Jayed Rafi](https://jayedrafi.com)
@@ -302,7 +300,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
-- [Mark Vergel Banguis](https://www.banguismv.me/)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Markus Polzer](https://www.rapidtech1898.com/)
@@ -326,7 +323,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mimi Kim](https://seeyouspacecow.com)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev/)
-- [Mohammad Darmousa](https://mdarmousa.github.io/)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohan Raj](https://zolomohan.com)
 - [Moritz Kornher](https://moritzkornher.de/)
@@ -399,7 +395,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Poudyal](https://rabinpoudyal.com.np/)
-- [Rafael Solis Melo](https://rsmelo92.github.io/portfolio/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
@@ -456,7 +451,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com/)
-- [Subhayu Kr Bala](http://subhayu.me)
 - [Suhail Roushan](https://suhailroushan.com)
 
 ## T
@@ -468,7 +462,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
-- [Tom Sherman](https://tom-sherman.com)
 - [Travis Fischer](https://transitivebullsh.it)
 
 ## U
@@ -494,7 +487,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Ukani](https://vikas-ukani.github.io/)
 - [Vinay Somawat](https://vinaysomawat.github.io/)
 - [Vincent Milum Jr](http://darkain.com)
-- [Visinigiri Aditya](https://visinigiri-aditya.me/)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
 
