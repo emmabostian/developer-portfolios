@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aayush Kurup](https://aayushkurup.dev)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app/)
+- [Abdellatif Laghjaj](http://abdellatif-laghjaj.ml/)
 - [Abdelaziz El Arassi](http://aelarassi.com/)
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
