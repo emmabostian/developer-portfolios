@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Kurup](https://aayushkurup.dev)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app/)
 - [Abdelaziz El Arassi](http://aelarassi.com/)
+- [Abdellatif Laghjaj](http://abdellatif-laghjaj.ml/)
 - [Abdul Rahman](https://abdulrahman.id/)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
