@@ -187,6 +187,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Garv Nanwani](https://garvnanwani.netlify.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh/)
 - [Georges Atalla](https://www.georgesatalla.com/)
+- [George Christeas](https://chr-ge.com/)
 - [Georgi Yanev](https://gyanev.com)
 - [Gherciu Gheorghe](https://gherciu.github.io/portfolio/)
 - [Gianluca Fiore](http://gianlucafiore.it)
