@@ -464,11 +464,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me/)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
+- [Tiago Hermano](https://tiagohermano.dev/)
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Travis Fischer](https://transitivebullsh.it)
-- [Tiago Hermano](https://tiagohermano.dev/)
 
 ## U
 
