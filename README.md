@@ -468,6 +468,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Mushambadze](https://highflyer910.github.io/)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Travis Fischer](https://transitivebullsh.it)
+- [Tiago Hermano](https://tiagohermano.dev/)
 
 ## U
 
