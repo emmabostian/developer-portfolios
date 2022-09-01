@@ -257,6 +257,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
+- [Joseph Palma](https://josephpalma.dev)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
