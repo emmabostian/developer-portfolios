@@ -399,9 +399,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Poudyal](https://rabinpoudyal.com.np/)
+- [Rafael Salazar](https://rafalazar.github.io/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
-- [Rafael Salazar](https://rafalazar.github.io/)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
