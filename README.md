@@ -310,6 +310,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Markus Polzer](https://www.rapidtech1898.com/)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
+- [Masculus](https://github.com/Masculus/personal_website)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Lobello](https://matteolobello.it)
 - [Matvey Kottsov](https://matvey.codes/)
