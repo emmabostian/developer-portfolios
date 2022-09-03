@@ -344,6 +344,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Zeeshan](https://mzeeshan.me)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
+- [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 
 ## N
 
