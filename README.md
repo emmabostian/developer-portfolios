@@ -309,6 +309,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mario Kandut](https://www.mariokandut.com)
 - [Markus Polzer](https://www.rapidtech1898.com/)
 - [Marouane Rassili](https://mrassili.com)
+- [Masculus](https://github.com/masculus.vercel.app)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Lobello](https://matteolobello.it)
