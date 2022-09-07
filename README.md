@@ -171,6 +171,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Faisal Ahmed Khan](https://FaisalAhmedKhan.github.io/)
 - [Fayaz Bin Salam](https://p32929.github.io/)
 - [Felix Leupold](https://xiel.dev)
+- [Felix Tellmann](https://flext.dev)
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
 - [Frances Coronel](https://francescoronel.com)
