@@ -86,6 +86,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Azhar Zafar](http://azharr.com)
 
 ## B
+
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Bankole Ahmed](http://bankoleahmed.netlify.com)
 - [Becca Bailey](http://Becca.is)
@@ -521,5 +522,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zaur Sharifov](https://www.zaursharifov.com)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 - [Zonayed Ahmed](https://zonayed.me/)
