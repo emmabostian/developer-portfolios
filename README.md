@@ -82,10 +82,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashutosh Singh](https://thecodepapaya.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Atanas Atanasov](https://atanas.info)
+- [Austin Gericke](https://www.austingericke.com/)
 - [Austin Pham](https://auspham.dev)
 - [Azhar Zafar](http://azharr.com)
 
 ## B
+
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Bankole Ahmed](http://bankoleahmed.netlify.com)
 - [Becca Bailey](http://Becca.is)
