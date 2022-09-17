@@ -524,5 +524,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zaur Sharifov](https://www.zaursharifov.com)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2/)
 - [Zonayed Ahmed](https://zonayed.me/)
