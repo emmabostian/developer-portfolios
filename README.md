@@ -298,6 +298,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
+- [LoveCodingWithAshu](https://lovecodingwithashu.tech)
 
 ## M
 
