@@ -296,10 +296,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Liz Lam](https://lizlam.github.io/)
 - [Long Do](https://longpdo.github.io/)
 - [Louay Hamada](https://louayhamada.com)
+- [LoveCodingWithAshu](https://lovecodingwithashu.tech)
 - [Luca Fluri](https://www.lucafluri.ch/)
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
+
 
 ## M
 
