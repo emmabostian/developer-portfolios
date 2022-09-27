@@ -137,6 +137,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app/)
 - [Daniel Alberski](https://danielalberski.redark.pl/)
+- [Danilo Batson](https://danilobatson.github.io/portfolio/)
 - [Danilo Castro](https://www.welcomedeveloper.com/)
 - [Danstan Onyango](https://zemuldo.com/)
 - [Daniel Michael](https://www.daniel-michael.com/)
