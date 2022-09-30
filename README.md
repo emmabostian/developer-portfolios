@@ -38,6 +38,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adityakumar Sinha](https://aditya113141.github.io/)
 - [Agney Menon](https://agney.dev)
 - [Aishani Pachauri](https://aishanipach.netlify.app/)
+- [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahmed Zougari](https://ahmedzougari.com)
 - [Ahsan Khan](https://ahsankhan.me/)
