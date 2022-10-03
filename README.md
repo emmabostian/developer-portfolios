@@ -359,7 +359,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
-- [Paal Stakvik](https://paalss.github.io/portfolio/)
+- [Paal Stakvik](https://paalss.vercel.app/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Pankaj Gaikar](https://pankajgaikar.com/)
 - [Patricia Aas](https://patricia.no/)
