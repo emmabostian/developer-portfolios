@@ -510,6 +510,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yashita Namdeo](https://yashitanamdeo.github.io/)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
+- [Yinka Adedire](https://yinka.codes)
 - [Yosra Hashim](https://yhshi26.github.io/)
 - [Yuji Sato](https://www.yujisatojr.com/)
 - [Yuri Corredor](https://www.yuricorredor.tech/)
