@@ -183,6 +183,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## G
 
 - [Gabriel Romualdo](https://xtrp.io/) ([@xtrp](https://github.com/xtrp))
+- [Gabriel Sozinho](https://gabrielsozinho.ga)
 - [Gabriel Tekombo](https://gabrielthecode.com/)
 - [Gabriele Corti](https://borntofrappe.github.io/)
 - [Ganesh Patil](https://hardikjain.netlify.app/)
