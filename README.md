@@ -501,6 +501,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vincent Milum Jr](http://darkain.com)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vito Sartori](https://vito.io)
+- [Vaishnavan M](https://vaishnavanmresume.web.app/)
 
 ## W
 
