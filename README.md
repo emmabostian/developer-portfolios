@@ -69,6 +69,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anil Khatri](https://imkaka.github.io)
 - [Anshu Raj](https://anshuraj.github.io/)
 - [Anshuman Verma](https://anshumanv.dev/)
+- [Anslem Seguya](https://anslem27.github.io/)
 - [Antonio Ferreiro](https://toniferr.github.io/)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io/)
@@ -298,7 +299,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
-
 
 ## M
 
