@@ -446,6 +446,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sai Teja](https://saiteja13427.github.io/)
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
+- [Sauvik Nath](https://sauviknath.com)
 - [Scott Spence](https://scottspence.com)
 - [Sebastien Graf](https://seb-graf.com)
 - [Sergei Chestakov](https://sergei.com)
