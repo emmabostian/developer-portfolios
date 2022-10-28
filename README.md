@@ -210,6 +210,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
+- [Hatem Ahmad](https://codewithmenow.tech)
 - [Herman Starikov](http://starikov.dev)
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com/)
