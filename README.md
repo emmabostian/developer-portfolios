@@ -165,6 +165,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Enea Xharja](https://eneaxharja.com)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
 - [Erdal TAŞKESEN](https://www.erdaltaskesen.com)
+- [Evander Inácio](https://evander.vercel.app/)
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
