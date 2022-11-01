@@ -99,6 +99,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
 - [Bipin MV](https://bipinmv.github.io)
+- [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
