@@ -394,6 +394,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio/)
 - [Patrick Obermeier](https://www.patrickobermeier.at/)
 - [Patrick Reid](http://iamreliq.com)
+- [Pavitha Pichaimani](https://pavitha-pichaimani.com/)
 - [Pan Wei Lian](https://williamson922.github.io/)
 - [Pawaret Meungkaew](https://www.pawaret.dev/)
 - [Pazindu Shane](https://pazindushane.github.io/)
