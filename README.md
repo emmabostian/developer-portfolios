@@ -245,6 +245,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jake Ginesin](https://jakegines.in/)
+- [Jakob Rössner](https://roessner.tech)
 - [James Turner](http://turnerj.com)
 - [Jane Manchun Wong](http://wongmjane.com)
 - [Janessa Tran](http://janessatran.github.io)
