@@ -267,6 +267,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joseph Palma](https://josephpalma.dev)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
+- [Jubin Ayoob](web-portfolio-jubin369.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
@@ -303,7 +304,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Luis Cacho](https://luiscachog.io)
 - [Luisa Rojas García](https://luisarojas.com)
-
 
 ## M
 
