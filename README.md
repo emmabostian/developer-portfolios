@@ -263,6 +263,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
+- [Jonathan Kila](https://excelsior2021.github.io)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
 - [Joseph Palma](https://josephpalma.dev)
