@@ -151,6 +151,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
 - [Derryk Theberge](https://dtheberge.com/)
+- [Dhanush Nehru](https://whatsapp-portfolio-dhanushnehru.netlify.app/)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#/)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/)
