@@ -209,6 +209,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hafid Ziti](https://www.hafidziti.dev/)
+- [Halit İslam İçli](https://halid.dev/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hari Prasad](https://hariprasd.me)
