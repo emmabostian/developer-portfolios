@@ -212,6 +212,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Halit İslam İçli](https://halid.dev/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
+- [Harlon Garcia](https://harlon.netlify.app)
 - [Hari Prasad](https://hariprasd.me)
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
