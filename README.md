@@ -85,6 +85,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Gericke](https://www.austingericke.com/)
 - [Austin Pham](https://auspham.dev)
+- [Aycan Öğüt](https://aycan.dev)
 - [Azhar Zafar](http://azharr.com)
 
 ## B
