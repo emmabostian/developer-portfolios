@@ -366,7 +366,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nam Phan](https://namtphan.github.io)
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net/)
-- [Nawrasse Dahman](https://www.nawrasse.tk/)
+- [Nawrasse Dahman](https://www.nawrassedahman.tk/)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 - [Nesrine Sghaier](https://nesrinesghaier.me)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
