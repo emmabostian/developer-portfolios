@@ -75,7 +75,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io/)
 - [Ariel Chura](https://arielchura.com)
-- [Arpit Gupta](http://arpitfolio.herokuapp.com)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io/)
 - [Arsh Sahzad](https://www.arsh.dev)
@@ -101,7 +100,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
-- [Bipin MV](https://bipinmv.github.io)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Bouwe Westerdijk](https://bouwe.io)
@@ -230,7 +228,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## I
 
-- [Ian Trent](https://iantrent.com)
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ike Ofoegbu](https://iodev.io)
 - [Indrajeet Nikam](https://indrajeet.me/)
@@ -288,8 +285,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
-- [keyur kakadiya](https://keyur-kakadiya.herokuapp.com/)
-- [Khoironi Kurnia Syah](https://zekhoi.my.id/)
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
@@ -356,7 +351,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
-- [Muhammad Zeeshan](https://mzeeshan.me)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
@@ -437,7 +431,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io/)
 - [Ronny Coste](https://ronnycoste.com/)
-- [Ropo John Olatujoye](http://simplycrownclothing.herokuapp.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Roxza](https://roxza.me)
 - [Ryan Burgess](http://ryanburgess.com)
@@ -464,7 +457,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sebastien Graf](https://seb-graf.com)
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
-- [Serhii Hidenko](https://lookmy.dev/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
@@ -506,7 +498,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app/)
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
-- [Varun Kumar Tiwari](https://varuntiwari.xyz/)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io/)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
