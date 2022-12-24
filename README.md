@@ -464,6 +464,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shivam Kaushal](https://shivamkaushal.in)
 - [Shubham Tarade](https://coder-shanks.github.io/)
 - [Shuvam Manna](http://shuvam.xyz)
+- [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Soham Mondal](https://sohammondal.com)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io/)
