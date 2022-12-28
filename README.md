@@ -479,6 +479,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Taranjeet Singh](https://taranjeet.co/)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me/)
+- [Tek Kshetri](http://tekkshetri.com.np)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev/)
 - [Thea Choem](https://thea.juniorise.com)
