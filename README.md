@@ -472,6 +472,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com/)
 - [Suhail Roushan](https://suhailroushan.com)
+- [Sumit Nalavade](https://sumitnalavade.vercel.app/)
 
 ## T
 
