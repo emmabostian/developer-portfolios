@@ -102,6 +102,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhushan Borole](https://bhushan-borole.github.io/)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
+- [Boris Edison](https://borisedison.in/)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
 - [Brianna Roby](http://brianna-roby.com)
