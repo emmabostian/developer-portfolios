@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app/)
 - [Amit Gujar](https://amitgujar.github.io/)
+- [Amogh Telkar](https://amoghtelkar.com)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Andreas Beuger](https://beuger.dev)
