@@ -31,7 +31,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rauf](https://armujahid.me)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
-- [Abhishek Jha](https://abhijha.live/)
 - [Abolfazl Abdali](https://abdali.dev/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
@@ -206,7 +205,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Godswill Umukoro](https://godswillumukoro.com/)
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io/)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio/)
-- [Govind Singh Ranawat](https://govindsingh9447.github.io/ranawattecofficial.github.io/)
 
 ## H
 
