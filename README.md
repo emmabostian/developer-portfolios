@@ -43,6 +43,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com/)
 - [Ahmed Zougari](https://ahmedzougari.com)
 - [Ahsan Khan](https://ahsankhan.me/)
+- [Ajay Kannan](https://ajaykannan.netlify.app/)
 - [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com/)
 - [Akshat Gupta](https://www.akshatvg.com)
