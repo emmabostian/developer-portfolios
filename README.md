@@ -265,6 +265,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
+- [John Carlo Camara](https://jiseeeh.vercel.app/)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
 - [Josef Aidt](https://josefaidt.dev)
