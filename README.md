@@ -58,7 +58,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app/)
-- [Amit Gujar](https://amitgujar.github.io/)
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
@@ -106,7 +105,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Boris Edison](https://borisedison.in/)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
-- [Brianna Roby](http://brianna-roby.com)
 - [Brittany Chiang](https://brittanychiang.com)
 
 ## C
@@ -280,7 +278,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
-- [Kapil Gorve](http://jskap.com)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
@@ -323,7 +320,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Matt Filer](http://mattfiler.co.uk)
-- [Matteo Lobello](https://matteolobello.it)
 - [Matvey Kottsov](https://matvey.codes/)
 - [Maverick](https://supacode.dev/)
 - [Maxim Villivald](https://villivald.com/)
@@ -357,7 +353,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## N
 
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
-- [Nam Phan](https://namtphan.github.io)
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net/)
 - [Nawrasse Dahman](https://www.nawrassedahman.tk/)
