@@ -86,6 +86,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
 - [Azhar Zafar](http://azharr.com)
+- [Alexandre Santos](https://alexandresantosal91.github.io/portfolio/)
 
 ## B
 
