@@ -283,6 +283,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
+- [Khaled Ahmed](https://khaled.is-a.dev)
 - [Kyle Shook](http://Kyleshook.com)
 
 ## L
