@@ -264,6 +264,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
 - [John Carlo Camara](https://jiseeeh.vercel.app/)
+- [John Doe](https://portfolio-john2.netlify.app/)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
 - [Josef Aidt](https://josefaidt.dev)
@@ -273,7 +274,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app/)
 - [Julia Johnson](http://juliacodes.com)
-- [John Doe](https://portfolio-john2.netlify.app/)
 
 ## K
 
