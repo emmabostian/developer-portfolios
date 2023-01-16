@@ -273,6 +273,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app/)
 - [Julia Johnson](http://juliacodes.com)
+- [John Doe](https://portfolio-john2.netlify.app/)
 
 ## K
 
