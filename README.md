@@ -264,6 +264,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
 - [John Carlo Camara](https://jiseeeh.vercel.app/)
+- [John Doe](https://portfolio-john2.netlify.app/)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#/)
 - [Josef Aidt](https://josefaidt.dev)
