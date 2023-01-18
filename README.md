@@ -65,7 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andreas Beuger](https://beuger.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
-- [Andrianarisoa Daniel](https://radanfolio.vercel.app)
+- [Andrianarisoa Daniel](https://www.devist.xyz)
 - [Andy Bell](https://andy-bell.design/)
 - [Angel Martinez](https://angelmtz.dev)
 - [Aniket Kudale](https://aniket.co)
