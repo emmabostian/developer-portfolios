@@ -166,7 +166,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## E
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
-- [Elio Jordan Lopes](https://develioper.vercel.app)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
