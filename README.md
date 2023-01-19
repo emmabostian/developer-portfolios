@@ -253,6 +253,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Kirdatt](https://JaiK.me)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
+- [Jainex Patel](https://jainex.vercel.app/)
 - [Jake Ginesin](https://jakegines.in/)
 - [Jakob Rössner](https://roessner.tech)
 - [James Turner](http://turnerj.com)
