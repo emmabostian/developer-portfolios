@@ -220,6 +220,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Singh](https://harshsingh.xyz/)
+- [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css/)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Hatem Ahmad](https://codewithmenow.tech)
