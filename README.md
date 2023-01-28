@@ -293,6 +293,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaustubh Dwivedi](https://portfolio-onlykingkd.vercel.app/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
 - [Kelven Rubalaine](https://kelven.dev)
+- [Kenta Yamamoto](https://ychof.com)
 - [Khaled Ahmed](https://khaled.is-a.dev)
 - [Kyle Shook](http://Kyleshook.com)
 
