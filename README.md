@@ -98,6 +98,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ben Rogers](https://benrogers.dev)
 - [Berat Bozkurt](https://beratbozkurt.net/)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me/)
+- [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
