@@ -464,7 +464,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sebastien Graf](https://seb-graf.com)
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
-- [Seunghun Bang](https://https://seunghun-website.vercel.app/)
+- [Seunghun Bang](https://seunghun-website.vercel.app/)
 - [Shaan Khan](https://www.shaankhan.dev/)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
