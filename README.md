@@ -426,6 +426,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Sawant](http://raalzz.com)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
+- [Rajesh Kumar Yadav](https://rajeshkumaryadav.com)
+- [Rajesh Kumar Yadav](https://r-k-y.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
