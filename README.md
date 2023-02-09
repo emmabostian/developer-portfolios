@@ -522,7 +522,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Ukani](https://vikas-ukani.github.io/)
 - [Vinay Pratap Singh](https://harvi.me/)
 - [Vinay Somawat](https://vinaysomawat.github.io/)
-- [Vinay Pratap Singh](https://harvi.me/)
 - [Vincent Milum Jr](http://darkain.com)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitalik Hakim](https://vitalikhakim.tech/)
