@@ -520,6 +520,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Victor Aremu](http://bit.ly/victoraremu)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vikas Ukani](https://vikas-ukani.github.io/)
+- [Vinay Pratap Singh](https://harvi.me/)
 - [Vinay Somawat](https://vinaysomawat.github.io/)
 - [Vincent Milum Jr](http://darkain.com)
 - [Vishwasa Navada K](https://vishwas.tech)
