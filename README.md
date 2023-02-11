@@ -309,6 +309,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lee Warrick](http://leewarrick.com)
 - [Lee Robinson](https://leerob.io/)
 - [Leroy Rosales](https://leroyrosales.com)
+- [Lindsey Howard](https://lindseyk.dev)
 - [Leonel Ngoya](https://lndev.me)
 - [Liplan Lekipising](https://lekipising.tech/)
 - [Lisa Blunt](https://lisablunt.github.io)
