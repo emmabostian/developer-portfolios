@@ -426,6 +426,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rafael Salazar](https://rafalazar.github.io/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Sawant](http://raalzz.com)
+- [Raj Aryan](https://rajxryan.vercel.app)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com)
@@ -446,6 +447,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roxza](https://roxza.me)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
+
+
 
 ## S
 
