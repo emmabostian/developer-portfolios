@@ -168,6 +168,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## E
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
+- [Eduard Yudinkov](https://yudinkov.dev/)
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
