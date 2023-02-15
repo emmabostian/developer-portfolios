@@ -458,6 +458,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev/)
 - [Sarang N](https://srng.dev)
+- [Sarvesh Patil](https://sarveshpatil.com)
 - [Sai Teja](https://saiteja13427.github.io/)
 - [Satish Jhanwer](https://satishjhanwer.github.io/) ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Saurabh Daware](https://www.saurabhdaware.in/)
