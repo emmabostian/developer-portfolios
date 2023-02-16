@@ -53,6 +53,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Spittel](http://alispit.tel)
+- [Aljon De Lumen](https://www.delumenaljon.studio)
 - [Allan Muturi](https://allanmuturi.vercel.app/)
 - [Aloys Dillar](https://trolologuy.github.io/)
 - [Aman Anku](http://amananku26.github.io)
