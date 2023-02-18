@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## D
 
+- [Dhaval Patel](https://dhavalcode.com)
 - [Dale French](https://dalefrench.dev/)
 - [Dale Larroder](https://dalelarroder.com/)
 - [Damian Markowski](https://damianmarkowski.com)
