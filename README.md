@@ -156,6 +156,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Derryk Theberge](https://dtheberge.com/)
 - [Delba](https://delba.dev/)
 - [Dhanush Nehru](https://whatsapp-portfolio-dhanushnehru.netlify.app/)
+- [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#/)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com/)
@@ -164,6 +165,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dino Gomez](https://dinogomez.github.io/)
 - [Drew Bredvick](https://drew.tech/)
 - [Durgesh Chaudhary](https://yodkwtf.com/)
+
 
 ## E
 
