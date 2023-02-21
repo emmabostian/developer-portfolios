@@ -374,9 +374,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## N
 
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
+- [Narpat Aanjana](https://narpataanjana.live)
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net/)
-- [Narpat Aanjana](https://narpataanjana.live)
 - [Nawrasse Dahman](https://www.nawrassedahman.tk/)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
