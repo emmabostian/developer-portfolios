@@ -228,7 +228,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css/)
 - [Hassan Ahmed](https://www.hassanahmed.net/)
 - [Hassan Murtaza](https://hassanmurtaza.com)
-- [Hatem Ahmad](https://codewithmenow.tech)
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
@@ -362,7 +361,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Moritz Kornher](https://moritzkornher.de/)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com/)
 - [Mostafa Sameti](https://sameti.dev/)
-- [Moustapha Mahmoud](https://moustapha.me)
 - [Mouad ZIANI](https://mouadziani.github.io/)
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
@@ -449,7 +447,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Smunyov](https://romanisthere.github.io/)
 - [Ronny Coste](https://ronnycoste.com/)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
-- [Roxza](https://roxza.me)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
 
