@@ -167,7 +167,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Drew Bredvick](https://drew.tech/)
 - [Durgesh Chaudhary](https://yodkwtf.com/)
 
-
 ## E
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
@@ -450,8 +449,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
 
-
-
 ## S
 
 - [Sagar Mude](https://sagarmude.netlify.app/)
@@ -484,6 +481,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shuvam Manna](http://shuvam.xyz)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
+- [Sneha Ratnani](https://www.sneharatnani.com/)
 - [Soham Mondal](https://sohammondal.com)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io/)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
