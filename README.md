@@ -527,6 +527,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Victor Aremu](http://bit.ly/victoraremu)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
+- [Vijay Verma](https://vjy.me/)
 - [Vikas Ukani](https://vikas-ukani.github.io/)
 - [Vinay Pratap Singh](https://harvi.me/)
 - [Vinay Somawat](https://vinaysomawat.github.io/)
