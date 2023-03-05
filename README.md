@@ -133,6 +133,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com/works/)
 - [Colin Lord](https://colinlord.com/)
 - [Collins Koech](https://collinskoechportfolio.web.app)
+- [Connor Jarrett](https://connorjarrett.com)
 - [Cristiano Filho](https://cristianofilho.github.io/)
 - [Cristian Cezar Moisés](https://live-one.vercel.app/)
 - [Cui Ding](https://cuierd.github.io/)
