@@ -234,6 +234,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hungry Bear Studio](https://www.hungrybearstudios.com/)
 - [Hussein Sarea](https://ho011.vercel.app/)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com/)
+- [Hoang Nguyen](https://hoangdesu.com/)
 - [Houari Zegai](https://zegai.netlify.com/)
 
 ## I
