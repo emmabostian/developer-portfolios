@@ -114,6 +114,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Cade Kynaston](https://cade.codes)
 - [Caitlyn Greffly](https://caitlyngreffly.com/)
+- [Carson Coder](https://www.carsoncoder.com)
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com/)
