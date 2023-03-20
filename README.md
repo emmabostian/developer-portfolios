@@ -30,6 +30,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rauf](https://armujahid.me)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
+- [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app/)
 - [Abolfazl Abdali](https://abdali.dev/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com/)
