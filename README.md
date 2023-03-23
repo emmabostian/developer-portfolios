@@ -84,6 +84,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
+- [Assad Isah](https://nottherealalanturing.tech)
 - [Atanas Atanasov](https://atanas.info)
 - [Austin Gericke](https://www.austingericke.com/)
 - [Austin Pham](https://auspham.dev)
