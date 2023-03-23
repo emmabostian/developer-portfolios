@@ -80,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io/)
 - [Arsh Sahzad](https://www.arsh.dev)
+- [Arup Mandal](https://arupmandal.github.io/)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
@@ -87,9 +88,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com/)
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
-- [Azhar Zafar](http://azharr.com)
 - [Arup Mandal](https://arupmandal.github.io/)
 - [Ayush Nighoskar](https://ayushn.netlify.app/)
+- [Azhar Zafar](http://azharr.com)
 
 ## B
 
@@ -281,6 +282,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jerry Hirsch](https://jerryhirsch.com/)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jo Lienhoop](https://jolienhoop.com/)
+- [Joe Dean](https://joedean.dev)
 - [John Carlo Camara](https://jiseeeh.vercel.app/)
 - [John Doe](https://portfolio-john2.netlify.app/)
 - [Jonathan Kila](https://jonathankila.vercel.app)
