@@ -88,7 +88,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com/)
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
-- [Ayush Nighoskar] (https://ayushn.netlify.app/)
+- [Arup Mandal](https://arupmandal.github.io/)
+- [Ayush Nighoskar](https://ayushn.netlify.app/)
 - [Azhar Zafar](http://azharr.com)
 
 ## B
