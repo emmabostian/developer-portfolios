@@ -428,6 +428,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Pramesh Karki](https://karkipramesh.com.np/)
+- [Pranshu05](https://pranshu05.github.io/)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
 - [Priya Nayak](https://priya180975.github.io/portfolio/)
