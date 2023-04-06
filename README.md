@@ -473,6 +473,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Samik Malhotra](https://samikmalhotra.netlify.app/)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Santosh Yadav](http://santoshyadav.dev)
+- [Santript Mehta](https://santriptmehta.me/web-home/)
 - [Sanyam Kumar](https://sanyam.dev/)
 - [Sarang N](https://srng.dev)
 - [Sarvesh Patil](https://sarveshpatil.com)
