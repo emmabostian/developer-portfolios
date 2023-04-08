@@ -125,6 +125,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chetan Padia](https://chetbox.com)
 - [Chetan Raj](https://chetanraj.in/)
 - [Chetanya Kandhari](https://availchet.github.io)
+- [Chethin Manage](https://www.cmanage.dev/)
 - [Chicago IT Systems](https://www.chicagoitsystems.com/)
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io/)
