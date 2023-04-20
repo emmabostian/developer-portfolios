@@ -300,11 +300,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
-
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com/)
+- [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
 - [Kaustubh Dwivedi](https://portfolio-onlykingkd.vercel.app/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
