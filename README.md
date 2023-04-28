@@ -17,7 +17,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Amir Akbulut](https://amirdev.nl/)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app/)
 - [Aakash Sharma](https://aakash-sharma.netlify.app/)
 - [Aaron Dunphy](https://aarondunphy.com)
@@ -63,6 +62,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app/)
 - [Amogh Telkar](https://amoghtelkar.com)
+- [Amir Akbulut](https://amirdev.nl/)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Andreas Beuger](https://beuger.dev)
