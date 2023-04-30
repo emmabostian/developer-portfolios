@@ -451,6 +451,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com)
 - [Rajesh Kumar Yadav](https://r-k-y.com)
+- [Rakib Sarowar](https://rakibsarowar.com/)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Rick Hanlon](https://rickhanlonii.github.io/)
 - [Riley J. Shaw](https://rileyjshaw.com)
