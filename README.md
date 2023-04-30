@@ -453,6 +453,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rajesh Kumar Yadav](https://r-k-y.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Rick Hanlon](https://rickhanlonii.github.io/)
+- [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rishabh Rawat](https://rrawat.com)
