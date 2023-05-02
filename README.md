@@ -387,6 +387,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 
+- [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Narpat Aanjana](https://narpataanjana.live)
 - [Nathan Simpson](https://nathansimpson.design)
