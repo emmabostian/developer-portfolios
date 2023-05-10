@@ -301,6 +301,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Julia Johnson](http://juliacodes.com)
 
 ## K
+
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
 - [Karen Fletcher](https://knpfletcher.dev)
@@ -420,6 +421,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app/)
+- [Pablo Hauptmann](https://ackdeckard.dev/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Pankaj Gaikar](https://pankajgaikar.com/)
 - [Patricia Aas](https://patricia.no/)
