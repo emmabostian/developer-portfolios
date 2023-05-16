@@ -124,6 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com/)
+- [Chee Hwa Tang](https://cheehwatang.com/)
 - [Chetan Padia](https://chetbox.com)
 - [Chetan Raj](https://chetanraj.in/)
 - [Chetanya Kandhari](https://availchet.github.io)
