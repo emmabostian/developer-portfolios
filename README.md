@@ -136,6 +136,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chris Poole](https://chrispoole.com)
 - [Christian Kaisermann](https://kaisermann.me)
 - [Christian Toscano](https://achris.me)
+- [Christopher Carroll Smith](https://chriscarrollsmith.github.io)
 - [Chuck Smith](https://chucksmith.dev)
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Clyde D'Souza](https://clydedsouza.net)
