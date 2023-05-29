@@ -416,6 +416,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
+- [Prince Muhammad](https://princemuhammad.pro/)
 - [Paal Stakvik](https://paalss.vercel.app/)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool/)
 - [Pankaj Gaikar](https://pankajgaikar.com/)
