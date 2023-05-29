@@ -313,6 +313,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Khaled Ahmed](https://khaled.is-a.dev)
 - [Kidus Bewket](https://kidus.ca)
 - [Kyle Shook](http://Kyleshook.com)
+- [Kyle Smith](https://yskkyle.com)
 
 ## L
 
