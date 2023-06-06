@@ -338,7 +338,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luisa Rojas García](https://luisarojas.com)
 
 ## M
-
+- [Madhan Matheus](https://matheusmanuel.netlify.app/)
 - [Madhan K](https://madhank93.github.io/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Mahmoud AlSharif](https://malsharif.me)
