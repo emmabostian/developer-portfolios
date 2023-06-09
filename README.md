@@ -338,7 +338,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luisa Rojas García](https://luisarojas.com)
 
 ## M
-- [Matheus Manuel](https://matheusmanuel.netlify.app/)
 - [Madhan K](https://madhank93.github.io/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Mahmoud AlSharif](https://malsharif.me)
@@ -353,6 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Markus Polzer](https://www.rapidtech1898.com/)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
+- [Matheus Manuel](https://matheusmanuel.netlify.app/)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matvey Kottsov](https://matvey.codes/)
