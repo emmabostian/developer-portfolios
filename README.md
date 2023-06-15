@@ -515,6 +515,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Bohacek](https://fourtonfish.com/)
 - [Suhail Roushan](https://suhailroushan.com)
 - [Sumit Nalavade](https://sumitnalavade.vercel.app/)
+- [Safoor Safdar](https://safoorsafdar.com)
 
 ## T
 
