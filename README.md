@@ -338,6 +338,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luisa Rojas García](https://luisarojas.com)
 
 ## M
+
 - [Madhan K](https://madhank93.github.io/)
 - [Mads Hougesen](https://mhouge.dk/)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
@@ -577,6 +578,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yosra Hashim](https://yhshi26.github.io/)
 - [Yuji Sato](https://www.yujisatojr.com/)
 - [Yuri Faria](https://windows87.github.io/)
+- [Yash Datir](https://yashdatir.github.io/profile-os/)
 
 ## Z
 
