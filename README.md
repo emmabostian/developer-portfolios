@@ -570,6 +570,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Y
 
+- [Yash Datir](https://yashdatir.github.io/profile-os/)
 - [Yash Johri](https://yash1200.github.io/)
 - [Yashita Namdeo](https://yashitanamdeo.github.io/)
 - [Yechiel Kalmenson](https://yechiel.me)
@@ -578,7 +579,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yosra Hashim](https://yhshi26.github.io/)
 - [Yuji Sato](https://www.yujisatojr.com/)
 - [Yuri Faria](https://windows87.github.io/)
-- [Yash Datir](https://yashdatir.github.io/profile-os/)
 
 ## Z
 
