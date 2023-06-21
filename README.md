@@ -308,6 +308,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
 - [Kaustubh Dwivedi](https://portfolio-onlykingkd.vercel.app/)
 - [Kaustubhai](https://kaustubhai.netlify.app/)
+- [Keith Lau](https://keithlau2015.github.io/portfolio/)
 - [Kelven Rubalaine](https://kelven.dev)
 - [Kenta Yamamoto](https://ychof.com)
 - [Khaled Ahmed](https://khaled.is-a.dev)
