@@ -447,6 +447,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
+-[Rakibul Islam](https://rakibul-islam-hasib.web.app/)
 - [Rabin Poudyal](https://rabinpoudyal.com.np/)
 - [Rafael Salazar](https://rafalazar.github.io/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
