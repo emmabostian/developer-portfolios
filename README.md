@@ -397,6 +397,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Naveed Ahmed](https://www.trixum.net/)
 - [Nawrasse Dahman](https://www.nawrassedahman.tk/)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io/)
+- [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io/)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app/)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
