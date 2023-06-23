@@ -329,6 +329,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lee Robinson](https://leerob.io/)
 - [Leroy Rosales](https://leroyrosales.com)
 - [Leonel Ngoya](https://lndev.me)
+- [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.tech/)
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
@@ -440,6 +441,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pramesh Karki](https://karkipramesh.com.np/)
 - [Praveen Kumar Purushothaman](https://praveen.science/)
 - [Praveen Saini](https://praveen-me.github.io)
+- [Prince Muhammad](https://princemuhammad.pro/)
 - [Priya Nayak](https://priya180975.github.io/portfolio/)
 - [Pushpak Chhajed](https://pushpak1300.github.io/)
 
@@ -480,6 +482,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Sagar Mude](https://sagarmude.netlify.app/)
 - [Sachin Srinivasan](https://s8sachin.github.io/)
+- [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Giri](https://girisagar46.github.io/)
 - [Sagar Khurana](https://hellosagar.vercel.app/)
 - [Sajal Sharma](https://sajalsharma.com)
@@ -553,6 +556,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app/)
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
+- [Varun Haldhar](https://imvarun.dev/)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io/)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
@@ -575,6 +579,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Y
 
+- [Yash Datir](https://yashdatir.github.io/profile-os/)
 - [Yash Johri](https://yash1200.github.io/)
 - [Yashita Namdeo](https://yashitanamdeo.github.io/)
 - [Yechiel Kalmenson](https://yechiel.me)
