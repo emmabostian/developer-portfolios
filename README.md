@@ -492,6 +492,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Sai Teja](https://saiteja13427.github.io/)
 - [Satish Jhanwer](https://satishjhanwer.github.io/) ([@satishjhanwer](https://github.com/satishjhanwer))
+- [Satyam Gupta](https://imlolman.github.io/) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in/)
 - [Saurav M H](https://sauravmh.com)
 - [Sauvik Nath](https://sauviknath.com)
