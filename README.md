@@ -114,6 +114,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
 - [Brittany Chiang](https://brittanychiang.com)
+- [Bryan Smith](https://multikitty.onrender.com)
 
 ## C
 
