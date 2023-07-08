@@ -108,6 +108,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
+- [Bhupendra Singh](https://bhupi2508.netlify.app/)
 - [Bhushan Borole](https://bhushan-borole.github.io/)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
