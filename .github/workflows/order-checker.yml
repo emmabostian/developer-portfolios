@@ -1,0 +1,21 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+name: Check order of markdown list items
+jobs:
+  linkChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Lint markdown lists
+        uses: ClydeDz/markdown-list-linter@main
+        with:
+          file: markdown-lists/valid_file.md
+          fail-on-error: true
