@@ -8,7 +8,7 @@ on:
 
 name: Check order of markdown list items
 jobs:
-  linkChecker:
+  listChecker:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
