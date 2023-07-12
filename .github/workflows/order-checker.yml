@@ -5,6 +5,7 @@ on:
   pull_request:
     branches:
       - master
+  workflow_dispatch:
 
 name: Check order of markdown list items
 jobs:
