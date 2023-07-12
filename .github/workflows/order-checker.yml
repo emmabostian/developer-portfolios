@@ -17,5 +17,5 @@ jobs:
       - name: Lint markdown lists
         uses: ClydeDz/markdown-list-linter@main
         with:
-          file: markdown-lists/valid_file.md
+          file: ./README.md
           fail-on-error: true
