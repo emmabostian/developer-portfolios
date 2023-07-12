@@ -1,10 +1,10 @@
 on:  
   push:
     branches:
-      - main
+      - master
   pull_request:
     branches:
-      - main
+      - master
 
 name: Check order of markdown list items
 jobs:
