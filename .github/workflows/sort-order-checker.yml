@@ -1,0 +1,22 @@
+name: Check sort order of list items
+
+on:  
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  listChecker:
+    name: Check if portfolio items are alphabetically sorted
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Lint developer portfolio
+        uses: ClydeDz/markdown-list-linter@v0.1.4
+        with:
+          file: ./README.md
+          fail-on-error: true
