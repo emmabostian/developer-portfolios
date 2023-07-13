@@ -161,6 +161,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danilo Castro](https://www.welcomedeveloper.com/)
 - [Danstan Onyango](https://zemuldo.com/)
 - [Daniel Michael](https://www.daniel-michael.com/)
+- [David Clarke](https://david-clarke.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Davi Lacerda](https://davilacerda.tech)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
