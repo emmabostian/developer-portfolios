@@ -163,7 +163,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Michael](https://www.daniel-michael.com/)
 - [David Clarke](https://david-clarke.com)
 - [Davide Santangelo](https://davidesantangelo.com)
-- [Davi Lacerda](https://davilacerda.tech)
+- [Davi Lacerda](https://davilacerda.com)
 - [Deepraj Rakshit](http://deeprajrakshit.me/)
 - [Denis Tokarev](https://devlato.com)
 - [Derryk Theberge](https://dtheberge.com/)
