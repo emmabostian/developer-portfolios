@@ -551,6 +551,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Udeet Mittal](https://www.udeet.codes/)
 - [Uğur Atmaca](https://uguratmacacv.web.app/)
+- [Utkarsh Maurya](https://pro-utkarshm.github.io/pro-utkarshM.github.io-main/)
 - [Utsav Devadiga](https://utsav-dev.netlify.app/)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 
