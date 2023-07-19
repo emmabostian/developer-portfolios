@@ -69,6 +69,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
+- [Andrii Zontov](https://lwjerri.dev)
 - [Andy Bell](https://andy-bell.design)
 - [Angel Martinez](https://angelmtz.dev)
 - [Aniket Kudale](https://aniket.co)
