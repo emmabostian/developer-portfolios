@@ -1,4 +1,5 @@
 # TLTR: Create a Pull Request
+
 1. Fork this repository.
 2. Clone your new repository to your system.
 3. Create a new branch (i.e. `add/your-name`).
@@ -9,6 +10,7 @@
 If you have never opened a PR and need direction, read more below.
 
 # Contributor's Guide
+
 Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues).
 
 Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
@@ -19,22 +21,22 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 
 ### Setting Up Your System
 
-1.  Install [Git](https://git-scm.com/) or your favorite Git client.
-2.  (Optional) [Setup an SSH Key](https://help.github.com/articles/generating-an-ssh-key/) for GitHub.
+1. Install [Git](https://git-scm.com) or your favorite Git client.
+2. (Optional) [Setup an SSH Key](https://help.github.com/articles/generating-an-ssh-key) for GitHub.
 
 ### Forking Developer Portfolios
 
-1.  Go to the top-level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
-2.  Click the "Fork" button in the upper right-hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo/))
-3.  After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
+1. Go to the top-level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
+2. Click the "Fork" button in the upper right-hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo))
+3. After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
 
 ### Cloning Your Fork
 
-1.  Open a Terminal / Command Line / Bash Shell in your project's directory (_i.e.: `/yourprojectdirectory/`_)
-2.  Clone your fork of `Developer Portfolios`
+1. Open a Terminal / Command Line / Bash Shell in your project's directory (_i.e.: `/yourprojectdirectory/`_)
+2. Clone your fork of `Developer Portfolios`
 
 ```shell
-$ git clone https://github.com/yourUsername/developer-portfolios.git
+git clone https://github.com/yourUsername/developer-portfolios.git
 ```
 
 **(make sure to replace `yourUsername` with your GitHub username)**
@@ -43,11 +45,11 @@ This will download the entire `Developer Portfolios` repo to your project's dire
 
 ### Setup Your Upstream
 
-1.  Change directory to the new directory (`cd ./developer-portfolios`)
-2.  Add a remote to the original `Developer Portfolios` repo:
+1. Change directory to the new directory (`cd ./developer-portfolios`)
+2. Add a remote to the original `Developer Portfolios` repo:
 
 ```shell
-$ git remote add upstream https://github.com/emmawedekind/developer-portfolios.git
+git remote add upstream https://github.com/emmawedekind/developer-portfolios.git
 ```
 
 Congratulations, you now have a local copy of the `Developer Portfolios` repo!
@@ -60,7 +62,7 @@ Now that you have a copy of your fork, there is work you will need to do to keep
 
 Do this prior to every time you create a branch for a PR:
 
-1.  Make sure you are on the `master` branch
+1. Make sure you are on the `master` branch
 
 ```shell
 $ git status
@@ -71,21 +73,21 @@ Your branch is up to date with 'origin/master'.
 If you aren't on `master`, resolve outstanding files/commits and checkout the `master` branch
 
 ```shell
-$ git checkout master
+git checkout master
 ```
 
-2.  Do a pull with rebase against `master`
+2. Do a pull with rebase against `master`
 
 ```shell
-$ git pull --rebase upstream master
+git pull --rebase upstream master
 ```
 
 This will pull down all of the changes to the official master branch, without making additional commits in your local repo.
 
-3.  Merge remote changes to your local master fork:
+3. Merge remote changes to your local master fork:
 
 ```shell
-$ git merge upstream/master
+git merge upstream/master
 ```
 
 ### Create a Branch
@@ -105,13 +107,13 @@ We'd recommend naming it something that is relevant to your new site (i.e. `add/
 To create a branch on your local machine (and switch to this branch):
 
 ```shell
-$ git checkout -b [add/your-name]
+git checkout -b [add/your-name]
 ```
 
 and to push to GitHub:
 
 ```shell
-$ git push origin [add/your-name]
+git push origin [add/your-name]
 ```
 
 **If you need more help with branching, take a look at [this](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches).**
@@ -134,8 +136,8 @@ Take away only one thing from this document: Never, **EVER** make edits to the `
 
 There are two methods of creating a pull request for 'Developer Portfolios':
 
-* Editing files on a local clone (recommended)
-* Editing files via the GitHub Interface
+- Editing files on a local clone (recommended)
+- Editing files via the GitHub Interface
 
 ##### Method 1: Editing via your Local Fork _(Recommended)_
 
@@ -183,9 +185,9 @@ As a note, use the present tense for your commit messages (i.e. `Add` instead of
 
 15. The title (also called the subject) of your PR should be descriptive of your changes and succinctly indicate what is being fixed.
 
-    * **Do not add the issue number in the PR title or commit message.**
+    - **Do not add the issue number in the PR title or commit message.**
 
-    * Examples: `Add site NAME`
+    - Examples: `Add site NAME`
 
 ### Next Steps
 
