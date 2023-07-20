@@ -419,6 +419,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## O
 
+- [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Omar Gastón Chalas](https://ogaston.com)
 - [OOQQ](https://ooqq.me)
