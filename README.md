@@ -26,7 +26,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdelaziz El Arassi](http://aelarassi.com)
-- [Abdellatif Laghjaj](http://abdellatif-laghjaj.ml)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
@@ -54,7 +53,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alexandre Santos](https://alexandresantosal91.github.io)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
-- [Ali Spittel](http://alispit.tel)
 - [Aljon De Lumen](https://www.delumenaljon.studio)
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Aloys Dillar](https://trolologuy.github.io)
@@ -79,7 +77,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io)
-- [Ariel Chura](https://arielchura.com)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
 - [Arsh Sahzad](https://www.arsh.dev)
@@ -140,7 +137,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chris Poole](https://chrispoole.com)
 - [Christian Kaisermann](https://kaisermann.me)
 - [Christian Toscano](https://achris.me)
-- [Christopher Carroll Smith](https://chriscarrollsmith.github.io)
 - [Chuck Smith](https://chucksmith.dev)
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Clyde D'Souza](https://clydedsouza.net)
@@ -212,7 +208,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## G
 
 - [Gabriel Romualdo](https://xtrp.io) ([@xtrp](https://github.com/xtrp))
-- [Gabriel Sozinho](https://gabrielsozinho.ga)
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Ganesh Patil](https://hardikjain.netlify.app)
@@ -279,7 +274,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jake Ginesin](https://jakegines.in)
 - [Jakob Rössner](https://roessner.tech)
 - [James Turner](http://turnerj.com)
-- [Janessa Tran](http://janessatran.github.io)
 - [Jatin Sharma](http://j471n.in)
 - [Jayant Goel](http://jayantgoel001.github.io)
 - [Jayant Parashar](https://jparasha.github.io)
@@ -299,7 +293,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
-- [Joseph Palma](https://josephpalma.dev)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
@@ -327,7 +320,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lars Roettig](https://larsroettig.dev)
-- [Laurence Young](https://portfolio-yukiteno.vercel.app)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
 - [Leonardo Oliveira](https://leonardoliveira.com)
@@ -532,7 +524,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Suhail Roushan](https://suhailroushan.com)
-- [Sumit Nalavade](https://sumitnalavade.vercel.app)
 
 ## T
 
@@ -595,7 +586,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
-- [Yinka Adedire](https://yinka.codes)
 - [Yosra Hashim](https://yhshi26.github.io)
 - [Yuji Sato](https://www.yujisatojr.com)
 - [Yuri Faria](https://windows87.github.io)
