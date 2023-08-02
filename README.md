@@ -446,6 +446,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praneeth Ravuri](https://prav.dev)
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Praveen Saini](https://praveen-me.github.io)
+- [Preet Suthar](https://preetsuthar.me)
 - [Prince Muhammad](https://princemuhammad.pro)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
