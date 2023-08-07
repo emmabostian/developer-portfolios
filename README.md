@@ -193,8 +193,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
-
-- [Faisal Ahmed Khan](https://FaisalAhmedKhan.github.io)
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
@@ -254,7 +252,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## I
 
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [Ikbal Nayem](https://ikbal-nayem.github.io)
 - [Ike Ofoegbu](https://iodev.io)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
@@ -293,7 +290,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Carlo Camara](https://jiseeeh.vercel.app)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [Jonathan Kila](https://jonathankila.vercel.app)
-- [Jordi Espinoza Mendoza](https://www.itsmejordi.live/#)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joseph Friedman](http://DecentGradient.com)
 - [Joshua Chinwendu](http://joshualine.github.io)
@@ -331,7 +327,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Leroy Rosales](https://leroyrosales.com)
 - [Leonel Ngoya](https://lndev.me)
 - [Lindsey Howard](https://lindseyk.dev)
-- [Liplan Lekipising](https://lekipising.tech)
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io)
@@ -374,7 +369,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Rodriguez](https://migu.es)
-- [Mimi Kim](https://seeyouspacecow.com)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohammad Rahmani](https://afgprogrammer.com)
@@ -445,7 +439,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Praneeth Ravuri](https://prav.dev)
 - [Praveen Kumar Purushothaman](https://praveen.science)
-- [Praveen Saini](https://praveen-me.github.io)
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Muhammad](https://princemuhammad.pro)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
@@ -560,7 +553,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
-- [Vaibhav Vikas](https://vaibhavvikas.github.io)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
 - [Valentine Elum](https://vahlcode.vercel.app)
 - [Varun Dey](https://varundey.me)
@@ -592,7 +584,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
-- [Yosra Hashim](https://yhshi26.github.io)
 - [Yuji Sato](https://www.yujisatojr.com)
 - [Yuri Faria](https://windows87.github.io)
 
