@@ -33,6 +33,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com)
+- [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Agney Menon](https://agney.dev)
