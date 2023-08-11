@@ -194,6 +194,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
+
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
@@ -357,6 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
+- [Matthew Waldron](https://www.waldronmatthew.com)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
 - [Maxim Villivald](https://villivald.com)
