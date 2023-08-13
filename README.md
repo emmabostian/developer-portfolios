@@ -163,6 +163,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [David Clarke](https://david-clarke.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Davi Lacerda](https://davilacerda.com)
+- [Debasish Dutta](https://debasishdutta.is-a.dev/)
 - [Deepraj Rakshit](http://deeprajrakshit.me)
 - [Denis Tokarev](https://devlato.com)
 - [Derryk Theberge](https://dtheberge.com)
