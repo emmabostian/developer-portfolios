@@ -372,6 +372,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michelle Brenner](https://michellebrenner.com)
+- [Miguel Lerma](https://mler.dev)
 - [Miguel Rodriguez](https://migu.es)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
