@@ -283,7 +283,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
-- [Jens van Wijhe](https://jens.ai)
+- [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerry Hirsch](https://jerryhirsch.com)
