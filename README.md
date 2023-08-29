@@ -346,6 +346,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
+- [Manikandan B](https://lifeofdev.com)
 - [Maram Sai Harsha Vardhan Reddy](https://maramsaiharsha.netlify.com)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
