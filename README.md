@@ -514,6 +514,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shivam Kaushal](https://shivamkaushal.in)
+- [Shivam Nirwani](https://shivamnirwani.com)
 - [Shivam Raj](https://shivxmr.netlify.app)
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shuvam Manna](http://shuvam.xyz)
