@@ -475,6 +475,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roberto Andrade](https://robertandradejr.dev)
 - [Rodrigo Kamada](https://rodrigo.kamada.com.br)
 - [Rohit Jain](https://kingtechnologies.in)
+- [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io)
