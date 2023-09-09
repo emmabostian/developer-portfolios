@@ -242,6 +242,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
+- [Hazeezet](https://hazeezet.com)
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
