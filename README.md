@@ -87,6 +87,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Assad Isah](https://nottherealalanturing.tech)
 - [Atanas Atanasov](https://atanas.info)
+- [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
