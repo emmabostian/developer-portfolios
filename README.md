@@ -420,6 +420,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Omar Gastón Chalas](https://ogaston.com)
+- [Omari Thompson-Edwards](https://omarileon.me)
 - [OOQQ](https://ooqq.me)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
