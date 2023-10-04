@@ -314,7 +314,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
-- [Kaustubh Dwivedi](https://portfolio-onlykingkd.vercel.app)
 - [Kaustubhai](https://kaustubhai.netlify.app)
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
 - [Kelven Rubalaine](https://kelven.dev)
