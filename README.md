@@ -212,7 +212,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Furkan Cengiz](https://furki.vercel.app)
 
 ## G
-
+- [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Romualdo](https://xtrp.io) ([@xtrp](https://github.com/xtrp))
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
