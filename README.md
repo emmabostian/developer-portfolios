@@ -537,6 +537,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sneha Ratnani](https://www.sneharatnani.com)
 - [Soham Mondal](https://sohammondal.com)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io)
+- [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com)
