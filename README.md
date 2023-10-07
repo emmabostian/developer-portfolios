@@ -88,6 +88,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Assad Isah](https://nottherealalanturing.tech)
+- [Aster Bandis](https://bandisast.eu)
 - [Atanas Atanasov](https://atanas.info)
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Auroob Ahmad](https://auroob.github.io/dev-port/)
