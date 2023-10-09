@@ -215,6 +215,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Furkan Cengiz](https://furki.vercel.app)
 
 ## G
+
 - [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Romualdo](https://xtrp.io) ([@xtrp](https://github.com/xtrp))
 - [Gabriel Tekombo](https://gabrielthecode.com)
@@ -602,6 +603,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Y
 
+- [Yared Tekileselassie](https://yared.vercel.app/)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
