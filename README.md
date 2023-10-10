@@ -398,6 +398,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
+- [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
+
 
 ## N
 
@@ -613,4 +615,3 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Zaur Sharifov](https://www.zaursharifov.com)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zonayed Ahmed](https://zonayed.me)
-- [Zhioua Mohamed](https://mohamedzhioua.vercel.app)
