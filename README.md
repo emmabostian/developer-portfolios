@@ -65,6 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amédée Dera](https://a-dera.com)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
+- [Anas Boubechra](https://cschad.com)
 - [Andreas Beuger](https://beuger.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
