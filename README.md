@@ -386,7 +386,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Lerma](https://mler.dev)
 - [Miguel Rodriguez](https://migu.es)
 - [Mitul Savani](http://mitulsavani.com)
-- [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
+- [Mohamed Marwen Meddeb](https://theagentmaro.github.io/portfolio.github.io/)- [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohan Raj](https://zolomohan.com)
