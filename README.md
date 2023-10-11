@@ -599,6 +599,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [YiMing Han](https://yiminghan.com)
 - [Yuji Sato](https://www.yujisatojr.com)
 - [Yuri Faria](https://windows87.github.io)
+- [Yusuf Yıldırım](https://www.yusufyildirim.dev/)
 
 ## Z
 
