@@ -236,7 +236,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hafid Ziti](https://www.hafidziti.dev)
-- [Halit İslam İçli](https://halid.dev)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Harlon Garcia](https://harlon.netlify.app)
@@ -244,7 +243,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
 - [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
-- [Harsh Singh](https://harshsingh.xyz)
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
@@ -481,7 +479,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rishabh Rawat](https://rrawat.com)
 - [Roberto Andrade](https://robertandradejr.dev)
-- [Rodrigo Kamada](https://rodrigo.kamada.com.br)
 - [Rohit Jain](https://kingtechnologies.in)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohith V](http://rohithvazhathody.pythonanywhere.com)
@@ -510,7 +507,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurav M H](https://sauravmh.com)
-- [Sauvik Nath](https://sauviknath.com)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
 - [Sebastien Graf](https://seb-graf.com)
