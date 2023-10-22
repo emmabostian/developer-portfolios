@@ -162,6 +162,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Daniel Alberski](https://danielalberski.redark.pl)
 - [Daniel Castro](https://rwxdan.dev)
+- [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Danstan Onyango](https://zemuldo.com)
