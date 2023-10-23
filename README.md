@@ -231,7 +231,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Georgi Yanev](https://gyanev.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Grace Snow](https://gracesnowdesign.co.uk)
-- [Godswill Umukoro](https://godswillumukoro.com)
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 
@@ -282,7 +281,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
-- [Jakob Rössner](https://roessner.tech)
 - [James Turner](http://turnerj.com)
 - [Jatin Sharma](http://j471n.in)
 - [Jayant Goel](http://jayantgoel001.github.io)
@@ -472,7 +470,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
-- [Rajesh Kumar Yadav](https://rajeshkumaryadav.com)
 - [Rakib Sarowar](https://rakibsarowar.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Rick Hanlon](https://rickhanlonii.github.io)
@@ -580,7 +577,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vincent Milum Jr](http://darkain.com)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
-- [Vitalik Hakim](https://vitalikhakim.tech)
 - [Vito Sartori](https://vito.io)
 - [vm ](https://vmthedev.web.app)
 
