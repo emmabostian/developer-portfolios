@@ -187,6 +187,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dino Gomez](https://dinogomez.vercel.app/)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
+- [Dzmitry Drepin](https://linktr.ee/drepin)
 
 ## E
 
