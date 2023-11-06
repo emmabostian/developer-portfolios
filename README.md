@@ -193,6 +193,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Eduard Yudinkov](https://yudinkov.dev)
+- [Eduardo Vaz](https://eduardovaz.dev)
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
