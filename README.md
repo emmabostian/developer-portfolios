@@ -325,6 +325,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kidus Bewket](https://kidus.ca)
 - [Kyle Shook](http://Kyleshook.com)
 - [Kyle Smith](https://yskkyle.com)
+- [KIRAN KUMAR](https://ikiran-dev.github.io/)
 
 ## L
 
