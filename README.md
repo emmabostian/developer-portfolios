@@ -177,6 +177,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Derryk Theberge](https://dtheberge.com)
 - [Delba](https://delba.dev)
 - [Dev](https://devpalwar.vercel.app)
+- [Dev Khandelwal](https://slyro.vercel.app)
 - [Dhanush Nehru](https://whatsapp-portfolio-dhanushnehru.netlify.app)
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
