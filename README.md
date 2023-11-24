@@ -496,7 +496,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
-
+- [Saahil D](https://saahild.com)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Safoor Safdar](https://safoorsafdar.com)
