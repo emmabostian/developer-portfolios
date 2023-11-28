@@ -393,6 +393,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Marwen Meddeb](https://theagentmaro.github.io/portfolio.github.io/)
 - [Mohammad Rahmani](https://afgprogrammer.com)
+- [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
