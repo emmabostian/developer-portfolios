@@ -372,6 +372,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
+- [Matheus Victor] (https://matheusvictor.vercel.app)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matthew Waldron](https://www.waldronmatthew.com)
