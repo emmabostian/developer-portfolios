@@ -330,7 +330,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kyle Shook](http://Kyleshook.com)
 - [Kyle Smith](https://yskkyle.com)
 
-
 ## L
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
@@ -406,6 +405,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
+- [Mushfiqur Rahman](https://mushfiq.xyz)
 
 ## N
 
@@ -501,6 +501,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
+
 - [Saahil D](https://saahild.com)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
