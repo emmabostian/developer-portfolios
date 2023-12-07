@@ -497,13 +497,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
-- [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Saahil D](https://saahild.com)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
+- [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Santosh Yadav](http://santoshyadav.dev)
