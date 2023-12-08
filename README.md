@@ -77,6 +77,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Angel Martinez](https://angelmtz.dev)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
+- [Ankush Minda](http://ankushminda.com)
 - [Anshu Raj](https://anshuraj.github.io)
 - [Anshuman Verma](https://anshumanv.dev)
 - [Antonio Ferreiro](https://toniferr.github.io)
