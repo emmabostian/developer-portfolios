@@ -557,6 +557,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev)
+- [Tiago Leite](https://www.tiagocreator.com/)
 - [Tim Jones](https://timmoth.com)
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
