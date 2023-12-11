@@ -324,6 +324,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Khaled Ahmed](https://khaled.is-a.dev)
 - [Kidus Bewket](https://kidus.ca)
 - [KIRAN KUMAR](https://ikiran-dev.github.io/)
+- [Kiran Naragund](https://kiran1689.github.io)
 - [Kyle Shook](http://Kyleshook.com)
 - [Kyle Smith](https://yskkyle.com)
 
