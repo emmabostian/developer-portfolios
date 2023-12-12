@@ -457,6 +457,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pan Wei Lian](https://williamson922.github.io)
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
+- [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
@@ -468,7 +469,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushkar Patel](https://thepushkarp.com/)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
-- [Peter Gallwas](https://peter.husky.nz)
 
 ## Q
 
