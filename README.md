@@ -391,6 +391,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
+- [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
 - [Mouad ZIANI](https://mouadziani.github.io)
