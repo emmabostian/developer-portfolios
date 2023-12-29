@@ -75,6 +75,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrii Zontov](https://lwjerri.dev)
 - [Andy Bell](https://andy-bell.design)
 - [Angel Martinez](https://angelmtz.dev)
+- [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankush Minda](http://ankushminda.com)
