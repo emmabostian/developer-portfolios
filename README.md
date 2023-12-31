@@ -400,6 +400,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Abdullah](https://mabdullahse.com)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
+- [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app/)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
