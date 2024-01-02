@@ -466,6 +466,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushkar Patel](https://thepushkarp.com/)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
+- [Prince Kumar](https://princekumar.xyz)
 
 ## Q
 
