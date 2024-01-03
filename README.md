@@ -82,6 +82,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anshu Raj](https://anshuraj.github.io)
 - [Anshuman Verma](https://anshumanv.dev)
 - [Antonio Ferreiro](https://toniferr.github.io)
+- [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arpit Sharma](https://yesarpit.github.io)
