@@ -65,6 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amédée Dera](https://a-dera.com)
+- [Amresh Prasad Sinha](https://amreshsinha.vercel.app/)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Anas Boubechra](https://cschad.com)
