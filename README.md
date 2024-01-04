@@ -269,7 +269,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## I
 
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [Ibrahim Sadik Tamim](https://tam11a.netlify.app/)
+- [Ibrahim Sadik Tamim](https://tam11a.dev/)
 - [Ike Ofoegbu](https://iodev.io)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
