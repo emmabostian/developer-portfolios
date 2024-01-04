@@ -351,6 +351,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Long Do](https://longpdo.github.io)
 - [LoveCodingWithAshu](https://lovecodingwithashu.tech)
 - [Luca Lischetti](https://sirlisko.com)
+- [Lucas Dantas](https://dantsdev.vercel.app/)
 - [Luis Cacho](https://luiscachog.io)
 
 ## M
