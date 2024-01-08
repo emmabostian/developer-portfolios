@@ -117,6 +117,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Berat Bozkurt](https://beratbozkurt.net)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me)
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
+- [Bharat Bhandari](https://bharatdev.vercel.app/)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
