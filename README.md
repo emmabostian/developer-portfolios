@@ -475,6 +475,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Q
 
+- [Qui Nguyen](https://www.lexnguyen.dev/)
+
 ## R
 
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
