@@ -520,6 +520,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
+- [Sanee Itas](https://saneeitas.netlify.app)
 - [Sarang N](https://srng.dev)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Sai Teja](https://saiteja13427.github.io)
