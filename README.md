@@ -550,6 +550,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Suhail Roushan](https://suhailroushan.com)
 - [Sumonta Saha Mridul](https://sumonta056.github.io/)
+- [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
 ## T
 
