@@ -461,6 +461,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pan Wei Lian](https://williamson922.github.io)
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
+- [Pedro Reis](https://preis.tech)
 - [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
