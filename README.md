@@ -1,5 +1,4 @@
 # Developer Portfolios
-
 A list of developer portfolios for your inspiration
 
 Have you built a portfolio? Are you proud of it?! Open a [PR](./CONTRIBUTING.md) to this repo and let's showcase your work! Refer to the [CONTRIBUTING](./CONTRIBUTING.md) file for direction.
@@ -150,7 +149,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chris Poole](https://chrispoole.com)
 - [Christian Kaisermann](https://kaisermann.me)
 - [Christian Toscano](https://achris.me)
-- [Chuck Smith](https://chucksmith.dev)
+- [Chuck Smith](https://eclecticcoding.com)
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Cole Emeruche](https://coleruche.com)
@@ -171,7 +170,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
-- [Danstan Onyango](https://zemuldo.com)
 - [Daniel Michael](https://www.daniel-michael.com)
 - [David Clarke](https://david-clarke.com)
 - [Davide Santangelo](https://davidesantangelo.com)
@@ -408,7 +406,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mukul Chugh](https://mukulchugh.com)
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
-- [Mushfiqur Rahman](https://mushfiq.xyz)
 
 ## N
 
