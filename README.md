@@ -516,6 +516,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
+- [Sanee Itas](https://saneeitas.netlify.app)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
 - [Sarang N](https://srng.dev)
