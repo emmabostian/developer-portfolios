@@ -436,6 +436,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Omargpax](https://omargpax.pages.dev)
+- [Om](https://omchaudhari1107.github.io/)
+- [Om](https://omdev.up.railway.app/)
 - [OOQQ](https://ooqq.me)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
