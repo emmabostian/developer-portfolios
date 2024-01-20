@@ -518,6 +518,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
+- [Samarth Kadam](https://samarthkadam.vercel.app/)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Santosh Yadav](http://santoshyadav.dev)
