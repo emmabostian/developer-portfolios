@@ -184,6 +184,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
+- [Dhruva Bhat S N](https://dhruvabhat.netlify.app/)
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Dillion Megida](http://dillionmegida.com)
 - [Dimitri Pashutskii](https://dpashutskii.com)
