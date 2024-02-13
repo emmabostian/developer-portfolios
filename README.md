@@ -17,7 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-C
+- [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
@@ -105,6 +105,7 @@ C
 - [Arup Mandal](https://arupmandal.github.io)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
+- [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 
 ## B
 
@@ -412,7 +413,6 @@ C
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
-- [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 
 ## N
 
