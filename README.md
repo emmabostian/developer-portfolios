@@ -413,6 +413,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
+- [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 
 ## N
 
