@@ -80,7 +80,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankush Minda](http://ankushminda.com)
-- [Anshu Raj](https://anshuraj.github.io)
 - [Anshuman Verma](https://anshumanv.dev)
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
@@ -168,7 +167,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Daniel Alberski](https://danielalberski.redark.pl)
-- [Daniel Castro](https://rwxdan.dev)
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
@@ -286,7 +284,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## J
 
-- [Jack Childs](https://jackchilds.tech)
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
 - [Jahir Fiquitiva](https://jahir.dev)
@@ -312,7 +309,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Doe](https://portfolio-john2.netlify.app)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Josef Aidt](https://josefaidt.dev)
-- [Joseph Friedman](http://DecentGradient.com)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
@@ -412,7 +408,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app/)
 - [Mukul Chugh](https://mukulchugh.com)
-- [Muntadhar Haydar](https://muntadhar.net)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
@@ -480,7 +475,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pratham Agrawal](https://pratham2002.github.io/)
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Preet Suthar](https://preetsuthar.me)
-- [Prince Kumar](https://princekumar.xyz)
 - [Prince Muhammad](https://princemuhammad.pro)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushkar Patel](https://thepushkarp.com/)
