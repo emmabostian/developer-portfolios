@@ -517,11 +517,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## S
 
 - [Saahil D](https://saahild.com)
-- [Sagar Mude](https://sagarmude.netlify.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
+- [Sagar Mude](https://sagarmude.netlify.app)
+- [Said Kharboutli](https://saidk.io)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
