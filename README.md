@@ -375,6 +375,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Mateus Felipe G.](https://mateusf.com)
+- [Matheus Manuel](https://matheusmanuel.netlify.com/)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor] (https://matheusvictor.vercel.app)
 - [MathisCool](https://mathiscool.is-a.dev)
