@@ -217,6 +217,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
+- [Fernando Júnior](https://fernaandojr.github.io/)
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
