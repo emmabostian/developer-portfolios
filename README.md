@@ -125,6 +125,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bipin M V](https://bipinmv.netlify.app)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
+- [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Bowang Lan](https://bowanglan.dev)
 - [Brad Garropy](https://bradgarropy.com)
