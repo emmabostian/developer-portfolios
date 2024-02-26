@@ -254,7 +254,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Hari Prasad](https://hariprasd.me)
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
-- [Harsh Goel](https://harshgoel.me)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hassan Ahmed](https://www.hassanahmed.net)
@@ -273,7 +272,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## I
 
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [Ibrahim Sadik Tamim](https://tam11a.dev/)
 - [Ike Ofoegbu](https://iodev.io)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
@@ -442,7 +440,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Om](https://omchaudhari1107.github.io/)
-- [Om](https://omdev.up.railway.app/)
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Omargpax](https://omargpax.pages.dev)
@@ -508,7 +505,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rohit Jain](https://kingtechnologies.in)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
-- [Rohith V](http://rohithvazhathody.pythonanywhere.com)
 - [Roland L. Taylor](http://rolandixor.pro)
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
@@ -561,7 +557,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Stefan Bohacek](https://fourtonfish.com)
-- [Suhail Roushan](https://suhailroushan.com)
 - [Sumonta Saha Mridul](https://sumonta056.github.io/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
