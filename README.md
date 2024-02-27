@@ -172,6 +172,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
+- [Daniel Everest](https://danieleverest.vercel.app/)
 - [Daniel Michael](https://www.daniel-michael.com)
 - [David Clarke](https://david-clarke.com)
 - [Davide Santangelo](https://davidesantangelo.com)
