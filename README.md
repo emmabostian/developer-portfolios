@@ -241,6 +241,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
 - [Georgi Yanev](https://gyanev.com)
+- [Ghulam Ahmed](https://gahmed.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Giorgio Faini](https://giorgiofaini.com/)
 - [Grace Snow](https://gracesnowdesign.co.uk)
