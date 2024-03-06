@@ -295,6 +295,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
 - [James Turner](http://turnerj.com)
 - [Jatin Sharma](http://j471n.in)
+- [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jayant Goel](http://jayantgoel001.github.io)
 - [Jayant Parashar](https://jparasha.github.io)
 - [Jayed Rafi](https://jayedrafi.com)
