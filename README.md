@@ -230,6 +230,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## G
 
+- [Gabriel López](https://glpzzz.dev)
 - [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
