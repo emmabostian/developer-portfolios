@@ -80,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankush Minda](http://ankushminda.com)
+- [Anshul Gora](https://anshulwork.netlify.app/)
 - [Anshuman Verma](https://anshumanv.dev)
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
