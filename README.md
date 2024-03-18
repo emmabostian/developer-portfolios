@@ -112,6 +112,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Bankole Ahmed](http://bankoleahmed.netlify.com)
+- [Baptiste Miramont](https://baptistemiramont.fr)
 - [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Benjamin Lannon](https://lannonbr.com)
