@@ -393,6 +393,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Melvin Jones Repol](https://mrepol742.github.io)
+- [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michelle Brenner](https://michellebrenner.com)
