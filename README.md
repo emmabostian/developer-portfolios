@@ -627,6 +627,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yash Johri](https://yash1200.github.io)
 - [Yash Suhagiya](https://yashsuhagiya.me)
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
+- [Yassine Haimouch](https://gitcoder.vercel.app)
 - [Yasmin Lopes](https://yasminlopes.netlify.app)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
