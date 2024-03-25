@@ -579,6 +579,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Torben Korb](https://www.digital-creative.de/)
 - [Travis Fischer](https://transitivebullsh.it)
+- [Tristan Chin](https://www.chintristan.io/)
 
 ## U
 
