@@ -261,6 +261,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
+- [Hashir Farooq](https://hashirfarooq.com)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Hazeezet](https://hazeezet.com)
