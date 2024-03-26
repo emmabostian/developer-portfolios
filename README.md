@@ -492,6 +492,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
 - [Rafael Salazar](https://rafalazar.github.io)
+- [Rafael Santana](https://www.rafaelsantana.dev/)
 - [Rahul Mahesh](https://rahulmahesh.netlify.com)
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Sawant](http://raalzz.com)
