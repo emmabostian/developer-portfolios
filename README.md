@@ -526,6 +526,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Said Kharboutli](https://saidk.io)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
+- [Samarth Kadam](https://samarthkadam.vercel.app/)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Sanee Itas](https://saneeitas.netlify.app)
