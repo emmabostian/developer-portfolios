@@ -247,6 +247,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Georgi Yanev](https://gyanev.com)
 - [Ghulam Ahmed](https://gahmed.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
+- [Gianluca Galota](https://gianlucagalota.dev)
 - [Giorgio Faini](https://giorgiofaini.com/)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
