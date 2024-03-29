@@ -461,6 +461,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app/)
 - [Pankaj Gaikar](https://pankajgaikar.com)
+- [Panhabot Bot](https://panhabot.com/)
 - [Patricia Aas](https://patricia.no)
 - [Patrick Hyatt](https://www.patrickhyatt.com)
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio)
