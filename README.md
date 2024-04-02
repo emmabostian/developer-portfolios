@@ -249,6 +249,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Giorgio Faini](https://giorgiofaini.com/)
 - [Grace Snow](https://gracesnowdesign.co.uk)
+- [Grégoire Launay--Bécue](https://linv.dev) ([@Linventif](https://github.com/linventif))
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 
