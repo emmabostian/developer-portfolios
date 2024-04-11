@@ -144,6 +144,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Caitlyn Greffly](https://caitlyngreffly.com)
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
+- [Chambrin Alexandre](https://chambrin.dev/)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
