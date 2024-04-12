@@ -106,6 +106,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
 - [Arup Mandal](https://arupmandal.github.io)
+- [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
 
