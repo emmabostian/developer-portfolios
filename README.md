@@ -480,6 +480,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
+- [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
