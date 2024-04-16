@@ -15,7 +15,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-## A
+## A 
 
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
@@ -83,6 +83,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anil Khatri](https://imkaka.github.io)
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app/)
+- [Anshul Soni](https://anshulsoni.in/)
 - [Anshuman Verma](https://anshumanv.dev)
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
@@ -105,7 +106,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Aycan Öğüt](https://aycan.dev)
-- [Arup Mandal](https://arupmandal.github.io)
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
