@@ -13,7 +13,7 @@ If you have never opened a PR and need direction, read more below.
 
 Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues).
 
-Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
+Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 This guide has been modified from [freeCodeCamp's Contributors Guide](https://github.com/freeCodeCamp/freeCodeCamp/blob/master/CONTRIBUTING.md)
 
