@@ -274,6 +274,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hoang Nguyen](https://hoangdesu.com)
 - [Houari Zegai](https://zegai.netlify.com)
 - [Hubert Kimani](https://hubertkimani.me)
+- [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com)
