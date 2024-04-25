@@ -520,6 +520,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Rutik Kulkarni] (https://rutik-kulkarni.web.app)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
 
