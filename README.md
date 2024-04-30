@@ -141,6 +141,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## C
 
+- [zeeshan junaid](https://zjportfolio.netlify.app/)
 - [Cade Kynaston](https://cade.codes)
 - [Caitlyn Greffly](https://caitlyngreffly.com)
 - [Casper Iversen](https://caspertheghost.me)
