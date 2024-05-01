@@ -416,6 +416,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mouad ZIANI](https://mouadziani.github.io)
 - [Mugunth Perumal](https://mugunth.tech/)
 - [Muhammad Muhaddis](https://muhaddis.info)
+- [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io/)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app/)
 - [Mukul Chugh](https://mukulchugh.com)
