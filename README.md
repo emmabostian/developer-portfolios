@@ -423,6 +423,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev/)
+- [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io/)
 
 ## N
 
@@ -445,7 +446,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
-- [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io/)
 
 ## O
 
