@@ -402,6 +402,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
+- [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Lerma](https://mler.dev)
 - [Miguel Rodriguez](https://migu.es)
