@@ -269,6 +269,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hashir Farooq](https://hashirfarooq.com)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
+- [Hasan](https://hasansiddiqui.netlify.app/)
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
