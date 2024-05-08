@@ -388,7 +388,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Manuel](https://matheusmanuel.netlify.com/)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
-- [Matheus Victor] (https://matheusvictor.vercel.app)
+- [Matheus Victor](https://matheusvictor.vercel.app)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matvey Kottsov](https://matvey.codes)
@@ -524,7 +524,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
-- [Rutik Kulkarni] (https://rutik-kulkarni.web.app)
+- [Rutik Kulkarni](https://rutik-kulkarni.web.app)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
 
