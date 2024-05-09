@@ -409,6 +409,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Rodriguez](https://migu.es)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
+- [Mohammad Haaris Iqubal](http://haarisiqubal.github.io/)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
@@ -426,6 +427,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustafa Bhikhapurwala](https://mustafadev.me)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev/)
+
 
 ## N
 
