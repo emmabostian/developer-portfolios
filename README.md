@@ -629,6 +629,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
+- [Vivek Patel](http://vivek9patel.com)
+- [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [vm ](https://vmthedev.web.app)
 
 ## W
