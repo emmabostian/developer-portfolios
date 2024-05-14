@@ -196,6 +196,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dillion Megida](http://dillionmegida.com)
 - [Dimitri Pashutskii](https://dpashutskii.com)
 - [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio)
+- [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
 - [Dino Gomez](https://dinogomez.vercel.app/)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
