@@ -574,6 +574,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Sivaramakrishnan](https://portfoliov2-lovat-ten.vercel.app/)
+- [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Sneha Ratnani](https://www.sneharatnani.com)
 - [Soham Mondal](https://sohammondal.com)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
