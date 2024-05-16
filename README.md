@@ -85,6 +85,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anshul Gora](https://anshulwork.netlify.app/)
 - [Anshul Soni](https://anshulsoni.in/)
 - [Anshuman Verma](https://anshumanv.dev)
+- [Antoine Dangleterre](https://antoinedangleterre.com/)
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Anurag Affection](https://anuragaffection.vercel.app)
