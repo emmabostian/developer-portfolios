@@ -452,6 +452,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
+- [Nitesh Ramola](https://niteshramola.in)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
 
