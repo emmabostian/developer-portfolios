@@ -346,6 +346,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kidus Bewket](https://kidus.ca)
 - [KIRAN KUMAR](https://ikiran-dev.github.io/)
 - [Kiran Naragund](https://kiran1689.github.io)
+- [Krishnanand A](https://krishnananda.netlify.app)
 - [Kyaw Zin Thiha](https://www.kyawzinthiha.dev/)
 - [Kyle Shook](http://Kyleshook.com)
 - [Kyle Smith](https://yskkyle.com)
