@@ -98,6 +98,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arup Mandal](https://arupmandal.github.io)
 - [Assad Isah](https://www.nottherealalanturing.site/)
+- [Ashim Minhazul](https://minhazul-ashim.com)
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
