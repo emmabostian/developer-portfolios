@@ -641,6 +641,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vivek Patel](http://vivek9patel.com)
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [vm ](https://vmthedev.web.app)
+- [Vladyslav Kryvytchenko](https://vladfrontendpro.vercel.app/)
 
 ## W
 
