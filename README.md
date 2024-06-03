@@ -571,6 +571,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
+- [Shikhar Gupta](https://shikhar97.github.io/)
 - [Shivam Nirwani](https://shivamnirwani.com)
 - [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivram Sambhus](https://shivi.io)
