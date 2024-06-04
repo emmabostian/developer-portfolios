@@ -330,6 +330,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Josef Aidt](https://josefaidt.dev)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
+- [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
 
