@@ -664,6 +664,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yasmin Lopes](https://yasminlopes.netlify.app)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
+- [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template/)
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev/)
 
