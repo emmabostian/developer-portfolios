@@ -15,7 +15,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
-## A 
+## A
 
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
@@ -205,6 +205,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dino Gomez](https://dinogomez.vercel.app/)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
+- [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
 
 ## E
@@ -437,7 +438,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app/)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev/)
 
-
 ## N
 
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
@@ -540,6 +540,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 
 ## S
+
 - [Saahil D](https://saahild.com)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Safoor Safdar](https://safoorsafdar.com)
