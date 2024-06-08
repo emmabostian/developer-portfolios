@@ -17,7 +17,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Abdullah Ayoola](http://ayooladev.vercel.app)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aaron Dunphy](https://aarondunphy.com)
@@ -29,6 +28,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
+- [Abdullah Ayoola](http://ayooladev.vercel.app)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
