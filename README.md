@@ -28,7 +28,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
-- [Abdullah Ayoola](http://ayooladev.vercel.app)
+- [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
