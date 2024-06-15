@@ -527,6 +527,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakib Sarowar](https://rakibsarowar.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
+-  [Razin Rayees](https://razin.in)
 - [Rick Hanlon](https://rickhanlonii.github.io)
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
