@@ -530,7 +530,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shuvam Manna](http://shuvam.xyz)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
-- [Sivaramakrishnan](https://portfoliov2-lovat-ten.vercel.app/)
+- [Sivaramakrishnan](https://sivaramakrishnan.xyz)
 - [Sneha Ratnani](https://www.sneharatnani.com)
 - [Soham Mondal](https://sohammondal.com)
 - [Sonu kumar kushwaha](https://flyingsonu122.github.io)
