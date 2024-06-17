@@ -362,6 +362,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## L
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
+- [Larry Xue](https://larryxue.dev)
 - [Lars Roettig](https://larsroettig.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
