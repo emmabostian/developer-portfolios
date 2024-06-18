@@ -241,6 +241,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io)
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
+- [Frederic Henri](https://cloud06.io)
 - [Furkan Cengiz](https://furki.vercel.app)
 
 ## G
