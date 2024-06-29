@@ -346,6 +346,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kamran Hamid](https://mkamranhamid.netlify.com)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
+- [Kashiful Haque](https://ifkash.vercel.app)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
 - [Kaustubhai](https://kaustubhai.netlify.app)
