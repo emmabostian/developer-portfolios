@@ -308,6 +308,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
+- [Jagadeesh B](https://jagadeeshftw.netlify.app/)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
 - [Jainex Patel](https://jainex.vercel.app)
@@ -531,7 +532,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakib Sarowar](https://rakibsarowar.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
--  [Razin Rayees](https://razin.in)
+- [Razin Rayees](https://razin.in)
 - [Rick Hanlon](https://rickhanlonii.github.io)
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
