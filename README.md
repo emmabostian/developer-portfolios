@@ -64,6 +64,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Aloys Dillar](https://trolologuy.github.io)
+- [Alvalens](https://www.alvalens.my.id/)
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app)
