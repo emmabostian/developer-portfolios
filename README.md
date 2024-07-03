@@ -235,7 +235,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fenotiana Andriamahenimanana](https://www.fenotiana.dev)
-- [Fernando Júnior](https://fernaandojr.github.io/)
+- [Fernando Júnior](https://fernaandojr.vercel.app)
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
