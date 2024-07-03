@@ -618,6 +618,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com/)
 - [Tim Jones](https://timmoth.com)
+- [Tim Stanton](https://www.tim-stanton.dev/)
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
