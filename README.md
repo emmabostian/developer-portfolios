@@ -433,6 +433,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io/)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
+- [Mohamad Zubi](https://mohamad-zubi.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
