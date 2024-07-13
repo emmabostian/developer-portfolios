@@ -645,6 +645,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## V
 
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
+- [Vaibhav Prajapat](https://vai-portfolio.netlify.app/)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
 - [Varun Dey](https://varundey.me)
