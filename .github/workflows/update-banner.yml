@@ -18,4 +18,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Count list items and update README
-        run: python3 update_banner.py
+        run: python3 src/update_banner.py
