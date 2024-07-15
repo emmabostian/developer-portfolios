@@ -26,5 +26,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Update list count in README" -a || echo "No changes to commit"
-          git push
+          git push origin HEAD:master  # Ensure this matches your repository's default branch
+      
+    
 
