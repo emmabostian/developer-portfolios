@@ -12,12 +12,15 @@ with open(readme_path, 'r', encoding='utf-8') as file:
 
 # Count the list items
 list_count = len(re.findall(r'^\s*-\s', readme_contents, re.MULTILINE))
+print(list_count)
 
 # Define the new banner message
 new_banner = f'## Current List Count: {list_count}'
+print(new_banner)
 
 # Replace old banner with new banner in README
 new_readme_contents = re.sub(r'## Current List Count: \d+', new_banner, readme_contents)
+print(new_readme_contents)
 
 # Save the changes back to README.md
 with open(readme_path, 'w', encoding='utf-8') as file:

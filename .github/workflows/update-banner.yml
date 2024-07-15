@@ -19,3 +19,12 @@ jobs:
 
       - name: Count list items and update README
         run: python3 src/update_banner.py
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git commit -m "Update list count in README" -a || echo "No changes to commit"
+          git push
+
