@@ -341,6 +341,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
+- [Juan Diaz](https://jpdiaz.dev/)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
 - [Juned Khan](https://junedkhan.me/)
