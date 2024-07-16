@@ -34,6 +34,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
 - [Abhishek Kandel](https://abhishekkandel.com.np)
+- [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abu Said](https://www.abusaid.me/)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com)
