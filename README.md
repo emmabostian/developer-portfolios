@@ -35,6 +35,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
 - [Abhishek Kandel](https://abhishekkandel.com.np)
 - [Abu Said](https://www.abusaid.me)
+- [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com)
 - [Aditya Medhe](https://aditya.medhe.in)
