@@ -632,8 +632,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 
 ## V
-
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
+- [Vaibhav Padmani](vi0650.github.io/)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
