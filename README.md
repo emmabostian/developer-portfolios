@@ -632,6 +632,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 
 ## V
+
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
@@ -656,6 +657,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
 - [vm ](https://vmthedev.web.app)
+- [Volkan Kabay](https://volkankabay.com/)
 
 ## W
 
