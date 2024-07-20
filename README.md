@@ -99,6 +99,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
+- [Arshad MQ](https://arshadm1.com) [Sr. Full Stack Developer and Freelancer]
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arup Mandal](https://arupmandal.github.io)
 - [Assad Isah](https://www.nottherealalanturing.site)
