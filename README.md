@@ -333,6 +333,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jo Lienhoop](https://jolienhoop.com)
 - [John Carlo Camara](https://jiseeeh.vercel.app)
 - [John Doe](https://portfolio-john2.netlify.app)
+- [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Josef Aidt](https://josefaidt.dev)
 - [Joshua Chinwendu](http://joshualine.github.io)
