@@ -424,6 +424,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Lerma](https://mler.dev)
 - [Miguel Rodriguez](https://migu.es)
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohit Paudyal](https://findmohit.netlify.app)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Rahmani](https://afgprogrammer.com)
