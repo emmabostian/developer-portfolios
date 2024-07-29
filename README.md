@@ -440,7 +440,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
-- [Mustafa Bhikhapurwala](https://mustafadev.me)
+- [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
 
