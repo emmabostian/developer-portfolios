@@ -496,6 +496,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
 - [Pan Wei Lian](https://williamson922.github.io)
+- [Paul Koeck](https://paul.koeck.dev)
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Pedro Reis](https://preis.tech)
