@@ -314,6 +314,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
+- [James Mumo](https://jamesmumo.vercel.app/)
 - [James Turner](http://turnerj.com)
 - [Jason Solano](https://jasonsolano.tech)
 - [Jatin Sharma](http://j471n.in)
