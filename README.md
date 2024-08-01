@@ -431,6 +431,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohamad Zubi](https://mohamad-zubi.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
+- [Mohit Paudyal](https://findmohit.netlify.app)
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
