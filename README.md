@@ -656,6 +656,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vincent Milum Jr](http://darkain.com)
+- [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
