@@ -468,6 +468,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
 
 ## O
