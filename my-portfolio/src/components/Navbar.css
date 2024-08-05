@@ -1,0 +1,11 @@
+.nav-link {
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.3s ease-in-out;
+  display: inline-block;
+}
+
+.nav-link:hover {
+  color: pink;
+  transform: scale(1.1);
+}
