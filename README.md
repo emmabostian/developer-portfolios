@@ -344,6 +344,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Julia Johnson](http://juliacodes.com)
 - [Juned Khan](https://junedkhan.me)
+- [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
 ## K
 
