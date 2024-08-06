@@ -76,6 +76,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
+- [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
 - [André de Faria](https://andredfaria.github.io/)
 - [Andreas Beuger](https://beuger.dev)
