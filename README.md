@@ -527,6 +527,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
+-[Rachel Tschanz](https://rtdevcraft.com/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
