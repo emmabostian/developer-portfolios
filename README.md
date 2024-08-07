@@ -89,6 +89,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
+- [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshul Soni](https://anshulsoni.in)
