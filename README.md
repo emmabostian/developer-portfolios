@@ -330,6 +330,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
+- [Jerin BS](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
