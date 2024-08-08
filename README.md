@@ -29,6 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
+- [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
