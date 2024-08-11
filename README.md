@@ -599,6 +599,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shivam Nirwani](https://shivamnirwani.com)
 - [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivram Sambhus](https://shivi.io)
+- [Shrikant Yadav](https://shrikant-yadav.vercel.app)
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
