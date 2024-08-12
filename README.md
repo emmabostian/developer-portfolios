@@ -418,6 +418,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
+- [Max Juškevič](https://www.juskevic.com/)
 - [Maxim Villivald](https://villivald.com)
 - [Maya Shavin](https://www.mayashavin.com)
 - [Mayank Aggarwal](https://mayank0255.github.io)
