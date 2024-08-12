@@ -272,6 +272,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grégoire Launay--Bécue](https://linv.dev) ([@Linventif](https://github.com/linventif))
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
+- [Gokul Raja](https://gokul-raja84.github.io/)
 
 ## H
 
