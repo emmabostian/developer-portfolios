@@ -101,6 +101,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io)
+- [Armel Munyaneza](https://munyaneza.vercel.app/)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
 - [Arshad MQ](https://arshadmq.com) [Sr. Full Stack Developer and Freelancer]
@@ -123,7 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
-- [Armel Munyaneza](https://munyaneza.vercel.app/)
+
 
 ## B
 
