@@ -123,6 +123,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
+- [Armel Munyaneza](https://munyaneza.vercel.app/)
 
 ## B
 
