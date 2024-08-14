@@ -574,6 +574,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sai Teja](https://saiteja13427.github.io)
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
+- [Saksham Agarwal](https://skshamagarwal.github.io/)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
