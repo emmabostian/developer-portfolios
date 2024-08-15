@@ -529,6 +529,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Q
 
+- [Quentin Berthet](https://quentinberthet.ch)
 - [Qui Nguyen](https://www.lexnguyen.dev)
 
 ## R
