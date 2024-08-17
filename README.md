@@ -57,6 +57,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akshat Gupta](https://www.akshatvg.com)
+- [Akshay](https://devakshay.vercel.app)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
 - [Alejandro Sobko](http://alejandrosobko.com)
 - [Alestor Aldous](http://alestor123.github.io)
