@@ -678,6 +678,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vincent Milum Jr](http://darkain.com)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
+- [Vishal Rai](https://vishalrai.netlify.app/))
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
