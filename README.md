@@ -158,6 +158,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## C
 
+- [Cadagiani Eden](https://ecadagiani.fr)
 - [Cade Kynaston](https://cade.codes)
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
