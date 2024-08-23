@@ -198,6 +198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Daniel Michael](https://www.daniel-michael.com)
+- [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepraj Rakshit](http://deeprajrakshit.me)
