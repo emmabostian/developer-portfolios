@@ -678,6 +678,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
+- [Vibhor Arya](https://vibhorarya12.vercel.app/)
 - [Victor Aremu](http://bit.ly/victoraremu)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vijay Singh](https://itsvj.me)
