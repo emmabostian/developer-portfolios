@@ -409,6 +409,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Mahmoud AlSharif](https://malsharif.me)
+- [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Marc Backes](http://marc.dev)
 - [Marcos Aguayo](https://marcosaguayo.com)
