@@ -481,6 +481,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nikita Rusetskii](https://xtenzq.github.io)
 - [Nikita Sobolev](https://sobolevn.me)
+- [Nilesh Fatfatwale](https://nileshfatfatwale.vercel.app/)
 - [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
 - [Nipun Jain](https://lucifernipun22.github.io)
 - [Nisarg Patel](https://nisarg.io)
