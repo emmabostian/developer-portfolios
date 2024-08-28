@@ -103,6 +103,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io)
+- [Arjun K](https://arjunk.me)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
