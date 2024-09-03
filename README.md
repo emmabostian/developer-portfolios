@@ -372,6 +372,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kenta Yamamoto](https://ychof.com)
 - [Ketuman Vishwakarma](https://k2maan.vercel.app/)([@k2maan](https://github.com/k2maan))
 - [Khaled Ahmed](https://khaled.is-a.dev)
+- [Khokon M.](https://khokon.dev)
 - [Kidus Bewket](https://kidus.ca)
 - [KIRAN KUMAR](https://ikiran-dev.github.io)
 - [Kiran Naragund](https://kiran1689.github.io)
