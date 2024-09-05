@@ -620,6 +620,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
+- [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shivam Nirwani](https://shivamnirwani.com)
 - [Shivam Raj](https://shivxmr.netlify.app)
