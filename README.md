@@ -668,6 +668,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## U
 
+- [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app/)
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 - [Ullas Arwan](https://ullas.xyz)
