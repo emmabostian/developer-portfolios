@@ -557,6 +557,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rafael Santana](https://www.rafaelsantana.dev)
 - [Rahul Bhatija](https://rahulbhatija.com)
 - [Rahul Kumar](https://rahulbaran.vercel.app)
+- [Rahul Raj](https://rahulrajsb.me)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Rajan Bhattarai](https://cdrrazan.com)
