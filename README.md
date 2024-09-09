@@ -236,6 +236,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elmo Nickol](https://elmonickcool.vercel.app)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
+- [Enes Hacısağır](https://enesehs.github.io)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
 - [Erdal TAŞKESEN](https://www.erdaltaskesen.com)
 - [Erik Henrique Alves Cunha](https://www.indianboy.com.br)
