@@ -617,6 +617,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
+- [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
 - [Seunghun Bang](https://seunghun-website.vercel.app)
