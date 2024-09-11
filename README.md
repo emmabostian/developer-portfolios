@@ -181,6 +181,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Christian Toscano](https://achris.me)
 - [Chuck Smith](https://eclecticcoding.com)
 - [Chuckz Okoye](https://chuckzokoye.com)
+- [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
