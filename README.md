@@ -630,6 +630,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shikhar Gupta](https://shikhar97.github.io)
+- [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shivam Nirwani](https://shivamnirwani.com)
 - [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
