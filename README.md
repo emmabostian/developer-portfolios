@@ -53,6 +53,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aishani Pachauri](https://aishanipach.netlify.app)
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
+- [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
