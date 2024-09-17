@@ -129,7 +129,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azhar Zafar](http://azharr.com)
 
-
 ## B
 
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
@@ -556,6 +555,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 -[Rachel Tschanz](https://rtdevcraft.com/)
+
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
@@ -747,6 +747,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zak Plumridge](https://zakplumridge.co.uk/)
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
