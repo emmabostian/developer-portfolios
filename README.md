@@ -631,6 +631,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
+- [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
