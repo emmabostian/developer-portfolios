@@ -41,6 +41,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adil Aboulkacim](https://adilaboulkacim.com)
 - [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Kumar](https://www.adityakr.com)
+- [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Agney Menon](https://agney.dev)
