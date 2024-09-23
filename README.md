@@ -512,6 +512,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Omargpax](https://omargpax.pages.dev)
+- [Onur Şuyalçınkaya](https://onur.dev/)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
 - [Orion Dobos](https://oriondobos.com/)
