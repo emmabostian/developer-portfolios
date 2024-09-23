@@ -621,6 +621,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurav M H](https://sauravmh.com)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Schleidens Dev](https://schleidens.netlify.app)
+- [Sckoorp](https://sckoorp.com)
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
