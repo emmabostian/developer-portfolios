@@ -455,6 +455,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Lerma](https://mler.dev)
 - [Miguel Rodriguez](https://migu.es)
+- [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
