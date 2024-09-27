@@ -139,6 +139,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
+- [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
 - [Benjamin Lannon](https://lannonbr.com)
 - [Ben Rogers](https://benrogers.dev)
 - [Berat Bozkurt](https://beratbozkurt.net)
