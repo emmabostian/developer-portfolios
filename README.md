@@ -366,7 +366,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
-- [Jules Lofficial] (https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
+- [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
 - [Julia Johnson](http://juliacodes.com)
 - [Juned Khan](https://junedkhan.me)
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
