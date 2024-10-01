@@ -693,6 +693,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 - [Ullas Arwan](https://ullas.xyz)
+- [Ulysse Pavloff](https://pavloffulysse.com/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utsav Devadiga](https://utsav-dev.netlify.app)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
