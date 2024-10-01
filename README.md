@@ -682,6 +682,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
+- [Thibault Mathian](https://thibault.sh)
 - [TJ Klint](https://tjklint.github.io)
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
