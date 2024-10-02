@@ -562,6 +562,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
+-[Ruhban Abdullah](https://developerruhban.com/)
+
 -[Rachel Tschanz](https://rtdevcraft.com/)
 
 - [Rachit Bharadwaj](https://rachit.infornics.com)
