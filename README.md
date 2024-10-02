@@ -626,6 +626,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurav M H](https://sauravmh.com)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
+- [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Sckoorp](https://sckoorp.com)
 - [Scott Spence](https://scottspence.com)
