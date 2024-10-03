@@ -322,6 +322,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ike Ofoegbu](https://iodev.io)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
+- [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Sheikh](https://frikishaan.com)
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
