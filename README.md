@@ -206,6 +206,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Daniel Michael](https://www.daniel-michael.com)
 - [Darshan Vasani](https://dpvasani-56.netlify.app/)
+- [Darshan Vasani 2](https://dpvasani56.vercel.app/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
