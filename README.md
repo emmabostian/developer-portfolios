@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
+- [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshay](https://devakshay.vercel.app)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
