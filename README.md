@@ -358,6 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jo Lienhoop](https://jolienhoop.com)
 - [John Carlo Camara](https://jiseeeh.codes)
 - [John Doe](https://portfolio-john2.netlify.app)
+- [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Kila](https://jonathankila.vercel.app)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
@@ -463,6 +464,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Zubi](https://mohamad-zubi.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohit Paudyal](https://findmohit.netlify.app)
+- [Monir Hossain](https://monirhrabby.com)
+- [Monir Hossain Rabby](https://www.monirhrabby.com)
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
@@ -558,8 +561,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
--[Rachel Tschanz](https://rtdevcraft.com/)
-
+- [Rachel Tschanz](https://rtdevcraft.com/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
@@ -589,6 +591,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Ruhban Abdullah](https://developerruhban.com/)
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
