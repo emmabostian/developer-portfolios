@@ -701,6 +701,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
+- [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
