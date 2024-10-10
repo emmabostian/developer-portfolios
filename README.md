@@ -130,7 +130,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
-- [Azhar Zafar](http://azharr.com)
 
 ## B
 
