@@ -703,6 +703,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
+- [Vishwa Pramuditha](https://pramu.cc/)
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
