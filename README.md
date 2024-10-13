@@ -163,7 +163,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## C
 
-- [Cadagiani Eden](https://ecadagiani.fr?o=emmabostian_portfolios)
 - [Cade Kynaston](https://cade.codes)
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
@@ -400,7 +399,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Larry Xue](https://larryxue.dev)
-- [Lars Roettig](https://larsroettig.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
 - [Leonardo Oliveira](https://leonardoliveira.com)
@@ -721,7 +719,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vijay Verma](https://vjy.me)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
-- [Vincent Milum Jr](http://darkain.com)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Vishal Rai](https://vishalrai.netlify.app/))
 - [Vishwanath B](https://frozenhearth.vercel.app)
