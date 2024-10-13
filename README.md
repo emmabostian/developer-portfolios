@@ -746,6 +746,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yassine Haimouch](https://gitcoder.vercel.app)
 - [Yasmin Lopes](https://yasminlopes.netlify.app)
+- [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [YiMing Han](https://yiminghan.com)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
