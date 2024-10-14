@@ -633,7 +633,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
-- [Seunghun Bang](https://seunghun-website.vercel.app)
+- [Seunghun Bang](https://seunghun-website.vercel.app) (Software Engineer | Support Engineer)](https://github.com/a1603169)
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shakhzhakhan Maxudbek](https://args.tech)
