@@ -237,6 +237,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Eduard Yudinkov](https://yudinkov.dev)
 - [Eduardo Vaz](https://eduardovaz.dev)
 - [Ehsan Rafee](https://ehsanrafee.ir)
+- [Electric Magic Factory](https://electricmagicfactory.com/en/)
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
