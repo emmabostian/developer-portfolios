@@ -354,6 +354,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerin BS](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
+- [Jigme Lodey](http://jigmeloday.com)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jo Lienhoop](https://jolienhoop.com)
