@@ -366,7 +366,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Carlo Camara](https://jiseeeh.codes)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [Jonas Werner](https://jonaswerner.com)
-- [Jonathan Kila](https://jonathankila.vercel.app)
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
@@ -431,7 +430,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Marc Backes](http://marc.dev)
-- [Marcos Aguayo](https://marcosaguayo.com)
 - [Marieflor Bawanan](https://marieflor.dev)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
@@ -533,7 +531,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
-- [Panhabot Bot](https://panhabot.com)
 - [Pankaj Gaikar](https://pankajgaikar.com)
 - [Parth Mittal](https://parthmittal.netlify.app)
 - [Patricia Aas](https://patricia.no)
@@ -739,7 +736,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## W
 
-- [Wajahat Ali Abid](https://wajahataliabid.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 
