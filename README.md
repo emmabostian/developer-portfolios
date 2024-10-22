@@ -279,6 +279,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gaspare Tortora](https://gaspavar.dev)
+- [Gaurav Bansal](https://gaurav-bansal.vercel.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [Georges Atalla](https://www.georgesatalla.com)
 - [George Christeas](https://chr-ge.com)
