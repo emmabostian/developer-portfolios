@@ -455,6 +455,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
+- [Michaell Alavedra](https://www.michaellalavedra.com/)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
