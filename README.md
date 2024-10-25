@@ -443,6 +443,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
 - [MathisCool](https://mathiscool.is-a.dev)
+- [Mathis Zeghouani](https://mathisdev.pro)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
