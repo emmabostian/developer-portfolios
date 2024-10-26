@@ -154,6 +154,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bipin M V](https://bipinmv.netlify.app)
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
+- [Bogdan Marić](https://bogdanmaric.dev)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
