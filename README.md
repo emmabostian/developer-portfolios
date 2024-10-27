@@ -672,6 +672,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stéphane Chan Hiou Kong](https://chan-stephane.github.io)
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+- [Saad El Afrhani](https://saadelafrhani.vercel.app/)
 
 ## T
 
