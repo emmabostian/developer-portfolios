@@ -246,6 +246,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
+- [Emir Bolat](https://spee.dev/)
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
