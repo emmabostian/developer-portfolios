@@ -426,8 +426,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
-- [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
-- [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 - [Madhan K](https://madhank93.github.io)
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
@@ -490,6 +488,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
+- [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
+- [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 
 ## N
 
