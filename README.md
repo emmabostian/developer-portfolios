@@ -588,6 +588,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakib Sarowar](https://rakibsarowar.com)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
+- [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Razin Rayees](https://razin.in)
 - [Remi Jara](https://www.remi-jara.fr)
 - [Rick Hanlon](https://rickhanlonii.github.io)
