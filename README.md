@@ -288,6 +288,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
 - [Georgi Yanev](https://gyanev.com)
+- [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game) ([@GhomKrosmonaute](https://github.com/GhomKrosmonaute))
 - [Ghulam Ahmed](https://gahmed.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
