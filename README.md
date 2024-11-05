@@ -252,6 +252,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
 - [Erdal TAŞKESEN](https://www.erdaltaskesen.com)
 - [Erik Henrique Alves Cunha](https://www.indianboy.com.br)
+- [Esteban Mansart](https://mansartesteban.vercel.app/)
 - [Evander Inácio](https://evander.vercel.app)
 - [Evil Rabbit](https://evilrabb.it)
 - [Ezekiel Ekunola](https://ezekielekunola.com)
