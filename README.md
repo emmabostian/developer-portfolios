@@ -561,6 +561,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Kumar](https://www.princecodes.online)
+- [Pritu Yadav](https://prituyadav.github.io/)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
