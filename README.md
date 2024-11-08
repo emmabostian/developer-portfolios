@@ -483,6 +483,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
 - [Mouad ZIANI](https://mouadziani.github.io)
+- [Muhammad Jaafar](https://m7mad.dev/)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
