@@ -680,6 +680,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Topalovic](https://www.stefantopalovic.com/)
 - [Stéphane Chan Hiou Kong](https://chan-stephane.github.io)
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
+- [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
 ## T
