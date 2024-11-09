@@ -142,7 +142,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
 - [Benjamin Lannon](https://lannonbr.com)
-- [Ben Oldham](https://www.benoldham.dev)
+- [Ben Oldham](https://www.benoldham.dev) [Web Developer]
 - [Ben Rogers](https://benrogers.dev)
 - [Berat Bozkurt](https://beratbozkurt.net)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me)
