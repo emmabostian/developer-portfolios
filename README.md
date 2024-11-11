@@ -136,14 +136,15 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## B
 
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
-- [Barrack Amuyunzu](https://amuyunzubarrac.club)
 - [Baptiste Miramont](https://baptistemiramont.fr)
+- [Barrack Amuyunzu](https://amuyunzubarrac.club)
 - [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
-- [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
-- [Benjamin Lannon](https://lannonbr.com)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
 - [Ben Rogers](https://benrogers.dev)
+- [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
+- [Benjamin Lannon](https://lannonbr.com)
+- [Benny Carlsson](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
 - [Berat Bozkurt](https://beratbozkurt.net)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me)
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
@@ -729,7 +730,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
-- [Varad Bhogayata](https://varadbhogayata.github.io/)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io)
