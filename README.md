@@ -304,8 +304,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hafid Ziti](https://www.hafidziti.dev)
-- [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamish Williams](https://hamishw.com/)
+- [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Harlon Garcia](https://harlon.netlify.app)
