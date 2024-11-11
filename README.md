@@ -729,6 +729,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
+- [Varad Bhogayata](https://varadbhogayata.github.io/)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vedant Athavale](https://vedantathavale.webflow.io)
