@@ -675,7 +675,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Simon Knott](https://simonknott.de)
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Sneha Ratnani](https://www.sneharatnani.com)
+- [SOUMYAJIT BEHERA]
 - [Soham Mondal](https://sohammondal.com)
+- [Soumyajit Behera](https://soumyajit.vercel.app/)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
