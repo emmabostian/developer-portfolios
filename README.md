@@ -134,6 +134,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
+- [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 
 ## B
 
