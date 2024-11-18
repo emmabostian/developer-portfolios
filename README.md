@@ -120,6 +120,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
+- [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
@@ -131,6 +132,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
+- [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app/)
 
 ## B
 
@@ -447,6 +449,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
+- [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
+- [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
@@ -740,7 +744,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
-- [Vishal Rai](https://vishalrai.netlify.app/))
+- [Vishal Rai](https://vishalrai.netlify.app/)
+- [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
