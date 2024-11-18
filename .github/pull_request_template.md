@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Pull request
+about: New developer site
 title: ''
 labels: ''
 assignees: ''
