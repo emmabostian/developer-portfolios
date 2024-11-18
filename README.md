@@ -582,10 +582,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
+- [Rabin Poudyal](https://rabinpoudyal.com.np)
 - [Rachel Tschanz](https://rtdevcraft.com/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
-- [Rakibul Islam](https://rakibul-islam-hasib.web.app)
-- [Rabin Poudyal](https://rabinpoudyal.com.np)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
 - [Rahul Bhatija](https://rahulbhatija.com)
@@ -597,11 +596,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com/)
 - [Rakib Sarowar](https://rakibsarowar.com)
+- [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Razin Rayees](https://razin.in)
 - [Remi Jara](https://www.remi-jara.fr)
+- [Rensith Udara](https://rensithudara.github.io/portfolio/)
 - [Rick Hanlon](https://rickhanlonii.github.io)
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
