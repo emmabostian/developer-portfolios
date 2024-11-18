@@ -78,14 +78,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Shrivastava](https://aman04.netlify.app)
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amir Akbulut](https://amirdev.nl)
-- [Amédée Dera](https://a-dera.com)
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
 - [André de Faria](https://andredfaria.github.io/)
-- [Andreas Beuger](https://beuger.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
@@ -116,7 +114,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arup Mandal](https://arupmandal.github.io)
 - [Assad Isah](https://www.nottherealalanturing.site)
-- [Ashim Minhazul](https://minhazul-ashim.com)
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
@@ -172,7 +169,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
-- [Chetan Raj](https://chetanraj.in)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chethin Manage](https://www.cmanage.dev)
 - [Chicago IT Systems](https://www.chicagoitsystems.com)
@@ -236,7 +232,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## E
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
-- [Eduard Yudinkov](https://yudinkov.dev)
 - [Eduardo Vaz](https://eduardovaz.dev)
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Electric Magic Factory](https://electricmagicfactory.com/en/)
@@ -470,8 +465,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Zubi](https://mohamad-zubi.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohit Paudyal](https://findmohit.netlify.app)
-- [Monir Hossain](https://monirhrabby.com)
-- [Monir Hossain Rabby](https://www.monirhrabby.com)
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mostafa Abdelhamid](https://mostafa-abdelhamid.com)
@@ -567,7 +560,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
-- [Rachel Tschanz](https://rtdevcraft.com/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
@@ -634,7 +626,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schleidens Dev](https://schleidens.netlify.app)
-- [Sckoorp](https://sckoorp.com)
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
@@ -719,9 +710,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vedant Athavale](https://vedantathavale.webflow.io)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Vibhor Arya](https://vibhorarya12.vercel.app/)
-- [Victor Aremu](http://bit.ly/victoraremu)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
-- [Vijay Singh](https://itsvj.me)
 - [Vijay Verma](https://vjy.me)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
@@ -754,7 +743,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yasmin Lopes](https://yasminlopes.netlify.app)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
-- [YiMing Han](https://yiminghan.com)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
@@ -762,7 +750,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
-- [Zak Plumridge](https://zakplumridge.co.uk/)
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
