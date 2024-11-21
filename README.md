@@ -206,6 +206,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Daniel Alberski](https://danielalberski.redark.pl)
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
+- [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Daniel Michael](https://www.daniel-michael.com)
@@ -237,7 +238,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-- [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 
 ## E
 
