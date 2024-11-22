@@ -276,6 +276,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
 - [Frederic Henri](https://cloud06.io)
 - [Furkan Cengiz](https://furki.vercel.app)
+- [Floris Melchers](https://Floriscodes.nl)
 
 ## G
 
