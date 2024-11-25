@@ -208,20 +208,20 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Alberski](https://danielalberski.redark.pl)
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Michael](https://www.daniel-michael.com)
+- [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
-- [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
-- [Darshan Vasani](https://dpvasani-56.netlify.app/)
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
+- [Darshan Vasani](https://dpvasani-56.netlify.app/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepak Singh](https://deepaksingh.vercel.app)
-- [Denis Tokarev](https://devlato.com)
 - [Delba](https://delba.dev)
-- [Dev](https://devpalwar.vercel.app)
+- [Denis Tokarev](https://devlato.com)
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Khandelwal](https://slyro.vercel.app)
+- [Dev](https://devpalwar.vercel.app)
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
@@ -239,7 +239,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-
+  
 ## E
 
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
