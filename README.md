@@ -116,6 +116,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arshad MQ](https://arshadmq.com) [Sr. Full Stack Developer and Freelancer]
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 - [Arup Mandal](https://arupmandal.github.io)
+- [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app/)
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashlee Boyer](http://ashleemboyer.dev)
