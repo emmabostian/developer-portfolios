@@ -314,6 +314,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Harsh Singhvi](https://harshsinghvi.com)
+- [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hasan](https://hasansiddiqui.netlify.app)
 - [Hashir Farooq](https://hashirfarooq.com)
