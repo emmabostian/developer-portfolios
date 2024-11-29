@@ -1,0 +1,29 @@
+:root {
+  font-size: 62.5%;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  transition: scroll 0.8s ease-out;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+#particles {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  z-index: -1; /* Keeps it behind other content */
+}
+
+a {
+  text-decoration: none;
+}
