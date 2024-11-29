@@ -438,6 +438,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
