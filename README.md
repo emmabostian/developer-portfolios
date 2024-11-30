@@ -40,6 +40,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Kandel](https://abhishekkandel.com.np)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abu Said](https://www.abusaid.me)
+- [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Adam Alston](https://www.adamalston.com)
 - [Adil Aboulkacim](https://adilaboulkacim.com)
 - [Adithya Krishnan](https://www.adithyakrishnan.com/)
