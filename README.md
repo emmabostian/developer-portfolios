@@ -53,7 +53,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmed Oublihi](https://www.medevs.xyz)
-- [Ahmed Zougari](https://ahmedzougari.com)
 - [Ahsan Khan](https://ahsankhan.me)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
 - [Ajay Kannan](https://ajaykannan.netlify.app)
@@ -590,7 +589,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
-- [Rachel Tschanz](https://rtdevcraft.com/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
