@@ -42,6 +42,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abu Said](https://www.abusaid.me)
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Adam Alston](https://www.adamalston.com)
+- [Adeola Badero](https://www.adeolabadero.me)
 - [Adham Dannaway](https://www.adhamdannaway.com/) [UX/UI Designer & Frontend Developer]
 - [Adil Aboulkacim](https://adilaboulkacim.com)
 - [Adithya Krishnan](https://www.adithyakrishnan.com/)
