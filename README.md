@@ -143,9 +143,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Barrack Amuyunzu](https://amuyunzubarrac.club)
+- [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Becca Bailey](http://Becca.is)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
-- [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
 - [Ben Rogers](https://benrogers.dev)
 - [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
