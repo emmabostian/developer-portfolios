@@ -640,6 +640,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
+- [Ryan Pereira](http://ryanpereira.me)
 
 ## S
 
