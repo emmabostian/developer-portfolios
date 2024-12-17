@@ -457,6 +457,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
+- [Manish Tamang] (https://www.manishtamang.com)
 - [Marc Backes](http://marc.dev)
 - [Marieflor Bawanan](https://marieflor.dev)
 - [Marijan Smetko](https://msmetko.xyz)
