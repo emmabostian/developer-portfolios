@@ -453,6 +453,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Madhan K](https://madhank93.github.io)
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
+- [Madza](https://www.madza.dev/)
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
