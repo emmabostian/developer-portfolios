@@ -743,6 +743,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
+- [Tushar Kanjariya](https://tusharkanjariya.me)
 
 ## U
 
