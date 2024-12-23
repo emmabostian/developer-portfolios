@@ -608,6 +608,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
+- [Ragav R](https://ragavs-profile.netlify.app/)
 - [Rahul Bhatija](https://rahulbhatija.com)
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Raj](https://rahulrajsb.me)
