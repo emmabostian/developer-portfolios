@@ -229,6 +229,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev](https://devpalwar.vercel.app)
 - [Dewald Els](https://dewaldels.com)
 - [Dhaval Patel](https://dhavalcode.com)
+- [Dharmendra Kumar](https://www.developer-dharmendra.online)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
