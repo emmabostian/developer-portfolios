@@ -770,6 +770,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
+- [Vauth](https://vauth.github.io/hueco)
 - [Vedant Athavale](https://vedantathavale.webflow.io)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Vibhor Arya](https://vibhorarya12.vercel.app/)
