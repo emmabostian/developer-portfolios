@@ -142,6 +142,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## B
 
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
+- [BalKrishna](https://balkrishnabk.com.np)
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Barrack Amuyunzu](https://amuyunzubarrac.club)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
