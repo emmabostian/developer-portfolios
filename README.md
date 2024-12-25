@@ -662,6 +662,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
+- [Sam Foreman](https://samforeman.me) \[Computational Scientist\]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
