@@ -80,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app)
+- [Anamuddin Ahmad](https://anamuddinahmad.github.io/Portfolio_1/)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
