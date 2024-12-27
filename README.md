@@ -696,6 +696,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sharon Yi](https://sharon-yi.com/) [Frontend Developer]
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shashank Shet](https://shashank-shet.vercel.app/)
+- [Shashi Kant](https://shashikantportfolio.web.app/)
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
