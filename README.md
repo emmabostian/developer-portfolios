@@ -161,6 +161,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
+- [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Bipin M V](https://bipinmv.netlify.app)
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
