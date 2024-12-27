@@ -657,6 +657,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
+- [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Sai Teja](https://saiteja13427.github.io)
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
