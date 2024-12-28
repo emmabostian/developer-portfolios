@@ -87,6 +87,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
+- [Anay Paraswani](https://anayparaswani.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
