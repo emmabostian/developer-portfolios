@@ -734,6 +734,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
 - [TheKaushikGoswami](https://thekaushikgoswami.github.io)
+- [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full-Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
 - [Thibault Mathian](https://thibault.sh)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
