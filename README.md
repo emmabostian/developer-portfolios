@@ -86,7 +86,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
-- [Anas Boubechra](https://cschad.com)
+- [Anas Boubechra](https://cschad.com)\
+- [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
