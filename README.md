@@ -402,6 +402,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## K
 
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
+- [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karunika](https://karunika.work/)
