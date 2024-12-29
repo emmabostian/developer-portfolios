@@ -566,7 +566,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
-- [Puzant Bakjejian](https://puzant.netlify.app/)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
@@ -598,6 +597,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
+- [Puzant Bakjejian](https://puzant.netlify.app/)
 
 ## Q
 
