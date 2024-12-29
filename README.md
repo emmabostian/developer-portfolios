@@ -566,6 +566,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
+- [Puzant Bakjejian](https://puzant.netlify.app/)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
