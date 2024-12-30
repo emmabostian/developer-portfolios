@@ -610,6 +610,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Poudyal](https://rabinpoudyal.com.np)
+- [Rabin Thami](https://www.rabinthami.com.np/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
