@@ -280,6 +280,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
+- [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io)
