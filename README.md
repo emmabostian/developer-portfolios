@@ -357,6 +357,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
+- [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh B](https://jagadeeshftw.netlify.app)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
