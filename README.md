@@ -708,6 +708,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shuvam Manna](http://shuvam.xyz)
+- [Siddharth Vaishnav](https://codesiddharth.tech)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
@@ -723,6 +724,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+  
 
 ## T
 
