@@ -77,6 +77,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Aloys Dillar](https://trolologuy.github.io)
+- [Alok Kushwaha](https://alok-kushwaha.vercel.app)
 - [Alvalens](https://www.alvalens.my.id)
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Mittal](http://amanhimself.dev)
