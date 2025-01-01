@@ -408,8 +408,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karunika](https://karunika.work/)
 - [Kashiful Haque](https://ifkash.vercel.app)
-- [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
+- [Katie Haus](https://astro-portfolio-site.netlify.app/)
+- [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaustubhai](https://kaustubhai.netlify.app)
 - [Kay Evans-Stocks](https://www.kaystocks.com/) [Design Engineer]
 - [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
