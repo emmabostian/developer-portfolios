@@ -412,6 +412,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katie Haus](https://astro-portfolio-site.netlify.app/)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaustubhai](https://kaustubhai.netlify.app)
+- [Kavi Castelo](https://kavindukokila.netlify.app)
 - [Kay Evans-Stocks](https://www.kaystocks.com/) [Design Engineer]
 - [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
