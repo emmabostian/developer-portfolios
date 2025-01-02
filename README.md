@@ -244,6 +244,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
+- [Dushmanta Behera](https://dushmanta.dev)
 - [Dustin Brett](https://dustinbrett.com/)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
@@ -730,7 +731,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
-  
 
 ## T
 
