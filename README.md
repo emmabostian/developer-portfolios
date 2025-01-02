@@ -713,6 +713,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shuvam Manna](http://shuvam.xyz)
+- [Shyamalendu Nayak](https://www.shyam.dev/)
 - [Siddharth Vaishnav](https://codesiddharth.tech)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
