@@ -732,7 +732,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
-
 ## T
 
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
