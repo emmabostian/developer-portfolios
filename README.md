@@ -535,6 +535,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nader Ferjani](https://nader.run)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Nathan Simpson](https://nathansimpson.design)
+- [Natacha Bezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
 - [Naveed Ahmed](https://www.trixum.net)
 - [Nayan Das](https://www.nayandas.dev)
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
