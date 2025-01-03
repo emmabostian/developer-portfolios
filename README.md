@@ -771,6 +771,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
+- [Una Kravets](https://una.im/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
