@@ -336,7 +336,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
-- [Hikmet Melik FIRAT](https://hikmetmelik.tech) [Software Developer]
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
@@ -707,6 +706,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
+- [Shibiraj](https://shibiverse.tech/)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shivam Raj](https://shivxmr.netlify.app)
@@ -771,7 +771,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
-- [Una Kravets](https://una.im/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
