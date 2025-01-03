@@ -829,6 +829,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio/)
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
+- [Yusuf Bozacı](https://yusufbozaci.dev)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
 
 ## Z
