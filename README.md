@@ -336,6 +336,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
+- [Hikmet Melik FIRAT](https://hikmetmelik.com) [Software Developer]
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
