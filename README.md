@@ -348,6 +348,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ike Ofoegbu](https://iodev.io)
+- [Ilke Ozsekerli](https://ilkeozs.info)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
 - [Iqboljon Hasan](https://iqboljon.uz)
