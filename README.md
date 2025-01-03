@@ -352,6 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
 - [Iqboljon Hasan](https://iqboljon.uz)
+- [Ilke Ozsekerli](https://ilkeozs.info)
 - [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Sheikh](https://frikishaan.com)
 - [Isitha Subasinghe](https://isub.dev)
