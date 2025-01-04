@@ -534,7 +534,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
-[NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
+-[NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net)
 - [Nayan Das](https://www.nayandas.dev)
