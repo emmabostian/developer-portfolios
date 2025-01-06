@@ -230,6 +230,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Khandelwal](https://slyro.vercel.app)
 - [Dev](https://devpalwar.vercel.app)
+- [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
