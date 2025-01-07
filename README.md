@@ -70,6 +70,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akshay](https://devakshay.vercel.app)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
 - [Alejandro Sobko](http://alejandrosobko.com)
+- [Aleksandar Pajić](https://www.aleksandarpajic.co) [Software Developer & Designer]
 - [Alestor Aldous](http://alestor123.github.io)
 - [Alex Michailidis](https://alexandros.tech)
 - [Alexey Golub](http://tyrrrz.me)
