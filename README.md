@@ -159,6 +159,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Benny Carlsson](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
 - [Berat Bozkurt](https://beratbozkurt.net)
 - [Bertil Tandayamo](https://www.bertiltandayamo.me)
+- [Beteab Tefera](https://beteabtefera.com)
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bharat Bhandari](https://bharatdev.vercel.app)
 - [Bhavani Ravi](http://bhavaniravi.com)
