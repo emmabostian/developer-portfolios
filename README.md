@@ -637,6 +637,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ramesh Kumar](https://rameskum.com)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Razin Rayees](https://razin.in)
+- [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Rensith Udara](https://rensithudara.github.io/portfolio/)
 - [Richard Hill](https://www.rhdigital.co.uk/) [Digital Designer]
