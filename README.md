@@ -341,6 +341,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
+- [Hugo Folloni](https://hugofolloni.com)
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
