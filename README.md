@@ -427,6 +427,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
 - [Kenta Yamamoto](https://ychof.com)
 - [Ketuman Vishwakarma](https://k2maan.vercel.app/)([@k2maan](https://github.com/k2maan))
+- [Kevin Bogagne](https://kevinbg.vercel.app/) [Software Engineer ]
 - [Khaled Ahmed](https://khaled.is-a.dev)
 - [Khang Nguyen](https://khangnd.info)
 - [Khizar FAREED](https://khizarfareed.netlify.app/) [Engineer ]
