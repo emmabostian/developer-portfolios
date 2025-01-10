@@ -104,6 +104,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshul Soni](https://anshulsoni.in)
 - [Anthony MAHEFASOA](https://thony32.me)
+- [Anthony Odumodu](https://antonodu.netlify.app/)
 - [Antoine Dangleterre](https://antoinedangleterre.com)
 - [Anton Bojko](https://mrtoxas.github.io/cv/portfolio/)
 - [Antonio Ferreiro](https://toniferr.github.io)
