@@ -580,6 +580,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 
 ## P
+
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
@@ -807,6 +808,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
+- [Vishal Bhangare](https://vishalbhangare.netlify.app/)
 - [Vishal Rai](https://vishalrai.netlify.app/)
 - [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
