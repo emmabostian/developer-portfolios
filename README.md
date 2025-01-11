@@ -143,6 +143,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app/)
+- [Akhshy Ganesh](https://akhshyganesh.github.io/)
 
 ## B
 
