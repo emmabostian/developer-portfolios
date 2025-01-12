@@ -230,6 +230,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Delba](https://delba.dev)
 - [Denis Tokarev](https://devlato.com)
+- [Dennis Cristian](https://denncriss.com)
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Khandelwal](https://slyro.vercel.app)
 - [Dev](https://devpalwar.vercel.app)
