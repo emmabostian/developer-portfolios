@@ -642,6 +642,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
+- [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh/)
 - [Razin Rayees](https://razin.in)
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
