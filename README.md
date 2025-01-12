@@ -588,6 +588,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pankaj Gaikar](https://pankajgaikar.com)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
+- [Pasindu Dilshan](https://pasi-d.me/)
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
 - [Patrick Hyatt](https://www.patrickhyatt.com)
