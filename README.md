@@ -86,6 +86,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
 - [Amruth Pillai](https://amruthpillai.com)
+- [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
@@ -237,6 +238,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
+- [Dharmendra Kumar](https://www.developer-dharmendra.online)
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
@@ -685,6 +687,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sai Teja](https://saiteja13427.github.io)
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
+- [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
 - [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Sam Foreman](https://samforeman.me) \[Computational Scientist\]
