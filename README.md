@@ -175,9 +175,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
-- [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brad Garropy](https://bradgarropy.com)
 - [Brendan Lentz](https://brendanlentz.com)
+- [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Smith](https://multikitty.onrender.com)
 
