@@ -189,6 +189,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
+- [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with [TechFolios](https://techfolios.github.io))
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
 - [Chetanya Kandhari](https://availchet.github.io)
