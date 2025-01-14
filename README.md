@@ -345,7 +345,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Herman Starikov](http://starikov.dev)
-- [Himavanth Kumar Perni](himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
+- [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Folloni](https://hugofolloni.com)
