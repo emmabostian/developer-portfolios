@@ -62,7 +62,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
-- [Akash Pawara](https://akashpawara.com)
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
@@ -484,7 +483,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Malinda Lakshan](https://www.malindalakshan.com/)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Marc Backes](http://marc.dev)
-- [Marieflor Bawanan](https://marieflor.dev)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
@@ -624,7 +622,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Q
 
-- [Quentin Berthet](https://quentinberthet.ch) [source code](https://github.com/BerthetQuentin/personal-WebSite)
+- [Quentin Berthet](https://quentinberthet.ch)
 - [Qui Nguyen](https://www.lexnguyen.dev)
 
 ## R
@@ -845,7 +843,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yassine Haimouch](https://gitcoder.vercel.app)
 - [Yassine Oularbi](https://yassineoularbi.github.io)
-- [Yasmin Lopes](https://yasminlopes.netlify.app)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
