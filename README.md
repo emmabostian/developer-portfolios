@@ -187,6 +187,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
+- [Cemal Türkcan)](https://cemalturkcan.com)
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with [TechFolios](https://techfolios.github.io))
