@@ -752,6 +752,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Stefan Topalovic](https://www.stefantopalovic.com/)
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) (Software Engineer) ([@chan-stephane](https://github.com/chan-stephane))
+- [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
