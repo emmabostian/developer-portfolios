@@ -506,6 +506,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maxim Villivald](https://villivald.com)
 - [Maya Shavin](https://www.mayashavin.com)
 - [Mayank Aggarwal](https://mayank0255.github.io)
+- [Mayank Mehra](https://mayank-portfolio-pied.vercel.app/)
 - [Maytiya Monburinon](https://gigigimay.github.io)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
