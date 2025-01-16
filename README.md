@@ -388,6 +388,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jason Solano](https://jasonsolano.tech)
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
+- [Jatin Tekam](https://jatin-tekam.netlify.app/)
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Keraliya](https://jaykeraliya.com)
 - [Jay Vegad](https://jayvegad.vercel.app/)
