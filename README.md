@@ -138,7 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Suthar](https://avinashsuthar-portfolio.netlify.app)
 - [Aviral Dixit](https://aviraldixit.in)
-- [Avisek Ray] (https://avisek.codeltix.com)[Full Stack Developer)
+- [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
