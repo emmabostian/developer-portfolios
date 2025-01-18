@@ -256,6 +256,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
 - [Dino Gomez](https://dinogomez.vercel.app)
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
+- [Dor Lugasi-Gal](https://dorlugasigal.netlify.app/)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
 - [Dushmanta Behera](https://dushmanta.dev)
