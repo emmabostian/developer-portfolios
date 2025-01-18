@@ -164,7 +164,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bharat Bhandari](https://bharatdev.vercel.app)
 - [Bhavani Ravi](http://bhavaniravi.com)
-- [Bhavesh Mishra](bhaveshmishra.dev)
+- [Bhavesh Mishra](https://bhaveshmishra.dev)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
