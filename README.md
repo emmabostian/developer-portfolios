@@ -525,6 +525,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Rodriguez](https://migu.es)
+- [Dr Milan Milanovic](https://milan.milanovic.org/)
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
