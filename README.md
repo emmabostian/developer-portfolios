@@ -288,6 +288,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## F
 
+- [Fahim Bin Amin](https://www.fahimbinamin.com/)
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
