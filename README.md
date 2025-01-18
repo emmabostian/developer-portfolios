@@ -526,6 +526,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michaell Alavedra](https://www.michaellalavedra.com/)
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
+- [Mihir](https://mihir-portfolio-main-777.vercel.app)([Mihir2006](https://github.com/MIHIR2006))
 - [Miguel Rodriguez](https://migu.es)
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
 - [Minmitha A](https://minmitha.vercel.app)
