@@ -833,6 +833,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app/)
 - [Vikas Ukani](https://vikas-ukani.github.io)
+- [Vinay Digarse](https://vinaydigarse.github.io)
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Vishal Bhangare](https://vishalbhangare.netlify.app/)
