@@ -268,6 +268,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## E
 
+- [Edgard Barquero Real](https://barquero.dev)
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Eduardo Vaz](https://eduardovaz.dev)
 - [Ehsan Rafee](https://ehsanrafee.ir)
