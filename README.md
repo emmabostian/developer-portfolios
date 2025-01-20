@@ -521,7 +521,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
-- [Max Juškevič](https://www.juskevic.com/)
 - [Maxim Villivald](https://villivald.com)
 - [Maya Shavin](https://www.mayashavin.com)
 - [Mayank Aggarwal](https://mayank0255.github.io)
@@ -653,7 +652,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
-- [Rabin Poudyal](https://rabinpoudyal.com.np)
 - [Rabin Thami](https://www.rabinthami.com.np/)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Rafael Salazar](https://rafalazar.github.io)
@@ -767,7 +765,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
-- [Sneha Ratnani](https://www.sneharatnani.com)
 - [Soham Mondal](https://sohammondal.com)
 - [Soumyajit Behera](https://soumyajit.vercel.app/)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
