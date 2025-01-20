@@ -224,7 +224,7 @@ Current Portfolio Count: 797
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
-
+- [Dhananjay Shahane](https://dhananjay-dev.vercel.app)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Markowski](https://damianmarkowski.com)
