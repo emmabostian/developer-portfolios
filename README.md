@@ -479,6 +479,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Leonel Ngoya](https://lndev.me)
 - [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.com)
+- [Liran Tal](https://lirantal.com) [Developer Advocate at Snyk, GitHub Star, OpenJS Foundation Pathfinder for Security Award]
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io)
