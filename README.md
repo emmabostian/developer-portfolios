@@ -820,6 +820,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
+- [Vahid Foroughi](https://vahidforoughi.com)
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
