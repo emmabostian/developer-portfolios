@@ -611,7 +611,6 @@ Current Portfolio Count: 797
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app)
-- [Pablo Conejos](https://www.pabloconejos.dev/)
 - [PandaDEV](https://pandadev.net)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
@@ -646,7 +645,8 @@ Current Portfolio Count: 797
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app/)
-
+- [Pablo Conejos](https://www.pabloconejos.dev/)
+  
 ## Q
 
 - [Quentin Berthet](https://quentinberthet.ch)
