@@ -588,6 +588,7 @@ Current Portfolio Count: 797
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
+- [Nishant Dewangan](https://nishantdewangan.vercel.app)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
