@@ -176,6 +176,7 @@ Current Portfolio Count: 797
 - [Bhushan Borole](https://bhushan-borole.github.io)
 - [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Bipin M V](https://bipinmv.netlify.app)
+- [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bogdan Marić](https://bogdanmaric.dev)
