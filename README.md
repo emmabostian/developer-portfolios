@@ -674,6 +674,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Ramesh Kumar](https://rameskum.com)
+- [Ramin Rezaei - V1](https://raminrezaei.se)
+- [Ramin Rezaei - V2](https://raminr77.vercel.app/)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh/)
 - [Razin Rayees](https://razin.in)
