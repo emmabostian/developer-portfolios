@@ -636,6 +636,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
+- [PHPxCODER](https://phpxcoder.in)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
