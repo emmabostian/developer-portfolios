@@ -344,6 +344,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hamish Williams](https://hamishw.com/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app/)
+- [Hanif Yuli Abdillah P](https://hanifabdlh.vercel.app/) [AI Software Engineer and Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
