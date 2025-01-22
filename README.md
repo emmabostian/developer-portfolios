@@ -345,6 +345,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hamish Williams](https://hamishw.com/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app/)
+- [Hanif Yuli Abdillah P](https://hanifabdlh.vercel.app/) [AI Software Engineer and Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
@@ -554,7 +555,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mouad ZIANI](https://mouadziani.github.io)
 - [Muhammad Jaafar](https://m7mad.dev/)
-- [Muhammad Muhaddis](https://muhaddis.info)
+- [Muhammad Muhaddis](https://muhaddis.info) 
+- [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/) [Frontend Developer | MERN Stack Developer]
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
@@ -636,6 +638,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
+- [PHPxCODER](https://phpxcoder.in)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
