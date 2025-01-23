@@ -489,6 +489,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Long Do](https://longpdo.github.io)
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
+- [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Lukasz Kups](https://lukaszkups.net)
 
