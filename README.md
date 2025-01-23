@@ -531,6 +531,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maytiya Monburinon](https://gigigimay.github.io)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
+- [Md Ranju](https://www.mdranju.xyz) [Frontend Developer]
 - [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvyn Malherbe](https://melvynx.com)
@@ -554,7 +555,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mouad ZIANI](https://mouadziani.github.io)
 - [Muhammad Jaafar](https://m7mad.dev/)
-- [Muhammad Muhaddis](https://muhaddis.info) 
+- [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/) [Frontend Developer | MERN Stack Developer]
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
@@ -652,7 +653,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app/)
-  
+
 ## Q
 
 - [Quentin Berthet](https://quentinberthet.ch)
