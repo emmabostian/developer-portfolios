@@ -711,7 +711,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
 - [Saahil D](https://saahild.com)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Saeid Doroudi](https://saeiddoroudi.ir)
@@ -741,6 +740,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Satish Jhanwer](https://satishjhanwer.github.io) ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in)
+- [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
