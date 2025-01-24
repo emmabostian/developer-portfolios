@@ -685,8 +685,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Satish Jhanwer](https://satishjhanwer.github.io) ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
-- [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurabh Daware](https://www.saurabhdaware.in)
+- [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
