@@ -19,6 +19,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
+- [Aakash Rajbanshi](https://aakashrajbanshi.com.np/)  [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaron Lacerda](https://nightdev4l.me/index.html)
