@@ -746,6 +746,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schalk Venter](https://schalkventer.me/)
 - [Schleidens Dev](https://schleidens.netlify.app)
+- [Sckoorp](https://sckoorp.com)
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
