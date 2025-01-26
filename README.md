@@ -130,7 +130,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app/)
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
-- [Ashlee Boyer](http://ashleemboyer.dev)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Assad Isah](https://www.nottherealalanturing.site)
 - [Aster Bandis](https://bandisast.eu)
