@@ -253,6 +253,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
+- [Dhruvil Rathod](https://dhruvilrathod.me/) [Created from - [Angular Master Portfolio](https://github.com/dhruvilrathod/Angular-Master-Portfolio)]
 - [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & UI/UX Designer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Diego Rezende](https://diegorezm.netlify.app/)
