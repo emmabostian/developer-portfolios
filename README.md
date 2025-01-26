@@ -737,6 +737,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sanyam Kumar](https://sanyam.dev)
 - [Sarang N](https://srng.dev)
 - [Saroj Pradhan](https://pradhansaroj.com.np)
+- [Sartaj Alam](https://sak03.github.io/sartaj.dev/)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Satish Jhanwer](https://satishjhanwer.github.io) ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
