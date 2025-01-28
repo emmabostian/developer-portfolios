@@ -78,7 +78,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alex Michailidis](https://alexandros.tech)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
-- [Ali Saleem](https://alisaleem252.com)
+- [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Aloys Dillar](https://trolologuy.github.io)
