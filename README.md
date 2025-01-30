@@ -781,6 +781,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
+- [Shripad Khandare](https://shripadkhandare.in/)
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
