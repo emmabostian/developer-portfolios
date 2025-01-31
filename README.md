@@ -266,6 +266,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio)
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
 - [Dino Gomez](https://dinogomez.vercel.app)
+- [Dinokage](https://dinokage.in)
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app/)
 - [Drew Bredvick](https://drew.tech)
