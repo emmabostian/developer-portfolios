@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 820
+## Current Portfolio Count: 821
 
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
@@ -236,6 +236,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
+- [Darshan Bhuva](https://darshanbhuva.vercel.app)  [Full-stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
