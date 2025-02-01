@@ -236,7 +236,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
-- [Darshan Bhuva](https://darshanbhuva.vercel.app)  [Full-stack Developer]
+- [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
@@ -623,6 +623,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oscar Tian](http://www.bluexguardian.com)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
+- [Oussama Sallak](https://www.osallak.tech)
 
 ## P
 
