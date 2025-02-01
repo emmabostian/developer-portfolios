@@ -565,6 +565,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mouad ZIANI](https://mouadziani.github.io)
+- [MP3Martin](https://mp3martin.xyz)
 - [Muhammad Jaafar](https://m7mad.dev/)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/) [Frontend Developer | MERN Stack Developer]
