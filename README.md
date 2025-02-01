@@ -722,6 +722,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurav M H](https://sauravmh.com)
+- [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schalk Venter](https://schalkventer.me/)
