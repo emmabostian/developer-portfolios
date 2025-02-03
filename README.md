@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 821
+## Current Portfolio Count: 829
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -362,7 +362,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hasan](https://hasansiddiqui.netlify.app)
-- [Hashir Farooq](https://hashirfarooq.com)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
@@ -427,7 +426,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerin BS](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
-- [Jigme Lodey](https://jigmeloday.com)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jo Lienhoop](https://jolienhoop.com)
@@ -574,7 +572,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Mukul Chugh](https://mukulchugh.com)
-- [Musaddiq Ashfaq](https://musaddiq-ashfaq.github.io/Portfolio)
 - [Mushfiqur Rahman](https://mushfiq.xyz/)
 - [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
