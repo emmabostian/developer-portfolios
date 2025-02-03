@@ -868,6 +868,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vauth](https://vauth.github.io/hueco)
 - [Vedant Athavale](https://vedantathavale.webflow.io)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
+- [Vertanzil](https://vertanzil.github.io)
 - [Vibhor Arya](https://vibhorarya12.vercel.app/)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vijay Verma](https://vjy.me)
