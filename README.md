@@ -915,6 +915,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow Developer]
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
