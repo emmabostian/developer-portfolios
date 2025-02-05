@@ -134,6 +134,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
+- [Ashwith Rai](https://ashwithrai.me)
 - [Assad Isah](https://www.nottherealalanturing.site)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
