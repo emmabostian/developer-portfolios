@@ -270,6 +270,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dino Gomez](https://dinogomez.vercel.app)
 - [Dinokage](https://dinokage.in)
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
+- [Divyansh Kathuria](https://divyanshkathuria.netlify.app/)
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app/)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
