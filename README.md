@@ -913,6 +913,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yassine Oularbi](https://yassineoularbi.github.io)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
+- [Yoav](https://yoav.xyz/)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio/)
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
