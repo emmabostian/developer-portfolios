@@ -219,6 +219,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
 - [Clyde D'Souza](https://clydedsouza.net)
+- [Codexoft KE](https://codexoft.tech)
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
