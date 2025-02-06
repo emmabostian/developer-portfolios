@@ -188,6 +188,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Brad Garropy](https://bradgarropy.com)
+- [Brandon Mitchell](https://juncie.com) [Full Stack Developer]
 - [Brendan Lentz](https://brendanlentz.com)
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brittany Chiang](https://brittanychiang.com)
