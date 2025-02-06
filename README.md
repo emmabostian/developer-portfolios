@@ -426,6 +426,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jayant Parashar](https://jparasha.github.io)
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
+- [Jeayoung Jeon](https://jyje.live) [MLOps/DevOps Engineer]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
