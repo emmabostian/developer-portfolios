@@ -55,6 +55,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
+- [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
