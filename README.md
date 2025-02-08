@@ -830,6 +830,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
+- [Tasnimul Haque](https://tasnimul.vercel.app/) [Webdeveloper Developer & Designer]
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
