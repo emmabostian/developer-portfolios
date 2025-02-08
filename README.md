@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 829
+## Current Portfolio Count: 852
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -28,8 +28,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aayush Kurup](https://aayushkurup.dev)
 - [Abass Dev](https://abassdev.com)
-- [Abdelaziz El Arassi](http://aelarassi.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
+- [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan/) [Mobile Developer]
@@ -134,8 +134,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arup Mandal](https://arupmandal.github.io)
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app/)
 - [Ashish Mehra](https://ashishmehra.dev)
-- [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashish Namdeo](https://ashishnamdeo.com)
+- [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Assad Isah](https://www.nottherealalanturing.site)
@@ -255,9 +255,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Abass](https://blog.abassdev.com)
+- [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Khandelwal](https://slyro.vercel.app)
 - [Dev](https://devpalwar.vercel.app)
-- [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
 - [Dhananjay Shahane](https://dhananjay-dev.vercel.app)
@@ -299,8 +299,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
 - [Emanuel Lázaro](https://emanuellcs.github.io/emanuellazaro/)
-- [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Emir Bolat](https://spee.dev/)
+- [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
@@ -343,20 +343,20 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
-- [Georges Atalla](https://www.georgesatalla.com)
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
+- [Georges Atalla](https://www.georgesatalla.com)
 - [Georgi Yanev](https://gyanev.com)
 - [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game) ([@GhomKrosmonaute](https://github.com/GhomKrosmonaute))
 - [Ghulam Ahmed](https://gahmed.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
 - [Giorgio Faini](https://giorgiofaini.com)
-- [Grace Snow](https://gracesnowdesign.co.uk)
-- [Grégoire Launay--Bécue](https://linv.dev) ([@Linventif](https://github.com/linventif))
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 - [Gokul Raja](https://gokul-raja84.github.io/)
+- [Grace Snow](https://gracesnowdesign.co.uk)
+- [Grégoire Launay--Bécue](https://linv.dev) ([@Linventif](https://github.com/linventif))
 
 ## H
 
@@ -459,6 +459,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## K
 
+- [KIRAN KUMAR](https://ikiran-dev.github.io)
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Karen Fletcher](https://knpfletcher.dev)
@@ -482,7 +483,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Khizar FAREED](https://khizarfareed.netlify.app/) [Engineer ]
 - [Khokon M.](https://khokon.dev)
 - [Kidus Bewket](https://kidus.ca)
-- [KIRAN KUMAR](https://ikiran-dev.github.io)
 - [Kiran Naragund](https://kiran1689.github.io)
 - [Kiran Poudel](https://pkiran.com.np)
 - [Krishnanand A](https://krishnananda.netlify.app)
@@ -500,11 +500,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
-- [Leonardo Oliveira](https://leonardoliveira.com)
-- [Lee Warrick](http://leewarrick.com)
 - [Lee Robinson](https://leerob.io)
-- [Leroy Rosales](https://leroyrosales.com)
+- [Lee Warrick](http://leewarrick.com)
+- [Leonardo Oliveira](https://leonardoliveira.com)
 - [Leonel Ngoya](https://lndev.me)
+- [Leroy Rosales](https://leroyrosales.com)
 - [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate at Snyk, GitHub Star, OpenJS Foundation Pathfinder for Security Award]
@@ -520,6 +520,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Dr Milan Milanovic](https://milan.milanovic.org/)
+- [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Mads Hougesen](https://mhouge.dk)
@@ -556,8 +558,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app/)
 - [Maytiya Monburinon](https://gigigimay.github.io)
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
-- [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Md Ranju](https://www.mdranju.xyz) [Frontend Developer]
+- [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvyn Malherbe](https://melvynx.com)
@@ -566,9 +568,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michaell Alavedra](https://www.michaellalavedra.com/)
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
-- [Mihir](https://mihir-portfolio-main-777.vercel.app)([Mihir2006](https://github.com/MIHIR2006))
 - [Miguel Rodriguez](https://migu.es)
-- [Dr Milan Milanovic](https://milan.milanovic.org/)
+- [Mihir](https://mihir-portfolio-main-777.vercel.app)([Mihir2006](https://github.com/MIHIR2006))
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
@@ -580,7 +581,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Morelen Yim](https://morelenyim.com)
 - [Moritz Kornher](https://moritzkornher.de)
 - [Mouad ZIANI](https://mouadziani.github.io)
-- [MP3Martin](https://mp3martin.xyz)
 - [Muhammad Jaafar](https://m7mad.dev/)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/) [Frontend Developer | MERN Stack Developer]
@@ -631,22 +631,24 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Om](https://omchaudhari1107.github.io)
 - [Omar Gastón Chalas](https://ogaston.com)
-- [Omari Thompson-Edwards](https://omarileon.me)
 - [Omargpax](https://omargpax.pages.dev)
+- [Omari Thompson-Edwards](https://omarileon.me)
 - [Onur Şuyalçınkaya](https://onur.dev/)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
 - [Orion Dobos](https://oriondobos.com/)
 - [Osama Islam](https://osamaislam.vercel.app)
 - [Oscar Tian](http://www.bluexguardian.com)
-- [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
+- [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
 
 ## P
 
+- [PHPxCODER](https://phpxcoder.in)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev/)
+- [Pan Wei Lian](https://williamson922.github.io)
 - [PandaDEV](https://pandadev.net)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
@@ -660,7 +662,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio)
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
-- [Pan Wei Lian](https://williamson922.github.io)
 - [Paul Koeck](https://paul.koeck.dev)
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
@@ -668,7 +669,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Peter Gallwas](https://peter.husky.nz)
 - [Philip Johnson](https://philipmjohnson.org) (made with [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
-- [PHPxCODER](https://phpxcoder.in)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
@@ -718,8 +718,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Rensith Udara](https://rensithudara.github.io/portfolio/)
-- [Richard Hill](https://www.rhdigital.co.uk/) [Digital Designer]
 - [Riccardo Venturini](https://riccardoventurini.dev/)
+- [Richard Hill](https://www.rhdigital.co.uk/) [Digital Designer]
 - [Rick Hanlon](https://rickhanlonii.github.io)
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
@@ -833,6 +833,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
+- [TJ Klint](https://tjklint.github.io)
+- [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
@@ -840,9 +842,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me)
 - [Tek Kshetri](http://tekkshetri.com.np)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
+- [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
-- [TheKaushikGoswami](https://thekaushikgoswami.github.io)
 - [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full-Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
 - [Thibault Mathian](https://thibault.sh)
@@ -852,8 +854,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tim Jones](https://timmoth.com)
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
-- [TJ Klint](https://tjklint.github.io)
-- [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
@@ -864,23 +864,23 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app/)
 - [Uday Lunawat](https://udaylunawat.github.io)
-- [Uğur Atmaca](https://uguratmacacv.web.app)
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
+- [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
 
 - [Vahid Foroughi](https://vahidforoughi.com)
-- [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan S M](https://vaidhyanathansm.netlify.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
+- [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vauth](https://vauth.github.io/hueco)
@@ -902,17 +902,17 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
-- [Vivek Patel](http://vivek9patel.com)
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
+- [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
-- [vm ](https://vmthedev.web.app)
 - [Volkan Kabay](https://volkankabay.com/)
+- [vm ](https://vmthedev.web.app)
 
 ## W
 
-- [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
+- [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 
 ## Y
@@ -936,8 +936,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
-- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow Developer]
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
+- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow Developer]
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
 - [Zonayed Ahmed](https://zonayed.me)
