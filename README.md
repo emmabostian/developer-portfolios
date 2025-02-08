@@ -615,6 +615,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
 - [Nimit Trevadiya](https://nimit-trevadiya.vercel.app/) (fullstack developer)
 - [Nipun Jain](https://lucifernipun22.github.io)
+- [Niresh Shrestha](https://niresh.com.np/)
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
