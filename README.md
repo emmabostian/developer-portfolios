@@ -796,6 +796,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
+- [Shefali](https://shefali.dev)
 - [Shibiraj](https://shibiverse.tech/)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
