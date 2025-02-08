@@ -169,4 +169,4 @@ tags
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
 
-src/alphabetical.py
+./src/alphabetical.py

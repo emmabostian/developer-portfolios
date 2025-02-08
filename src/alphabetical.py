@@ -38,7 +38,5 @@ def main():
     with open('README.md', 'w') as file:
         file.writelines(sorted_lines)
 
-#     print(f"Sorted lists under headers at lines: {header_indices}")
-
 if __name__ == "__main__":
     main()
