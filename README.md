@@ -796,7 +796,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
-- [Shefali](https://shefali.dev)
 - [Shibiraj](https://shibiverse.tech/)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
@@ -887,6 +886,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vertanzil](https://vertanzil.github.io)
 - [Vibhor Arya](https://vibhorarya12.vercel.app/)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
+- [Vighnesh Raut](https://vighnesh153.dev)
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app/)
 - [Vikas Ukani](https://vikas-ukani.github.io)
