@@ -747,6 +747,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Saeid Doroudi](https://saeiddoroudi.ir)
 - [Safoor Safdar](https://safoorsafdar.com)
+- [Sagar Betkar](https://sagarbetkar.netlify.app/)
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
