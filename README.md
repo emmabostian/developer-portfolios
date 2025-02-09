@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 852
+## Current Portfolio Count: 857
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -495,7 +495,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | SDE | SWE)](https://ikushdev.github.io)
 - [Kyaw Zin Thiha](https://www.kyawzinthiha.dev)
-- [Kyle Shook](http://Kyleshook.com)
 - [Kyle Smith](https://yskkyle.com)
 
 ## L
@@ -532,8 +531,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
-- [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Mahmoud AlSharif](https://malsharif.me)
+- [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
@@ -665,7 +664,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
 - [Patrick Hyatt](https://www.patrickhyatt.com)
-- [Patrick Lehmann](https://patlehmann1.github.io/react_portfolio)
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
 - [Paul Koeck](https://paul.koeck.dev)
@@ -730,6 +728,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
+- [Rimon Chowdhury](https://rimonchowdhury.netlify.app/)
 - [Rishabh Kushwah](https://rishabhkushwah.netlify.app)
 - [Rishabh Rawat](https://rrawat.com)
 - [Robin Mastromari](http://robinmastromarino.com/) [UI/UX Designer]
@@ -745,7 +744,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan MacLean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
-- [Rimon Chowdhury](https://rimonchowdhury.netlify.app/)
 
 ## S
 
@@ -788,7 +786,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schalk Venter](https://schalkventer.me/)
 - [Schleidens Dev](https://schleidens.netlify.app)
-- [Sckoorp](https://sckoorp.com)
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sergei Chestakov](https://sergei.com)
