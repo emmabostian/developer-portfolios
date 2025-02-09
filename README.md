@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
+- [Ashutosh Nandanwar](https://ashutoshn.com) [Unity Developer]
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Assad Isah](https://www.nottherealalanturing.site)
