@@ -701,6 +701,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ragav R](https://ragavs-profile.netlify.app/)
 - [Rahul Bhatija](https://rahulbhatija.com)
 - [Rahul Kumar](https://rahulbaran.vercel.app)
+- [Rahul Pandey](https://portfolio.vorexia.xyz)
+- [Rahul Pandey](https://explorejourney.onrender.com/users/portfolio)
 - [Rahul Raj](https://rahulrajsb.me)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
