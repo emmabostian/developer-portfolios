@@ -15,6 +15,23 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ---
 
+## Filter Portfolios
+
+Quickly find portfolios by role/technology:
+- 🔍 Use browser search (Ctrl+F/Cmd+F) with these common tags:
+  - [Full-stack Developer]
+  - [Frontend Developer]
+  - [Backend Developer]
+  - [MERN Developer]
+  - [NEXTJS Developer]
+  - [Mobile Developer]
+  - [UI/UX Designer]
+  - [DevOps Engineer]
+  - [Blockchain Developer]
+  - [Data Scientist]
+
+---(Add Relevant Tags)
+
 ## A
 
 - [Aabid Ahmed](https://sawad.framer.website/)
