@@ -630,6 +630,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nitesh Seram](https://niteshseram.in)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
+- [Nguyen Chanh Dang](https://chanhdang.com)
 
 ## O
 
