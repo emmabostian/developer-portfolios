@@ -60,6 +60,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
+- [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 & Blockchain]
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmed Oublihi](https://www.medevs.xyz)
 - [Ahmet Eren Odacı](https://ahmete.ren)
