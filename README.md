@@ -209,6 +209,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cemal Türkcan)](https://cemalturkcan.com)
 - [Chambrin Alexandre](https://chambrin.dev)
+- [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with [TechFolios](https://techfolios.github.io))
 - [Chee Hwa Tang](https://cheehwatang.com)
@@ -235,7 +236,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cui Ding](https://cuierd.github.io)
-- [ChanhDai](https://chanhdai.com)
 
 ## D
 
