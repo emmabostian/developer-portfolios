@@ -612,6 +612,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
+- [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
 - [Nicholas Gannon](https://nicholasgannon.io/)
 - [Nico Bachner](https://nicobachner.com)
