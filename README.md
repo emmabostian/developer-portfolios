@@ -244,7 +244,7 @@ Quickly find portfolios by role/technology:
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
 - [Clyde D'Souza](https://clydedsouza.net)
-- [Codexoft KE](https://codexoft.tech)
+- [Codexoft KE](https://codexoft.tech) [Full Stack Developer & Mobile App Dev]
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
