@@ -630,6 +630,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nauman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
 
