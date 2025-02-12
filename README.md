@@ -151,7 +151,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
-- [Avinash Suthar](https://avinashsuthar-portfolio.netlify.app)
+- [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
 - [Avnish Kumar](https://theavnishkumar.in)
