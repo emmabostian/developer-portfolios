@@ -135,6 +135,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 - [Artur Bień](https://expensive.toys/) [UI & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
+- [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Ashak Zahin Hasan](https://aboutzahin.pages.dev)
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app/)
 - [Ashish Mehra](https://ashishmehra.dev)
