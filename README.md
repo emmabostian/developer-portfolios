@@ -61,8 +61,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahamed Kabeer](https://aktech27.github.io/) [MERN Full-Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
-- [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 & Blockchain]
 - [Ahmad Awais](https://ahmadawais.com)
+- [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 & Blockchain]
 - [Ahmed Oublihi](https://www.medevs.xyz)
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Ahsan Khan](https://ahsankhan.me)
@@ -850,6 +850,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
+- [Tarun M S](https://tarunms.netlify.app/)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me)
 - [Tek Kshetri](http://tekkshetri.com.np)
