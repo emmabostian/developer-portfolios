@@ -59,6 +59,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
+- [Ahamed Kabeer](https://aktech27.github.io/) [MERN Full-Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 & Blockchain]
 - [Ahmad Awais](https://ahmadawais.com)
