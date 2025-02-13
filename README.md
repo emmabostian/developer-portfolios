@@ -726,6 +726,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Razin Rayees](https://razin.in)
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
+- [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio/)
 - [Riccardo Venturini](https://riccardoventurini.dev/)
 - [Richard Hill](https://www.rhdigital.co.uk/) [Digital Designer]
