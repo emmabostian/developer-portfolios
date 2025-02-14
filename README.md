@@ -844,6 +844,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 
 ## T
 
