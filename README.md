@@ -793,6 +793,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
+- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Schalk Venter](https://schalkventer.me/)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
@@ -844,7 +845,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
-- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
+
 
 ## T
 
