@@ -767,6 +767,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
 - [Sai Teja](https://saiteja13427.github.io)
+- [Sai Terukula](https://terukulasai-portfolio.netlify.app/) [DevOps Engineer]
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
