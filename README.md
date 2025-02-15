@@ -159,6 +159,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avnish Kumar](https://theavnishkumar.in)
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
+- [Ayush Baral](https://rushayu.vercel.app) [Front-End Web Developer]
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app/)
 
