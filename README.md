@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 857
+## Current Portfolio Count: 876
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -104,11 +104,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anas Boubechra](https://cschad.com)
 - [Anay Paraswani](https://anayparaswani.dev)
 - [Andrej Sharapov](https://sharapov.dev)
+- [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André de Faria](https://andredfaria.github.io/)
-- [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andy Bell](https://andy-bell.design)
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
@@ -243,7 +243,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
-- [Demon142](https://demon142.net)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Markowski](https://damianmarkowski.com)
@@ -261,6 +260,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Delba](https://delba.dev)
+- [Demon142](https://demon142.net)
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
@@ -720,8 +720,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Raj](https://rahulrajsb.me)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
-- [Rajan Bhattarai](https://cdrrazan.com)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app/) 
+- [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com/)
 - [Rakib Sarowar](https://rakibsarowar.com)
