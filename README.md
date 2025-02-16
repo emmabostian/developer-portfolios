@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 857
+## Current Portfolio Count: 873
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -104,11 +104,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anas Boubechra](https://cschad.com)
 - [Anay Paraswani](https://anayparaswani.dev)
 - [Andrej Sharapov](https://sharapov.dev)
+- [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrianarisoa Daniel](https://www.devist.xyz)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André de Faria](https://andredfaria.github.io/)
-- [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andy Bell](https://andy-bell.design)
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
@@ -116,7 +116,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app)
-- [Anshul Soni](https://anshulsoni.in)
 - [Anthony MAHEFASOA](https://thony32.me)
 - [Anthony Odumodu](https://antonodu.netlify.app/)
 - [Antoine Dangleterre](https://antoinedangleterre.com)
@@ -128,7 +127,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arjun Ganesan](https://arjunganesan.com)
-- [Arjun K](https://arjunk.me)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
@@ -243,7 +241,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
-- [Demon142](https://demon142.net)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Markowski](https://damianmarkowski.com)
@@ -261,6 +258,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Delba](https://delba.dev)
+- [Demon142](https://demon142.net)
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
@@ -302,7 +300,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Edgard Barquero Real](https://barquero.dev)
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
-- [Eduardo Vaz](https://eduardovaz.dev)
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Electric Magic Factory](https://electricmagicfactory.com/en/)
 - [Elio Jordan Lopes](https://developer.vercel.app)
@@ -720,8 +717,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Raj](https://rahulrajsb.me)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
-- [Rajan Bhattarai](https://cdrrazan.com)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app/) 
+- [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com/)
 - [Rakib Sarowar](https://rakibsarowar.com)
