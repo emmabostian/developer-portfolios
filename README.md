@@ -108,6 +108,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrianarisoa Daniel](https://www.devist.xyz)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André de Faria](https://andredfaria.github.io/)
+- [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andy Bell](https://andy-bell.design)
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
@@ -242,7 +243,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
-
+- [Demon142](https://demon142.net)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Markowski](https://damianmarkowski.com)
@@ -552,6 +553,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
+- [Martin Tale](https://martintale.com/) [Web, App, Game Developer]
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
 - [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
@@ -578,6 +580,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michaell Alavedra](https://www.michaellalavedra.com/)
+- [Michal Grzebisz](https://www.michalgrzebisz.com/) [Creative Frontend Developer | UI/UX Enthusiast]
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Rodriguez](https://migu.es)
@@ -718,6 +721,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Rajan Bhattarai](https://cdrrazan.com)
+- [Raj Chhalotrte](https://raj-portfolio101.netlify.app/) 
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com/)
 - [Rakib Sarowar](https://rakibsarowar.com)
@@ -771,6 +775,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sai Terukula](https://terukulasai-portfolio.netlify.app/) [DevOps Engineer]
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
+- [Saiful Alam](https://msar.me)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Sajjad Gul](https://sajjadgul.com/)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
