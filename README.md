@@ -28,6 +28,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aayush Bharti](https://aayushbharti.in/) [Full-stack Developer]
 - [Aayush Kurup](https://aayushkurup.dev)
+- [Aayush Sood](https://www.aayushsood.com/)
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdelaziz El Arassi](http://aelarassi.com)
