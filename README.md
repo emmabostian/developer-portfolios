@@ -802,6 +802,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io/)
+- [Sebbie Chanzu](https://sebbie-chanzu.vercel.app/) [Backend, DevOps and Machine Learning Engineer]
 - [Sergei Chestakov](https://sergei.com)
 - [Seth Hall](https://sethhallcreative.com)
 - [Seunghun Bang](https://seunghun-website.vercel.app) (Software Engineer | Support Engineer)](https://github.com/a1603169)
