@@ -239,6 +239,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cui Ding](https://cuierd.github.io)
+- [codervai](https://codervai.vercel.app)
 
 ## D
 
