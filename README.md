@@ -886,6 +886,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
+- [Umesh Nagare](https://umeshnagare.vercel.app)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
