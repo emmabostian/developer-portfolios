@@ -241,6 +241,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
+
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Markowski](https://damianmarkowski.com)
@@ -471,6 +472,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [KIRAN KUMAR](https://ikiran-dev.github.io)
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
+- [Kapil Dadhich](https://kapildadhich075.netlify.app/)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karunika](https://karunika.work/)
@@ -717,7 +719,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Raj](https://rahulrajsb.me)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
-- [Raj Chhalotrte](https://raj-portfolio101.netlify.app/) 
+- [Raj Chhalotrte](https://raj-portfolio101.netlify.app/)
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Kumar Yadav](https://rajeshkumaryadav.com/)
