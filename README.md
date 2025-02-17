@@ -232,6 +232,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Codexoft KE](https://codexoft.tech) [Full Stack Developer & Mobile App Dev]
+- [Codervai](https://codervai.vercel.app/)
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
