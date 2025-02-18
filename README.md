@@ -679,6 +679,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Patrick Hyatt](https://www.patrickhyatt.com)
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
+- [Paul Agbogun](https://ifeoluwa-portfolio-five.vercel.app)
 - [Paul Koeck](https://paul.koeck.dev)
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
