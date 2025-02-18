@@ -533,6 +533,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | PHP, Laravel, Next.js, MySQL.]
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
