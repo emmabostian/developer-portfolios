@@ -887,6 +887,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Kanjariya](https://tusharkanjariya.me)
+- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 
 ## U
 
