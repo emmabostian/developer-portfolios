@@ -323,6 +323,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## F
 
+- [Fabio Junior Raminhuk](https://fabra.dev/)
 - [Fahim Bin Amin](https://www.fahimbinamin.com/)
 - [Faishal Hakim](https://faishal24.my.id)
 - [Fayaz Bin Salam](https://p32929.github.io)
