@@ -425,8 +425,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jagadeesh B](https://jagadeeshftw.netlify.app)
 - [Jagannath p s](https://jagannathps.site/) [Front end developer ]
 - [Jahir Fiquitiva](https://jahir.dev)
+- [Jaimin Bariya](https://jaimin-bariya.web.app/)
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
-- [Jainex Patel](https://jainex.vercel.app)
+- [Jainex Patel](https://jainex.vercel.app) (Check [GitHub Repo](https://github.com/jaimin-bariya/jaimin-bariya-portfolio))
 - [Jake Ginesin](https://jakegines.in)
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
 - [James Mathew](https://crazymath072.tech)
