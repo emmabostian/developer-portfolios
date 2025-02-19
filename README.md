@@ -439,6 +439,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jatin Tekam](https://jatin-tekam.netlify.app/)
 - [Javeed Ishaq](https://www.javeedishaq.com/) (made with [ng-dev-folio](https://github.com/JaveedIshaq/ng-dev-folio))
 - [Jay Bhavsar](https://jay.is-savvy.dev)
+- [Jay Gaha](https://jaygaha.com.np) [full-stack developer]
 - [Jay Keraliya](https://jaykeraliya.com)
 - [Jay Vegad](https://jayvegad.vercel.app/)
 - [Jayant Goel](http://jayantgoel001.github.io)
