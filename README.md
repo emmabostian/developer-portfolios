@@ -427,7 +427,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jaimin Bariya](https://jaimin-bariya.web.app/) (Check [GitHub Repo](https://github.com/jaimin-bariya/jaimin-bariya-portfolio))
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
-- [Jainex Patel](https://jainex.vercel.app) 
+- [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
 - [James Mathew](https://crazymath072.tech)
@@ -668,7 +668,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
 
-
 ## P
 
 - [PHPxCODER](https://phpxcoder.in)
@@ -887,6 +886,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
+- [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
 - [Tim Jones](https://timmoth.com)
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
