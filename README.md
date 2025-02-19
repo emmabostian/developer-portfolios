@@ -652,6 +652,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
 - [Om](https://omchaudhari1107.github.io)
+- [Om Avcher](https://omavchar.vercel.app/)
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omargpax](https://omargpax.pages.dev)
 - [Omari Thompson-Edwards](https://omarileon.me)
@@ -664,6 +665,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
+
 
 ## P
 
