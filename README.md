@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
@@ -427,7 +428,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jaimin Bariya](https://jaimin-bariya.web.app/) (Check [GitHub Repo](https://github.com/jaimin-bariya/jaimin-bariya-portfolio))
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
-- [Jainex Patel](https://jainex.vercel.app) 
+- [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
 - [James Mathew](https://crazymath072.tech)
@@ -667,7 +668,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
-
 
 ## P
 
