@@ -908,6 +908,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
+- [Ukhang Marma](https://ukhang.vercel.app/)
 
 ## V
 
