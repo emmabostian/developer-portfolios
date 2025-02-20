@@ -58,6 +58,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
+- [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahamed Kabeer](https://aktech27.github.io/) [MERN Full-Stack Developer]
