@@ -828,6 +828,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sebastian Cherny](https://sebascherny.github.io/)
 - [Sebbie Chanzu](https://sebbie-chanzu.vercel.app/) [Backend, DevOps and Machine Learning Engineer]
 - [Sergei Chestakov](https://sergei.com)
+- [Sergio Sanchez](https://sdsanchezm.github.io/) [.Net and Java Dev]
 - [Seth Hall](https://sethhallcreative.com)
 - [Seunghun Bang](https://seunghun-website.vercel.app) (Software Engineer | Support Engineer)](https://github.com/a1603169)
 - [Seyhun Akyurek](https://www.seyhunakyurek.com)
