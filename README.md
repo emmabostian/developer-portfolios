@@ -251,6 +251,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
+- [Damian Duda](https://damianduda.dev) [Full-stack Developer]
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
