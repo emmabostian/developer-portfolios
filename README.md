@@ -921,6 +921,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
+-[Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio/)
 - [Vahid Foroughi](https://vahidforoughi.com)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
