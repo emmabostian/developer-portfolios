@@ -603,6 +603,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Rahmani](https://afgprogrammer.com)
+- [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohit Paudyal](https://findmohit.netlify.app)
 - [Morelen Yim](https://morelenyim.com)
@@ -622,7 +623,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
-- [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 
 ## N
 
