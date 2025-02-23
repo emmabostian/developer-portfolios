@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 901
+## Current Portfolio Count: 902
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -147,7 +147,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
-- [Ashutosh Nandanwar](https://ashutoshn.com) [Unity Developer]
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Assad Isah](https://www.nottherealalanturing.site)
@@ -327,7 +326,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev/)
 - [Esteban Mansart](https://mansartesteban.vercel.app/)
 - [Evander Inácio](https://evander.vercel.app)
-- [Evil Rabbit](https://evilrabb.it)
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
@@ -446,7 +444,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app/)
-- [Javeed Ishaq](https://www.javeedishaq.com/) (made with [ng-dev-folio](https://github.com/JaveedIshaq/ng-dev-folio))
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [full-stack developer]
 - [Jay Keraliya](https://jaykeraliya.com)
@@ -924,7 +921,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
-- [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio/)
 - [Vahid Foroughi](https://vahidforoughi.com)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
@@ -954,6 +950,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
+- [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio/)
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
