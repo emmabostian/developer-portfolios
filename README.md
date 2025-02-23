@@ -602,6 +602,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
+- [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohit Paudyal](https://findmohit.netlify.app)
