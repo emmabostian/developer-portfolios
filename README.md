@@ -547,6 +547,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
+- [Madhur Dixit](https://madhurdixit13.github.io/Portfolio/)
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
