@@ -16,7 +16,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [**Abhishek Singh**](https://www.abhishekworks.com/) [Full-stack Engineer]
 - [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
