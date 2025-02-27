@@ -317,7 +317,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
-- [Emanuel Lázaro](https://emanuellcs.github.io/emanuellazaro/)
+- [Emanuel Lázaro](https://emanuellcs.github.io/)
 - [Emir Bolat](https://spee.dev/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
