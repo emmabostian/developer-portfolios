@@ -17,8 +17,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aaban Malik](https://muhammadaamirmalik.com/) [Full-stack Mobile App Developer]
 - [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
-- [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
