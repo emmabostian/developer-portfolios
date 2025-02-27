@@ -516,6 +516,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kushan Devarajegowda (Software Developer | Software Engineer | SDE | SWE)](https://ikushdev.github.io)
 - [Kyaw Zin Thiha](https://www.kyawzinthiha.dev)
 - [Kyle Smith](https://yskkyle.com)
+- [Kaung Myat](https://kgmyat.vercel.app/) [Frontend Developer]
 
 ## L
 
