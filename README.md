@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 902
+## Current Portfolio Count: 916
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -18,7 +18,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aaban Malik](https://muhammadaamirmalik.com/) [Full-stack Mobile App Developer]
-- [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
@@ -77,6 +76,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
+- [Akhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
