@@ -629,13 +629,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 
-<<<<<<< HEAD
-- [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nabin Katwal](https://nabin.is-a.dev)
-=======
-- [Nabin Katwal](https://www.nabin.is-a.dev)
 - [Nabin Khair](https://www.nabinkhair.com.np)
->>>>>>> 985d861a0ec6e16d1109207d4cc16763e4854e8f
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
