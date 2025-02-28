@@ -154,6 +154,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Assad Isah](https://www.nottherealalanturing.site)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
+- [Asse Badiane](https://redding-code.onrender.com/)
 - [Atanas Atanasov](https://atanas.info)
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
