@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 916
+## Current Portfolio Count: 917
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -829,9 +829,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
-- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Schalk Venter](https://schalkventer.me/)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
@@ -887,7 +887,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
-
 
 ## T
 
