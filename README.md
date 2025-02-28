@@ -152,9 +152,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Assad Isah](https://www.nottherealalanturing.site)
+- [Asse Badiane](https://redding-code.onrender.com/)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
-- [Asse Badiane](https://redding-code.onrender.com/)
 - [Atanas Atanasov](https://atanas.info)
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
