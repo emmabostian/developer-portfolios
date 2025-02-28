@@ -734,6 +734,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Thami](https://www.rabinthami.com.np/)
+- [Rachel Lee Nabors](https://nearestnabors.com)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
