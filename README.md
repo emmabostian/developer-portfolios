@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 902
+## Current Portfolio Count: 917
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -18,7 +18,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aaban Malik](https://muhammadaamirmalik.com/) [Full-stack Mobile App Developer]
-- [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
@@ -77,6 +76,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
+- [Akhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
@@ -829,9 +829,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
-- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Schalk Venter](https://schalkventer.me/)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
@@ -887,7 +887,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
-
 
 ## T
 
