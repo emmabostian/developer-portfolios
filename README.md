@@ -775,6 +775,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app/)
 - [Rishabh Kushwah](https://rishabhkushwah.netlify.app)
 - [Rishabh Rawat](https://rrawat.com)
+- [Rituparna Warwatkar](https://rituparnawarwatkar.com) [SDE@AWS EC2, Berlin]
 - [Robin Mastromari](http://robinmastromarino.com/) [UI/UX Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
