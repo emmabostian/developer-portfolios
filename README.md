@@ -307,6 +307,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Brett](https://dustinbrett.com/)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
+- [Dhyey Bhandari](https://dwinurcahya.my.id) [Web Developer & Software Engineer]
 - [Dzmitry Drepin](https://linktr.ee/drepin)
 
 ## E
