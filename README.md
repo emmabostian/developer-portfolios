@@ -410,6 +410,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com)
+- [Hassam Ul Haq](https://hassam.dev) [Backend Developer - PHP Laravel]
 
 ## I
 
