@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 917
+## Current Portfolio Count: 902
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -17,7 +17,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aaban Malik](https://muhammadaamirmalik.com/) [Full-stack Mobile App Developer]
+- [**Abhishek Singh**](https://www.abhishekworks.com/) [Full-Stack developer]
+- [**Akhand Tajmirul**](https://www.me.toinfinite.dev/) [Frontend Engineer]
+- [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
@@ -76,7 +78,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
-- [Akhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
@@ -110,7 +111,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
 - [Anay Paraswani](https://anayparaswani.dev)
-- [Andre Sarr](https://andresarr.is-a.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andrew Woods](https://andrewwoods.net)
@@ -152,7 +152,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Assad Isah](https://www.nottherealalanturing.site)
-- [Asse Badiane](https://redding-code.onrender.com/)
 - [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
@@ -319,7 +318,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
-- [Emanuel Lázaro](https://emanuellcs.github.io/)
+- [Emanuel Lázaro](https://emanuellcs.github.io/emanuellazaro/)
 - [Emir Bolat](https://spee.dev/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
@@ -437,7 +436,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh B](https://jagadeeshftw.netlify.app)
 - [Jagannath p s](https://jagannathps.site/) [Front end developer ]
-- [Jahidul Islam Saeid](https://jahidulsaeid.com)
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jaimin Bariya](https://jaimin-bariya.web.app/) (Check [GitHub Repo](https://github.com/jaimin-bariya/jaimin-bariya-portfolio))
 - [Jainam Desai](https://th3c0d3br34ker.github.io)
@@ -636,7 +634,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## N
 
-- [Nabin Katwal](https://nabin.is-a.dev)
 - [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
@@ -721,7 +718,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
-- [Prashant Khandelwal](https://prashantk.dev)
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Kumar](https://www.princecodes.online)
@@ -740,7 +736,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Thami](https://www.rabinthami.com.np/)
-- [Rachel Lee Nabors](https://nearestnabors.com)
 - [Rachit Bharadwaj](https://rachit.infornics.com)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
@@ -758,7 +753,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rakib Sarowar](https://rakibsarowar.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
-- [Ram Katwal](https://ramkatwal.webflow.io) [UI/UX Designer]
 - [Ramesh Kumar](https://rameskum.com)
 - [Ramin Rezaei - V1](https://raminrezaei.se)
 - [Ramin Rezaei - V2](https://raminr77.vercel.app/)
@@ -836,7 +830,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
-- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) (Software Engineer)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
 - [Schalk Venter](https://schalkventer.me/)
@@ -913,7 +906,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full-Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
 - [Thibault Mathian](https://thibault.sh)
-- [Thibault Walterspieler](https://walterspieler.dev) [Full-Stack Developer]
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
