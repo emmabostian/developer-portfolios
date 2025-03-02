@@ -557,6 +557,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
+- [mahdi.is-a.dev](http://mahdi.is-a.dev) [Try to Find the Easter Egg! :)]
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Makechi Eric](https://love-makechi.web.app)
