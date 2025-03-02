@@ -340,13 +340,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Júnior](https://fernaandojr.vercel.app)
-- [Fi Amanillah](https://fi.amanillah.com/)
+- [Fi Amanillah](https://fi.amanillah.com/) [Full-Stack Developer] ([@fiamanillah](https://github.com/fiamanillah))
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
-- [Franck GALLIOD](https://www.franckwebpro.com/) [Fullstack & Webflow Developer]
+- [Franck GALLIOD](https://www.franckwebpro.com/) [Fullstack & Webflow Developer] 
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io)
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
