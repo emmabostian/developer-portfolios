@@ -340,6 +340,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Júnior](https://fernaandojr.vercel.app)
+- [Fi Amanillah](https://fi.amanillah.com/) [Full-Stack Developer] ([@fiamanillah](https://github.com/fiamanillah))
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Flavia Medici](https://t.co/iQK1Hbx8xD?amp=1)
