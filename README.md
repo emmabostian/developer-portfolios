@@ -719,6 +719,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
+- [Prashant Khandelwal](https://prashantk.dev)
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Kumar](https://www.princecodes.online)
