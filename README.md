@@ -525,6 +525,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
+- [Le Duong Hung Thinh](https://thinh.io.vn/) [Front-end Engineer]
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
