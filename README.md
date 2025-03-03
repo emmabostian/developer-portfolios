@@ -418,6 +418,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilke Ozsekerli](https://ilkeozs.info)
+- [Ilyes Landolsi](https://ilandols.com)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
 - [Iqboljon Hasan](https://iqboljon.uz)
