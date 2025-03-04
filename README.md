@@ -236,6 +236,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chuck Smith](https://eclecticcoding.com)
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
+- [Ciro Ciampaglia](https://cirociampaglia.it)
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Codervai](https://codervai.vercel.app/)
 - [Codexoft KE](https://codexoft.tech) [Full Stack Developer & Mobile App Dev]
