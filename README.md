@@ -914,6 +914,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tim Jones](https://timmoth.com)
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
+- [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
