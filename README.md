@@ -321,6 +321,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Emanuel Lázaro](https://emanuellcs.github.io/emanuellazaro/)
 - [Emir Bolat](https://spee.dev/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
+- [Emilia Sonder](https://isemilia.vercel.app)
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
