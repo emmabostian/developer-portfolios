@@ -159,6 +159,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
+- [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
 - [Aviral Dixit](https://aviraldixit.in)
