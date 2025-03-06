@@ -385,7 +385,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
-- [Hugo Damion](https://hugo-damion.me)
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hamish Williams](https://hamishw.com/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
@@ -409,6 +408,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hisami Kurita](https://hsmkrt1996.com/) [Frontend Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
+- [Hugo Damion](https://hugo-damion.me)
 - [Hugo Folloni](https://hugofolloni.com)
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
