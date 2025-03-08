@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aabraham James](https://seera.framer.website/)
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
+- [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaron Lacerda](https://nightdev4l.me/index.html)
@@ -32,8 +33,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Kurup](https://aayushkurup.dev)
 - [Aayush Sood](https://www.aayushsood.com/)
 - [Abass Dev](https://abassdev.com)
-- [Abdelaziz El Arassi](http://aelarassi.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
+- [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan/) [Mobile Developer]
@@ -77,7 +78,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
-- [Akhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
@@ -159,9 +159,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
-- [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
+- [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
 - [Avnish Kumar](https://theavnishkumar.in)
@@ -321,9 +321,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
 - [Emanuel Lázaro](https://emanuellcs.github.io/emanuellazaro/)
+- [Emilia Sonder](https://isemilia.vercel.app)
 - [Emir Bolat](https://spee.dev/)
 - [Emmanuel ADEKPLOVI](https://homescriptone.com)
-- [Emilia Sonder](https://isemilia.vercel.app)
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Ephraim Atta-Duncan](https://astrosaurus.me)
