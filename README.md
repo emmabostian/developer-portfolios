@@ -696,6 +696,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [PHPxCODER](https://phpxcoder.in)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev/)
+- [Pablo Ramon](https://pabloramon.com.br/)
 - [Pan Wei Lian](https://williamson922.github.io)
 - [PandaDEV](https://pandadev.net)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
