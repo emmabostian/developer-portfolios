@@ -731,6 +731,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveen Kumar Purushothaman](https://praveen.science)
 - [Preet Suthar](https://preetsuthar.me)
 - [Prince Kumar](https://www.princecodes.online)
+- [Pritam Debnath](https://pridebnath.github.io/portfolio-v2/) [ Frontend Developer ]
 - [Pritu Yadav](https://prituyadav.github.io/)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io/)
