@@ -385,6 +385,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hamish Williams](https://hamishw.com/)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
