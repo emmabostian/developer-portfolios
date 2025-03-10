@@ -519,6 +519,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kidus Bewket](https://kidus.ca)
 - [Kiran Naragund](https://kiran1689.github.io)
 - [Kiran Poudel](https://pkiran.com.np)
+- [Kowsyap Pranay](https://kowsyappranay.site)
 - [Krishnanand A](https://krishnananda.netlify.app)
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app/) [Software Developer ]
 - [Krutarth Parmar](https://kayparmar.com)
