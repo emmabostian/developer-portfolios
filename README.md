@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 917
+## Current Portfolio Count: 930
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -482,8 +482,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
-- [Judicaël AHYI](https://judicael-ahyi.com)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
+- [Judicaël AHYI](https://judicael-ahyi.com)
 - [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
 - [Julia Johnson](http://juliacodes.com)
 - [Juned Khan](https://junedkhan.me)
@@ -935,6 +935,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## U
 
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app/)
+- [Uday G](https://portfolio-v1-kappa-ten.vercel.app/)
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Ukhang Marma](https://ukhang.vercel.app/)
 - [Ullas Arwan](https://ullas.xyz)
