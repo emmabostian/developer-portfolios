@@ -231,6 +231,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io)
 - [Chris Carr](http://snackpipe.com)
+- [Chris Kennedy](http://cyberstorm.vercel.app) [Blockchain focused web developer]
 - [Chris Otto](https://chrisotto.dev)
 - [Chris Poole](https://chrispoole.com)
 - [Christian Kaisermann](https://kaisermann.me)
