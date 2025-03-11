@@ -392,6 +392,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hanif Yuli Abdillah P](https://hanifabdlh.vercel.app/) [AI Software Engineer and Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
+- [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
 - [Harijaona Ravelondrina](http://www.bigjohn.dev)
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Harsh Singhvi](https://harshsinghvi.com)
