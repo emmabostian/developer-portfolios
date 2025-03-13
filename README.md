@@ -904,7 +904,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
 ## T
-
+- [Tadashi Amano](https://tadashiamano.vercel.app)
 - [TJ Klint](https://tjklint.github.io)
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
