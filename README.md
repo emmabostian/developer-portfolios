@@ -180,6 +180,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Barrack Amuyunzu](https://amuyunzubarrac.club)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Becca Bailey](http://Becca.is)
+- [Bejagam Nithilesh](https://nithilesh.vercel.app/)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
 - [Ben Rogers](https://benrogers.dev)
