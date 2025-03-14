@@ -987,6 +987,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
 - [Volkan Kabay](https://volkankabay.com/)
 - [vm ](https://vmthedev.web.app)
+- [Vyom Dubey](https://vmoyd.github.io/portfolio-app/) [VMOY]
 
 ## W
 
