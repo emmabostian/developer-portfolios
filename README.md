@@ -254,7 +254,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [codervai](https://codervai.vercel.app)
 
 ## D
-
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
@@ -268,6 +267,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
+- [Darya Redkina](https://reddev.in/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
