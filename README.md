@@ -124,6 +124,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app)
+- [Anshuman Jha](https://anshuman-jha.vercel.app/)
 - [Anthony MAHEFASOA](https://thony32.me)
 - [Anthony Odumodu](https://antonodu.netlify.app/)
 - [Antoine Dangleterre](https://antoinedangleterre.com)
