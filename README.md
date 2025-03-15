@@ -342,6 +342,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fabio Junior Raminhuk](https://fabra.dev/)
 - [Fahim Bin Amin](https://www.fahimbinamin.com/)
 - [Faishal Hakim](https://faishal24.my.id)
+- [Farindra Bhandari](https://fbb.com.np/)
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
