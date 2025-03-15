@@ -256,6 +256,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [codervai](https://codervai.vercel.app)
 
 ## D
+
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
@@ -907,6 +908,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 
 ## T
+
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [TJ Klint](https://tjklint.github.io)
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
@@ -1018,6 +1020,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Bozacı](https://yusufbozaci.dev)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
+- [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
 
 ## Z
 
