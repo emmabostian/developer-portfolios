@@ -41,7 +41,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
-- [Abhinandhan Devadiga](https://abhicodestuido.com)
+- [Abhinandhan Devadiga](https://abhicodestudio.com)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
