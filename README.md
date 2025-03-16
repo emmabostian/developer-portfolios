@@ -91,6 +91,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aleksandar Pajić](https://www.aleksandarpajic.co) [Software Developer & Designer]
 - [Alestor Aldous](http://alestor123.github.io)
 - [Alex Michailidis](https://alexandros.tech)
+- [Alexandros Lekkas](https://alexandroslekkas.com)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
