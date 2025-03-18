@@ -559,6 +559,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
 - [Lucas Lima](https://lucas-lima.vercel.app)
+- [Lucas Batista](https://lucasbatista.online)
 - [Luis Cacho](https://luiscachog.io)
 - [Lukasz Kups](https://lukaszkups.net)
 
