@@ -163,6 +163,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
+- [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
 - [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Aviral Dixit](https://aviraldixit.in)
