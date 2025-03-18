@@ -583,6 +583,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
 - [Marc Backes](http://marc.dev)
+- [Marco Baldini](https://marcobaldini.pages.dev/)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
