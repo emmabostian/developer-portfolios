@@ -47,6 +47,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
 - [Abhishek Kandel](https://abhishekkandel.com.np)
+- [Abhishek Panchal](https://skillstackpanchal.vercel.app)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abhishek Singh](https://www.abhishekworks.com/) [Full-Stack developer]
 - [Abu Said](https://www.abusaid.me)
