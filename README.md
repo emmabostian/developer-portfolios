@@ -432,6 +432,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
+- [Ilija Korodić](https://ilijakorodic.netlify.app/) [Frontend Developer]
 - [Ilke Ozsekerli](https://ilkeozs.info)
 - [Ilyes Landolsi](https://ilandols.com)
 - [Indrajeet Nikam](https://indrajeet.me)
