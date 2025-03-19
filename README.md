@@ -51,6 +51,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abhishek Singh](https://www.abhishekworks.com/) [Full-Stack developer]
 - [Abu Said](https://www.abusaid.me)
+- [Abu Suhaib](https://suhaib.protool.co.in) [Full-Stack WebnApp Developer]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Adam Alston](https://www.adamalston.com)
 - [Adeola Badero](https://www.adeolabadero.me) [Frontend Engineer & UI/UX Designer]
