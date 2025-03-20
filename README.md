@@ -921,6 +921,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Surya MU](https://surya-mu.me/)
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+- [Sufiyan Surve](https://survesufiyan.github.io/) [Flutter Developer]
 
 ## T
 
