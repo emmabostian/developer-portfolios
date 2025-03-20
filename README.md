@@ -77,6 +77,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Ahsan Khan](https://ahsankhan.me)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
+- [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
+- [Damilare Ajetunmobi](https://damilareajetunmobi.vercel.app/)[Software Devloper]
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
