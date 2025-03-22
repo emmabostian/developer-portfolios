@@ -384,6 +384,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [George Fincher](https://www.grimfunky.dev)
 - [Georges Atalla](https://www.georgesatalla.com)
 - [Georgi Yanev](https://gyanev.com)
+- [Gerardo Perrucci](https://gperrucci.com)
 - [Ghazi Khan](https://ghazikhan.in)
 - [Ghom Krosmonaute](https://ghomkrosmonaute.github.io/?game) ([@GhomKrosmonaute](https://github.com/GhomKrosmonaute))
 - [Ghulam Ahmed](https://gahmed.com)
