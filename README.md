@@ -473,6 +473,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jay Gaha](https://jaygaha.com.np) [full-stack developer]
 - [Jay Keraliya](https://jaykeraliya.com)
 - [Jay Vegad](https://jayvegad.vercel.app/)
+- [Jaya Vignesh](https://i-viki.github.io/) [Backend Developer]
 - [Jayant Goel](http://jayantgoel001.github.io)
 - [Jayant Parashar](https://jparasha.github.io)
 - [Jayed Rafi](https://jayedrafi.com)
