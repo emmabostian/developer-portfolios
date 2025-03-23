@@ -368,6 +368,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Frederic Henri](https://cloud06.io)
 - [Furkan Cengiz](https://furki.vercel.app)
 - [Furkan Kapukaya](https://furkankapukayaa.github.io)
+- [Felipe Mourão](https://mouraocode.com.br/)
 
 ## G
 
