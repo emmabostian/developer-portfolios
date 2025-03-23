@@ -141,6 +141,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
+- [Ares](https://ares.uy)
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
