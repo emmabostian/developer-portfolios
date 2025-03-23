@@ -813,6 +813,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [SDE@AWS EC2, Berlin]
 - [Robin Mastromari](http://robinmastromarino.com/) [UI/UX Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
+- [Rohit Raj](https://rohit-raj.netlify.app/)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland L. Taylor](http://rolandixor.pro)
