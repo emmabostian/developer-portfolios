@@ -352,6 +352,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np/)
 - [Fayaz Bin Salam](https://p32929.github.io)
+- [Felipe Mourão](https://mouraocode.com.br/)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Júnior](https://fernaandojr.vercel.app)
@@ -368,7 +369,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Frederic Henri](https://cloud06.io)
 - [Furkan Cengiz](https://furki.vercel.app)
 - [Furkan Kapukaya](https://furkankapukayaa.github.io)
-- [Felipe Mourão](https://mouraocode.com.br/)
 
 ## G
 
