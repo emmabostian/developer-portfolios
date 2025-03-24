@@ -416,6 +416,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harwin Dan](https://itscrazydev.netlify.app)
+- [Hassan RJ](https://hassanrj.vercel.app/) [Hassan RJ Full Stack Next.js Developer
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hasan](https://hasansiddiqui.netlify.app)
 - [Hassam Ul Haq](https://hassam.dev) [Backend Developer - PHP Laravel]
