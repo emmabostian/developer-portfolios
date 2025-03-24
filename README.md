@@ -975,6 +975,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app/)
 - [Uday G](https://portfolio-v1-kappa-ten.vercel.app/)
 - [Uday Lunawat](https://udaylunawat.github.io)
+- [Ujjal Sigdel](https://www.ujjalsigdel.com.np/)
 - [Ukhang Marma](https://ukhang.vercel.app/)
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
