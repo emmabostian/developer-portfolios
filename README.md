@@ -275,7 +275,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
-- [Daniel Steele] (https://www.danielsteele.dev)
+- [Daniel Steele](https://www.danielsteele.dev) [Full-Stack Developer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Batson](https://danilobatson.github.io/portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
