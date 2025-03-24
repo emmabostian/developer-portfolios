@@ -850,6 +850,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
+- [Saiful Islam](https://saifulislam.online) [Front-end web development]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Sajjad Gul](https://sajjadgul.com/)
