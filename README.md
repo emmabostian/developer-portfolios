@@ -518,6 +518,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
+- [Karthik Shetty](http://karthikshetty.info/) [Software Engineer | Fullstack Developer]
 - [Karunika](https://karunika.work/)
 - [Kashiful Haque](https://ifkash.vercel.app)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with [TechFolios](https://techfolios.github.io))
