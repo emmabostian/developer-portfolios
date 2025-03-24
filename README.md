@@ -863,6 +863,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Samuel Muchai Macharia](https://sammymacharia.vercel.app)
 - [Sanajit Jana](https://sanajitjana.github.io)
+- [Sandeep Panigrahi](https://sandeepdot1.github.io)
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
