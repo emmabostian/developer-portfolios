@@ -1039,6 +1039,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
+- [Wilson Toribio](https://wt-portafolio.vercel.app/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 
 ## Y
