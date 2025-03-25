@@ -835,6 +835,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Saahil D](https://saahild.com)
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
 - [Sachin Srinivasan](https://s8sachin.github.io)
@@ -958,6 +959,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full-Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
 - [Thibault Mathian](https://thibault.sh)
+- [Thinh Ngo](https://thinhcorner.com/)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
