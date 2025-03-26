@@ -897,6 +897,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Seunghun Bang](https://seunghun-website.vercel.app) (Software Engineer | Support Engineer)](https://github.com/a1603169)
 - [Seyhun Akyurek](https://www.seyhunakyurek.com)
 - [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio/)
+- [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shakhzhakhan Maxudbek](https://args.tech)
