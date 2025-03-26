@@ -422,6 +422,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hasan](https://hasansiddiqui.netlify.app)
 - [Hassam Ul Haq](https://hassam.dev) [Backend Developer - PHP Laravel]
 - [Hassan Ahmed](https://www.hassanahmed.net)
+- [Hassan Ahani](https://hasanahani.ir)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Hassan RJ](https://hassanrj.vercel.app/) [Hassan RJ Full Stack Next.js Developer
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
