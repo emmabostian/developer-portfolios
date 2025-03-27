@@ -899,8 +899,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio/)
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shahid Shaikh](http://shahidshaikh.com)
-- [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
+- [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Sharif Rahat](https://sharifrahat.com/) [Full Stack Developer]
