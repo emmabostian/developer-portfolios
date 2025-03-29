@@ -770,7 +770,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
 - [Prashant Khandelwal](https://prashantk.dev)
-- [Praveen Kumar Purushothaman](https://praveen.science)
+- [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React JS Developer | Director of Engineering]
 - [Preet Suthar](https://preetsuthar.me)
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app/)
 - [Prince Kumar](https://www.princecodes.online)
