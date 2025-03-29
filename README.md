@@ -130,6 +130,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
+- [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
 - [Anish Biswas](https://anish7.me)  [FullStack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankush Minda](http://ankushminda.com)
