@@ -186,6 +186,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ayush Baral](https://rushayu.vercel.app) [Front-End Web Developer]
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app/)
+- [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 
 ## B
 
