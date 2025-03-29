@@ -351,6 +351,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev/)
 - [Esteban Mansart](https://mansartesteban.vercel.app/)
 - [Evander Inácio](https://evander.vercel.app)
+- [Evgeny Azarov](https://thisisazaro.github.io/) [Data Scientist|Blockchain Developer|Software Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
