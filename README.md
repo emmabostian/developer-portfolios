@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 987
+## Current Portfolio Count: 988
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -686,6 +686,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nafas Ebrahimi](https://nafasebra.ir)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
+- [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-end Developer | Design Technologist | UI/UX Engineer]
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net)
 - [Nayan Das](https://www.nayandas.dev)
