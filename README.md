@@ -389,6 +389,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Ganesh Patil](https://hardikjain.netlify.app)
+- [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app/)
