@@ -521,6 +521,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Juned Khan](https://junedkhan.me)
 - [Juon Kawakami (@evesquare)](https://me.evesq.com) [Fullstack Developer | UI/UX Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
+- [Jonathan Peters](https://qms85.github.io/MyPortfolio/) |Front-End Developer|
 
 ## K
 

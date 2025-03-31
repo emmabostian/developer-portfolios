@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jonathan Peters | Front-End Developer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/normalize.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="page-container">
+        <!-- Header Section -->
+        <header>
+            <div class="container">
+                <div class="header-content">
+                    <div class="logo">
+                        <h1>Jonathan Peters</h1>
+                        <p class="subtitle">Front-End Developer</p>
+                    </div>
+                    <nav>
+                        <ul>
+                            <li><a href="#projects">Projects</a></li>
+                            <li><a href="#skills">Skills</a></li>
+                            <li><a href="#tools">Tools</a></li>
+                            <li><a href="#contact">Contact</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero">
+            <div class="container">
+                <div class="hero-content">
+                    <h2>Creating <span class="highlight">Beautiful</span> &amp; <span class="highlight">Functional</span> Web Experiences</h2>
+                    <p>I'm a passionate front-end developer specializing in creating responsive, user-friendly websites and applications.</p>
+                    <div class="hero-buttons">
+                        <a href="#projects" class="btn primary-btn">View My Work</a>
+                        <a href="#contact" class="btn secondary-btn">Get In Touch</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Projects Section -->
+        <section id="projects" class="projects-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>My Projects</h2>
+                    <p>Explore some of my recent work</p>
+                </div>
+                <div class="projects-grid">
+                    {% for project in projects %}
+                    <div class="flip-card">
+                        <div class="flip-card-inner">
+                            <div class="flip-card-front">
+                                <i class="{{ project.image.split('/')[-1].split('.')[0] }}"></i>
+                                <h3>{{ project.title }}</h3>
+                            </div>
+                            <div class="flip-card-back">
+                                <h3>{{ project.title }}</h3>
+                                <p>{{ project.description }}</p>
+                                <a href="{{ project.link }}" class="btn view-project-btn" target="_blank">View Project</a>
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+
+        <!-- Skills Section -->
+        <section id="skills" class="skills-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>My Skills</h2>
+                    <p>Technical proficiency and expertise</p>
+                </div>
+                <div class="skills-content">
+                    {% for skill in skills %}
+                    <div class="skill-item">
+                        <div class="skill-info">
+                            <div class="skill-name">
+                                <i class="{{ skill.icon }}"></i>
+                                <span>{{ skill.name }}</span>
+                            </div>
+                            <div class="skill-percentage">{{ skill.percentage }}%</div>
+                        </div>
+                        <div class="skill-bar">
+                            <div class="skill-progress" style="width: {{ skill.percentage }}%"></div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+
+        <!-- Tools Section -->
+        <section id="tools" class="tools-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Languages &amp; Tools</h2>
+                    <p>Technologies I work with</p>
+                </div>
+                <div class="tools-grid">
+                    {% for tool in tools %}
+                    <div class="tool-item">
+                        <i class="{{ tool.icon }}"></i>
+                        <span>{{ tool.name }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </section>
+
+        <!-- About Section -->
+        <section id="about" class="about-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>About Me</h2>
+                    <p>Get to know me better</p>
+                </div>
+                <div class="about-content">
+                    <div class="about-text">
+                        <p>Hi, I'm Jonathan Peters, a front-end developer passionate about creating beautiful and functional web experiences. With expertise in HTML, CSS, JavaScript, and various frameworks, I strive to build responsive and user-friendly websites and applications.</p>
+                        <p>My journey in web development started with a curiosity for how things work on the internet, which quickly turned into a passion for creating my own digital experiences. I continuously learn and adapt to stay updated with the latest technologies and best practices in the industry.</p>
+                        <p>I have 3+ years experience & i have completed the <a href="#">Responsive Web Design</a> & the <a href="#">Data Visualizations</a> course on freeCodeCamp</p>
+                        <p>When I'm not coding, you might find me exploring new design trends, contributing to open-source projects, or experimenting with new technologies to enhance my skill set.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Contact Section -->
+        <section id="contact" class="contact-section">
+            <div class="container">
+                <div class="section-header">
+                    <h2>Get In Touch</h2>
+                    <p>Let's work together on your next project</p>
+                </div>
+                <div class="contact-content">
+                    <div class="contact-form">
+                        <form>
+                            <div class="form-group">
+                                <label for="name">Name</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="email">Email</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Message</label>
+                                <textarea id="message" name="message" rows="5" required></textarea>
+                            </div>
+                            <button type="submit" class="btn primary-btn">Send Message</button>
+                        </form>
+                    </div>
+                    <div class="contact-info">
+                        <div class="contact-item">
+                            <i class="fas fa-envelope"></i>
+                            <span>jonathanpeters051@gmail.com</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-phone"></i>
+                            <span>+27661199255</span>
+                        </div>
+                        <div class="contact-item">
+                            <i class="fas fa-map-marker-alt"></i>
+                            <span>George, Western Cape. South Africa</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer Section -->
+        <footer>
+            <div class="container">
+                <div class="social-links">
+                    {% for social in social_links %}
+                    <a href="{{ social.link }}" target="_blank" title="{{ social.platform }}">
+                        <i class="{{ social.icon }}"></i>
+                    </a>
+                    {% endfor %}
+                </div>
+                <div class="footer-text">
+                    <p>&copy; 2025 Jonathan Peters. All rights reserved.</p>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
