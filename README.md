@@ -216,6 +216,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bhushan Borole](https://bhushan-borole.github.io)
 - [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Bipin M V](https://bipinmv.netlify.app)
+- [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
