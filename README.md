@@ -133,6 +133,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
 - [Anish Biswas](https://anish7.me)  [FullStack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
+- [Ankit Mohanty](https://ankitmohanty.vercel.app/) [Software Developer]
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshuman Jha](https://anshuman-jha.vercel.app/)
