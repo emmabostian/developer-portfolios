@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400" height="300" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#2a2a2a"/>
+  <g fill="#6c5ce7">
+    <path d="M170 60h60v30h-60z"/>
+    <path d="M170 100h60v30h-60z"/>
+    <path d="M170 140h60v30h-60z"/>
+    <path d="M170 180h60v30h-60z"/>
+    <path d="M170 220h60v30h-60z"/>
+  </g>
+  <text x="200" y="130" font-family="Arial" font-size="20" text-anchor="middle" fill="white">E-Commerce</text>
+  <text x="200" y="160" font-family="Arial" font-size="20" text-anchor="middle" fill="white">Platform</text>
+</svg>
