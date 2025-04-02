@@ -47,6 +47,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhishek Bhardwaj](https://www.imabhishek.online)
+- [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
 - [Abhishek Kandel](https://abhishekkandel.com.np)
 - [Abhishek Panchal](https://skillstackpanchal.vercel.app)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
@@ -131,7 +132,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
-- [Anish Biswas](https://anish7.me)  [FullStack Dev]
+- [Anish Biswas](https://anish7.me) [FullStack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Mohanty](https://ankitmohanty.vercel.app/) [Software Developer]
 - [Ankush Minda](http://ankushminda.com)
