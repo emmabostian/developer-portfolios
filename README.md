@@ -891,6 +891,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Nemade](https://www.nemade.eu) (Staff Engineer) ([@saurabhnemade](https://github.com/saurabhnemade))
 - [Saurabh Patil](https://saurabhpatil.netlify.app/) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
+- [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayed Anowar](https://sayedanowar.netlify.app/) [Freelance Web Developer]
