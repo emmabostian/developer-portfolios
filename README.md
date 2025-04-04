@@ -364,7 +364,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np/)
 - [Fayaz Bin Salam](https://p32929.github.io)
-- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app/)
+- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app/) [Full-Stack Developer]
 - [Felipe Mourão](https://mouraocode.com.br/)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
