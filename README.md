@@ -364,6 +364,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np/)
 - [Fayaz Bin Salam](https://p32929.github.io)
+- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app/)
 - [Felipe Mourão](https://mouraocode.com.br/)
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
@@ -907,8 +908,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Seyhun Akyurek](https://www.seyhunakyurek.com)
 - [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio/)
 - [Shaan Khan](https://www.shaankhan.dev)
-- [Shahid Shaikh](http://shahidshaikh.com)
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
+- [Shahid Shaikh](http://shahidshaikh.com)
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
