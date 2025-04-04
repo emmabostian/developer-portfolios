@@ -26,7 +26,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aaron Dunphy](https://aarondunphy.com)
-- [Aaron Lacerda](https://nightdev4l.me/index.html)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
