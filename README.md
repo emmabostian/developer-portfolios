@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 988
+## Current Portfolio Count: 995
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -121,7 +121,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andrew Woods](https://andrewwoods.net)
-- [Andrianarisoa Daniel](https://www.devist.xyz)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André de Faria](https://andredfaria.github.io/)
 - [Andy Bell](https://andy-bell.design)
