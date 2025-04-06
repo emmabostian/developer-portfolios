@@ -477,6 +477,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Mathew](https://crazymath072.tech)
 - [James Mumo](https://jamesmumo.vercel.app/)
 - [James Turner](http://turnerj.com)
+- [Jann Chie](https://jannchie.com/en/)
 - [Jason Solano](https://jasonsolano.tech)
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
