@@ -880,6 +880,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
 - [Sanee Itas](https://saneeitas.netlify.app)
+- [Sanket Gurav](https://6225133232fd961e0c54af5f--sanketgurav.netlify.app) \[Full stack developer\]
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
 - [Sarang N](https://srng.dev)
