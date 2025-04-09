@@ -546,7 +546,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kay Evans-Stocks](https://www.kaystocks.com/) [Design Engineer]
 - [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
-- [Kelvin Juma] (https://kelvin-site.vercel.app) [Full Stack Engineer]
+- [Kelvin Juma](https://kelvin-site.vercel.app) [Full Stack Engineer]
 - [Kenta Yamamoto](https://ychof.com)
 - [Ketuman Vishwakarma](https://k2maan.vercel.app/)([@k2maan](https://github.com/k2maan))
 - [Kevin Bogagne](https://kevinbg.vercel.app/) [Software Engineer ]
