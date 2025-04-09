@@ -542,6 +542,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Fullstack web developer | UI/UX Designer]
 - [Kavi Castelo Dev](https://kavicastelo-dev.netlify.app)
 - [Kavi Castelo](https://kavindukokila.netlify.app)
+- [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
 - [Kay Evans-Stocks](https://www.kaystocks.com/) [Design Engineer]
 - [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
