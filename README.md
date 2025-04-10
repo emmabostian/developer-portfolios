@@ -144,6 +144,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website/) [Software Developer]
+- [Areeb Ahmed](https://areebahmed-portfolio.netlify.app/)
 - [Ares](https://ares.uy)
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arjun Ganesan](https://arjunganesan.com)
