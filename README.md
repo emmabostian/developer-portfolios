@@ -1088,7 +1088,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
-- [Md Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app/) [AI Engineer]
+- [Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app/) [AI Engineer]
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow Developer]
