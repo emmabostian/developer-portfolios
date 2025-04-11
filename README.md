@@ -1084,7 +1084,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio/)
 - [Younes Megaache](https://younes-megaache.com) [Software developer]
-- [Youssef SAHIH](sahih.me) [Front-end Developer]
+- [Youssef SAHIH](https://sahih.me) [Front-end Developer]
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Bozacı](https://yusufbozaci.dev)
