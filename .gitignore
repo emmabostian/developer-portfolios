@@ -168,4 +168,5 @@ tags
 .history
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
-n
+
+./src/alphabetical.py

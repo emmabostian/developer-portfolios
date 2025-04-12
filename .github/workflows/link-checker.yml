@@ -2,7 +2,7 @@ on:
   repository_dispatch:
   workflow_dispatch:
   schedule:
-    - cron: "00 18 * * 0"
+    - cron: "00 18 * * 6"
 name: Check markdown links
 jobs:
   linkChecker:
