@@ -612,6 +612,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
+- [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app/)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
 - [Marc Backes](http://marc.dev)
