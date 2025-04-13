@@ -447,7 +447,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com)
 
 ## I
-
+- [Irfan.dev](https://irfan-devs.vercel.app/) [Frontend Developer]
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ike Ofoegbu](https://iodev.io)
