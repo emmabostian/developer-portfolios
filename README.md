@@ -277,7 +277,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chilavert N'Dah](https://chilavertndah.me)
 
 ## D
-
+- [Dev Patel](https://devpatel.bsite.net/dev%20patel%20portfolio/bantofolio-main/) [.Net Devloper & Freelancer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
