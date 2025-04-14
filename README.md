@@ -28,6 +28,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Aathif Zahir](https://az-dev.vercel.app/)
 - [Aayush Bharti](https://aayushbharti.in/) [Full-stack Developer]
 - [Aayush Kurup](https://aayushkurup.dev)
 - [Aayush Sood](https://www.aayushsood.com/)
