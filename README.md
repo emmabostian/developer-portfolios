@@ -601,7 +601,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lukasz Kups](https://lukaszkups.net)
 
 ## M
-
+- [Mehdi Ali](https://exoo25.github.io)
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
