@@ -613,6 +613,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Madza](https://www.madza.dev/)
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
+- [Mahmoud Zalt](https://zalt.me/) [Full-Stack Engineer | Software Architect | AI Engineer | Tech Consultant | Mentor]
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
@@ -690,7 +691,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
 - [mahdi.is-a.dev](http://mahdi.is-a.dev) [Try to Find the Easter Egg! :)]
-- [Mahmoud Zalt](https://zalt.me/) [Full-Stack Engineer | Software Architect | AI Engineer | Tech Consultant | Mentor]
 
 ## N
 
