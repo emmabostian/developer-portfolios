@@ -300,6 +300,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
+- [Dev Patel](https://devpatel.bsite.net/devpatel/index.html)[.Net Devloper & Freelancer]
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Patel](https://devpatel.bsite.net/dev%20patel%20portfolio/bantofolio-main/) [.Net Devloper & Freelancer]
