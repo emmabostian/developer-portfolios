@@ -1031,6 +1031,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vamsi Indugu](https://vamsiindugu.vercel.app/)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app/)
+- [Varinder Singh](https://varinder148.github.io/portfolio/)
 - [Varun Dey](https://varundey.me)
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vauth](https://vauth.github.io/hueco)
