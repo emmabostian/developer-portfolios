@@ -24,7 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aamir Malik](https://muhammadaamirmalik.com/)
-- [Aaron Dunphy](https://aarondunphy.com) 
+- [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
@@ -278,6 +278,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 
 ## D
+
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
@@ -455,6 +456,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Huzaifa Mustafa](https://www.huzaifamustafa.com)
 
 ## I
+
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ike Ofoegbu](https://iodev.io)
@@ -849,6 +851,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rohit Raj](https://rohit-raj.netlify.app/)
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland L. Taylor](http://rolandixor.pro)
+- [Roman Sendziuk](https://portfolio-romsendz.vercel.app/)
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
