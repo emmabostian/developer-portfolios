@@ -863,8 +863,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
 - [Saahil D](https://saahild.com)
+- [Satish Vaishnav](http://satishvaishnav.in)
 - [Sabarish](https://www.sabarish.in/)
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
 - [Sachin Srinivasan](https://s8sachin.github.io)
