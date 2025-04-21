@@ -623,6 +623,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Malinda Lakshan](https://www.malindalakshan.com/)
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app/)
 - [Manish Tamang](https://www.manishtamang.com)
+- [Manish Tiwari](https://www.manishtiwari.dev)
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
