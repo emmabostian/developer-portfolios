@@ -151,6 +151,7 @@ Sessionx.vim
 
 # Temporary
 .netrwhist
+
 # Auto-generated tag files
 tags
 # Persistent undo
@@ -168,6 +169,3 @@ tags
 .history
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
-
-./src/alphabetical.py
-.qodo
