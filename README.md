@@ -282,7 +282,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
-- [Dhvanit Monpara](https://dhvanitmonpara.in) [Full-stack Developer]
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
@@ -304,10 +303,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
-- [Dev Patel](https://devpatel.bsite.net/devpatel/index.html)[.Net Devloper & Freelancer ]
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Patel](https://devpatel.bsite.net/dev%20patel%20portfolio/bantofolio-main/) [.Net Devloper & Freelancer]
+- [Dev Patel](https://devpatel.bsite.net/devpatel/index.html)[.Net Devloper & Freelancer ]
 - [Dev](https://devpalwar.vercel.app)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
@@ -322,12 +321,14 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhruv Sathe](https://dhruv-alpha.vercel.app/) [Software Engineer & Freelancer]
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
 - [Dhruvil Rathod](https://dhruvilrathod.me/) [Fullstack Developer | Angular & NestJS Specialist]
+- [Dhvanit Monpara](https://dhvanitmonpara.in) [Full-stack Developer]
 - [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & UI/UX Designer]
 - [Dhyey Bhandari](https://dwinurcahya.my.id) [Web Developer & Software Engineer]
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Diego Rezende](https://diegorezm.netlify.app/)
 - [Digin Dominic](https://digindominic.me)
+- [Digbijaya Lenka](https://digbijayalenka.vercel.app/) [Full-stack Developer]
 - [Dillion Megida](http://dillionmegida.com)
 - [Dimitri Pashutskii](https://dpashutskii.com)
 - [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio)
