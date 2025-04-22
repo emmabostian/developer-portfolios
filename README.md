@@ -155,6 +155,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arjad Gohar](https://arjad-portfolio.netlify.app/) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
+- [Arhaan Siddiquee](https://arhaan-dev.vercel.app/) [Full Stack Developer]
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
 - [Arsh Sahzad](https://www.arsh.dev)
