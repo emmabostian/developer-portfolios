@@ -461,6 +461,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
+- [idler_pl](https://idler.live) [Fullstack Game Developer]
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilija Korodić](https://ilijakorodic.netlify.app/) [Frontend Developer]
