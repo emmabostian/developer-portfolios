@@ -375,6 +375,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app/) [Full-Stack Developer]
 - [Felipe Mourão](https://mouraocode.com.br/)
+- [Felipe Schmidt](https://felipeschmidt.me/) [Front-End Developer]
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Júnior](https://fernaandojr.vercel.app)
@@ -866,6 +867,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
