@@ -476,6 +476,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Iulian Rotaru](https://iulian.rotaru.fr)
+- [Idler_pl](https://idler.live)
 
 ## J
 
