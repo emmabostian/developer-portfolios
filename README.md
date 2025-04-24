@@ -675,6 +675,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Rodriguez](https://migu.es)
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
