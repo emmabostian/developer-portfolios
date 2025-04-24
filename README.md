@@ -283,6 +283,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## D
 
 - [Dale French](https://dalefrench.dev)
+- Deepakt552.github.io/
 - [Dale Larroder](https://dalelarroder.com)
 - [Damian Duda](https://damianduda.dev) [Full-stack Developer]
 - [Damian Markowski](https://damianmarkowski.com)
