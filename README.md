@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1020
+## Current Portfolio Count: 1029
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -152,11 +152,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website/) [Software Developer]
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app/)
 - [Ares](https://ares.uy)
+- [Arhaan Siddiquee](https://arhaan-dev.vercel.app/) [Full Stack Developer]
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Arjad Gohar](https://arjad-portfolio.netlify.app/) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
-- [Arhaan Siddiquee](https://arhaan-dev.vercel.app/) [Full Stack Developer]
 - [Arpit Sharma](https://yesarpit.github.io)
 - [Arsalan Shakil](https://arsalanshakil.github.io)
 - [Arsh Sahzad](https://www.arsh.dev)
@@ -464,7 +464,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [idler_pl](https://idler.live) [Fullstack Game Developer]
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilija Korodić](https://ilijakorodic.netlify.app/) [Frontend Developer]
@@ -480,6 +479,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Iulian Rotaru](https://iulian.rotaru.fr)
+- [idler_pl](https://idler.live) [Fullstack Game Developer]
 
 ## J
 
@@ -676,13 +676,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Rodriguez](https://migu.es)
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
-- [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
+- [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
 - [Mohit Paudyal](https://findmohit.netlify.app)
 - [Morelen Yim](https://morelenyim.com)
@@ -796,7 +796,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
-- [Purv Kabaria](https://purkabaria.netlify.app/)
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranshu Patel](https://pranshu05.vercel.app)
@@ -810,6 +809,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pritu Yadav](https://prituyadav.github.io/)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io/)
+- [Purv Kabaria](https://purkabaria.netlify.app/)
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app/)
