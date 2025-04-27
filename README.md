@@ -17,7 +17,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [A.Usman Nasir](https://devbyusman.com/)
 - [Aabar Khan](https://aabaarkhan.quippedai.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
@@ -1034,6 +1033,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
 - [Umesh Nagare](https://umeshnagare.com)
+- [Usman Nasir](https://devbyusman.com/)
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
