@@ -117,6 +117,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amoda Fernando](https://www.fernand3z.dev/)
 - [Amogh Telkar](https://amoghtelkar.com)
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
+- [Amr El-Dhshan](https://amr-khaled-ahmed.github.io/Portfolio/) [CyberSecurity Student & Student at the Faculty of Computers and Artificial Intelligence, Cairo University]
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
 - [Anandhu Sajan](https://anandhusajan.com)
