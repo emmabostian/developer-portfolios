@@ -678,9 +678,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
-- [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammed Hesham Farhan](https://mohammedfarhan.me)
+- [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
@@ -832,6 +832,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Gulabaji](https://rahulgulabaji.github.io/) [Software Engineer ]
 - [Rahul Gurujala](https://rahulgurujala.is-a.dev/) [Full Stack Developer]
 - [Rahul Kumar](https://rahulbaran.vercel.app)
+- [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app/)
