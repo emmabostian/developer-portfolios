@@ -164,6 +164,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 - [Artur Bień](https://expensive.toys/) [UI & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
+- [Aryan Gupta](https://aryang.xyz/) [Full-Stack Developer | Software Developer | Frontend & UI]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX Designer || Full Stack Developer]
 - [Ashak Zahin Hasan](https://aboutzahin.pages.dev)
