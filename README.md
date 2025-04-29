@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1029
+## Current Portfolio Count: 1037
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -116,8 +116,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [AmirAli Rashidi](https://amiralirashidi.github.io/) [Front-End Developer]
 - [Amoda Fernando](https://www.fernand3z.dev/)
 - [Amogh Telkar](https://amoghtelkar.com)
-- [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
 - [Amr El-Dhshan](https://amr-khaled-ahmed.github.io/Portfolio/) [CyberSecurity Student & Student at the Faculty of Computers and Artificial Intelligence, Cairo University]
+- [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
 - [Amruth Pillai](https://amruthpillai.com)
 - [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
 - [Anandhu Sajan](https://anandhusajan.com)
