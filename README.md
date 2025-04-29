@@ -845,7 +845,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ramin Rezaei - V2](https://raminr77.vercel.app/)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh/)
-- [Raziel Rodrigues](https://www.razielrodrigues.dev/)
+- [Raziel Rodrigues](https://www.razielrodrigues.dev/)`
 - [Razin Rayees](https://razin.in)
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
