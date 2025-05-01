@@ -271,6 +271,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Chung Nguyen Thanh - ChunhThanhDe](https://chunhthanhde.github.io)
 - [Ciro Ciampaglia](https://cirociampaglia.it)
+- [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Codervai](https://codervai.vercel.app/)
 - [Codexoft KE](https://codexoft.tech) [Full Stack Developer & Mobile App Dev]
