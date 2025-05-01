@@ -1094,6 +1094,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Y
 
+- [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio/) [C++ Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
