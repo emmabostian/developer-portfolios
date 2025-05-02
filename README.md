@@ -399,7 +399,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## G
 
-- [Gabriel Carvalho](https://gabrielcarvalho.vercel.app/)
+- [Gabriel Carvalho](https://gabrielcarvalho.vercel.app/) ([@cttbiel](https://github.com/cttbiel)) [👨🏽‍💻 Computer Engineering Student]
 - [Gabriel López](https://glpzzz.dev)
 - [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Tekombo](https://gabrielthecode.com)
