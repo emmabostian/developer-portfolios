@@ -253,8 +253,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with [TechFolios](https://techfolios.github.io))
-- [Chee Hwa Tang](https://cheehwatang.com)
 - [Che Overmeyer](https://cheovermeyer.com) [Frontend Developer]
+- [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chethin Manage](https://www.cmanage.dev)
