@@ -138,6 +138,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anish Biswas](https://anish7.me) [FullStack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Mohanty](https://ankitmohanty.vercel.app/) [Software Developer]
+- [Ankit Pakhale](https://ankitpakhale.netlify.app/) [Senior Software Engineer | AI | Fullstack Developer]
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshuman Jha](https://anshuman-jha.vercel.app/)
