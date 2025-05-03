@@ -242,6 +242,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brendan Lentz](https://brendanlentz.com)
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brittany Chiang](https://brittanychiang.com)
+- [Brijesh Patel] (https://brijesh.work/)
 - [Bryan Smith](https://multikitty.onrender.com)
 
 ## C
