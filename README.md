@@ -253,6 +253,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with [TechFolios](https://techfolios.github.io))
+- [Che Overmeyer](https://cheovermeyer.com) [Frontend Developer]
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
 - [Chetanya Kandhari](https://availchet.github.io)
@@ -882,6 +883,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
