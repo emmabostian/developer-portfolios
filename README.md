@@ -112,6 +112,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Kumar](https://amankumar.ai/) [Product | AI Engineer]
 - [Aman Mittal](http://amanhimself.dev)
+- [Aman Pareek](https://amanpareek.in) [Node.js Developer]
 - [Aman Shrivastava](https://aman04.netlify.app)
 - [Amir Akbulut](https://amirdev.nl)
 - [AmirAli Rashidi](https://amiralirashidi.github.io/) [Front-End Developer]
@@ -881,6 +882,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
