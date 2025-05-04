@@ -17,6 +17,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aryan Maurya](https://amsrportfolio.netlify.app/)
 - [Aabar Khan](https://aabaarkhan.quippedai.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
