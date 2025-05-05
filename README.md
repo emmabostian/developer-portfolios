@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1031
+## Current Portfolio Count: 1044
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -17,7 +17,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aryan Maurya](https://amsrportfolio.netlify.app/)
 - [Aabar Khan](https://aabaarkhan.quippedai.com/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
@@ -36,6 +35,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdelaziz El Arassi](http://aelarassi.com)
+- [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan/) [Mobile Developer]
@@ -43,7 +43,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app/) [Full Stack Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
-- [Abdul Jaber](https://aj7.is-a.dev)
 - [Abhinandhan Devadiga](https://abhicodestudio.com)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
@@ -171,6 +170,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Artur Bień](https://expensive.toys/) [UI & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Gupta](https://aryang.xyz/) [Full-Stack Developer | Software Developer | Frontend & UI]
+- [Aryan Maurya](https://amsrportfolio.netlify.app/)
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX Designer || Full Stack Developer]
 - [Ashak Zahin Hasan](https://aboutzahin.pages.dev)
@@ -207,7 +207,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [BalKrishna](https://balkrishnabk.com.np)
 - [Baptiste Miramont](https://baptistemiramont.fr)
-- [Barrack Amuyunzu](https://amuyunzubarrac.club)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Becca Bailey](http://Becca.is)
 - [Bejagam Nithilesh](https://nithilesh.vercel.app/)
@@ -243,8 +242,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brandon Mitchell](https://juncie.com) [Full Stack Developer]
 - [Brendan Lentz](https://brendanlentz.com)
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
-- [Brittany Chiang](https://brittanychiang.com)
 - [Brijesh Patel] (https://brijesh.work/)
+- [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Smith](https://multikitty.onrender.com)
 
 ## C
@@ -315,7 +314,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
-- [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Patel](https://devpatel.bsite.net/devpatel/index.html)[.Net Devloper & Freelancer ]
 - [Dev](https://devpalwar.vercel.app)
@@ -350,13 +348,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app/)
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app/)
 - [Drew Bredvick](https://drew.tech)
+- [Duc Pham](https://itsmee.space/)
 - [Durgesh Chaudhary](https://yodkwtf.com)
 - [Dushmanta Behera](https://dushmanta.dev)
 - [Dustin Brett](https://dustinbrett.com/)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-- [Duc Pham](https://itsmee.space/)
 
 ## E
 
@@ -734,6 +732,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Nguyen Chanh Dang](https://chanhdang.com)
+- [NguyenMinh](https://nguyenminh.site)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
 - [Nicholas Gannon](https://nicholasgannon.io/)
 - [Nico Bachner](https://nicobachner.com)
@@ -755,7 +754,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
-- [NguyenMinh](https://nguyenminh.site)
 
 ## O
 
@@ -919,7 +917,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sameer](https://sameer27.netlify.app/)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
-- [Samuel Muchai Macharia](https://sammymacharia.vercel.app)
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
 - [Sanee Itas](https://saneeitas.netlify.app)
@@ -974,7 +971,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
-- [Shripad Khandare](https://shripadkhandare.in/)
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
@@ -1113,8 +1109,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
-- [Yassine Haimouch](https://gitcoder.vercel.app)
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full-Stack-Dev]
+- [Yassine Haimouch](https://gitcoder.vercel.app)
 - [Yassine Oularbi](https://yassineoularbi.github.io)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
