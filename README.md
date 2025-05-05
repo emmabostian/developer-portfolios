@@ -754,6 +754,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
+- [NguyenMinh](https://nguyenminh.site)
 
 ## O
 
