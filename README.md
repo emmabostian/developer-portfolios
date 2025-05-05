@@ -821,6 +821,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pritu Yadav](https://prituyadav.github.io/)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io/)
+- [Purv Kabaria](https://purvkabaria.netlify.app/)
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app/)
