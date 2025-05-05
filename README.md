@@ -979,6 +979,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Siddharth Vaishnav](https://codesiddharth.tech)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
+- [Sina Shahoveisi](https://sinasho.ir) (Software Engineer) ([@sinashahoveisi](https://github.com/sinashahoveisi))
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Soham Mondal](https://sohammondal.com)
 - [Soumyajit Behera](https://soumyajit.vercel.app/)
