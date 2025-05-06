@@ -1073,6 +1073,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vibhor Arya](https://vibhorarya12.vercel.app/)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vighnesh Raut](https://vighnesh153.dev)
+- [Vigneshwaran Balamurugan](https://vigneshwaran.tech/) [Associate Engineer | Backend Developer]
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app/)
 - [Vikas Ukani](https://vikas-ukani.github.io)
