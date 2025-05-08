@@ -1093,6 +1093,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
 - [Volkan Kabay](https://volkankabay.com/)
+- [Vu Nguyen](https://vunguyenit.site/)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app/) [VMOY]
 - [vm ](https://vmthedev.web.app)
 
