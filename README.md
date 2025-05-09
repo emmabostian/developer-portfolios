@@ -741,6 +741,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nihal Ahmed Nariyam](https://nihalahmed.in)
 - [Nikita Sobolev](https://sobolevn.me)
+- [Niko Soriano](https://n-cv.vercel.app)
 - [Nilesh Fatfatwale](https://nileshfatfatwale.vercel.app/)
 - [Nilesh Prajapat](https://itsnilesh.vercel.app) (App Developer)
 - [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
