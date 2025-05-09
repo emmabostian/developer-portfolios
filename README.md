@@ -645,6 +645,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marco Baldini](https://marcobaldini.pages.dev/)
 - [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
+- [Marios Sofokleous](https://msof.me/)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
