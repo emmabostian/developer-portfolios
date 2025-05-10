@@ -1004,6 +1004,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot Programmer]
+- [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 
 ## T
 
