@@ -344,6 +344,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
 - [Dino Gomez](https://dinogomez.vercel.app)
 - [Dinokage](https://dinokage.in)
+- [Dipak Mourya](https://dipakdev.in/) [Full Stack Developer]
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app/)
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app/)
