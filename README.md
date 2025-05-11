@@ -528,6 +528,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jerin BS](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
 - [Jesus Santander](https://jsantanders.dev)
+- [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jo Lienhoop](https://jolienhoop.com)
