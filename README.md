@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1044
+## Current Portfolio Count: 1052
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -390,7 +390,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Júnior](https://fernaandojr.vercel.app)
-- [Fi Amanillah](https://fi.amanillah.com/) [Full-Stack Developer] ([@fiamanillah](https://github.com/fiamanillah))
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Floris Melchers](https://Floriscodes.nl)
@@ -960,6 +959,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shakhzhakhan Maxudbek](https://args.tech)
+- [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Sharif Rahat](https://sharifrahat.com/) [Full Stack Developer]
@@ -1005,7 +1005,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot Programmer]
-- [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 
 ## T
 
@@ -1061,7 +1060,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## V
 
-- [Vahid Foroughi](https://vahidforoughi.com)
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io/)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
