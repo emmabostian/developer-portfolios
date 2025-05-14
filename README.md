@@ -1032,6 +1032,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thibault Mathian](https://thibault.sh)
 - [Thinh Ngo](https://thinhcorner.com/)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
+- [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
