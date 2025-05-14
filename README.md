@@ -865,6 +865,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Razin Rayees](https://www.razinrayees.com)
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
+- [Remy Jouni](https://remyjouni.dev) [Frontend Developer & UI/UX Designer]
 - [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio/)
 - [Riccardo Venturini](https://riccardoventurini.dev/)
