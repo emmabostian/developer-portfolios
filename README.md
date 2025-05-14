@@ -636,6 +636,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mahmoud AlSharif](https://malsharif.me)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Makechi Eric](https://love-makechi.web.app)
+- [Malay Patra](https://malaypatrav2.vercel.app)
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
 - [Malith Rukshan](https://malith.dev/)
