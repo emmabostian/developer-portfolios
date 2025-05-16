@@ -816,6 +816,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
+- [Pranav Arya](https://pranavarya.in) [Software Engineer]
 - [Pranshu Patel](https://pranshu05.vercel.app)
 - [Prantosh Biswas](https://prantosh.ninja) [Unique Portfolio | Software Engineer]
 - [Prashant Khandelwal](https://prashantk.dev)
