@@ -1101,6 +1101,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Kryvytchenko](https://www.vladfrontend.pro)
+- [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Volkan Kabay](https://volkankabay.com/)
 - [Vu Nguyen](https://vunguyenit.site/)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app/) [VMOY]
