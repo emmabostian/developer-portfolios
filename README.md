@@ -974,7 +974,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
-- [Shaurya Chandhoke](https://shaurya-chandhoke.github.io) [Software Engineer | Machine Learning Engineer]
+- [Shaurya Chandhoke](https://shauryachandhoke.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=portfolio) [Software Engineer | Machine Learning Engineer]
 - [Shefali](https://shefali.dev)
 - [Shibiraj](https://shibiverse.tech/)
 - [Shikhar Gupta](https://shikhar97.github.io)
