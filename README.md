@@ -87,6 +87,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ajetunmobi Damilare](https://damilareajetunmobi.vercel.app/) [Software Developer]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
+- [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app/) [Quant Developer | Full Stack]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io/) [Full-Stack Developer | Solution Architect]
