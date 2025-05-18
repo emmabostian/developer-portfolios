@@ -1048,6 +1048,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Kanjariya](https://tusharkanjariya.me)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
+- [Tushar Singh Bisht](https://tusharsinghbisht.github.io/)
 - [Tvoosai](https://www.tvoosai.dev/) [Freelance Mobile, Web & Backend Developer]
 
 ## U
