@@ -974,6 +974,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Sharif Rahat](https://sharifrahat.com/) [Full Stack Developer]
 - [Sharon Yi](https://sharon-yi.com/) [Frontend Developer]
+- [Sharuk Sayyed](https://sayyed-sharuk-portfolio.vercel.app/) [Frontend Developer]
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shashank Shet](https://shashank-shet.vercel.app/)
 - [Shashi Kant](https://shashikantportfolio.web.app/) [Full Stack Developer]
