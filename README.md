@@ -9,7 +9,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1052
+## Current Portfolio Count: 1066
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) | [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
@@ -180,7 +180,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
-- [Aster Bandis](https://bandisast.eu)
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
@@ -475,6 +474,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
+- [Idler_pl](https://idler.live)
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilija Korodić](https://ilijakorodic.netlify.app/) [Frontend Developer]
@@ -680,6 +680,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
+- [Mehdi Ali](https://exoo25.github.io)
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
@@ -741,7 +742,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Nguyen Chanh Dang](https://chanhdang.com)
-- [NguyenMinh](https://nguyenminh.site)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
 - [Nicholas Gannon](https://nicholasgannon.io/)
 - [Nico Bachner](https://nicobachner.com)
@@ -785,7 +785,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
-- [Prem Acharya](https://premacharya.vercel.app)
 - [PHPxCODER](https://phpxcoder.in)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev/)
@@ -827,6 +826,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React JS Developer | Director of Engineering]
 - [Praveen Kumar](https://praveengongada.com) [Software Development Engineer]
 - [Preet Suthar](https://preetsuthar.me)
+- [Prem Acharya](https://premacharya.vercel.app)
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app/)
 - [Prince Kumar](https://www.princecodes.online)
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2/) [ Frontend Developer ]
@@ -1037,7 +1037,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thibault Mathian](https://thibault.sh)
 - [Thinh Ngo](https://thinhcorner.com/)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
-- [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
@@ -1045,13 +1044,14 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
+- [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Kanjariya](https://tusharkanjariya.me)
-- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io/)
+- [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tvoosai](https://www.tvoosai.dev/) [Freelance Mobile, Web & Backend Developer]
 
 ## U
