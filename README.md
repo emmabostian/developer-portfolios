@@ -711,6 +711,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mouad ZIANI](https://mouadziani.github.io)
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
 - [Mudassir Ali](https://mudassirali.com/) [Full Stack Developer | Software Engineer]
+- [Muhammed Hisham A](https://coderhisham.com) [Full Stack Developer]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com/) [Frontend Developer]
 - [Muhammad Jaafar](https://m7mad.dev/)
 - [Muhammad Muhaddis](https://muhaddis.info)
