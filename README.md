@@ -458,6 +458,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hemang Yadav](https://zemerik.vercel.app/) [Passionate Developer]
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
+- [Heny](https://heny.dev/) [Full-stack Developer | MERN | Next.js]
 - [Herman Starikov](http://starikov.dev)
 - [Herve MBilo](https://diliwo.github.io/) [Cloud-Native Software Engineer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
