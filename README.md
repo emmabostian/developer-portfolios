@@ -970,6 +970,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
+- [Shailendra Singh](https://singhshailendra.in)
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 - [Shannon Crabill](http://shannoncrabill.com)
