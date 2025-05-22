@@ -577,6 +577,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
+- [Kevin Kenfack](https://kenfack-me.vercel.app/)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karthik Shetty](http://karthikshetty.info/) [Software Engineer | Fullstack Developer]
