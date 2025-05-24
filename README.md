@@ -261,6 +261,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## C
 
+  [TechFolios](https://techfolios.github.io))
 - [Cade Kynaston](https://cade.codes)
 - [Capt. Michael](https://captmichael.dev) [MERN Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
@@ -271,7 +272,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with
-  [TechFolios](https://techfolios.github.io))
 - [Che Overmeyer](https://cheovermeyer.com) [Frontend Developer]
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
@@ -282,6 +282,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io)
 - [Chris Carr](http://snackpipe.com)
+- [Chris Coyier](https://chriscoyier.net/) [Co-founder of CodePen]
 - [Chris Kennedy](http://cyberstorm.vercel.app) [Blockchain focused web developer]
 - [Chris Otto](https://chrisotto.dev)
 - [Chris Poole](https://chrispoole.com)
