@@ -67,6 +67,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adeola Badero](https://www.adeolabadero.me) [Frontend Engineer & UI/UX Designer]
 - [Adham Dannaway](https://www.adhamdannaway.com/) [UX/UI Designer & Frontend Developer]
 - [Adithya Krishnan](https://www.adithyakrishnan.com/)
+- [Aditi Arya](https://aditiarya.netlify.app/) [Software Engineer]
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app/)
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar](https://www.adityakr.com)
