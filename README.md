@@ -690,6 +690,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mathis Zeghouani](https://mathisdev.pro)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
+- [Matteo Mumoli](https://matteomumoli.dev) [Full Stack | Web | App | Game Dev & Freelancer]
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
