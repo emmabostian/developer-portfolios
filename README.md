@@ -644,6 +644,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lucas Dantas](https://dantsdev.vercel.app)
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
+- [Luiz Gustavo Alves](https://www.luizgustavoalves.dev/) [Full Stack Developer]
 - [Lukasz Kups](https://lukaszkups.net)
 
 ## M
