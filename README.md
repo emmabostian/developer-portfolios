@@ -623,6 +623,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## L
 
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
+- [Lakshya jain](https://port-folio-nine-lemon-27.vercel.app/) [For any developer | Has multiple templates | Semi - automated data update feature]
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Le Duong Hung Thinh](https://thinh.io.vn/) [Front-end Engineer]
