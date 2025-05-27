@@ -166,6 +166,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Antonio Ferreiro](https://toniferr.github.io)
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
+- [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website/) [Software Developer]
