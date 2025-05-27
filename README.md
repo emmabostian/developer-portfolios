@@ -1,4 +1,4 @@
-![{A108EEF7-C3FD-4332-91AA-702D05FC4920}](https://github.com/user-attachments/assets/0ecdf062-a787-40c2-9cb4-390916ba36a3)# Developer Portfolios
+# Developer Portfolios
 
 A list of developer portfolios for your inspiration
 
