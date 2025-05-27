@@ -119,6 +119,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ali iranmanesh](https://linuxtimes.ir)
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
+- [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
 - [Aloys Dillar](https://trolologuy.github.io)
 - [Alvalens](https://www.alvalens.my.id)
 - [Aman Anku](http://amananku26.github.io)
