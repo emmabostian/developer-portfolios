@@ -1,4 +1,4 @@
-# Developer Portfolios
+![{A108EEF7-C3FD-4332-91AA-702D05FC4920}](https://github.com/user-attachments/assets/0ecdf062-a787-40c2-9cb4-390916ba36a3)# Developer Portfolios
 
 A list of developer portfolios for your inspiration
 
@@ -27,6 +27,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
+- [Aalim](https://zunedaalim.com/)
 - [Aamir Malik](https://muhammadaamirmalik.com/)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
