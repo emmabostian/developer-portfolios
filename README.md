@@ -570,6 +570,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Judicaël AHYI](https://judicael-ahyi.com)
 - [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
 - [Julia Johnson](http://juliacodes.com)
+- [Julian Teofilov](https://julian-teofilov.vercel.app/)
 - [Juned Khan](https://junedkhan.me)
 - [Juon Kawakami (@evesquare)](https://me.evesq.com) [Fullstack Developer | UI/UX Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
