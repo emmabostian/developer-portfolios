@@ -271,6 +271,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Casper Iversen](https://caspertheghost.me)
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cemal Türkcan)](https://cemalturkcan.com)
+- [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chambrin Alexandre](https://chambrin.dev)
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
