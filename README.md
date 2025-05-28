@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1074
+## Current Portfolio Count: 1083
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -334,11 +334,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
-- [Dev Patel](https://devpatel.bsite.net/devpatel/index.html)[.Net Devloper & Freelancer ]
 - [Dev](https://devpalwar.vercel.app)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
-- [Dhananjay Shahane](https://dhananjay-dev.vercel.app)
 - [Dhanraj Patil](https://dhanrajp.vercel.app/) [Front-End Web Developer]
 - [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app/) [Unique Whatsapp Portfolio]
 - [Dharmendra Kumar](https://www.developer-dharmendra.online)
@@ -465,7 +463,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
-- [Harijaona Ravelondrina](http://www.bigjohn.dev)
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harwin Dan](https://itscrazydev.netlify.app)
@@ -583,7 +580,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
-- [Kevin Kenfack](https://kenfack-me.vercel.app/)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karthik Shetty](http://karthikshetty.info/) [Software Engineer | Fullstack Developer]
@@ -591,6 +587,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Karunika](https://karunika.work/)
 - [Kashiful Haque](https://ifkash.vercel.app)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with
+- [Kevin Kenfack](https://kenfack-me.vercel.app/)
   [TechFolios](https://techfolios.github.io))
 - [Katie Haus](https://astro-portfolio-site.netlify.app/)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
@@ -944,7 +941,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-- [Surajit Sen](https://surajitsen.me/)
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
@@ -984,6 +980,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev/)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Satish Jhanwer](https://satishjhanwer.github.io)
+- [Surajit Sen](https://surajitsen.me/)
   ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
@@ -1196,7 +1193,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Youssef SAHIH](https://sahih.me) [Front-end Developer]
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
-- [Yusuf Bozacı](https://yusufbozaci.dev)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
 
 ## Z
