@@ -530,6 +530,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Turner](http://turnerj.com)
 - [Jann Chie](https://jannchie.com/en/)
 - [Jason Solano](https://jasonsolano.tech)
+- [Jatin](https://jating07925.vercel.app) [Fullstack Developer | .NET + React]
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app/)
