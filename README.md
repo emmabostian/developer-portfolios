@@ -52,6 +52,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
+- [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio/) [Software Engineer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full-Stack developer]
 - [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
