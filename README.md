@@ -239,6 +239,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bharat Bhandari](https://bharatdev.vercel.app)
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavesh Mishra](https://bhaveshmishra.dev)
+- [Bhavishy Agrawal](https://bhavishyagrawal.vercel.app/) [Complete Developer | Designer]
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
