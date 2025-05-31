@@ -1030,6 +1030,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shaurya Chandhoke](https://shauryachandhoke.vercel.app/?utm_source=github&utm_medium=social&utm_campaign=portfolio)
   [Software Engineer | Machine Learning Engineer]
 - [Shefali](https://shefali.dev)
+- [Sheljin](https://shelj.in) [Full Stack Developer]
 - [Shibiraj](https://shibiverse.tech/)
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
