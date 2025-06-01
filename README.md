@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1084
+## Current Portfolio Count: 1090
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -48,11 +48,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app/) [Full Stack Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
+- [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio/) [Software Engineer]
 - [Abhinandhan Devadiga](https://abhicodestudio.com)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
-- [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio/) [Software Engineer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full-Stack developer]
 - [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
@@ -531,10 +531,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Turner](http://turnerj.com)
 - [Jann Chie](https://jannchie.com/en/)
 - [Jason Solano](https://jasonsolano.tech)
-- [Jatin](https://jating07925.vercel.app) [Fullstack Developer | .NET + React]
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app/)
+- [Jatin](https://jating07925.vercel.app) [Fullstack Developer | .NET + React]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [full-stack developer]
 - [Jay Keraliya](https://jaykeraliya.com)
@@ -578,8 +578,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
 ## K
-- [KINH BACH](https://kinhdev.id.vn) [💥 Frontend Developer]
-- [KIRAN KUMAR](https://ikiran-dev.github.io)
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
@@ -591,6 +589,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kashiful Haque](https://ifkash.vercel.app)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) (made with
 - [Kevin Kenfack](https://kenfack-me.vercel.app/)
+- [Kinh Bach](https://kinhdev.id.vn) [💥 Frontend Developer]
+- [Kiran Kumar](https://ikiran-dev.github.io)
   [TechFolios](https://techfolios.github.io))
 - [Katie Haus](https://astro-portfolio-site.netlify.app/)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
@@ -656,9 +656,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
-- [Muhammad Uzair Khan](https://uzairkhan.tech/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
+- [Muhammad Uzair Khan](https://uzairkhan.tech/)
   of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhur Dixit](https://madhurdixit13.github.io/Portfolio/)
