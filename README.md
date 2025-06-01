@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1090
+## Current Portfolio Count: 1088
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -196,7 +196,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
-- [Ashwith Rai](https://ashwithrai.me) [Full Stack developer]
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
@@ -573,7 +572,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
 - [Julia Johnson](http://juliacodes.com)
 - [Julian Teofilov](https://julian-teofilov.vercel.app/)
-- [Juned Khan](https://junedkhan.me)
 - [Juon Kawakami (@evesquare)](https://me.evesq.com) [Fullstack Developer | UI/UX Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
