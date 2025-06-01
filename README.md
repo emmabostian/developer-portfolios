@@ -656,6 +656,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Dr Milan Milanovic](https://milan.milanovic.org/)
+- [Muhammad Uzair Khan](https://uzairkhan.tech/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
   of Fame]
