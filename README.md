@@ -648,6 +648,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev/) [Full Stack Developer]
+- [Luís Oliveira](https://lo-devpage.netlify.app/)
 - [Lukasz Kups](https://lukaszkups.net)
 
 ## M
