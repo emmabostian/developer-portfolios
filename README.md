@@ -285,6 +285,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chicago IT Systems](https://www.chicagoitsystems.com)
 - [Chilavert N'Dah](https://chilavertndah.me)
 - [Chirag Bhalotia](https://chirag.codes)
+- [ChiragChrg](https://chiragchrg.netlify.app/) [Full Stack Developer]
 - [Chirag Samal](http://chiragsamal.github.io)
 - [Chris Carr](http://snackpipe.com)
 - [Chris Coyier](https://chriscoyier.net/) [Co-founder of CodePen]
