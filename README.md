@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1088
+## Current Portfolio Count: 1089
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -431,6 +431,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
+- [Ganesh Kalyan](https://www.ganeshkalyan.in)
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
