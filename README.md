@@ -1076,6 +1076,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot
   Programmer]
+- [Syed Syab Ahmad - Link Tree](https://linktr.ee/syedsyab)
+- [Syed Syab Ahmad POrtfolio](https://syab.tech)
 
 ## T
 
