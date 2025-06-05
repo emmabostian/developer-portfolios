@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1097r
+## Current Portfolio Count: 1098r
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -215,6 +215,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
 - [Ayush Baral](https://rushayu.vercel.app) [Front-End Web Developer]
+- [Ayush Kumar Gupta](https://ayyush08.vercel.app/) [Full-Stack Developer]
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app/)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
