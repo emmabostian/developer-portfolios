@@ -29,6 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aalim](https://zunedaalim.com/) [Full-Stack Web Developer]
+- [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
