@@ -730,6 +730,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
+- [Syed Syab Ahmad - Link Tree](https://linktr.ee/syedsyab)
+- [Syed Syab Ahmad - Portfolio](https://syab.tech)
   
 
 ## T
