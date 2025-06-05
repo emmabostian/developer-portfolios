@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1089r
+## Current Portfolio Count: 1097r
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -287,8 +287,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chicago IT Systems](https://www.chicagoitsystems.com)
 - [Chilavert N'Dah](https://chilavertndah.me)
 - [Chirag Bhalotia](https://chirag.codes)
-- [ChiragChrg](https://chiragchrg.netlify.app/) [Full Stack Developer]
 - [Chirag Samal](http://chiragsamal.github.io)
+- [ChiragChrg](https://chiragchrg.netlify.app/) [Full Stack Developer]
 - [Chris Carr](http://snackpipe.com)
 - [Chris Coyier](https://chriscoyier.net/) [Co-founder of CodePen]
 - [Chris Kennedy](http://cyberstorm.vercel.app) [Blockchain focused web developer]
@@ -654,8 +654,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev/) [Full Stack Developer]
-- [Luís Oliveira](https://lo-devpage.netlify.app/)
 - [Lukasz Kups](https://lukaszkups.net)
+- [Luís Oliveira](https://lo-devpage.netlify.app/)
 
 ## M
 
@@ -1078,7 +1078,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer,Polygot
   Programmer]
 - [Syed Syab Ahmad - Link Tree](https://linktr.ee/syedsyab)
-- [Syed Syab Ahmad POrtfolio](https://syab.tech)
+- [Syed Syab Ahmad Portfolio](https://syab.tech)
 
 ## T
 
