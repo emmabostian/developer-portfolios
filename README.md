@@ -518,6 +518,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 - [idler_pl](https://idler.live) [Fullstack Game Developer]
+- [Ink42](https://ink42.github.io/orbit-i42-portfolio/)
 
 ## J
 
