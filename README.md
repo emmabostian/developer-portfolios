@@ -200,6 +200,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashwin Hariharan](https://ashwinhariharan.tech)
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
+- [Atharva Kote](https://atharvakote.netlify.app/) [Full Stack Developer | DeveOps]
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
 - [Austin Gericke](https://www.austingericke.com)
