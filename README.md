@@ -749,6 +749,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
 - [Mohit Paudyal](https://findmohit.netlify.app)
+- [Mohsin Raz](https://www.mohsinraz.me/) [Fullstack Developer | AI Automation]
 - [Morelen Yim](https://morelenyim.com)
 - [Mouad ZIANI](https://mouadziani.github.io)
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
