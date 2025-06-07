@@ -1054,6 +1054,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shuvam Manna](http://shuvam.xyz)
 - [Shyamalendu Nayak](https://www.shyam.dev/)
 - [Siddharth Vaishnav](https://codesiddharth.tech)
+- [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Sina Shahoveisi](https://sinasho.ir) (Software Engineer)
