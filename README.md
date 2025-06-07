@@ -944,6 +944,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rohit Raj](https://rohit-raj.netlify.app/)
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland L. Taylor](http://rolandixor.pro)
+- [Rolind Roy](https://rolind.me) [DevOps]
 - [Roman Sendziuk](https://portfolio-romsendz.vercel.app/)
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
