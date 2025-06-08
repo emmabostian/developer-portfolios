@@ -197,7 +197,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashkan Misaghi](https://ashkanmisaghi.ir)
-- [Ashwin Hariharan](https://ashwinhariharan.tech)
+- [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
 - [Atharva Kote](https://atharvakote.netlify.app/) [Full Stack Developer | DeveOps]
