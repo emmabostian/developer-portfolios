@@ -472,6 +472,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
 - [Harlon Garcia](https://harlon.netlify.app)
+- [Harsh Banka](https://harshbanka.tech) [AI/ML & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harwin Dan](https://itscrazydev.netlify.app)
