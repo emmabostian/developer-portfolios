@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1098r
+## Current Portfolio Count: 1107
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -540,6 +540,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Mumo](https://jamesmumo.vercel.app/)
 - [James Turner](http://turnerj.com)
 - [Jann Chie](https://jannchie.com/en/)
+- [Jason Cameron](https://jsn.cam/) ([Repo](https://jsn.cam/repo))
 - [Jason Solano](https://jasonsolano.tech)
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
