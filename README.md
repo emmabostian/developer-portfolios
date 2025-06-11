@@ -800,6 +800,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com)
+- [Nidal Ghonaim](https://www.nidal.dev/) [Full Stack Developer | Designer]
 - [Nihal Ahmed Nariyam](https://nihalahmed.in)
 - [Nikita Sobolev](https://sobolevn.me)
 - [Niko Soriano](https://n-cv.vercel.app)
