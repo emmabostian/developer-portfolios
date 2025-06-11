@@ -501,6 +501,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## I
 
+- [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Idler_pl](https://idler.live)
