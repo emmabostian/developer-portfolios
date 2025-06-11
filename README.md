@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1098r
+## Current Portfolio Count: 1107
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Ashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -539,6 +540,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Mumo](https://jamesmumo.vercel.app/)
 - [James Turner](http://turnerj.com)
 - [Jann Chie](https://jannchie.com/en/)
+- [Jason Cameron](https://jsn.cam/) ([Repo](https://jsn.cam/repo))
 - [Jason Solano](https://jasonsolano.tech)
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
@@ -798,6 +800,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
 - [Nicolo Rebughini](https://nirebu.com)
+- [Nidal Ghonaim](https://www.nidal.dev/) [Full Stack Developer | Designer]
 - [Nihal Ahmed Nariyam](https://nihalahmed.in)
 - [Nikita Sobolev](https://sobolevn.me)
 - [Niko Soriano](https://n-cv.vercel.app)
@@ -1048,6 +1051,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shivam Raj](https://shivxmr.netlify.app)
+- [Shivam Garg](https://shivamgarg82.github.io/Portfolio/)
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
