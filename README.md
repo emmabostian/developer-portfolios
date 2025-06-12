@@ -812,7 +812,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
-- [Nishchal Kc](https://www.your-portfolio-link.com)
+- [Nishchal Kc](https://www.nishchalkc.com.np/)
 - [Nitesh Seram](https://niteshseram.in)
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
