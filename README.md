@@ -1067,6 +1067,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Soham Mondal](https://sohammondal.com)
 - [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
+- [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app/)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
