@@ -586,6 +586,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
 ## K
+
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
@@ -1035,6 +1036,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
+- [Shaon An Nafi](https://shaonannafi.me) [ Software Engineer | Daffodil International University Bangladesh ]
 - [Sharif Rahat](https://sharifrahat.com/) [Full Stack Developer]
 - [Sharon Yi](https://sharon-yi.com/) [Frontend Developer]
 - [Sharuk Sayyed](https://sayyed-sharuk-portfolio.vercel.app/) [Frontend Developer]
