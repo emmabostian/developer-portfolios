@@ -961,6 +961,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## S
 
+- [Sai Ganesh] (https://my-portfolio-iota-mauve-22.vercel.app/) [Full Stack Developer, UI/UX Designer and Adode Tools]
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
