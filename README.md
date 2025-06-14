@@ -226,6 +226,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [BalKrishna](https://balkrishnabk.com.np)
 - [Baptiste Miramont](https://baptistemiramont.fr)
+- [Baymax](https://www.sitaramoli.com.np/)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Becca Bailey](http://Becca.is)
 - [Bejagam Nithilesh](https://nithilesh.vercel.app/)
