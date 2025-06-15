@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1105
+## Current Portfolio Count: 1111
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -480,7 +480,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hasan](https://hasansiddiqui.netlify.app)
 - [Hassam Ul Haq](https://hassam.dev) [Backend Developer - PHP Laravel]
-- [Hassan Ahani](https://hasanahani.ir)
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Murtaza](https://hassanmurtaza.com)
 - [Hassan RJ](https://hassanrj.vercel.app/) [Hassan RJ Full Stack Next.js Developer
@@ -506,6 +505,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ian Lunn](https://ianlunn.co.uk/) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Idler_pl](https://idler.live)
+- [Idler_pl](https://idler.live) [Fullstack Game Developer]
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilija Korodić](https://ilijakorodic.netlify.app/) [Frontend Developer]
@@ -522,7 +522,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Iulian Rotaru](https://iulian.rotaru.fr)
-- [idler_pl](https://idler.live) [Fullstack Game Developer]
 - [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
 
 
@@ -643,7 +642,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lakshya jain](https://port-folio-nine-lemon-27.vercel.app/) [For any developer | Has multiple templates | Semi - automated data update feature]
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
-- [Le Duong Hung Thinh](https://thinh.io.vn/) [Front-end Engineer]
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
@@ -670,10 +668,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
-- [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
-- [Dr Milan Milanovic](https://milan.milanovic.org/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
+- [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
+- [Milan Milanovic](https://milan.milanovic.org/)
 - [Muhammad Uzair Khan](https://uzairkhan.tech/)
   of Fame]
 - [Madhan K](https://madhank93.github.io)
@@ -699,7 +697,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
-- [Marijan Smetko](https://msmetko.xyz)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Marios Sofokleous](https://msof.me/)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
@@ -967,7 +964,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## S
 
-- [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app/) [Full Stack Developer, UI/UX Designer and Adode Tools]
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
@@ -982,13 +978,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sahil](https://sahil500-portfolio.netlify.app/)
+- [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app/) [Full Stack Developer, UI/UX Designer and Adode Tools]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
 - [Sai Teja](https://saiteja13427.github.io)
 - [Sai Terukula](https://terukulasai-portfolio.netlify.app/) [DevOps Engineer]
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
-- [Saiful Islam](https://saifulislam.online) [Front-end web development]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
@@ -1146,7 +1142,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uday G](https://portfoliov3-puce.vercel.app/) [React, TypeScript, TailwindCSS, Node.js]
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Ujjal Sigdel](https://www.ujjalsigdel.com.np/)
-- [Ullas Arwan](https://ullas.xyz)
 - [Ulysse Pavloff](https://pavloffulysse.com/)
 - [Umesh Nagare](https://umeshnagare.com)
 - [Usman Nasir](https://devbyusman.com/)
