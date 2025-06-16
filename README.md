@@ -524,7 +524,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 - [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
 
-
 ## J
 
 - [Jack Parsons](https://jackparsonss.me)
@@ -1100,6 +1099,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
+- [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
 - [TJ Klint](https://tjklint.github.io)
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Tadashi Amano](https://tadashiamano.vercel.app)
