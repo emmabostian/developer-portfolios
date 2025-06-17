@@ -771,6 +771,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammed Hisham A](https://coderhisham.com) [Full Stack Developer]
+- [Muhammet Fatih DİNÇ](https://mfatihdinc.com)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Mushfiqur Rahman](https://mushfiq.xyz/)
 - [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
