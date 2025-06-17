@@ -20,11 +20,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
 - [Aabraham James](https://seera.framer.website/)
+- [Aaby-toukoum](https://toukoum.fr) [AI Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np/) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
@@ -1099,10 +1099,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
-- [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
 - [TJ Klint](https://tjklint.github.io)
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Tadashi Amano](https://tadashiamano.vercel.app)
+- [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
