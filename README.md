@@ -1127,6 +1127,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
+- [Toan(Thomas) Dao](https://toandaominh1997.com) [Data Scientist | AI/ML Engineer | Software Engineer]
 - [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
