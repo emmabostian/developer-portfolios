@@ -521,6 +521,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou aka Smakosh](https://smakosh.com)
 - [Israel Mitolu](https://israelmitolu.netlify.app)
+- [Istiuqe Ahmed](https://istiuqeahmed.vercel.app/) [Front-End Developer]
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 - [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
 
