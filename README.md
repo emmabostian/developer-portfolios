@@ -443,6 +443,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app/)
+- [Gajanan Bodhankar](https://www.gajanan.online/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
