@@ -1225,6 +1225,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio/)
 - [Younes Megaache](https://younes-megaache.com) [Software developer]
 - [Youssef SAHIH](https://sahih.me) [Front-end Developer]
+- [Yubraj Khatri](https://www.yubrajkhatri.com.np/)[FullStack/Ai Developer]
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
