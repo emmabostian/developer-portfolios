@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1111
+## Current Portfolio Count: 1120
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -437,13 +437,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Machado](https://machado001.github.io) ([@machado001](https://github.com/machado001))
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
+- [Gajanan Bodhankar](https://www.gajanan.online/)
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app/)
-- [Gajanan Bodhankar](https://www.gajanan.online/)
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
@@ -844,8 +844,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
-- [PURNANK JADHAV](https://purnankjadhav-portfolio.vercel.app/)[Front-End Engineer]
-- [PHPxCODER](https://phpxcoder.in)
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev/)
 - [Pablo Ramon](https://pabloramon.com.br/)
@@ -872,6 +870,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Pedro Reis](https://preis.tech)
 - [Philip Johnson](https://philipmjohnson.org) (made with
+- [PhpxCoder](https://phpxcoder.in)
+- [Purnank Jadhav](https://purnankjadhav-portfolio.vercel.app/)[Front-End Engineer]
   [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
