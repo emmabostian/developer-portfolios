@@ -20,6 +20,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -819,6 +820,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
 - [Nishchal Kc](https://www.nishchalkc.com.np/)
+- [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
