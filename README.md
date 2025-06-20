@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1120
+## Current Portfolio Count: 1121
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -20,6 +20,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -177,6 +178,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app/)
 - [Arhaan Siddiquee](https://arhaan-dev.vercel.app/) [Full Stack Developer]
 - [Ariel Andrade](https://sudoariel.github.io)
+- [Aries Chang](https://ariesjchang.com) [Software Engineer]
 - [Arjad Gohar](https://arjad-portfolio.netlify.app/) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app/)
