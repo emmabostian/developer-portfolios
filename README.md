@@ -671,6 +671,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Mohit Joe .R](https://mohitjoe.vercel.app/)
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
 - [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
