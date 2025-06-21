@@ -880,8 +880,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
-- [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Pol Gubau Amores](https://polgubau.com)
+- [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
