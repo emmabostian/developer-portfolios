@@ -1234,6 +1234,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Youssef SAHIH](https://sahih.me) [Front-end Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np/)[FullStack/Ai Developer]
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
+- [Yuelin Liu](https://www.liuyuelin.dev/) [Full-Stack Developer]
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
 
