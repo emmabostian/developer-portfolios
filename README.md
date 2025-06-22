@@ -1078,6 +1078,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Siddharth Vaishnav](https://codesiddharth.tech)
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
+- [Sindre Gangeskar](https://sindregangeskar.dev)
 - [Sina Shahoveisi](https://sinasho.ir) (Software Engineer)
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
   ([@sinashahoveisi](https://github.com/sinashahoveisi))
