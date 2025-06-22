@@ -711,6 +711,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
 - [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
+- [Mariya jebastin] (https://mariyajebastin.netlify.app/) [Full Stack Developer]
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
