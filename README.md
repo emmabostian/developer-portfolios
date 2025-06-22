@@ -861,6 +861,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio/)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
+- [Parth Sharma](https://parthsharma-portfolio.vercel.app) [Full Stack Developer / Software Engineer]
 - [Pasindu Dilshan](https://pasi-d.me/)
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
