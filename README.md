@@ -581,6 +581,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
 - [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-end Developer]
+- [John Petalio](https://johnreypetalio.netlify.app)
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Judicaël AHYI](https://judicael-ahyi.com)
 - [Jules Lofficial](https://pandaguerrier.fr) [@PandaGuerrier](https://github.com/PandaGuerrier)
