@@ -74,6 +74,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adithya Krishnan](https://www.adithyakrishnan.com/)
 - [Aditi Arya](https://aditiarya.netlify.app/) [Software Engineer]
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app/)
+- [Aditya Dubey](https://adityacodes.in/)
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
