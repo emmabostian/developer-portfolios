@@ -1240,6 +1240,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
+- [Yuvin Raja](https://yuvinraja.vercel.app/)
 
 ## Z
 
