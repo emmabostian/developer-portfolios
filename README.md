@@ -736,6 +736,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
 - [Mehdi Ali](https://exoo25.github.io)
 - [Melvin Jones Repol](https://mrepol742.github.io)
+- [Melvin Prince](https://melvinprince.io)
 - [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Meymoun Boualaoui](https://meymounboualaoui.fr/) [CEO of Next Generation & Creative Frontend
