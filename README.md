@@ -389,6 +389,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Edgard Barquero Real](https://barquero.dev)
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Ehsan Rafee](https://ehsanrafee.ir)
+- [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app/)
 - [Electric Magic Factory](https://electricmagicfactory.com/en/)
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
