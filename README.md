@@ -1093,6 +1093,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Soumyajit Behera](https://soumyajit.vercel.app/)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
+- [Sparsh Kamat](http://sparshkamat.me)[Full-Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Srihari Kulkarni](https://srihari-k-portfolio.vercel.app/)
 - [Srijan Baniyal](https://srijanbaniyal.com)[Full Stack Developer]
