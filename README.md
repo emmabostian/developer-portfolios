@@ -345,6 +345,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
+- [Dev Patel](https://devpatel-freelancer.netlify.app/) [.Net Devloper & Freelancer]
+- [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev](https://devpalwar.vercel.app)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
