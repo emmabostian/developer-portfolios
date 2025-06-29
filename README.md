@@ -40,6 +40,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Sood](https://www.aayushsood.com/)
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
+- [Amit Sah](https://amit-sah.com.np) [iOS Developer  | Backend Engineer (Node.js, LLMs) | Cloud Computing]
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
