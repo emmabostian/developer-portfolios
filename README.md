@@ -657,6 +657,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
+- [Leon Heuer](https://heuer.ovh)
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Leonel Ngoya](https://lndev.me)
 - [Leroy Rosales](https://leroyrosales.com)
