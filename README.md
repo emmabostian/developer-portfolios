@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1125
+## Current Portfolio Count: 1139
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -40,7 +40,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Sood](https://www.aayushsood.com/)
 - [Abass Dev](https://abassdev.com)
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
-- [Amit Sah](https://amit-sah.com.np) [iOS Developer  | Backend Engineer (Node.js, LLMs) | Cloud Computing]
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
@@ -66,6 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Singh](https://www.abhishekworks.com/) [Full-Stack developer]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com/) [Full Stack Developer| UI/UX Desginer |
+- [Amit Sah](https://amit-sah.com.np) [iOS Developer  | Backend Engineer (Node.js, LLMs) | Cloud Computing]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app/) [👩🏻‍💻 Frontend Developer]
 - [Ashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
   Blockchain & AI Enthusiast]
@@ -97,7 +97,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmed Oublihi](https://www.medevs.xyz)
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | AI]
 - [Ahmet Eren Odacı](https://ahmete.ren)
-- [Ahsan Khan](https://ahsankhan.me)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Pawar](https://ajay-pawar-portfolio.vercel.app/) [Full-Stack developer]
@@ -343,12 +342,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Delba](https://delba.dev)
+- [Delwer Hossain](https://delwer.live)
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
-- [Dev Patel](https://devpatel-freelancer.netlify.app/) [.Net Devloper & Freelancer]
 - [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
+- [Dev Patel](https://devpatel-freelancer.netlify.app/) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
@@ -387,7 +387,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-- [Delwer Hossain](https://delwer.live)
 
 ## E
 
@@ -643,7 +642,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Krishnanand A](https://krishnananda.netlify.app)
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app/) [Software Developer ]
 - [Krutarth Parmar](https://kayparmar.com)
-- [KSV Muralidhar](https://ksvmuralidhar.in/)
+- [Ksv Muralidhar](https://ksvmuralidhar.in/)
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | SDE | SWE)](https://ikushdev.github.io)
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) ([@kushwi15](https://github.com/kushwi15)) [Software Developer | Frontend Engineer | MERN Stack Developer]
@@ -770,7 +769,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 - [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
-- [Mohammmed M Bariyawala](https://mohammedbariyawala.me)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
 - [Mohit Paudyal](https://findmohit.netlify.app)
 - [Mohsin Raz](https://www.mohsinraz.me/) [Fullstack Developer | AI Automation]
@@ -1010,7 +1008,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saitheja komalla](https://saitheja20.github.io/Portfolio/)
 - [Saksham Agarwal](https://skshamagarwal.github.io/)
-- [Salman Ibrahim](https://salman-ibrahim.github.io)
 - [Sam Foreman](https://samforeman.me) \[Computational Scientist\]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Sameer](https://sameer27.netlify.app/)
@@ -1204,7 +1201,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vikas Chauhan](https://vikaschauhan.vercel.app/)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vikram Singh](https://buildwithvikram.vercel.app)
-- [Vikram Singh](https://vikram7.vercel.app)
 - [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
