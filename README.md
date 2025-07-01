@@ -113,6 +113,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akshat Kotpalliwar alias IntegerAlex](https://realtalkportfolio.vercel.app/) [Full Stack
   Developer | Old school portfolio]
 - [Akshay](https://devakshay.vercel.app)
+- [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app/)
 - [Alan Hamlett](https://ahamlett.com/) [Founder & CEO @WakaTime]
 - [Alan Khalili](https://www.alan-khalili.com/)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
