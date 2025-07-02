@@ -953,6 +953,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & UI/UX Designer]
+- [Renan Silva](https://renansilvadev.netlify.app) [Full Stack Developer]
 - [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio/)
 - [Riccardo Venturini](https://riccardoventurini.dev/)
