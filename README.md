@@ -270,6 +270,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brad Garropy](https://bradgarropy.com)
 - [Brandon Mitchell](https://juncie.com) [Full Stack Developer]
 - [Brendan Lentz](https://brendanlentz.com)
+- [Brendon van Zanten](https://brendonvanzanten.com) [Full Stack Developer]
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brijesh Patel](https://brijesh.work/)
 - [Brittany Chiang](https://brittanychiang.com)
