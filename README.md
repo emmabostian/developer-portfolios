@@ -1098,6 +1098,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
   ([@sinashahoveisi](https://github.com/sinashahoveisi))
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
+- [Slimaeus](https://slimaeus.github.io) [.NET Developer]
 - [Soham Mondal](https://sohammondal.com)
 - [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
