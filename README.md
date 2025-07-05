@@ -1027,6 +1027,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saroj Pradhan](https://pradhansaroj.com.np)
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev/)
 - [Sarvesh Patil](https://sarveshpatil.com)
+- [Sathwik Yellapragada](https://www.sathwiky.dev/) [Full-Stack Developer]
 - [Satish Jhanwer](https://satishjhanwer.github.io)
 - [Surajit Sen](https://surajitsen.me/)
   ([@satishjhanwer](https://github.com/satishjhanwer))
