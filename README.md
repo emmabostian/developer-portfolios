@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Ali Mohsin](https://ali-ch-portfolio.vercel.app) [Architect of AI-driven systems | Machine learning, security, and full-stack engineering]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
