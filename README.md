@@ -1083,7 +1083,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shivam Garg](https://shivamgarg82.github.io/Portfolio/)
 - [Shivam Raj](https://shivxmr.netlify.app)
-- [Shivesh Chaturvedi](https://shivi1606.github.io/portfolio)
+- [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio/)
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
