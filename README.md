@@ -340,6 +340,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
 - [Darya Redkina](https://reddev.in/)
+- [Dat Pham](https://datpham.dev/)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
