@@ -1120,6 +1120,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Topalovic](https://www.stefantopalovic.com/)
 - [Stephanie Lin](https://lin-stephanie.github.io)
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) (Software Engineer) ([@chan-stephane](https://github.com/chan-stephane))
+- [Subhasish Das](https://subhasish-portfolio.vercel.app/)
 - [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
