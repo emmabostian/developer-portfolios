@@ -95,7 +95,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 &
   Blockchain]
-- [Ahmed Allali](https://ahmedallali.dev) [Full-Stack Developer]
+- [Ahmed Allali](https://www.ahallali.duckdns.org/) [Front-End Developer]
 - [Ahmed Oublihi](https://www.medevs.xyz)
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | AI]
 - [Ahmet Eren Odacı](https://ahmete.ren)
