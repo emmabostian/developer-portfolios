@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1139
+## Current Portfolio Count: 1140
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -95,6 +95,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://ahmadgill-portfolio.netlify.app/) [MERN/NextJs Developer | Web 3 &
   Blockchain]
+- [Ahmed Allali](https://www.ahallali.duckdns.org/) [Front-End Developer]
 - [Ahmed Oublihi](https://www.medevs.xyz)
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | AI]
 - [Ahmet Eren Odacı](https://ahmete.ren)
