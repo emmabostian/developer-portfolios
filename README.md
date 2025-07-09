@@ -1041,6 +1041,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Satish Jhanwer](https://satishjhanwer.github.io)
 - [Surajit Sen](https://surajitsen.me/)
   ([@satishjhanwer](https://github.com/satishjhanwer))
+- [Saswata Mondal](https://saswatamondal.me/)
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
 - [Saurabh Daware](https://www.saurabhdaware.in)
