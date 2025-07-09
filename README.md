@@ -715,6 +715,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app/)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manish Tiwari](https://www.manishtiwari.dev)
+- [Manjunath Bhandari](https://manjunathbhandari.vercel.app/) [Full-Stack Developer | React | Spring Boot]
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
