@@ -1038,6 +1038,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sathwik Yellapragada](https://www.sathwiky.dev/) [Full-Stack Developer]
 - [Satish Jhanwer](https://satishjhanwer.github.io)
 - [Surajit Sen](https://surajitsen.me/)
+- [Saswata Mondal](https://saswatamondal.me/)
   ([@satishjhanwer](https://github.com/satishjhanwer))
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
