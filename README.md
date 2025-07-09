@@ -80,6 +80,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Dubey](https://adityacodes.in/)
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar](https://www.adityakr.com)
+- [Aditya Kumar Srivastava](https://adityasri.in/)[Full Stack Developer (MERN & Java Springboot developer)]
 - [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
