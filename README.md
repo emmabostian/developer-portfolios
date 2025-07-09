@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1140
+## Current Portfolio Count: 1141
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -48,6 +48,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan/) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app/) [Full Stack Developer]
+- [Abdullah James] (https://portfolio-website-abdullah-jamess.vercel.app/) [AI / Full-Stack Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio/) [Software Engineer]
