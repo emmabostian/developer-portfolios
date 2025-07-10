@@ -473,7 +473,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ghulam Ahmed](https://gahmed.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
-- [Gil Itzhaky - gilitz](https://gilitz.com)
+- [Gil Itzhaky - gilitz](https://gilitz.com) ([Interactive 3D Protfolio Game] - Frontend Developer)
 - [Giorgio Faini](https://giorgiofaini.com)
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
