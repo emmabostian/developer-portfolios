@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1141
+## Current Portfolio Count: 1159
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -23,7 +23,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 -[Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End web developer]
 
-- [Ali Mohsin](https://ali-ch-portfolio.vercel.app) [Architect of AI-driven systems | Machine learning, security, and full-stack engineering]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -69,6 +68,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Singh](https://www.abhishekworks.com/) [Full-Stack developer]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com/) [Full Stack Developer| UI/UX Desginer |
+- [Ali Mohsin](https://ali-ch-portfolio.vercel.app) [Architect of AI-driven systems | Machine learning, security, and full-stack engineering]
 - [Amit Sah](https://amit-sah.com.np) [iOS Developer  | Backend Engineer (Node.js, LLMs) | Cloud Computing]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app/) [👩🏻‍💻 Frontend Developer]
 - [Ashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
@@ -82,8 +82,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app/)
 - [Aditya Dubey](https://adityacodes.in/)
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
-- [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Kumar Srivastava][https://adityasri.in/](Full Stack Developer (MERN & Java Springboot developer))
+- [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
@@ -118,8 +118,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshat Kotpalliwar alias IntegerAlex](https://realtalkportfolio.vercel.app/) [Full Stack
   Developer | Old school portfolio]
-- [Akshay](https://devakshay.vercel.app)
 - [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app/) [Full-Stack 3D Sofware Developer]
+- [Akshay](https://devakshay.vercel.app)
 - [Alan Hamlett](https://ahamlett.com/) [Founder & CEO @WakaTime]
 - [Alan Khalili](https://www.alan-khalili.com/)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
@@ -355,7 +355,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Demon142](https://demon142.net)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
-- [Dev Abass](https://blog.abassdev.com)
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Patel](https://devpatel-freelancer.netlify.app/) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
@@ -707,7 +706,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
-- [Mahmoud AlSharif](https://malsharif.me)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
 - [Mahmoud Zalt](https://zalt.me/) [Full-Stack Engineer | Software Architect | AI Engineer | Tech
   Consultant | Mentor]
@@ -1094,8 +1092,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np/)
 - [Shivam Garg](https://shivamgarg82.github.io/Portfolio/)
-- [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivam Kashyap](https://shivampro.vercel.app)
+- [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
