@@ -199,6 +199,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio/)
 - [Artur Bień](https://expensive.toys/) [UI & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
+- [Aryan Raj](https://aryanaraj.vercel.app/) [Machine Learning Engineer | Software Engineer]
 - [Aryan Gupta](https://aryang.xyz/) [Full-Stack Developer | Software Developer | Frontend & UI]
 - [Aryan Maurya](https://amsrportfolio.netlify.app/) [Full Stack Web + App + Game Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
