@@ -1032,6 +1032,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Santosh Shrestha](https://santoshxshrestha.onrender.com/)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
+- [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang N](https://srng.dev)
 - [Saroj Pradhan](https://pradhansaroj.com.np)
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev/)
