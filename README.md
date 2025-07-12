@@ -1005,6 +1005,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Saeid Doroudi](https://saeiddoroudi.ir)
 - [Safoor Safdar](https://safoorsafdar.com)
+- [Sagar Adulkar](https://sagar-adulkar.vercel.app)
 - [Sagar Betkar](https://sagarbetkar.netlify.app/)
 - [Sagar Bhusal](https://www.sagarb.com) [Expert System Admin and Devops Engineer.]
 - [Sagar Giri](https://girisagar46.github.io)
