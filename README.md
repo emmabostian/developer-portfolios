@@ -504,6 +504,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hassan RJ](https://hassanrj.vercel.app/) [Hassan RJ Full Stack Next.js Developer
 - [Hemang Yadav](https://zemerik.vercel.app/) [Passionate Developer]
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
+- [Henrique Machado](https://www.henriquecm.xyz/) [FullStack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Heny](https://heny.dev/) [Full-stack Developer | MERN | Next.js]
 - [Herman Starikov](http://starikov.dev)
