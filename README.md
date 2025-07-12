@@ -610,6 +610,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## K
 
+- [Kalp Senghani](https://kalpsenghani.com/) [👨🏼‍💻 Fullstack Developer || AI Engineer ]
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kamil Mazurek](https://kamilmazurek.pl/)
 - [Kapil Dadhich](https://kapildadhich075.netlify.app/)
