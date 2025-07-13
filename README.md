@@ -22,7 +22,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End web developer]
-
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -32,6 +31,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.me.toinfinite.dev/) [Frontend Engineer]
 - [Aalim](https://zunedaalim.com/) [Full-Stack Web Developer]
+- [Aarab Nishchal]("https://aarab.vercel.app/") [Engineering Student | Full Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
@@ -94,6 +94,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com/) [MERN-Stack Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
+- [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End web developer]
 - [Ahamed Kabeer](https://aktech27.github.io/) [MERN Full-Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
