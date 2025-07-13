@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End web developer]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
@@ -662,6 +663,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## L
 
+- [Lai HuiShan](https://shan-verse.com/) [Fullstack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya jain](https://port-folio-nine-lemon-27.vercel.app/) [For any developer | Has multiple templates | Semi - automated data update feature]
 - [Larry Xue](https://larryxue.dev)
