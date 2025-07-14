@@ -396,6 +396,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
+- [Dyomin Ilya](https://sskd.tech/)
 
 ## E
 
