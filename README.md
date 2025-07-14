@@ -396,7 +396,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app/)
 - [Dylan GIL AMARO](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-- [Dyomin Ilya](https://sskd.tech/)
 
 ## E
 
@@ -546,6 +545,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app/) [Front-End Developer]
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 - [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
+- [Ilya Dyomin](https://sskd.tech/) [Front-End Developer]
 
 ## J
 
