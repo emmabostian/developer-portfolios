@@ -1247,6 +1247,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## W
 
 - [Walker Smith](https://walkersmith.me)
+- [[W]DOS_](https://wdos.dev) [Full Stack Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
