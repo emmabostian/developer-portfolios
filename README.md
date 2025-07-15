@@ -159,6 +159,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anay Paraswani](https://anayparaswani.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
+- [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André de Faria](https://andredfaria.github.io/)
