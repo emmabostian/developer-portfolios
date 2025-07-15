@@ -1001,6 +1001,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## S
 
+- [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app/)
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
