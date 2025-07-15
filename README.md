@@ -966,6 +966,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Raymond Valencia](https://paolo1231.github.io/)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev/)
 - [Razin Rayees](https://www.razinrayees.com)
+- [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & UI/UX Designer]
