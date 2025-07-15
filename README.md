@@ -660,6 +660,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | SDE | SWE)](https://ikushdev.github.io)
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) ([@kushwi15](https://github.com/kushwi15)) [Software Developer | Frontend Engineer | MERN Stack Developer]
+- [Kwameh DHEGBO](https://kwamehdhegbo.com/) [@kwamsd](https://github.com/kwamsd/) [Fullstack Developper | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 
 ## L
