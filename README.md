@@ -1139,6 +1139,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) (Software Engineer) ([@chan-stephane](https://github.com/chan-stephane))
 - [Subhasish Das](https://subhasish-portfolio.vercel.app/)
 - [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
+- [Sumeet Haldar](https://hsumeet.site)
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Surya MU](https://surya-mu.me/)
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
