@@ -734,6 +734,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
+- [Martin Barker](https://martinbarker.me)
 - [Martin Tale](https://martintale.com/) [Web, App, Game Developer]
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
