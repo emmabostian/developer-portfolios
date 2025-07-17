@@ -699,7 +699,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
-- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile/)
 - [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
 - [Milan Milanovic](https://milan.milanovic.org/)
 - [Mohit Joe .R](https://mohitjoe.vercel.app/)
@@ -726,6 +725,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Manish Tiwari](https://www.manishtiwari.dev)
 - [Manjunath Bhandari](https://manjunathbhandari.vercel.app/) [Full-Stack Developer | React | Spring Boot]
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
+- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile/)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
 - [Mario Kandut](https://www.mariokandut.com)
