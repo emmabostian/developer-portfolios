@@ -1290,6 +1290,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Z
 
+- [Zachary J. Hamm](https://zacharyhamm.com)
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
