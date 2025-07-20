@@ -840,7 +840,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nidal Ghonaim](https://www.nidal.dev/) [Full Stack Developer | Designer]
 - [Nihal Ahmed Nariyam](https://nihalahmed.in)
-- [Nikhila Koneru](https://anikhilakoneru.com) [Full Stack Developer | Devops Engineer]
+- [Nikhila Koneru](https://nikhilakoneru.com) [Full Stack Developer | Devops Engineer]
 - [Nikita Sobolev](https://sobolevn.me)
 - [Niko Soriano](https://n-cv.vercel.app)
 - [Nilesh Fatfatwale](https://nileshfatfatwale.vercel.app/)
