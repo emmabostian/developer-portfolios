@@ -1266,7 +1266,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Y
 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio/) [C++ Developer]
-- [Yaksh Devani](https://yakshdevani.framer.website) [Full-Stack | MERN-Stack Developer]
+- [Yaksh Devani](https://yakshdevani.framer.website) [Full-Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
