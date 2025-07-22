@@ -672,6 +672,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Leandro Simões](https://lesimoes.dev)
+- [Le Duong Hung Thinh](https://thinh.io.vn/) [Front-end Engineer]
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
 - [Leon Heuer](https://heuer.ovh)
