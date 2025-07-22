@@ -418,6 +418,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal TAŞKESEN](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
+- [Erick Namukolo](https://www.ericknamukolo.com/)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev/)
 - [Esteban Mansart](https://mansartesteban.vercel.app/)
 - [Evander Inácio](https://evander.vercel.app)
