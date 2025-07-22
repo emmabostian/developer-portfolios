@@ -287,6 +287,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## C
 
 - [Cade Kynaston](https://cade.codes)
+- [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Capt. Michael](https://captmichael.dev) [MERN Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Casper Iversen](https://caspertheghost.me)
