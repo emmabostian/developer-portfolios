@@ -778,6 +778,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michaell Alavedra](https://www.michaellalavedra.com/)
 - [Michaell Lynn](https://www.mlynn.org/)
+- [Michal Dziuba](https://michaldziuba.dev/) [Software Developer]
 - [Michal Grzebisz](https://www.michalgrzebisz.com/) [Creative Frontend Developer | UI/UX
   Enthusiast]
 - [Michel de Freitas](https://michelfreitas.com)
