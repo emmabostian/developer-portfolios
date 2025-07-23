@@ -830,6 +830,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nafas Ebrahimi](https://nafasebra.ir)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Front-end Developer]
+- [Naresh Khatri](https://www.nareshkhatri.site/)
 - [NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-end Developer | Design Technologist |
   UI/UX Engineer]
