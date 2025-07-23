@@ -238,6 +238,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## B
 
+- [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [BalKrishna](https://balkrishnabk.com.np)
 - [Baptiste Miramont](https://baptistemiramont.fr)
