@@ -1,5 +1,6 @@
 import re
 
+
 def sort_lists_alphabetically(lines):
     header_pattern = re.compile(r'^##\s+([A-Z])')
     current_header = None
@@ -29,6 +30,7 @@ def sort_lists_alphabetically(lines):
 
     return sorted_lines, header_indices
 
+
 def main():
     with open('README.md', 'r') as file:
         lines = file.readlines()
@@ -37,6 +39,7 @@ def main():
 
     with open('README.md', 'w') as file:
         file.writelines(sorted_lines)
+
 
 if __name__ == "__main__":
     main()
