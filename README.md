@@ -684,6 +684,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Leonel Ngoya](https://lndev.me)
 - [Leroy Rosales](https://leroyrosales.com)
+- [Levi Kingma](https://www.levikingma.com/)
 - [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate at Snyk, GitHub Star, OpenJS Foundation
