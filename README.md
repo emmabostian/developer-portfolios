@@ -1137,6 +1137,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Slimaeus](https://slimaeus.github.io) [.NET Developer]
 - [Soham Mondal](https://sohammondal.com)
 - [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
+- [Sohanuzzaman Soad](https://ssoad.github.io/) [Software Engineer | Mobile App Developer | AI Engineer]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app/)
