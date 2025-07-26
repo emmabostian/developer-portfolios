@@ -1079,6 +1079,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sawyer Hollenshead](https://www.sawyer.soy/)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Sayandeep Roy](https://sd-atom.vercel.app/) [Full Stack Developer]
 - [Sayantan Basu](https://sayantan-basu.vercel.app/)
 - [Sayed Anowar](https://sayedanowar.netlify.app/) [Freelance Web Developer]
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app/)
