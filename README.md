@@ -188,6 +188,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Hazra](https://anuraghazra.github.io)
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website/) [Software Developer]
+- [Aravinthaprasath Venkataramanan](https://aravinthvr.github.io/portfolio/?utm_source=github&utm_medium=developer-portfolios&utm_campaign=personal_branding&utm_content=v1_27_07_25) [Software Engineer | Aspiring Data Scientist]
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app/)
 - [Arhaan Siddiquee](https://arhaan-dev.vercel.app/) [Full Stack Developer]
 - [Ariel Andrade](https://sudoariel.github.io)
