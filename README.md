@@ -1304,9 +1304,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yuvin Raja](https://yuvinraja.vercel.app/)
 
 ## Z
-
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Zachary J. Hamm](https://zacharyhamm.com)
+- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard 
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
   Developer]
