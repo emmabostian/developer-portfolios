@@ -561,7 +561,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jaimin Bariya](https://jaimin-bariya.web.app/) (Check
 - [Jiru Gutema](https://jirugutema.vercel.app) [Fullstack Developer, Software Engineer, Backend Developer]
-  [GitHub Repo](https://github.com/jaimin-bariya/jaimin-bariya-portfolio))
 - [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
