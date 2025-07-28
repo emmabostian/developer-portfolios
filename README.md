@@ -542,6 +542,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ilya Dyomin](https://sskd.tech/) [Front-End Developer]
 - [Ilyes Landolsi](https://ilandols.com)
 - [Indrajeet Nikam](https://indrajeet.me)
+- [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app/)[Full Stack Developer]
 - [Ingus Jansons](https://ingus.co.uk)
 - [Iqboljon Hasan](https://iqboljon.uz)
 - [Irfan.dev](https://irfan-devs.vercel.app/) [Frontend Developer]
