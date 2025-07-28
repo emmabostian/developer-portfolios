@@ -1030,6 +1030,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
+- [Saaketh Jella](https://www.saakethj.in/) [Associate Software Engineer]
 - [Sabarish](https://www.sabarish.in/)
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
 - [Sabittwa Banerjee](https://strangelytrue.vercel.app/)
