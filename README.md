@@ -552,6 +552,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Iya Said bah](https://www.iyabahsaid.site) [Fullstack(NextJs) / API Developer]
 
 ## J
+
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
@@ -738,6 +739,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile/)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
+- [Marcos Moura](https://marcos-moura97.github.io/)
 - [Mario Kandut](https://www.mariokandut.com)
 - [Marios Sofokleous](https://msof.me/)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
@@ -1018,10 +1020,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan MacLean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
 
-
 ## S
 
 -[Stephen Adebanjo](https://myportfoliome.vercel.app/)
+
 - [Saad](https://saadarqam.vercel.app/)
 - [Saahil D](https://saahild.com)
 - [Sabarish](https://www.sabarish.in/)
@@ -1276,7 +1278,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wilson Toribio](https://wt-portafolio.vercel.app/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
-- [[W]DOS_](https://wdos.dev) [Full Stack Developer]
+- [[W]DOS\_](https://wdos.dev) [Full Stack Developer]
 
 ## Y
 
