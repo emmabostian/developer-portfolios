@@ -69,7 +69,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com/) [Full Stack Developer| UI/UX Desginer |
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End web developer]
-- [Ali Mohsin](https://ali-ch-portfolio.vercel.app) [Architect of AI-driven systems | Machine learning, security, and full-stack engineering]
+- [Ali Mohsin](https://www.ali-ch.dev) [Architect of AI-driven systems | Machine learning, security, and full-stack engineering]
 - [Amit Sah](https://amit-sah.com.np) [iOS Developer  | Backend Engineer (Node.js, LLMs) | Cloud Computing]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app/) [👩🏻‍💻 Frontend Developer]
 - [Ashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
