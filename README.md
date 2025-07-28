@@ -157,6 +157,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anandhu Sajan](https://anandhusajan.com)
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
+- [Anav Chand](https://anav.dev)
 - [Anay Paraswani](https://anayparaswani.dev)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
