@@ -891,6 +891,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
+- [Owais Iqbal](https://iqbalowais.com) [Full Stack Developer / Generative AI Engineer]
 
 ## P
 
