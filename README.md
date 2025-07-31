@@ -806,6 +806,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
 - [Mohit Paudyal](https://findmohit.netlify.app)
+- [Moniruzzaman Rishad](https://rishadmz.web.app/) [Backend Developer | AI Engineer]
 - [Mohsin Raz](https://www.mohsinraz.me/) [Fullstack Developer | AI Automation]
 - [Morelen Yim](https://morelenyim.com)
 - [Mouad ZIANI](https://mouadziani.github.io)
