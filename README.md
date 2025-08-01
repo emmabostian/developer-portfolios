@@ -1317,8 +1317,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Zachary J. Hamm](https://zacharyhamm.com)
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
-- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard
-  Developer]
+- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard Developer]
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
 - [Zonayed Ahmed](https://zonayed.me)
