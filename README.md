@@ -252,6 +252,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
 - [Ben Rogers](https://benrogers.dev)
+- [Benjamin Cyubahiro](https://beno-portofolio-v2.onrender.com)
 - [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
 - [Benjamin Lannon](https://lannonbr.com)
 - [Benny Carlsson](https://bennycarlsson.github.io/MyPortfolio-Hacktoberfest2019/)
