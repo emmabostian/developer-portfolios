@@ -1106,6 +1106,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app/) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
+- [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
 - [Shailendra Singh](https://singhshailendra.in)
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
@@ -1311,12 +1312,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yuvin Raja](https://yuvinraja.vercel.app/)
 
 ## Z
+
 - [ZHENG Robert](https://www.robert.hase-zheng.net)
 - [Zachary J. Hamm](https://zacharyhamm.com)
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
-- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard 
-  Developer]
+- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard Developer]
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
 - [Zonayed Ahmed](https://zonayed.me)
