@@ -385,6 +385,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhyey Bhandari](https://dwinurcahya.my.id) [Web Developer & Software Engineer]
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
+- [Diego López Reduello](https://deinigu.github.io/portfolio/) [Data Scientist]
 - [Diego Rezende](https://diegorezm.netlify.app/)
 - [Digbijaya Lenka](https://digbijayalenka.vercel.app/) [Full-stack Developer]
 - [Digin Dominic](https://digindominic.me)
