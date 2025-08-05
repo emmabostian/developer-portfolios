@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1198
+## Current Portfolio Count: 1202
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -575,7 +575,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [James Turner](http://turnerj.com)
 - [Jann Chie](https://jannchie.com/en/)
 - [Jason Cameron](https://jsn.cam/) ([Repo](https://jsn.cam/repo))
-- [Jason Solano](https://jasonsolano.tech)
 - [Jatin Jha](https://jatin0jha.github.io/)
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app/)
@@ -589,7 +588,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jayant Parashar](https://jparasha.github.io)
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
-- [Jeayoung Jeon](https://jyje.live) [MLOps/DevOps Engineer]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
@@ -843,7 +841,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Front-end Developer]
 - [Naresh Khatri](https://www.nareshkhatri.site/)
-- [NatachaBezerra](https://tachan-t.github.io/Portfolio-Natacha-Bezerra/)
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-end Developer | Design Technologist |
   UI/UX Engineer]
 - [Nathan Simpson](https://nathansimpson.design)
@@ -967,7 +964,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Thami](https://www.rabinthami.com.np/)
-- [Raunak Kumar Jha](https://raunakportfoliowebsite.vercel.app/) [Full Stack Developer]
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
@@ -989,6 +985,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ramin Rezaei - V2](https://raminr77.vercel.app/)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh/)
+- [Raunak Kumar Jha](https://raunakportfoliowebsite.vercel.app/) [Full Stack Developer]
 - [Raymond Valencia](https://paolo1231.github.io/)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev/)
 - [Razin Rayees](https://www.razinrayees.com)
@@ -1321,8 +1318,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Zachary J. Hamm](https://zacharyhamm.com)
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
-- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard Developer]
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
 - [Zobaidul Kazi](https://zobkazi.github.io/)
 - [Zonayed Ahmed](https://zonayed.me)
 - [Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app/) [AI Engineer]
+- [Zulfiqar Alam](https://zulfiqaralam18.github.io/) - Mobile App Developer | Flutter, FastAPI & Full-Stack Wizard Developer]
