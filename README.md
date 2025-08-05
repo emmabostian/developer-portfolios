@@ -567,6 +567,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jagannath p s](https://jagannathps.site/) [Front end developer ]
 - [Jahidul Islam Jihad](https://jahiduljihad.netlify.app/) [Full-Stack Developer ]
 - [Jahir Fiquitiva](https://jahir.dev)
+- [Jai Li](https://lijw07.github.io/portfolio/) [Software Engineer]
 - [Jaimin Bariya](https://jaimin-bariya.web.app/) (Check
 - [Jainex Patel](https://jainex.vercel.app)
 - [Jake Ginesin](https://jakegines.in)
