@@ -93,6 +93,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
+- [Afeez Aziz](https://afeezaziz.pages.dev) [AI Developer & Entreprenuer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com/) [MERN-Stack Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
