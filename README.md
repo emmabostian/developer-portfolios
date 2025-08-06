@@ -673,6 +673,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) ([@kushwi15](https://github.com/kushwi15)) [Software Developer | Frontend Engineer | MERN Stack Developer]
 - [Kwameh DHEGBO](https://kwamehdhegbo.com/) [@kwamsd](https://github.com/kwamsd/) [Fullstack Developper | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
+- [Kyson W](https://kyson.dev)
 
 ## L
 
