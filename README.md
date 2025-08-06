@@ -1231,6 +1231,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Singhal](https://utkarsh-singhal.tech)
+- [Utkarsh Singhal](https://utkarsh-work.vercel.app/)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
