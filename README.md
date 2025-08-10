@@ -778,6 +778,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
   Next.js, MySQL.]
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Ranju](https://www.mdranju.xyz) [Frontend Developer]
+- [Md Rashid](https://md-rashid.vercel.app/) [Software Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
