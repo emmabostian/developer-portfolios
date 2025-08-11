@@ -715,6 +715,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+ [Manikanta Darapureddy ](https://dmanikanta.site) [Software Engineer |AI Full Stack Developer]
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in/)
