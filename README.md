@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1203
+## Current Portfolio Count: 1212
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -390,7 +390,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Diego López Reduello](https://deinigu.github.io/portfolio/) [Data Scientist]
-- [Diego Rezende](https://diegorezm.netlify.app/)
 - [Digbijaya Lenka](https://digbijayalenka.vercel.app/) [Full-stack Developer]
 - [Digin Dominic](https://digindominic.me)
 - [Dillion Megida](http://dillionmegida.com)
@@ -715,10 +714,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
-- [Manikanta Darapureddy ](https://dmanikanta.site) [Software Engineer |AI Full Stack Developer]
 - [MP3Martin](https://mp3martin.xyz)
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in/)
+- [Manikanta Darapureddy ](https://dmanikanta.site) [Software Engineer |AI Full Stack Developer]
 - [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
 - [Milan Milanovic](https://milan.milanovic.org/)
 - [Mohit Joe .R](https://mohitjoe.vercel.app/)
@@ -936,8 +935,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
   [TechFolios](https://techfolios.github.io))
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Pierre Nel](https://pierre.io/) [Full-stack Developer | UX/UI Designer]
-- [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pieter Hendrik Boterhoek](https://pieter-hendrik.onrender.com/)
+- [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pol Gubau Amores](https://polgubau.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Prajwol Karki](https://prajwolkarki.com.np)
@@ -1239,7 +1238,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Usman Nasir](https://devbyusman.com/)
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app/)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
-- [Utkarsh Singhal](https://utkarsh-singhal.tech)
 - [Utkarsh Singhal](https://utkarsh-work.vercel.app/)
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
