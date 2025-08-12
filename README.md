@@ -372,6 +372,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev Jadiya](https://dev-jadiya.web.app/)
 - [Dev Patel](https://devpatel-freelancer.netlify.app/) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
+- [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com/)
 - [Dewald Els](https://dewaldels.com)
 - [Dhanraj Patil](https://dhanrajp.vercel.app/) [Front-End Web Developer]
