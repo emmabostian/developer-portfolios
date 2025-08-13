@@ -859,6 +859,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
+- [Nitish](https://www.nitish.fun/)
 - [Nicholas Gannon](https://nicholasgannon.io/)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
