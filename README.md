@@ -1278,6 +1278,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
+- [Vishnu Kant Ray](https://vishnu96ray.github.io)[Full Stack Developer]
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io/)
