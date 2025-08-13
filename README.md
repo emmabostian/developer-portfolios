@@ -1302,6 +1302,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Wilson Toribio](https://wt-portafolio.vercel.app/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 - [[W]DOS\_](https://wdos.dev) [Full Stack Developer]
+- [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 
 ## Y
 
