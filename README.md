@@ -290,7 +290,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brijesh Patel](https://brijesh.work/)
 - [Brittany Chiang](https://brittanychiang.com)
-- [Bruno Reis](https://brunoreis.dev) [Full Stack Develop]
+- [Bruno Reis](https://brunoreis.dev) [Full Stack Developer]
 - [Bryan Smith](https://multikitty.onrender.com)
 
 ## C
