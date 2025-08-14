@@ -974,6 +974,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## R
 
+- [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid/) [Front-end Developer ]
 - [Rabin Thami](https://www.rabinthami.com.np/)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
