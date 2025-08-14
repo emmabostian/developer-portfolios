@@ -859,7 +859,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
-- [Nitish](https://www.nitish.fun/)
 - [Nicholas Gannon](https://nicholasgannon.io/)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico van Zyl](https://nicovanzyl.com)
@@ -882,6 +881,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishchal Kc](https://www.nishchalkc.com.np/)
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nitish](https://www.nitish.fun/)
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
@@ -1278,10 +1278,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Vishal Bhangare](https://vishalbhangare.netlify.app/)
 - [Vishal Rai](https://vishalrai.netlify.app/)
+- [Vishnu Kant Ray](https://vishnu96ray.github.io)[Full Stack Developer]
 - [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
-- [Vishnu Kant Ray](https://vishnu96ray.github.io)[Full Stack Developer]
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io/)
@@ -1296,6 +1296,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## W
 
 - [Walker Smith](https://walkersmith.me)
+- [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
