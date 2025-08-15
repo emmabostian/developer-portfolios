@@ -1162,8 +1162,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
   ([@sinashahoveisi](https://github.com/sinashahoveisi))
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Slimaeus](https://slimaeus.github.io) [.NET Developer]
-- [Soham Mondal](https://sohammondal.com)
-- [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
+- [Soham Mondal](https://sohammondal.com)[Builder | Tech | Product]
+- [Soham Penshanwar](https://thesoham2203.vercel.app/) 
 - [Sohanuzzaman Soad](https://ssoad.github.io/) [Software Engineer | Mobile App Developer | AI Engineer]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
