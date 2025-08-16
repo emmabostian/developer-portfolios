@@ -806,6 +806,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Rodriguez](https://migu.es)
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohammad Araf](https://araf-portfolio.vercel.app/) [(Software Developer)]
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
