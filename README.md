@@ -14,7 +14,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
-| [T](#t) | [U](#u) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) |
+| [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) |
 [Random Portfolio](https://s111ew.github.io/random-button-redirector/)
 
 ---
@@ -1306,6 +1306,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 - [[W]DOS\_](https://wdos.dev) [Full Stack Developer]
 
+## X
+
+- [Xqyet](https://xqyet.dev/) [Full Stack Developer]
+  
 ## Y
 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio/) [C++ Developer]
