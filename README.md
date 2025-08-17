@@ -279,6 +279,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
+- [Boddapu Lokesh](https://boddapulokesh.github.io/portfolio) [AI-Developer][India]
 - [Bogdan Marić](https://bogdanmaric.dev)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
