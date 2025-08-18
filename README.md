@@ -768,6 +768,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
+- [Mathis GENTHON](https://mattgtn.com) [Data Scientist] [Agentic AI Developer]
 - [Mathis Zeghouani](https://mathisdev.pro)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
