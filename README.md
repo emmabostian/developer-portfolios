@@ -322,6 +322,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chris Kennedy](http://cyberstorm.vercel.app) [Blockchain focused web developer]
 - [Chris Otto](https://chrisotto.dev)
 - [Chris Poole](https://chrispoole.com)
+- [Christian Jöcker](https://jocker.dev) [Full Stack Developer]
 - [Christian Kaisermann](https://kaisermann.me)
 - [Christian Toscano](https://achris.me)
 - [Chuck Smith](https://eclecticcoding.com)
