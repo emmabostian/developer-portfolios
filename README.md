@@ -1187,6 +1187,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stefan Topalovic](https://www.stefantopalovic.com/)
 - [Stephanie Lin](https://lin-stephanie.github.io)
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) (Software Engineer) ([@chan-stephane](https://github.com/chan-stephane))
+- [Subham Saha](https://subhamsaha.in) [MERN Stack & Next.js Developer]
 - [Subhasish Das](https://subhasish-portfolio.vercel.app/)
 - [Sudarshan Rai](https://sudarshanrai.com.np/)[Full Stack Developer]
 - [Suhaib SZ](https://suhaib.protool.co.in) (Founder of) ([@Protool](https://protool.co.in))
@@ -1316,7 +1317,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## X
 
 - [Xqyet](https://xqyet.dev/) [Full Stack Developer]
-  
+
 ## Y
 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio/) [C++ Developer]
