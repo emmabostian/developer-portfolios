@@ -1307,6 +1307,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
+- [Wajahat Ali Mir](https://mrwajahatalimir.odoo.com) [Native App Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
