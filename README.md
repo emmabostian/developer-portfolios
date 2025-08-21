@@ -10,7 +10,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1236
+## Current Portfolio Count: 1233
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -149,7 +149,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Amir Akbulut](https://amirdev.nl)
 - [AmirAli Rashidi](https://amiralirashidi.github.io/) [Front-End Developer]
 - [Amoda Fernando](https://www.fernand3z.dev/)
-- [Amogh Telkar](https://amoghtelkar.com)
 - [Amr El-Dhshan](https://amr-khaled-ahmed.github.io/Portfolio/) [CyberSecurity Student & Student at
   the Faculty of Computers and Artificial Intelligence, Cairo University]
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
@@ -733,7 +732,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Uzair Khan](https://uzairkhan.tech/)
   of Fame]
 - [Madhan K](https://madhank93.github.io)
-- [Madhur Dixit](https://madhurdixit13.github.io/Portfolio/)
 - [Madhuravas][https://www.madhuravas.online](MERN stack developer)
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website/) [Data Scientist & Frontend
   Developer]
@@ -979,7 +977,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## Q
 
-- [Quentin Berthet](https://quentinberthet.ch)
 - [Qui Nguyen](https://www.lexnguyen.dev)
 
 ## R
