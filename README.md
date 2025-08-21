@@ -161,6 +161,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Anas Boubechra](https://cschad.com)
 - [Anav Chand](https://anav.dev)
 - [Anay Paraswani](https://anayparaswani.dev)
+- [Andrea Ojeda](https://www.andreaoz.com/)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app/)
 - [Andrew Smith](https://andrew.codes)
