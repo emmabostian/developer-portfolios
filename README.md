@@ -356,6 +356,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Steele](https://www.danielsteele.dev) [Full-Stack Developer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio/)
 - [Danilo Castro](https://www.welcomedeveloper.com)
+- [Danilo Silva](https://www.iamdanilo.com)
 - [Darshan B](https://darshan.is-a.dev/)
 - [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app/)
