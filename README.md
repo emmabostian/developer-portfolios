@@ -1204,6 +1204,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
   Programmer]
 - [Syed Syab Ahmad - Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
+- [Syvixor](https://syvixor.com) [Software Engineer | Fullstack Developer]
 
 ## T
 
