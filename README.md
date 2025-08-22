@@ -304,7 +304,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chambrin Alexandre](https://chambrin.dev)
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
-- [Charles Ouimet](https://ouimet.info) [Backend Developer] (made with <a href="https://techfolios.github.io">TechFolios</a>)
+- [Charles Ouimet](https://ouimet.info) [Backend Developer]
 - [Che Overmeyer](https://cheovermeyer.com) [Frontend Developer]
 - [Chee Hwa Tang](https://cheehwatang.com)
 - [Chetan Padia](https://chetbox.com)
@@ -647,7 +647,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kevin Kenfack](https://kenfack-me.vercel.app/)
 - [Kinh Bach](https://kinhdev.id.vn) [💥 Frontend Developer]
 - [Kiran Kumar](https://ikiran-dev.github.io)
-- [TechFolios](https://techfolios.github.io))
+- [TechFolios](https://techfolios.github.io)
 - [Katie Haus](https://astro-portfolio-site.netlify.app/)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaung Myat](https://kgmyat.vercel.app/) [Frontend Developer]
