@@ -1157,6 +1157,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
+- [Shubham Rakheja](https://www.shubhamrakheja.online/) [Software Developer | Next.Js]
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shuvam Manna](http://shuvam.xyz)
 - [Shyamalendu Nayak](https://www.shyam.dev/)
