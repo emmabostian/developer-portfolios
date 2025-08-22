@@ -913,6 +913,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
 - [Owais Iqbal](https://iqbalowais.com) [Full Stack Developer / Generative AI Engineer]
+- [Owono2001](https://myportfolio-b-type.onrender.com/)
 
 ## P
 
