@@ -1220,6 +1220,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Timmy O'Mahony](https://timmyomahony.com/) [Full-Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
 - [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
+- [Tomás Martinez](https://tomasmartinez.xyz)
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
