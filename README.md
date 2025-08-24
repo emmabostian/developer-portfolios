@@ -474,6 +474,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Gajanan Bodhankar](https://www.gajanan.online/)
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
+- [Ganesh M](https://ganesh717.netlify.app/)
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
