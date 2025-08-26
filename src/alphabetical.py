@@ -2,12 +2,16 @@ import re
 
 def sort_lists_alphabetically(lines):
     header_pattern = re.compile(r'^##\s+([A-Z])')
+    http_pattern = re.compile(r'(http[s]?://[^\s/]+)/$')
     current_header = None
     list_items = []
     sorted_lines = []
     header_indices = []
 
     for i, line in enumerate(lines):
+        # Remove trailing `/` from http links
+        line = http_pattern.sub(r'\1', line)
+
         header_match = header_pattern.match(line)
         if header_match:
             if current_header and list_items:
