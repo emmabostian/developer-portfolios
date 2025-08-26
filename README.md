@@ -598,6 +598,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jayanth Donavalli](https://jayanth.site/) [Frontend Developer | Designer | Photographer]
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
+- [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer ✨]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens van Wijhe](https://www.beterbekend.nl)
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
