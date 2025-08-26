@@ -227,7 +227,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avinash](https://avinash-portfolio-v3.web.app/) [Web dev and AI engg.]
 - [Aviral Dixit](https://aviraldixit.in)
 - [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
-- [Avnish Kumar](https://theavnishkumar.in)
+- [Avnish Kumar](https://theavnishkumar.in) [Full Stack Developer]
 - [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
