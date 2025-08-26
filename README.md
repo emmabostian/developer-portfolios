@@ -452,6 +452,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felipe Schmidt](https://felipeschmidt.me/) [Front-End Developer]
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
+- [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full-Stack Developer & CiberSecurity]
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Filippo Concato](https://concatofilippo.com)
 - [Floris Melchers](https://Floriscodes.nl)
