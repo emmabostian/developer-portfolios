@@ -719,57 +719,52 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app/)
 
 ## M
-
-- [MP3Martin](https://mp3martin.xyz)
-- [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 x Google Hall of Fame]
-- [Manan Kanani (Full Stack Developer)](https://manankanani.in/)
-- [Manikanta Darapureddy ](https://dmanikanta.site) [Software Engineer |AI Full Stack Developer]
-- [Masab Qurban](https://www.masabqurban.com/) [Software Engineer | Full Stack Developer]
-- [Milan Milanovic](https://milan.milanovic.org/)
-- [Mohit Joe .R](https://mohitjoe.vercel.app/)
-- [Muhammad Uzair Khan](https://uzairkhan.tech/)
+- [Maciej Pulikowski](https://pulik.dev)[Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online)[MERN stack developer]
-- [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website/) [Data Scientist & Frontend Developer]
+- [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website)[Data Scientist & Frontend Developer]
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev/)
+- [mahdi.is-a.dev](http://mahdi.is-a.dev)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com/)
-- [Mahmoud Zalt](https://zalt.me/) [Full-Stack Engineer | Software Architect | AI Engineer | Tech Consultant | Mentor]
+- [Mahmoud Zalt](https://zalt.me)[Full-Stack Engineer | Software Architect | AI Engineer | Tech Consultant | Mentor]
 - [Makechi Eric](https://love-makechi.web.app)
-- [Malay Patra](https://malaypatrav2.vercel.app) [Full Stack Developer ✨]
+- [Malay Patra](https://malaypatrav2.vercel.app)[Full Stack Developer ✨]
 - [Malik Muhammad Safwan](https://maliksafwan.netlify.app)
 - [Malinda Lakshan](https://www.malindalakshan.com/)
 - [Malith Rukshan](https://malith.dev/)
+- [Manan Kanani (Full Stack Developer)](https://manankanani.in)
+- [Manikanta Darapureddy ](https://dmanikanta.site)[Software Engineer |AI Full Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app/)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manish Tiwari](https://www.manishtiwari.dev)
-- [Manjunath Bhandari](https://manjunathbhandari.vercel.app/) [Full-Stack Developer | React | Spring Boot]
-- [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website/)
-- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile/)
+- [Manjunath Bhandari](https://manjunathbhandari.vercel.app/)[Full-Stack Developer | React | Spring Boot]
+- [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
+- [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev/)
-- [Marcos Moura](https://marcos-moura97.github.io/)
+- [Marcos Moura](https://marcos-moura97.github.io)
 - [Mario Kandut](https://www.mariokandut.com)
-- [Marios Sofokleous](https://msof.me/)
+- [Marios Sofokleous](https://msof.me)
 - [Mariya Baig](https://mariyabaig.vercel.app/)([@mariyabaig](https://github.com/mariyabaig))
-- [Mariya Jebastin](https://mariyajebastin.netlify.app/) [Full Stack Developer]
+- [Mariya Jebastin](https://mariyajebastin.netlify.app/)[Full Stack Developer]
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Martin Barker](https://martinbarker.me)
-- [Martin Tale](https://martintale.com/) [Web, App, Game Developer]
+- [Martin Tale](https://martintale.com/)[Web, App, Game Developer]
+- [Masab Qurban](https://www.masabqurban.com/)[Software Engineer | Full Stack Developer]
 - [Mason Slover](https://github.com/MasonSlover/ProcessingPortfolio)
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
 - [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 - [Mateus Felipe G.](https://mateusf.com)
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
-- [Mathis GENTHON](https://mattgtn.com) [Data Scientist] [Agentic AI Developer]
 - [Mathis Zeghouani](https://mathisdev.pro)
 - [MathisCool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
-- [Matteo Mumoli](https://matteomumoli.dev) [Full Stack | Web | App | Game Dev & Freelancer]
+- [Matteo Mumoli](https://matteomumoli.dev)[Full Stack | Web | App | Game Dev & Freelancer]
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
@@ -778,67 +773,67 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mayank Aggarwal](https://mayank0255.github.io)
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app/)
 - [Maytiya Monburinon](https://gigigimay.github.io)
-- [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | PHP, Laravel, Next.js, MySQL.]
+- [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io)[Software Developer | PHP, Laravel, Next.js, MySQL.]
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
-- [Md Ranju](https://www.mdranju.xyz) [Frontend Developer]
-- [Md Rashid](https://md-rashid.vercel.app/) [Software Developer]
+- [Md Ranju](https://www.mdranju.xyz)[Frontend Developer]
+- [Md Rashid](https://md-rashid.vercel.app/)[Software Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
-- [Mees Verberne](https://meesverberne.com/) [Creative Frontend Developer & Designer]
-- [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
+- [Mees Verberne](https://meesverberne.com/)[Creative Frontend Developer & Designer]
+- [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project)[Software Developer]
 - [Mehdi Ali](https://exoo25.github.io)
-- [MeiCloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
+- [MeiCloudie](https://thucvan-portfolio.vercel.app)[Software Engineer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvin Prince](https://melvinprince.io)
 - [Melvyn Malherbe](https://melvynx.com)
 - [Mertcan Kose](https://mertcankose.vercel.app)
-- [Meymoun Boualaoui](https://meymounboualaoui.fr/) [CEO of Next Generation & Creative Frontend Developper]
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michaell Alavedra](https://www.michaellalavedra.com/)
-- [Michaell Lynn](https://www.mlynn.org/)
-- [Michal Dziuba](https://michaldziuba.dev/) [Software Developer]
-- [Michal Grzebisz](https://www.michalgrzebisz.com/) [Creative Frontend Developer | UI/UX Enthusiast]
+- [Michaell Lynn](https://www.mlynn.org)
+- [Michal Dziuba](https://michaldziuba.dev/)[Software Developer]
+- [Michal Grzebisz](https://www.michalgrzebisz.com/)[Creative Frontend Developer | UI/UX Enthusiast]
 - [Michel de Freitas](https://michelfreitas.com)
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Migliorelli](https://migliorelli.dev/)
 - [Miguel Rodriguez](https://migu.es)
+- [Milan Milanovic](https://milan.milanovic.org)
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
-- [Mohamed Zhioua](https://mohamedzhioua.vercel.app)
-- [Mohammad Araf](https://araf-portfolio.vercel.app/) [Software Developer]
+- [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
+- [Mohammad Araf](https://araf-portfolio.vercel.app/)[Software Developer]
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Rahmani](https://afgprogrammer.com)
-- [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com) [React Native Developer | Full Stack Developer | Software Engineer]
-- [Mohammed Atef](https://mohammedatefportfolio.vercel.app) [.Net Full Stack Developer | Software Engineer]
+- [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com)[React Native Developer | Full Stack Developer | Software Engineer]
+- [Mohammed Atef](https://mohammedatefportfolio.vercel.app)[.Net Full Stack Developer | Software Engineer]
 - [Mohammed Hesham Farhan](https://mohammedfarhan.me)
 - [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
-- [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio/) [Mobile Developer]
+- [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio)[Mobile Developer]
+- [Mohit Joe .R](https://mohitjoe.vercel.app/)
 - [Mohit Paudyal](https://findmohit.netlify.app)
-- [Mohsin Raz](https://www.mohsinraz.me/) [Fullstack Developer | AI Automation]
+- [Mohsin Raz](https://www.mohsinraz.me)[Fullstack Developer | AI Automation]
 - [Morelen Yim](https://morelenyim.com)
 - [Mouad ZIANI](https://mouadziani.github.io)
+- [MP3Martin](https://mp3martin.xyz)
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
-- [Mudassir Ali](https://mudassirali.com/) [Full Stack Developer | Software Engineer]
-- [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com/) [Frontend Developer]
+- [Mudassir Ali](https://mudassirali.com/)[Full Stack Developer | Software Engineer]
+- [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com/)[Frontend Developer]
 - [Muhammad Jaafar](https://m7mad.dev/)
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Murtaza](https://murtazasarwar.com)
-- [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/) [Frontend Developer | MERN Stack Developer]
+- [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app/)[Frontend Developer | MERN Stack Developer]
 - [Muhammad Naeem Tahir](https://muhammadnaeemtahir.github.io)
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
-- [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
-- [Muhammed Hisham A](https://coderhisham.com) [Full Stack Developer]
+- [Muhammad Ubaid Raza](https://mubaidr.js.org)[Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
+- [Muhammad Uzair Khan](https://uzairkhan.tech)
+- [Muhammed Hisham A](https://coderhisham.com)[Full Stack Developer]
 - [Muhammet Fatih DİNÇ](https://mfatihdinc.com)
 - [Mukul Chugh](https://mukulchugh.com)
-- [Mushfiqur Rahman](https://mushfiq.xyz/)
-- [Mustafa Bhikhapurwala](https://mustafabhikhapur.me/)
+- [Mushfiqur Rahman](https://mushfiq.xyz)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
-- [mahdi.is-a.dev](http://mahdi.is-a.dev)
-
 ## N
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
