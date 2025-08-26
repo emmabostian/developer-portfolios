@@ -244,7 +244,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [BalKrishna](https://balkrishnabk.com.np)
-- [Bandi Revanth](https://bandirevanth.github.io) [AI Full-stack Engineer & Systems Architect]
+- [Bandi Revanth](https://bandirevanth.github.io) [AI/ML Systems Architect & Full-Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Baymax](https://www.sitaramoli.com.np/)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
