@@ -985,6 +985,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rajekevin](https://rajekevin.fr)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf D. Müller](https://fiveandahalfstars.ninja/rdmueller.html)
+- [Raman Ramanouski](https://ratu.dev)
 - [Ramesh Kumar](https://rameskum.com)
 - [Ramin Rezaei - V1](https://raminrezaei.se)
 - [Ramin Rezaei - V2](https://raminr77.vercel.app/)
