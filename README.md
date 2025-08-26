@@ -1199,6 +1199,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tarun M S](https://tarunms.netlify.app/)
+- [Tejas Jadhav](https://teeejaey.github.io/)
 - [Tejas Kumar](http://tej.as)
 - [Tejaswi Chaudhari](https://tejaswichaudhari.me)
 - [Tek Kshetri](http://tekkshetri.com.np)
