@@ -301,6 +301,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cemal Türkcan)](https://cemalturkcan.com)
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chambrin Alexandre](https://chambrin.dev)
+- [Chandrakant Sharma](https://ichandrasharma.vercel.app) [SOFTWARE ENGINEER | REMOTE ENGINEER]
 - [ChanhDai](https://chanhdai.com)
 - [Charles C. Pustejovsky III](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
