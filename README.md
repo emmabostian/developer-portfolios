@@ -119,6 +119,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshat Kotpalliwar alias IntegerAlex](https://realtalkportfolio.vercel.app) [Full Stack Developer | Old school portfolio]
+- [Akshay Abraham](https://akshayabraham.vercel.app/) [Aspiring Physicist | Backend & Research-Oriented Developer | Frontend for Hobby]
 - [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full-Stack 3D Sofware Developer]
 - [Akshay](https://devakshay.vercel.app)
 - [Alan Hamlett](https://ahamlett.com) [Founder & CEO @WakaTime]
@@ -718,6 +719,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
+
 - [Maciej Pulikowski](https://pulik.dev)[Software Engineer & Security Researcher | 8 x Google Hall of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online)[MERN stack developer]
@@ -833,6 +835,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muzaffer Kadir YILMAZ](https://mkdir.dev)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [mahdi.is-a.dev](http://mahdi.is-a.dev)
+
 ## N
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
@@ -1103,7 +1106,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net and Java Dev]
 - [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
 - [Seth Hall](https://sethhallcreative.com)
-- [Seunghun Bang](https://seunghun-website.vercel.app) ([@a1603169](https://github.com/a1603169)) 
+- [Seunghun Bang](https://seunghun-website.vercel.app) ([@a1603169](https://github.com/a1603169))
 - [Seyhun Akyurek](https://www.seyhunakyurek.com)
 - [Seyoon Puvi](https://seyoonpuvi.github.io/personal-portfolio)
 - [Shaan Khan](https://www.shaankhan.dev)
