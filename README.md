@@ -715,6 +715,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Batista](https://lucasbatista.online)
 - [Lucas Dantas](https://dantsdev.vercel.app)
+- [Lucas de Moraes](https://devlucas.website) [Full Stack Developer]
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
