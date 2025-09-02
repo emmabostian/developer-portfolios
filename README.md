@@ -1192,6 +1192,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## T
 
+- [Talha Kılıç](https://talhakilic.com.tr)
 - [TJ Klint](https://tjklint.github.io)
 - [TOBIAS MEYHÖFER](https://www.tobiasmeyhoefer.de)
 - [Tadashi Amano](https://tadashiamano.vercel.app)
