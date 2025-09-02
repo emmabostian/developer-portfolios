@@ -762,7 +762,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
 - [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 - [Mateus Felipe G.](https://mateusf.com)
-- [Matheus Almeida](https://almeida-matheus.com/)
+- [Matheus Almeida](https://almeida-matheus.com/)[FrontEnd | Software Engineer]
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
 - [Mathis Zeghouani](https://mathisdev.pro)
