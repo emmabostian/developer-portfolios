@@ -400,6 +400,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Digbijaya Lenka](https://digbijayalenka.vercel.app) [Full-stack Developer]
 - [Digin Dominic](https://digindominic.me)
 - [Dillion Megida](http://dillionmegida.com)
+- [Dilip Kumar Maurya](https://www.dilipmaurya.in/) [Web Developer]
 - [Dimitri Pashutskii](https://dpashutskii.com)
 - [Dina TAKLIT](https://dinataklit.github.io/DinaTaklitPortfolio)
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
