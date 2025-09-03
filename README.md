@@ -1089,6 +1089,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Stephen Adebanjo](https://myportfoliome.vercel.app)
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
   ([@satishjhanwer](https://github.com/satishjhanwer))
+- [Saswata Dutta](https://saztech.org)
 - [Saswata Mondal](https://saswatamondal.me)
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@imlolman](https://github.com/imlolman))
