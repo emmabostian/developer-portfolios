@@ -1198,6 +1198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.NET Developer]
+- [Talha Kılıç](https://talhakilic.com.tr)
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tarun M S](https://tarunms.netlify.app)
