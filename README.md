@@ -434,6 +434,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Emmanuel Adekplovi](https://homescriptone.com)
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
+- [Eswar Sai Korrapati](https://eswarsaiportfolio.org/) [AI/ML Engineer]
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
 - [Erick Namukolo](https://www.ericknamukolo.com)
