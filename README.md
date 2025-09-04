@@ -1246,6 +1246,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ujjal Sigdel](https://www.ujjalsigdel.com.np)
 - [Ulysse Pavloff](https://pavloffulysse.com)
 - [Umesh Nagare](https://umeshnagare.com)
+- [Ushan Chamod](https://ushan.me) [Full Stack Developer / Gen Ai Engineer]
 - [Usman Nasir](https://devbyusman.com)
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
