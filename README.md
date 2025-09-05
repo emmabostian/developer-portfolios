@@ -348,6 +348,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
+- [Daljeet Singh](https://www.daljeetsingh.me)
 - [Damian Duda](https://damianduda.dev) [Full-Stack Developer]
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
