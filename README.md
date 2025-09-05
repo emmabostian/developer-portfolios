@@ -29,7 +29,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaby-Toukoum](https://toukoum.fr) [Ai Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
-- [Aakhand Tajmirul](https://www.me.toinfinite.dev) [Frontend Engineer]
+- [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
 - [Aalim](https://zunedaalim.com) [Full-Stack Web Developer]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full-Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
@@ -839,7 +839,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Ubaid Raza](https://mubaidr.js.org)[Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammad Uzair Khan](https://uzairkhan.tech)
 - [Muhammed Hisham A](https://coderhisham.com)[Full Stack Developer]
-- [Muhammet Fatih Di̇nç](https://mfatihdinc.com)
+- [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Mushfiqur Rahman](https://mushfiq.xyz)
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
