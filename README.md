@@ -441,6 +441,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Erick Namukolo](https://www.ericknamukolo.com)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
+- [Eswar Sai Korrapati](https://eswarsaiportfolio.org/) [AI/ML Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
 ## F
