@@ -986,6 +986,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
+- [Rifqisakha](https://www.rifqisakha.my.id/) [Frontend Developer, Designer, UI/UX]
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app)
 - [Rajan Bhattarai](https://cdrrazan.com)
@@ -1045,6 +1046,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Saad](https://saadarqam.vercel.app)
 - [Saahil D](https://saahild.com)
+- [Sakhandaru](https://www.rifqisakha.my.id/) [Frontend Developer, Designer, UI/UX]
+- [Sabarish](https://www.sabarish.in/) =======
 - [Saaketh Jella](https://www.saakethj.in) [Associate Software Engineer]
 - [Sabarish](https://www.sabarish.in)
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
