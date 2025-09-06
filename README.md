@@ -347,6 +347,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## D
 
+- [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
