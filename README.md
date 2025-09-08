@@ -93,6 +93,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
+- [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Afeez Aziz](https://afeezaziz.pages.dev) [Ai Developer & Entreprenuer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
