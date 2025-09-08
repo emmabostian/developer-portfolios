@@ -1296,6 +1296,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
+- [Vinod Jangid](https://www.vinodjangid.site) [Frontend Developer]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
 - [Vishal Rai](https://vishalrai.netlify.app)
 - [Vishnu Kant Ray](https://vishnu96ray.github.io) [Full Stack Developer]
