@@ -348,7 +348,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## D
 
-- [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
@@ -380,6 +379,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Jadiya](https://dev-jadiya.web.app)
+- [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
