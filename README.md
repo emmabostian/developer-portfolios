@@ -236,6 +236,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
+- [Ayush Kumar](https://ayushj.is-a.dev)
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full-Stack Developer]
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
