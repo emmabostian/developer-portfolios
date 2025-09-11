@@ -449,6 +449,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## F
 
 - [Fabio Junior Raminhuk](https://fabra.dev)
+- [Fahed Khan](https://fahed-khan.vercel.app/)
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Faisal Saifi](https://faisalsaifi.tech)
 - [Faishal Hakim](https://faishal24.my.id)
