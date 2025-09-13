@@ -1120,6 +1120,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
+- [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full-Stack Developer]
 - [Schalk Venter](https://schalkventer.me)
 - [Schleidens Dev](https://schleidens.netlify.app)
 - [Scott Spence](https://scottspence.com)
