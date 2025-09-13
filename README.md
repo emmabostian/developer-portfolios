@@ -40,6 +40,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aathif Zahir](https://az-dev.vercel.app)
 - [Aayush Bharti](https://aayushbharti.in) [Full-stack Developer]
 - [Aayush Sood](https://www.aayushsood.com)
+- [Abdullah Waheed] (https://abdullahw-portfolio.vercel.app/) [Front-End Developer]
 - [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdul Jaber](https://aj7.is-a.dev)
