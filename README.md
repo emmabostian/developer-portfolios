@@ -688,6 +688,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Kowsyap Pranay](https://kowsyappranay.site)
 - [Krishnanand A](https://krishnananda.netlify.app)
+- [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer ]
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
