@@ -778,7 +778,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matheus Almeida](https://almeida-matheus.com/)[Frontend | Software Engineer]
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
-- [Mathis Zeghouani](https://mathisdev.pro)
+- [Mathis Zeghouani](https://sitham.dev)
 - [Mathiscool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Mumoli](https://matteomumoli.dev)[Full Stack | Web | App | Game Dev & Freelancer]
