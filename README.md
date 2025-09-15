@@ -785,6 +785,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app)
 - [Maytiya Monburinon](https://gigigimay.github.io)
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io)[Software Developer | Php, Laravel, Next.Js, Mysql.]
+- [Md. Nuruzzaman](https://mdnuruzzamandev.web.app/)[Frontend Developer]
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Rashid](https://md-rashid.vercel.app)[Software Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
