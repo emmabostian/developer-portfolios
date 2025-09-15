@@ -20,7 +20,7 @@ jobs:
         continue-on-error: true
 
       - name: Create Issue From File
-        if: env.lychee_exit_code != 0
+        if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: "[Bot] Broken Links Report"
