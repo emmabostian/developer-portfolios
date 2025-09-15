@@ -34,8 +34,12 @@ def sort_lists_alphabetically(lines):
             list_items.append(line)
         else:
             if list_items and not line.startswith('- '):
-                sorted_lines.extend(sorted(list_items))
-                list_items = []
+                if line.startswith('  '):
+                    list_items[-1] += line
+                    continue
+                else:
+                    sorted_lines.extend(sorted(list_items))
+                    list_items = []
             sorted_lines.append(line)
 
     if current_header and list_items:
