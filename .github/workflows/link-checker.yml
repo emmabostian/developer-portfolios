@@ -14,10 +14,9 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2.6.1
         with:
-          args: README.md --exclude "https://user-images.githubusercontent.com/*" --accept 403,500
+          args: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        continue-on-error: true
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
