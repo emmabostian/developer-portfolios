@@ -17,6 +17,7 @@ jobs:
           args: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
