@@ -296,6 +296,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bruno Reis](https://brunoreis.dev) [Full Stack Developer]
 - [Bryan Smith](https://multikitty.onrender.com)
+- [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full-Stack Software Engineer]
 
 ## C
 
