@@ -298,7 +298,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full-Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 
-
 ## C
 
 - [Cade Kynaston](https://cade.codes)
