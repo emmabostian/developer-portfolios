@@ -1052,7 +1052,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
+- [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Saad](https://saadarqam.vercel.app)
 - [Saahil D](https://saahild.com)
 - [Saaketh Jella](https://www.saakethj.in) [Associate Software Engineer]
