@@ -1235,6 +1235,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
 - [Tim Jones](https://timmoth.com)
 - [Tim Stanton](https://www.tim-stanton.dev)
+- [Tim Maes](https://www.tim-maes.com) [Full-Stack Developer]
 - [Timmy O'Mahony](https://timmyomahony.com) [Full-Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
 - [Tj Klint](https://tjklint.github.io)
