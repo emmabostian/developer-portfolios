@@ -1294,11 +1294,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
-- [Vinod Jangid](https://www.vinodjangid.site) [Frontend Developer]
-- [Vishal Bhangare](https://vishalbhangare.netlify.app)
-- [Vishal Rai](https://vishalrai.netlify.app)
-- [Vishnu Kant Ray](https://vishnu96ray.github.io) [Full Stack Developer]
-- [Vishwa Pramuditha](https://pramu.cc)
+- [Vishal Bhangare](https://vishalbhangare.netlify.app/)
+- [Vishal Singh](https://vi5hal.vercel.app/) || full stack developer (MERN)
+- [Vishal Rai](https://vishalrai.netlify.app/)
+- [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
