@@ -974,6 +974,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Priya Nayak](https://priya180975.github.io/portfolio)
 - [Priyanshu Singh](https://built-by-priyanshu.netlify.app)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
+- [Puja Sridhar](https://pujasridhar.github.io/) [Interactive RAG-powered terminal and GUI portfolio.]
 - [Purnank Jadhav](https://purnankjadhav-portfolio.vercel.app) [Front-End Engineer]
 - [Purv Kabaria](https://purvkabaria.netlify.app)
 - [Pushkar Patel](https://thepushkarp.com)
