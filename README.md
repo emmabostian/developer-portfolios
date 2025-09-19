@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1252
+## Current Portfolio Count: 1253
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -417,6 +417,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
+- [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
@@ -1057,6 +1058,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Saad](https://saadarqam.vercel.app)
 - [Saahil D](https://saahild.com)
