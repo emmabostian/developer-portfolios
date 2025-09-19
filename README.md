@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Aaban Malik](https://muhammadaamirmalik.com)
 - [Aabar Khan](https://ceo.pronexus.in)
+- [Aabdelmajid NIDNASSER](https://nidnasser.netlify.app) [Software Developer | Data Engineer | PhD]
 - [Aabid Ahmed](https://sawad.framer.website)
 - [Aabraham James](https://seera.framer.website)
 - [Aaby-Toukoum](https://toukoum.fr) [Ai Developer]
