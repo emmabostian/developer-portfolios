@@ -851,6 +851,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukul Chugh](https://mukulchugh.com)
 - [Mushfiqur Rahman](https://mushfiq.xyz)
+- [Mustapha El Alamy](https://alamy.vercel.app)[Fullstack Software Engineer]
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
