@@ -1086,6 +1086,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saikumar](https://saikumar.me/)Backend-engineering and developer]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
 - [Sakhandaru](https://www.rifqisakha.my.id/) [Frontend Developer, Designer, Ui/Ux]
+- [Sakib Rahman](https://rsakib.vercel.app) [Software Engineer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
