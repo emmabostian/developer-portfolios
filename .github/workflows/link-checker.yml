@@ -12,14 +12,15 @@ jobs:
 
       - name: Link Checker
         id: lychee
-        uses: lycheeverse/lychee-action@v2.0.2
+        uses: lycheeverse/lychee-action@v2.6.1
         with:
-          args: README.md
+          args: README.md --output ./lychee/out.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        continue-on-error: true
 
       - name: Create Issue From File
-        if: env.lychee_exit_code != 0
+        if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v4
         with:
           title: "[Bot] Broken Links Report"
