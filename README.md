@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1252
+## Current Portfolio Count: 1259
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -41,9 +41,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Bharti](https://aayushbharti.in) [Full-Stack Developer]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
 - [Aayush Sood](https://www.aayushsood.com)
-- [Abdullah Waheed] (https://abdullahw-portfolio.vercel.app/) [Front-End Developer]
-- [AbdeNassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdelaziz El Arassi](http://aelarassi.com)
+- [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
@@ -52,6 +51,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
 - [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai / Full-Stack Developer]
+- [Abdullah Waheed] (https://abdullahw-portfolio.vercel.app/) [Front-End Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
@@ -686,8 +686,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Kowsyap Pranay](https://kowsyappranay.site)
-- [Krishnanand A](https://krishnananda.netlify.app)
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
+- [Krishnanand A](https://krishnananda.netlify.app)
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer ]
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
@@ -791,10 +791,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app)
 - [Maytiya Monburinon](https://gigigimay.github.io)
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io)[Software Developer | Php, Laravel, Next.Js, Mysql.]
-- [Md. Nuruzzaman](https://mdnuruzzamandev.web.app/)[Frontend Developer]
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Rashid](https://md-rashid.vercel.app)[Software Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
+- [Md. Nuruzzaman](https://mdnuruzzamandev.web.app/)[Frontend Developer]
 - [Mees Verberne](https://meesverberne.com)[Creative Frontend Developer & Designer]
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project)[Software Developer]
 - [Mehdi Ali](https://exoo25.github.io)
