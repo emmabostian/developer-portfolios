@@ -421,6 +421,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
 - [Dipesh Murmu](https://dipeshmurmu.com.np)
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
+- [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
@@ -1061,6 +1062,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
+
 - [Sharif](https://developersharif.github.io/me/) [Fullstack Engineer]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Saad](https://saadarqam.vercel.app)
