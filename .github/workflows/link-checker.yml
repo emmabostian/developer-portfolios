@@ -14,7 +14,7 @@ jobs:
         id: lychee
         uses: lycheeverse/lychee-action@v2.6.1
         with:
-          args: README.md --output ./lychee/out.md
+          args: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
