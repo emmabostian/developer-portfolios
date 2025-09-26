@@ -99,7 +99,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahamed Kabeer](https://aktech27.github.io) [Mern Full-Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
-- [Ahmad Gill](https://ahmadgill-portfolio.netlify.app) [Mern/Nextjs Developer | Web 3 & Blockchain]
+- [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
 - [Ahmed Allali](https://www.ahallali.duckdns.org) [Front-End Developer]
