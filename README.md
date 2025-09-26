@@ -520,6 +520,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Grace Snow](https://gracesnowdesign.co.uk)
 
 ## H
+
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
@@ -822,6 +823,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Miguel Rodriguez](https://migu.es)
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Minmitha A](https://minmitha.vercel.app)
+- [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app)[Front-end Developer]
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
