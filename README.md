@@ -359,6 +359,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
+- [Damodar Kamani](https://damkam.vercel.app/)
 - [Damian Duda](https://damianduda.dev) [Full-Stack Developer]
 - [Damian Markowski](https://damianmarkowski.com)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
@@ -450,6 +451,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
+- [Eric Chen](https://ericc.vercel.app/)
 - [Erick Namukolo](https://www.ericknamukolo.com)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
@@ -881,6 +883,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Nejan](https://nejan.me) [Backend Developer, Network Security Analyst]
 - [Nemanja Pavlovic](https://nemanja.works) [Frontend Developer | Full Stack Developer | Software Engineer]
+- [Neev Gupta](https://neevgupta.com/)
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
 - [Nicholas Gannon](https://nicholasgannon.io)
@@ -1315,6 +1318,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vishal Bhangare](https://vishalbhangare.netlify.app/)
 - [Vishal Singh](https://vi5hal.vercel.app/) || full stack developer (MERN)
 - [Vishal Rai](https://vishalrai.netlify.app/)
+- [Vishnu Sharma](https://vs-code-cloud.github.io/)
 - [Vishwa Pramuditha](https://pramu.cc/)
 - [Vishwanath B](https://frozenhearth.vercel.app)
 - [Vishwasa Navada K](https://vishwas.tech)
@@ -1338,7 +1342,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Willian De Almeida Lemos](https://rarewolf626.github.io)
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wilson Toribio](https://wt-portafolio.vercel.app)
+- [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
+- [Wyatt Hansen](https://www.wyatthansen.dev/)
 
 ## X
 
