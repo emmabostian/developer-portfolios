@@ -286,6 +286,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
+- [Bluezly](https://www.bluezly.exid.me)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Boddapu Lokesh](https://boddapulokesh.github.io/portfolio) [Ai-Developer][India]
 - [Bogdan Marić](https://bogdanmaric.dev)
