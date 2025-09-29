@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaban Malik](https://muhammadaamirmalik.com)
 - [Aabar Khan](https://ceo.pronexus.in)
+- [Amine REBBOUH](https://main.dodjas56cfa3.amplifyapp.com)
 - [Aabdelmajid Nidnasser](https://nidnasser.me) [Software Developer | Data Engineer | Phd]
 - [Aabid Ahmed](https://sawad.framer.website)
 - [Aabraham James](https://seera.framer.website)
