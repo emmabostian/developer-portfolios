@@ -21,6 +21,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaban Malik](https://muhammadaamirmalik.com)
 - [Aabar Khan](https://ceo.pronexus.in)
@@ -348,6 +349,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
+- [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app/) [Front-end Developer]
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
