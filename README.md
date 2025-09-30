@@ -95,6 +95,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Afeez Aziz](https://afeezaziz.pages.dev) [Ai Developer & Entreprenuer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
+- [Aftab Alam](https://datasciencefolio.streamlit.app/) [An open-source, customizable portfolio template for AI/ML/DL developers and Data Scientists]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahamed Kabeer](https://aktech27.github.io) [Mern Full-Stack Developer]
