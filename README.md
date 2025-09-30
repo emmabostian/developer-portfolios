@@ -638,6 +638,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jo Lienhoop](https://jolienhoop.com)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Petalio](https://johnreypetalio.netlify.app)
+- [John Ryan Cottam](https://johnryancottam.com)
 - [Johnny Chai](https://johnnychai.com) [Web Developer]
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
