@@ -148,6 +148,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Pareek](https://amanpareek.in) [Node.Js Developer]
 - [Aman Shrivastava](https://aman04.netlify.app)
+- [Amine REBBOUH](https://main.dodjas56cfa3.amplifyapp.com)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
 - [Amit Sah](https://amit-sah.com.np) [Ios Developer  | Backend Engineer (Node.Js, Llms) | Cloud Computing]
