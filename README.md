@@ -829,6 +829,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Minmitha A](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
+- [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
 - [Mohammad Araf](https://araf-portfolio.vercel.app)[Software Developer]
 - [Mohammad Goli Khatir](https://github.com/mgolikhatir)[Software Engineer | Backend Developer | .Net, Python, Rest Api]
