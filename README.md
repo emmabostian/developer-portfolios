@@ -358,7 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
 ## D
-
+- [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
