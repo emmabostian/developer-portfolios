@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1278
+## Current Portfolio Count: 1279
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -737,6 +737,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io)
 - [Long Do](https://longpdo.github.io)
+- [Loc Le](https://looc.dev)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Batista](https://lucasbatista.online)
