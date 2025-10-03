@@ -1255,6 +1255,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
+- [Tien Truong (Mars Truong)](https://marstruong.com) [Flutter Developer |Software Developer]
 - [Tim Jones](https://timmoth.com)
 - [Tim Maes](https://www.tim-maes.com) [Full-Stack Developer]
 - [Tim Stanton](https://www.tim-stanton.dev)
