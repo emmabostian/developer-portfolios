@@ -663,6 +663,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kalp Senghani](https://kalpsenghani.com) [👨🏼‍💻 Fullstack Developer || Ai Engineer ]
 - [Kamil Mazurek](https://kamilmazurek.pl)
+- [Kamran Mushtaq](https://kamranportfolio-sooty.vercel.app/)[Fullstack Developer]
 - [Kapil Dadhich](https://kapildadhich075.netlify.app)
 - [Karen Fletcher](https://knpfletcher.dev)
 - [Karthik Menon](https://www.karthikmenon.com)
