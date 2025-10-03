@@ -23,12 +23,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
+- [Aaaby-Toukoum](https://toukoum.fr) [AI Software Engineer]
 - [Aaban Malik](https://muhammadaamirmalik.com)
 - [Aabar Khan](https://ceo.pronexus.in)
 - [Aabdelmajid Nidnasser](https://nidnasser.me) [Software Developer | Data Engineer | Phd]
 - [Aabid Ahmed](https://sawad.framer.website)
 - [Aabraham James](https://seera.framer.website)
-- [Aaby-Toukoum](https://toukoum.fr) [Ai Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
@@ -96,7 +96,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Afeez Aziz](https://afeezaziz.pages.dev) [Ai Developer & Entreprenuer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
-- [Aftab Alam](https://datasciencefolio.streamlit.app/) [An open-source, customizable portfolio template for AI/ML/DL developers and Data Scientists]
+- [Aftab Alam](https://datasciencefolio.streamlit.app/) [An Open-Source, Customizable Portfolio Template For Ai/Ml/Dl Developers And Data Scientists]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahamed Kabeer](https://aktech27.github.io) [Mern Full-Stack Developer]
@@ -148,7 +148,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Pareek](https://amanpareek.in) [Node.Js Developer]
 - [Aman Shrivastava](https://aman04.netlify.app)
-- [Amine REBBOUH](https://main.dodjas56cfa3.amplifyapp.com)
+- [Amine Rebbouh](https://main.dodjas56cfa3.amplifyapp.com)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
 - [Amit Sah](https://amit-sah.com.np) [Ios Developer  | Backend Engineer (Node.Js, Llms) | Cloud Computing]
@@ -350,7 +350,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cole Emeruche](https://coleruche.com)
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
-- [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app/) [Front-end Developer]
+- [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app/) [Front-End Developer]
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
@@ -358,7 +358,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
 ## D
-- [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
@@ -391,6 +390,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Jadiya](https://dev-jadiya.web.app)
+- [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
