@@ -924,6 +924,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Olaolu Olawuyi](https://olaolu.dev)
+- [Oliver Granlund](https://olli.works)
 - [Om](https://omchaudhari1107.github.io)
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omargpax](https://omargpax.pages.dev)
