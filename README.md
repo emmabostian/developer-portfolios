@@ -1196,6 +1196,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shyamalendu Nayak](https://www.shyam.dev)
 - [Siddharth Roy](https://siddharthroy.com)
 - [Siddharth Vaishnav](https://codesiddharth.tech)
+- [Siem van Bree](https://siemvanbree.nl) [Siem van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Sina Shahoveisi](https://sinasho.ir) (Software Engineer)
