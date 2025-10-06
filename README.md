@@ -377,6 +377,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-Stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app)
 - [Darya Redkina](https://reddev.in)
+- [Daryl Cletus Fernandes](https://daryl-fernandes.com/)
 - [Dat Pham](https://datpham.dev)
 - [David Dolph](https://git.id.au)
 - [David Hérault](https://dherault.com)
