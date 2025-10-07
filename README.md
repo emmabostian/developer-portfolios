@@ -1139,6 +1139,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Patil](https://saurabhpatil.netlify.app) [Code Craftsman]
 - [Saurav M H](https://sauravmh.com)
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
+- [Sayan Adhikary](https://www.sayanadhikary.me) [Full Stack Mern] (https://github.com/sayanadhi03)
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
