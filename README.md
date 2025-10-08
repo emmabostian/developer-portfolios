@@ -316,6 +316,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cemal Türkcan)](https://cemalturkcan.com)
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chambrin Alexandre](https://chambrin.dev)
+- [Chamindu WN](https://chamindu-wn.vercel.app/) [MERN Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer ]
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
 - [Chanhdai](https://chanhdai.com)
 - [Charles C. Pustejovsky Iii](https://cpustejovsky.com)
