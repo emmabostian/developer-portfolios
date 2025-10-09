@@ -556,6 +556,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
+- [Hitesh Sahu](https://hiteshsahu.com/) [Fullstack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Damion](https://hugo-damion.me)
