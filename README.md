@@ -358,6 +358,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
 ## D
+
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
@@ -396,6 +397,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev](https://devpalwar.vercel.app)
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
+- [Devi R](https://devi-r.com)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com)
 - [Dewald Els](https://dewaldels.com)
 - [Dhanraj Patil](https://dhanrajp.vercel.app) [Front-End Web Developer]
