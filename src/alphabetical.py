@@ -49,7 +49,8 @@ def sort_lists_alphabetically(lines):
 
 def main():
     with open('README.md', 'r') as file:
-        lines = file.readlines()
+        # lines = file.readlines()
+        lines =file.readlines()
 
     # Convert names to title case
     title_case_names = [convert_to_title_case(line) for line in lines]
@@ -61,3 +62,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# print("Hello world")
