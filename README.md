@@ -832,6 +832,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app)[Front-End Developer]
 - [Minmitha A](https://minmitha.vercel.app)
+- [Missael Rangel](https://missaelr.com/en)[Frontend Developer | React/TypeScript]
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
