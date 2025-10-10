@@ -1114,6 +1114,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Sanajit Jana](https://sanajitjana.github.io)
+- [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
 - [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full-Stack Developer]
 - [Sanee Itas](https://saneeitas.netlify.app)
