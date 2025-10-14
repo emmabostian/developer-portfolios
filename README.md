@@ -952,7 +952,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Sallak](https://www.osallak.tech)
 - [Owais Iqbal](https://iqbalowais.com) [Full Stack Developer / Generative Ai Engineer]
 - [Owono2001](https://myportfolio-b-type.onrender.com)
-
+- [Omar Emad(om3x4)](https://om3x4.com/) [Full Stack Developer]
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app)
