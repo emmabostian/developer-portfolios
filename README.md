@@ -1409,3 +1409,4 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Zonayed Ahmed](https://zonayed.me)
 - [Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app) [Ai Engineer]
 - [Zulfiqar Alam](https://zulfiqaralam18.github.io)
+- [Zully Potie](http://valentinpotie.github.io/portfolio)
