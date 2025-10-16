@@ -489,6 +489,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full-Stack Developer & Cibersecurity]
 - [Fidalgo Pedro](http://fidalgo.dev)
+- [Florian Giacinti](https://florian.giacinti.me/) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
 - [Franck Galliod](https://www.franckwebpro.com) [Fullstack & Webflow Developer]
