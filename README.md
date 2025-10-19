@@ -248,6 +248,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
+- [Ayaz Ali](https://ayaz-one.vercel.app/) [Full Stack Developer]
 - [Ayfri](https://ayfri.com)
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full-Stack Developer]
