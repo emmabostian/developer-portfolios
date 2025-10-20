@@ -465,6 +465,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
+- [Erfan Ramezani](https://erfan-ramezani.ir) [LLM and Agentic AI Engineer]
 - [Eric Chen](https://ericc.vercel.app/)
 - [Erick Namukolo](https://www.ericknamukolo.com)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
