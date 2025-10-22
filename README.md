@@ -571,6 +571,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app/) [Fullstack Developer | Web Developer]
+- [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com/) [Fullstack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
