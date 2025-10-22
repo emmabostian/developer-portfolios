@@ -364,6 +364,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## D
 
+- [Daan Hessen](https://www.daanhessen.nl/) [Software Developer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
 - [Daljeet Singh](https://www.daljeetsingh.me)
