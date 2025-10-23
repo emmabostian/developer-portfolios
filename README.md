@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Anand Thakkar](https://www.anandthakkar.com) [Software Developer & Tech Creator]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaaby-Toukoum](https://toukoum.fr) [Ai Software Engineer]
 - [Aaban Malik](https://muhammadaamirmalik.com)
@@ -415,7 +416,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
 - [Dhruv Mali](https://dhruvmali.netlify.app) [React And Node Devloper]
 - [Dhruv Patel](https://dhruvpatelofficial.vercel.app/).
-[Ai & Data Science Enthusiast]
+  [Ai & Data Science Enthusiast]
 - [Dhruv Sathe](https://dhruv-alpha.vercel.app) [Software Engineer & Freelancer]
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
 - [Dhruvil Rathod](https://dhruvilrathod.me) [Fullstack Developer | Angular & Nestjs Specialist]
@@ -659,9 +660,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Petalio](https://johnreypetalio.netlify.app)
 - [John Ryan Cottam](https://johnryancottam.com)
-|- [Johnny Chai](https://johnnychai.com) [Web Developer]
-|- [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
-|- [Jonas Werner](https://jonaswerner.com)
+  |- [Johnny Chai](https://johnnychai.com) [Web Developer]
+  |- [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
+  |- [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
 - [Jorge Cortés](https://jorgecortes.dev) [⚡ Fullstack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
@@ -961,6 +962,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Oussama Sallak](https://www.osallak.tech)
 - [Owais Iqbal](https://iqbalowais.com) [Full Stack Developer / Generative Ai Engineer]
 - [Owono2001](https://myportfolio-b-type.onrender.com)
+
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app)
