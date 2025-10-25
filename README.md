@@ -1250,7 +1250,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sudarshan Rai](https://sudarshanrai.com.np)[Full Stack Developer]
 - [Sumeet Haldar](https://hsumeet.site)
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
-- [Supratik Bhowal](https://supratikb23.github.io/)
+- [Supratik Bhowal](https://supratikb23.github.io/) [AI/ML Student | Junior Researcher]
 - [Surya Mu](https://surya-mu.me)
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
