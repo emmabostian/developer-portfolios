@@ -772,6 +772,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Muhammad Naveed](naveed-bizfolio.vercel.app/)[Business Developer & Lead Generation Specialist]
 - [Maciej Pulikowski](https://pulik.dev)[Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online)[Mern Stack Developer]
