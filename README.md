@@ -659,9 +659,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Petalio](https://johnreypetalio.netlify.app)
 - [John Ryan Cottam](https://johnryancottam.com)
-|- [Johnny Chai](https://johnnychai.com) [Web Developer]
-|- [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
-|- [Jonas Werner](https://jonaswerner.com)
+- [Johnny Chai](https://johnnychai.com) [✨ Software Engineer]
+- [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
+- [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
 - [Jorge Cortés](https://jorgecortes.dev) [⚡ Fullstack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
