@@ -47,7 +47,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
-- [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
@@ -108,7 +107,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
-- [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
 - [Ahmed Allali](https://www.ahallali.duckdns.org) [Front-End Developer]
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
