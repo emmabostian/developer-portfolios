@@ -643,6 +643,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer ✨]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens Van Wijhe](https://www.beterbekend.nl)
+- [Jenul Ferdinand](https://jenulferdinand.dev) [Software Engineer 💻 | BCompSci 26' at Monash University 🎓]
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
