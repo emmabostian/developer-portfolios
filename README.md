@@ -1410,6 +1410,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Zachary J. Hamm](https://zacharyhamm.com)
 - [Zander Lewis](https://zanderlewis.dev)
+- [Zangwei Zheng](https://zangwei.dev) [Full-Stack Developer | AI Researcher]
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
 - [Zheng Robert](https://www.robert.hase-zheng.net)
 - [Zion Emond](https://zionemond.dev) [Software Engineer]
