@@ -1369,6 +1369,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## W
 
 - [Wajahat Ali Mir](https://mrwajahatalimir.odoo.com) [Native App Developer]
+- [Walkaisa](https://walkaisa.dev) [Full-Stack Web & App Developer]
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
