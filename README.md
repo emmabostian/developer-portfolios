@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1313
+## Current Portfolio Count: 1314
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -882,6 +882,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Muhammad Saad Siddique](https://saad-muhammadsaadsiddique.vercel.app)
 - [Muhammad Ubaid Raza](https://mubaidr.js.org)[Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammad Uzair Khan](https://uzairkhan.tech)
+- [Muhammad Tayyab](https://iamtayyab.com) [Full Stack Software Engineer]
 - [Muhammed Hisham A](https://coderhisham.com)[Full Stack Developer]
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukul Chugh](https://mukulchugh.com)
