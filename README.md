@@ -359,6 +359,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
+- [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .NET/Angular]
 - [Cui Ding](https://cuierd.github.io)
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
