@@ -539,6 +539,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Grace Snow](https://gracesnowdesign.co.uk)
+- [Greta Macri](https://gretamacri.com/)
 
 ## H
 
