@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1322
+## Current Portfolio Count: 1323
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1243,6 +1243,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sparsh Kamat](http://sparshkamat.me) [Full-Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
+- [Sri Anjaneyam](https://srianjaneyam.me)
 - [Srihari Kulkarni](https://srihari-k-portfolio.vercel.app)
 - [Srijan Baniyal](https://srijanbaniyal.com) [Full Stack Developer]
 - [Ste O'Neill](https://steoneill.dev)
