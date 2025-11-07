@@ -65,7 +65,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinandhan Devadiga](https://abhicodestudio.com)
 - [Abhinav Galodha](https://www.galodha.com)
 - [Abhinav Jaiswal](https://iabhinav.me) [Software Engineer]
-- [Abhinav Jaiswal](https://terminal.iabhinav.me) [Terminal Portfolio]
+- [Abhinav Jaiswal](https://terminal.iabhinav.me) [Terminal PoFrtfolio]
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
@@ -1030,6 +1030,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## R
 
 - [Rabin Thami](https://www.rabinthami.com.np)
+- [Rabeeh](https://sayyedrabeeh.github.io/personal)  
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
@@ -1167,6 +1168,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
+- [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full-Stack Developer]  
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
 - [Schalk Venter](https://schalkventer.me)
 - [Schleidens Dev](https://schleidens.netlify.app)
