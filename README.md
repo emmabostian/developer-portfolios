@@ -1001,7 +1001,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pol Gubau Amores](https://polgubau.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Prajwol Karki](https://prajwolkarki.com.np)
-- [Your Name](https://prakashjha.com)( “Full-stack dev.”)
+- [Prakash Jha](https://prakashjha.com)( “Full-stack dev.”)
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
