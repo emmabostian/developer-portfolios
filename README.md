@@ -1143,6 +1143,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
 - [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full-Stack Developer]
+- [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Santosh Shrestha](https://santoshxshrestha.onrender.com)
 - [Santosh Yadav](http://santoshyadav.dev)
