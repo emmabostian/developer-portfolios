@@ -1127,6 +1127,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
+- [Saiful Alom](https://saifulalom.com) – Fullstack Developer & Entrepreneur
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saikumar](https://saikumar.me/)Backend-engineering and developer]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
