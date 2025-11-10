@@ -1070,6 +1070,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Riccardo Venturini](https://riccardoventurini.dev)
 - [Richard Hill](https://www.rhdigital.co.uk) [Digital Designer]
 - [Rick Hanlon](https://rickhanlonii.github.io)
+- [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Rifqisakha](https://www.rifqisakha.my.id/) [Frontend Developer, Designer, Ui/Ux]
 - [Riley J. Shaw](https://rileyjshaw.com)
