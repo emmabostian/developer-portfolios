@@ -247,6 +247,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
+- [Ayoub Alahyane](https://aalahyan3.tech)
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full-Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
