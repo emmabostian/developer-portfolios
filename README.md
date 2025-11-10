@@ -773,6 +773,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
+- [Manikanta Darapureddy 💛 ](https://dmanikanta.site)[AI Full Stack Developer]
 - [Maciej Pulikowski](https://pulik.dev)[Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online)[Mern Stack Developer]
@@ -790,7 +791,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Malith Rukshan](https://malith.dev)
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in)
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
-- [Manikanta Darapureddy ](https://dmanikanta.site)[Ai Full Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manish Tiwari](https://www.manishtiwari.dev)
