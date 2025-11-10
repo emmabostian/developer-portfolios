@@ -848,6 +848,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Migliorelli](https://migliorelli.dev)
 - [Miguel Rodriguez](https://migu.es)
+- [Mihir Das](https://getmihir.com) [Full-Stack Web Developer | Reactjs | TypeScript | Node js | AI Enthusiast]
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app)[Front-End Developer]
 - [Minmitha A](https://minmitha.vercel.app)
