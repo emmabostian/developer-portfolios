@@ -790,7 +790,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Malith Rukshan](https://malith.dev)
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in)
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
-- [Manikanta Darapureddy 💛][https://dmanikanta.site](Ai Full Stack Developer)
+- [Manikanta Darapureddy💛](https://dmanikanta.site) [AI Full-Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manish Tiwari](https://www.manishtiwari.dev)
