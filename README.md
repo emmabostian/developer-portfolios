@@ -1022,6 +1022,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app)
+- [Prataya Silla] (https://prataya-portfolio.vercel.app)
 
 ## Q
 
