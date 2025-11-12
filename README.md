@@ -174,7 +174,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrii Zontov](https://lwjerri.dev)
 - [André De Faria](https://andredfaria.github.io)
-- [André Souza | Backend Developer](https://an3dree.dev)
+- [André Souza](https://an3dree.dev) [Backend Developer]
 - [Andy Bell](https://andy-bell.design)
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app) [👩🏻‍💻 Frontend Developer]
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
