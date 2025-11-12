@@ -544,6 +544,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## H
 
+- [Haider Ali](http://haider-portfolio-dev.vercel.app/) [Software Engineer & T3 Stack Developer]
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
