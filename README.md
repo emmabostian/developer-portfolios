@@ -1048,6 +1048,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app)
+- [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
