@@ -1353,6 +1353,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Vedas Dixit](https://vedas-desktop.vercel.app)
 - [Vertanzil](https://vertanzil.github.io)
+- [Viren Hirpara](https://www.virenhirpara.com/) [Python Developer | Digital Forensic Expert]
 - [Vibhor Arya](https://vibhorarya12.vercel.app)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vighnesh Raut](https://vighnesh153.dev)
