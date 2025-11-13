@@ -1141,6 +1141,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
+- [Samarth Kosta](https://xamarth.pp.ua)
 - [Sameer](https://sameer27.netlify.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
