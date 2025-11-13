@@ -7,7 +7,7 @@ let's showcase your work! Refer to the [Contributing](./CONTRIBUTING.md) file fo
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-[<Img Width="597" Alt="Portfolio" Src="Https://User-Images.Githubusercontent.Com/7671983/64871043-Bab42880-D644-11E9-8E87-4A98D06339C9.Png">](https://twitter.com/ASpittel/status/1171604728951779328)
+[<Img Width="597" Alt="Portfolio" Src="assets/ASpittel_tweet.png">](https://twitter.com/ASpittel/status/1171604728951779328)
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
