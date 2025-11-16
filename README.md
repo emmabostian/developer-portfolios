@@ -464,6 +464,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Emir Bolat](https://spee.dev)
 - [Emmanuel Adekplovi](https://homescriptone.com)
 - [Emmanuel Ziem Yaan-Tol](https://emmanuelmayne23.vercel.app)
+- [Engr. Shihab](https://engr-shihab.vercel.app) [Full Stack Developer / Software Engineer]
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
