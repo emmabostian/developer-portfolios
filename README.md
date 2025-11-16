@@ -937,6 +937,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
 - [Nishchal Kc](https://www.nishchalkc.com.np)
+- [NSK Reddy](https://nskr.dev) [Student | Freelancer | Aspiring AI Engineer]
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nitish](https://www.nitish.fun)
