@@ -1,0 +1,56 @@
+name: Auto Update README Anytime Code Changes
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          ref: ${{ github.head_ref || github.ref }}
+
+      - name: Git config
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+
+      - name: Always pull safely (self-healing)
+        run: |
+          git fetch origin main || true
+          git pull origin main || echo "Normal pull failed, repairing…"
+          git merge --abort || true
+          git reset --hard HEAD || true
+          git pull origin main || echo "Still failed, continuing safely..."
+
+      - name: Ensure Python and deps
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run maker.py (instr=read) and write README
+        run: |
+          python3 maker.py > README.md
+
+      - name: Validate README exists
+        run: |
+          if [ ! -f README.md ]; then echo "README.md missing" && exit 1; fi
+
+      - name: Commit README
+        run: |
+          git add README.md || true
+          git commit -m "Auto update README" || echo "No changes to commit"
+
+      - name: Push safely (fallback to force)
+        run: |
+          git push origin HEAD:${{ github.head_ref || github.ref_name }} || (
+            echo "Normal push failed — forcing push"
+            git push origin HEAD:${{ github.head_ref || github.ref_name }} --force
+          )
