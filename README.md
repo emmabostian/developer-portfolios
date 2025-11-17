@@ -552,6 +552,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
 - [Hanif Yuli Abdillah P](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
+- [Hanumant Jain](https://hanumantjain.tech/) [Software Developer | Full Stack Developer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
 - [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
