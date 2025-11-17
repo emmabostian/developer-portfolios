@@ -1233,6 +1233,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shubham Vandara](https://shubhamvandara.netlify.app) [Full-Stack Developer]
 - [Shuvam Manna](http://shuvam.xyz)
+- [Sidar Adıgüzel](https://www.sidaradguzel.online/) [Full-Stack Developer]
 - [Siddharth Roy](https://siddharthroy.com)
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
