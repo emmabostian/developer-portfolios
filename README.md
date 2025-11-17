@@ -825,6 +825,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Matvey Kottsov](https://matvey.codes)
 - [Maverick](https://supacode.dev)
 - [Maxim Villivald](https://villivald.com)
+- [Maxwel Khadambi](https://maxwel-khadambi.vercel.app) [Software Developer | Full Stack Developer]
 - [Maya Shavin](https://www.mayashavin.com)
 - [Mayank Aggarwal](https://mayank0255.github.io)
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app)
