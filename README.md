@@ -921,6 +921,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nicholas Gannon](https://nicholasgannon.io)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico Van Zyl](https://nicovanzyl.com)
+- [Nicolas Nguyen](https://www.nic-nguyen.com/)
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nidal Ghonaim](https://www.nidal.dev) [Full Stack Developer | Designer]
 - [Nihal Ahmed Nariyam](https://nihalahmed.in)
