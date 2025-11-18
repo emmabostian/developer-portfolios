@@ -11,7 +11,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1340
+## Current Portfolio Count: 1341
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1071,6 +1071,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & Ui/Ux Designer]
 - [Renan Silva](https://renansilvadev.netlify.app) [Full Stack Developer]
+- [Renaud Gagnon](https://portfolio-rg.renaudg086.workers.dev) [Full Stack && AI automation]
 - [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio)
 - [Rhenz – Rhenz Portfolio](https://rhenzportfolio.vercel.app)
