@@ -7,13 +7,11 @@ let's showcase your work! Refer to the [Contributing](./CONTRIBUTING.md) file fo
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-<div
-    style="display: inline-block; padding: 20px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
-    <a href="https://twitter.com/ASpittel/status/1171604728951779328">
-        <img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png"
-            style="border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.3); display: block;">
-    </a>
-</div>
+
+<a href="https://twitter.com/ASpittel/status/1171604728951779328">
+	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
+</a>
+
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
