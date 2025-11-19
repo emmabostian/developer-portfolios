@@ -1033,6 +1033,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Q
 
 - [Qui Nguyen](https://www.lexnguyen.dev)
+- [Quint Wessels](https://quintwessels.com/)
 
 ## R
 
