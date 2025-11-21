@@ -1418,6 +1418,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
+- [Yash Palav](https://yashpalav.vercel.app) [Full Stack Dev]
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full-Stack-Dev]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
