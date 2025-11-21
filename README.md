@@ -805,6 +805,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Marc Backes](http://marc.dev)
 - [Marco Baldini](https://marcobaldini.pages.dev)
 - [Marcos Moura](https://marcos-moura97.github.io)
+- [Marin Takanov](https://www.takanov.com) [Senior Software Engineer]
 - [Mario Kandut](https://www.mariokandut.com)
 - [Marios Sofokleous](https://msof.me)
 - [Mariya Baig](https://mariyabaig.vercel.app)([@Mariyabaig](https://github.com/mariyabaig))
