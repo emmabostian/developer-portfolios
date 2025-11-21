@@ -545,6 +545,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com/)
+- [Gabriel Lucas](gabriellucasafb.com.br) ([@sougabrielxd](https://github.com/sougabrielxd)) [Frontend Developer] 
 
 ## H
 
