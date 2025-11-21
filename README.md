@@ -365,7 +365,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
 ## D
-
+- [Deep Baidya](https://deepbaidya.vercel.app/) [Developer & cybersecurity]
 - [Daan Hessen](https://www.daanhessen.nl/) [Software Developer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
