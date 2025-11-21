@@ -7,7 +7,11 @@ let's showcase your work! Refer to the [Contributing](./CONTRIBUTING.md) file fo
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-[<Img Width="597" Alt="Portfolio" Src="Assets/Aspittel_Tweet.Png">](https://twitter.com/ASpittel/status/1171604728951779328)
+
+<a href="https://twitter.com/ASpittel/status/1171604728951779328">
+	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
+</a>
+
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
@@ -774,7 +778,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## M
 
-- [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame)
+- [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online) [Mern Stack Developer]
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
