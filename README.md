@@ -339,6 +339,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io)
 - [Chiragchrg](https://chiragchrg.netlify.app) [Full Stack Developer]
+- [ChosenSoul](https://chosensoul.kesug.com) [Frontend\Embedded Developer]
 - [Chris Carr](http://snackpipe.com)
 - [Chris Coyier](https://chriscoyier.net) [Co-Founder Of Codepen]
 - [Chris Otto](https://chrisotto.dev)
