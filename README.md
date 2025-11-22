@@ -7,11 +7,9 @@ let's showcase your work! Refer to the [Contributing](./CONTRIBUTING.md) file fo
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-
 <a href="https://twitter.com/ASpittel/status/1171604728951779328">
 	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
 </a>
-
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
@@ -230,6 +228,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashar Kamran](https://asharkamran.netlify.app) [Full Stack & Cms Developer | Content Creator]
   Blockchain & AI Enthusiast]
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app)
+- [Ashik Saleem](https://ashik.ie) [Full Stack Developer | Data + DevOps]
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashish Narnoli](https://ashishnarnoli.com)
@@ -370,6 +369,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
 ## D
+
 - [Deep Baidya](https://deepbaidya.vercel.app/) [Developer & cybersecurity]
 - [Daan Hessen](https://www.daanhessen.nl/) [Software Developer]
 - [Dale French](https://dalefrench.dev)
@@ -546,7 +546,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com/)
-- [Gabriel Lucas](gabriellucasafb.com.br) ([@sougabrielxd](https://github.com/sougabrielxd)) [Frontend Developer] 
+- [Gabriel Lucas](gabriellucasafb.com.br) ([@sougabrielxd](https://github.com/sougabrielxd)) [Frontend Developer]
 
 ## H
 
