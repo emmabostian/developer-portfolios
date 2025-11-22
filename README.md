@@ -669,6 +669,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [John Ryan Cottam](https://johnryancottam.com)
 - [Johnny Chai](https://johnnychai.com) [✨ Software Engineer]
 - [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
+- [Johnny Gérard](https://www.jgerard.dev) [Frontend Engineer]
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
 - [Jorge Cortés](https://jorgecortes.dev) [⚡ Fullstack Developer]
