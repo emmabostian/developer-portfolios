@@ -691,6 +691,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## K
 
+- [Karrar Nazim](https://karrarnazim.space) [Full-Stack Web Developer]
 - [Kaiyu Hsu](https://kyh.io)
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kalp Senghani](https://kalpsenghani.com) [👨🏼‍💻 Fullstack Developer || Ai Engineer ]
