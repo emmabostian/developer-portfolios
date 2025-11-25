@@ -240,6 +240,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | Deveops]
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
+- [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
