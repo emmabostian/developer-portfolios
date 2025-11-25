@@ -1131,6 +1131,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Adulkar](https://sagar-adulkar.vercel.app)
 - [Sagar Betkar](https://sagarbetkar.netlify.app)
+- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - MERN,GenAI]
 - [Sagar Bhusal](https://www.sagarb.com) [Expert System Admin And Devops Engineer.]
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
