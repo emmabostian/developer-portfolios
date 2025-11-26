@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Asad Saeed 🔥](https://asad-saeed-portfolio.vercel.app/) [Full-Stack Developer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaaby-Toukoum](https://toukoum.fr) [Ai Software Engineer]
 - [Aaban Malik](https://muhammadaamirmalik.com)
