@@ -95,6 +95,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
+- [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & Devops Architect]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
