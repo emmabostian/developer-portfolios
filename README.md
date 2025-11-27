@@ -235,6 +235,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashish Narnoli](https://ashishnarnoli.com)
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || Devops]
+- [Ashutosh Pandey](https://about.ashutoshcodes.in/) [Backend Developer | LLM and Agentic AI Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
