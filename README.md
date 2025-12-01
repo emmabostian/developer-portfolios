@@ -13,7 +13,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1349
+## Current Portfolio Count: 1354
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -24,11 +24,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
-- [Asad Saeed 🔥](https://asad-saeed-portfolio.vercel.app/) [Full-Stack Developer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaaby-Toukoum](https://toukoum.fr) [Ai Software Engineer]
-- [Aaban Malik](https://muhammadaamirmalik.com)
+- [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
 - [Aabid Ahmed](https://sawad.framer.website)
 - [Aabraham James](https://seera.framer.website)
@@ -100,7 +98,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Seth](https://adityaseth.in) [Software Developer & Devops Architect]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
-- [Adrian Alvarez](https://www.adrian-alvarez.dev) [Frontend Developer]
 - [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
 - [Afam Olie](https://afamolie.com) [Full-Stack Developer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
@@ -153,7 +150,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Shrivastava](https://aman04.netlify.app)
 - [Ameed Darawsha](https://ameed.me)
-- [Ameer Muavia Shah](https://maveeshah.github.io/projects.html) [Frappe | ERPNext | Python]
+- [Ameer Muavia Shah](https://maveeshah.github.io/projects.html) [Frappe | Erpnext | Python]
 - [Amine Rebbouh](https://main.dodjas56cfa3.amplifyapp.com)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
@@ -223,6 +220,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
+- [Asad Saeed 🔥](https://asad-saeed-portfolio.vercel.app/) [Full-Stack Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Asamit](https://asamitportfolio.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX
@@ -236,7 +234,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashish Narnoli](https://ashishnarnoli.com)
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || Devops]
-- [Ashutosh Pandey](https://about.ashutoshcodes.in/) [Backend Developer | LLM and Agentic AI Engineer | Langchain Expert]
+- [Ashutosh Pandey](https://about.ashutoshcodes.in/) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Atanas Atanasov](https://atanas.info)
@@ -305,7 +303,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bluezly](https://www.bluezly.exid.me)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Boddapu Lokesh](https://boddapulokesh.github.io/portfolio) [Ai-Developer][India]
-- [Bogdan Marić](https://bogdanmaric.dev)
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
@@ -422,7 +419,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Devi R](https://devi-r.com)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com)
 - [Dewald Els](https://dewaldels.com)
-- [Dhanraj Patil](https://dhanrajp.vercel.app) [Front-End Web Developer]
 - [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app) [Unique Whatsapp Portfolio]
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
@@ -898,7 +894,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
 - [Mudassir Ali](https://mudassirali.com) [Full Stack Developer | Software Engineer]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
-- [Muhammad Faheem Iqbal - faheem506pk](https://faheem506pk.vercel.app/) [Frontend Developer | Mern Stack Developer | IOT Enthusiast]
+- [Muhammad Faheem Iqbal - Faheem506Pk](https://faheem506pk.vercel.app/) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Murtaza](https://murtazasarwar.com)
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app) [Frontend Developer | Mern Stack Developer]
@@ -1090,7 +1086,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & Ui/Ux Designer]
 - [Renan Silva](https://renansilvadev.netlify.app) [Full Stack Developer]
-- [Renaud Gagnon](https://portfolio-rg.renaudg086.workers.dev) [Full Stack && Ai Automation]
 - [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio)
 - [Rhenz – Rhenz Portfolio](https://rhenzportfolio.vercel.app)
@@ -1103,11 +1098,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Riley J. Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
-- [Rishabh Rawat](https://rrawat.com)
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
-- [Robinson Honour](https://robinsonhonour.me) [Founder, Pxxl]
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Raj](https://rohit-raj.netlify.app)
@@ -1142,12 +1135,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Adulkar](https://sagar-adulkar.vercel.app)
 - [Sagar Betkar](https://sagarbetkar.netlify.app)
-- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - MERN,GenAI]
 - [Sagar Bhusal](https://www.sagarb.com) [Expert System Admin And Devops Engineer.]
+- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,Genai]
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
-- [Sahil Bhatane](https://sahilbhatane.vercel.app) ([@sahilbhatane](https://github.com/sahilbhatane)) [AI/ML Engineer]
+- [Sahil Bhatane](https://sahilbhatane.vercel.app) ([@Sahilbhatane](https://github.com/sahilbhatane)) [Ai/Ml Engineer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
 - [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adode Tools]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
@@ -1305,7 +1298,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
-- [Talha Kılıç](https://talhakilic.com.tr)
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tarun M S](https://tarunms.netlify.app)
