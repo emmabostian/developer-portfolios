@@ -13,7 +13,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1348
+## Current Portfolio Count: 1349
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -896,6 +896,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
 - [Mudassir Ali](https://mudassirali.com) [Full Stack Developer | Software Engineer]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
+- [Muhammad Faheem Iqbal - faheem506pk](https://faheem506pk.vercel.app/) [Frontend Developer | Mern Stack Developer | IOT Enthusiast]
 - [Muhammad Muhaddis](https://muhaddis.info)
 - [Muhammad Murtaza](https://murtazasarwar.com)
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app) [Frontend Developer | Mern Stack Developer]
