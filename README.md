@@ -728,6 +728,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ketuman Vishwakarma](https://k2maan.vercel.app)([@K2Maan](https://github.com/k2maan))
 - [Kevin Bogagne](https://kevinbg.vercel.app) [Software Engineer ]
 - [Kevin Kenfack](https://kenfack-me.vercel.app)
+- [Kevin Nguyen](https://kevinbkdev.vercel.app) [Software Engineer | Blockchain Enthusiast]
 - [Khaled Ahmed](https://khaled.is-a.dev)
 - [Khang Nguyen](https://khangnd.info)
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer ]
