@@ -52,7 +52,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
-- [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
+- [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com/) [Full Stack Developer]
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
@@ -331,6 +331,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Chamindu Wn](https://chamindu-wn.vercel.app/) [Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer ]
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
+- [Chandru](http://ceceliacreates.com)
 - [Chanhdai](https://chanhdai.com)
 - [Charles C. Pustejovsky Iii](https://cpustejovsky.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
