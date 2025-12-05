@@ -1144,6 +1144,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sahil Bhatane](https://sahilbhatane.vercel.app) ([@Sahilbhatane](https://github.com/sahilbhatane)) [Ai/Ml Engineer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
+- [Sahil khan](https://sahil-site-chi.vercel.app/) [Full stack developer]
 - [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adode Tools]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
 - [Sai Teja](https://saiteja13427.github.io)
