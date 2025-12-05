@@ -1396,6 +1396,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
+- [Vivek Jaiswal](https://www.vivekjaiswal.me/) [Software Archutect | AI/ML Expert]
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
