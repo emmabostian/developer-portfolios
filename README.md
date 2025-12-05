@@ -89,6 +89,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditi Arya](https://aditiarya.netlify.app) [Software Engineer]
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app)
 - [Aditya Dubey](https://adityacodes.in)
+- [Aditya Dutt Pandey](https://www.adpandey.com) [Founder | Backend Engineer | System Architect]
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
 - [Aditya Kumar](https://www.adityakr.com)
