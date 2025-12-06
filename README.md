@@ -664,6 +664,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerin Bs](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
+- [Jeslor Ssozi](https://www.jeslor.com) [Fullstack Engineer]
 - [Jesus Santander](https://jsantanders.dev)
 - [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
