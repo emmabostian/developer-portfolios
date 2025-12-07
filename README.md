@@ -1252,6 +1252,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Vandara](https://shubhamvandara.netlify.app) [Full-Stack Developer]
 - [Shuvam Manna](http://shuvam.xyz)
 - [Sidar Adıgüzel](https://www.sidaradguzel.online/) [Full-Stack Developer]
+- [Siddharth](https://sudosidd.dev/) [Game Developer]
 - [Siddharth Chattoraj](https://siddharthchattoraj.com/) [Full-Stack Developer | Production Designer]
 - [Siddharth Roy](https://siddharthroy.com)
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
