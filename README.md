@@ -1196,6 +1196,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Adhikary](https://www.sayanadhikary.me) ([@Sayanadhi03](https://github.com/sayanadhi03)) [Full Stack Mern]
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
+- [Saurabh singh](https://saurabh-works.netlify.app/)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
 - [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full-Stack Developer]
