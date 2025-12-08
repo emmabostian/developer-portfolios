@@ -369,6 +369,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Collins Koech](https://collinskoechportfolio.web.app)
 - [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app/) [Front-End Developer]
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
+- [Cristian Barreiro](https://cristianbarreiro.github.io/)
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
