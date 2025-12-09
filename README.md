@@ -24,12 +24,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aaabad Ahmed](https://sawad.framer.website/) [Software Engineer]
 - [Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaaby-Toukoum](https://toukoum.fr) [Ai Software Engineer]
 - [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
-- [Aabid Ahmed](https://sawad.framer.website)
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle-2 📌](https://adittya.site) [Full-Stack Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full-Stack Developer]
