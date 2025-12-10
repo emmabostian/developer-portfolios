@@ -21,7 +21,7 @@ def sort_lists_alphabetically(lines):
     header_indices = []
 
     for i, line in enumerate(lines):
-        # Remove trailing `/` from http links
+        
         line = http_pattern.sub(r"\1", line)
 
         header_match = header_pattern.match(line)
