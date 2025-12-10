@@ -13,7 +13,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1354
+## Current Portfolio Count: 1365
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -24,9 +24,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaabad Ahmed](https://sawad.framer.website/) [Software Engineer]
 - [Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
-- [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaaby-Toukoum](https://toukoum.fr) [Ai Software Engineer]
 - [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
@@ -526,7 +526,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gabriel Machado](https://machado001.github.io) ([@Machado001](https://github.com/machado001))
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
-- [Gajanan Bodhankar](https://www.gajanan.online)
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
 - [Ganesh M](https://ganesh717.netlify.app)
 - [Ganesh Patil](https://hardikjain.netlify.app)
@@ -930,7 +929,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-End Developer | Design Technologist | Ui/Ux Engineer]
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net)
-- [Nayan Radadiya](https://nayan-raddiya.netlify.app/) [Front-End Developer | Front-End focus Full stack]
+- [Nayan Radadiya](https://nayan-raddiya.netlify.app/) [Front-End Developer | Front-End Focus Full Stack]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
@@ -1148,8 +1147,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sahil Bhatane](https://sahilbhatane.vercel.app) ([@Sahilbhatane](https://github.com/sahilbhatane)) [Ai/Ml Engineer]
+- [Sahil Khan](https://sahil-site-chi.vercel.app/) [Full Stack Developer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
-- [Sahil khan](https://sahil-site-chi.vercel.app/) [Full stack developer]
 - [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adode Tools]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
 - [Sai Teja](https://saiteja13427.github.io)
@@ -1195,12 +1194,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurabh Nemade](https://www.nemade.eu) ([@Saurabhnemade](https://github.com/saurabhnemade)) (Staff Engineer)
 - [Saurabh Patil](https://saurabhpatil.netlify.app) [Code Craftsman]
+- [Saurabh Singh](https://saurabh-works.netlify.app/)
 - [Saurav M H](https://sauravmh.com)
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Adhikary](https://www.sayanadhikary.me) ([@Sayanadhi03](https://github.com/sayanadhi03)) [Full Stack Mern]
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
-- [Saurabh singh](https://saurabh-works.netlify.app/)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
 - [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full-Stack Developer]
@@ -1258,9 +1257,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Vandara](https://shubhamvandara.netlify.app) [Full-Stack Developer]
 - [Shuvam Manna](http://shuvam.xyz)
 - [Sidar Adıgüzel](https://www.sidaradguzel.online/) [Full-Stack Developer]
-- [Siddharth](https://sudosidd.dev/) [Game Developer]
 - [Siddharth Chattoraj](https://siddharthchattoraj.com/) [Full-Stack Developer | Production Designer]
 - [Siddharth Roy](https://siddharthroy.com)
+- [Siddharth](https://sudosidd.dev/) [Game Developer]
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
@@ -1404,7 +1403,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
-- [Vivek Jaiswal](https://www.vivekjaiswal.me/) [Software Archutect | AI/ML Expert]
+- [Vivek Jaiswal](https://www.vivekjaiswal.me/) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
