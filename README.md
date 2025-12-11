@@ -468,6 +468,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
 - [Electric Magic Factory](https://electricmagicfactory.com/en)
+  - [Eliah Hango](https://www.elitechwiz.site) [FullStack Developer| Cyber security Expert & Civil Engineer]
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
