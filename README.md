@@ -973,6 +973,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
+- [Olle Andreasson](https://oted.online) [Staff Engineer]
 - [Om](https://omchaudhari1107.github.io)
 - [Omar Emad(Om3X4)](https://om3x4.com/) [Full Stack Developer]
 - [Omar Gastón Chalas](https://ogaston.com)
