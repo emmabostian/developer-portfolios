@@ -1407,6 +1407,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vivek Jaiswal](https://www.vivekjaiswal.me/) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
+- [Vivek Raval](https://mrthree.netlify.app/)[App | IOS | Web | AI & ML Engineer]
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
 - [Vu Nguyen](https://vunguyenit.site)
