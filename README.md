@@ -268,6 +268,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## B
 
+- [Badhon AI](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Balkrishna](https://balkrishnabk.com.np)
