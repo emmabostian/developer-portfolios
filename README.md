@@ -1452,6 +1452,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yoav](https://yoav.xyz)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
+- [Yogi Arif Widodo](https://yogiveloper.com) [Full-Stuck Software Engineer | Newbie Hacker]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np/) (FullStack/Ai Developer)
 - [Yuelin Liu](https://www.liuyuelin.dev) [Full-Stack Developer]
