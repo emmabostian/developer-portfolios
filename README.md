@@ -448,6 +448,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dimitri Pashutskii](https://dpashutskii.com)
 - [Dina Taklit](https://dinataklit.github.io/DinaTaklitPortfolio)
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
+- [Dinesh Barri](https://dineshbarri-portfolio.vercel.app/) [Data Sceintist | AI Automation Engineer ]
 - [Dino Gomez](https://dinogomez.vercel.app)
 - [Dinokage](https://dinokage.in)
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
