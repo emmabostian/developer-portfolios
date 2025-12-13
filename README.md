@@ -1450,6 +1450,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
 - [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
+- [Yog Prajapati](https://yog.zentor.site) [AI Developer | Full Stack]
 - [Yoav](https://yoav.xyz)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
