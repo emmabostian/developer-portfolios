@@ -899,6 +899,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohit Paudyal](https://findmohit.netlify.app)
 - [Mohsin Raz](https://www.mohsinraz.me) [Fullstack Developer | Ai Automation]
 - [Morelen Yim](https://morelenyim.com)
+- [Moteeullah Azmi] (https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
 - [Mouad Ziani](https://mouadziani.github.io)
 - [Mp3Martin](https://mp3martin.xyz)
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
