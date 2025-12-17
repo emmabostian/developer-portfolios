@@ -430,6 +430,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
 - [Dhiraj Bhawsar(Dhirajjsx)](https://dhirajbhawsar-portfolio.vercel.app) [Full-Stack Developer]
+- [Dhruba Datta](https://dhruba-datta.netlify.app/) [Software Engineer & Researcher | React, TypeScript, QA Automation]
 - [Dhruv Mali](https://dhruvmali.netlify.app) [React And Node Devloper]
 - [Dhruv Patel](https://dhruvpatelofficial.vercel.app/).
   [Ai & Data Science Enthusiast]
