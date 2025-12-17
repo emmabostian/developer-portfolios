@@ -1305,6 +1305,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sudev Thapa Magar](https://www.sudevmagar.tech/)
 - [Sujal Bedre](https://sujal-bedre.vercel.app/) [AI/ML Dev && MERN-Stack Dev]
 - [Sumeet Haldar](https://hsumeet.site)
+- [Sumeet K](https://full-stack-liard-eight.vercel.app/)[Software  Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Supratik Bhowal](https://supratikb23.github.io/) [Ai/Ml Student | Junior Researcher]
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
