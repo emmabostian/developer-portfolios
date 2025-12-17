@@ -947,6 +947,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nhlanhla Hasane](https://nhlanhlahasane.netlify.app)
 - [Nicholas Gannon](https://nicholasgannon.io)
+- [Nick Gray](https://nickgray.net)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico Van Zyl](https://nicovanzyl.com)
 - [Nicolas Nguyen](https://www.nic-nguyen.com/)
