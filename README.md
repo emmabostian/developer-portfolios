@@ -971,6 +971,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nitesh Seram](https://niteshseram.in)
 - [Nitish](https://www.nitish.fun)
 - [Noaman Ahmed](https://noamanahmed.com)
+- [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel developer | Go Enthusiast]
 - [Nsk Reddy](https://nskr.dev) [Student | Freelancer | Aspiring Ai Engineer]
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
