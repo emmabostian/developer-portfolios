@@ -1461,6 +1461,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
 - [Yoav](https://yoav.xyz)
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
+- [Yog Prajapati](https://yog.zentor.site) [AI Developer | Full Stack]
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
 - [Yogi Arif Widodo](https://yogiveloper.com) [Full-Stuck Software Engineer | Newbie Hacker]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
