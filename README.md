@@ -1166,6 +1166,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saikumar](https://saikumar.me/) [Backend-Engineering | Developer]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
+- [Sankalp Tharu](https://sankalptharu.com.np) 
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
 - [Sakhandaru](https://www.rifqisakha.my.id/) [Frontend Developer, Designer, Ui/Ux]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
