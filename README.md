@@ -971,6 +971,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
 - [Nishchal Kc](https://www.nishchalkc.com.np)
+- [Nishmika Ekanayaka](https://nishmika-dev.vercel.app/) [Full Stack Developer | Junior]
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nitish](https://www.nitish.fun)
@@ -1189,7 +1190,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full-Stack Developer]
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
-- [Sankalp Tharu](https://sankalptharu.com.np) 
+- [Sankalp Tharu](https://sankalptharu.com.np)
 - [Santosh Shrestha](https://santoshxshrestha.onrender.com)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
@@ -1307,7 +1308,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sudev Thapa Magar](https://www.sudevmagar.tech/)
 - [Sujal Bedre](https://sujal-bedre.vercel.app/) [Ai/Ml Dev && Mern-Stack Dev]
 - [Sumeet Haldar](https://hsumeet.site)
-- [Sumeet K](https://full-stack-liard-eight.vercel.app/)[Software  Developer]
+- [Sumeet K](https://full-stack-liard-eight.vercel.app/)[Software Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Supratik Bhowal](https://supratikb23.github.io/) [Ai/Ml Student | Junior Researcher]
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
