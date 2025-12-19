@@ -22,6 +22,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Ashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
+- [Aaaashar Kamran](https://asharkamran.netlify.app/) [Full Stack & CMS Developer | Content Creator]
 - [Aaban Malik](https://muhammadaamirmalik.com/)
 - [Aabar Khan](https://ceo.pronexus.in/)
 - [Aabid Ahmed](https://sawad.framer.website/)
