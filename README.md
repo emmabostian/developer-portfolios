@@ -716,6 +716,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Milan Milanovic](https://milan.milanovic.org/)
 - [Mohit Joe .R](https://mohitjoe.vercel.app/)
 - [Muhammad Uzair Khan](https://uzairkhan.tech/)
+- [Moniruzzaman Rishad](https://mzrishad.netlify.app/) [AI & ML Engineer]
   of Fame]
 - [Madhan K](https://madhank93.github.io)
 - [Madhur Dixit](https://madhurdixit13.github.io/Portfolio/)
