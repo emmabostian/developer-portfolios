@@ -1005,6 +1005,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## P
 
+- [Priyabrata Singh](https://pmanifestoo.vercel.app)[Full Stack Developer | Ux/Ui Designer]
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
