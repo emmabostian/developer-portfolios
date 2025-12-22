@@ -24,11 +24,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [A Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
 - [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
-- [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app/)[Full Stack Developer | Ui/Ux Designer]
-- [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
+- [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app/)[Full Stack Developer | Ui/Ux Designer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaabad Ahmed](https://sawad.framer.website/) [Software Engineer]
 - [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
@@ -724,6 +724,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Katie Haus](https://astro-portfolio-site.netlify.app)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
+- [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
 - [Kaustubhai](https://kaustubhai.netlify.app)
 - [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Fullstack Web Developer | Ui/Ux Designer]
 - [Kavi Castelo Dev](https://kavicastelo-dev.netlify.app)
@@ -749,7 +750,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kiran Kumar](https://ikiran-dev.github.io)
 - [Kiran Naragund](https://kiran1689.github.io)
 - [Kiran Poudel](https://pkiran.com.np)
-- [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
+- [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | Pern]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
 - [Krishnanand A](https://krishnananda.netlify.app)
