@@ -1197,6 +1197,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang N](https://srng.dev)
 - [Saroj Pradhan](https://pradhansaroj.com.np)
+- [Sarshij Karn](https://sarshijkarn.com.np) [Electronics,Communication & Information Engineer]
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Saswata Dutta](https://saztech.org)
