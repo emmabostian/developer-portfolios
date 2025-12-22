@@ -28,7 +28,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app/)[Full Stack Developer | Ui/Ux Designer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
-- [Aaaa Dev Ujjwal 🔥](https://ujjwalportfolio2.vercel.app/) [Web Developer | Full Stack Developer ]
 - [Aaabad Ahmed](https://sawad.framer.website/) [Software Engineer]
 - [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
@@ -512,6 +511,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Felix Tellmann](https://flext.dev)
 - [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full-Stack Developer & Cibersecurity]
 - [Fidalgo Pedro](http://fidalgo.dev)
+- [Fikri Izzuddin](https://oyi77.github.io) [Technical Lead | System Architect & Web3]
 - [Florian Giacinti](https://florian.giacinti.me/) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
@@ -1053,6 +1053,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
+- [Priyabrata Singh](https://pmanifestoo.vercel.app)[Full Stack Developer | Ux/Ui Designer]
 - [Priyanshu Singh](https://built-by-priyanshu.netlify.app)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
@@ -1197,6 +1198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang N](https://srng.dev)
 - [Saroj Pradhan](https://pradhansaroj.com.np)
+- [Sarshij Karn](https://sarshijkarn.com.np) [Electronics,Communication & Information Engineer]
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev)
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Saswata Dutta](https://saztech.org)
