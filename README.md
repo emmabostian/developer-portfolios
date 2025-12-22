@@ -23,11 +23,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
-- [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app/)[Full Stack Developer | Ui/Ux Designer]
+- [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
-- [Aaaa Dev Ujjwal 🔥](https://ujjwalportfolio2.vercel.app/) [Web Developer | Full Stack Developer ]
 - [Aaabad Ahmed](https://sawad.framer.website/) [Software Engineer]
 - [Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
