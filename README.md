@@ -1052,6 +1052,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
 - [Priya Nayak](https://priya180975.github.io/portfolio)
+- [Priyabrata Singh](https://pmanifestoo.vercel.app)[Full Stack Developer | Ux/Ui Designer]
 - [Priyanshu Singh](https://built-by-priyanshu.netlify.app)
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
 - [Puja Sridhar](https://pujasridhar.github.io/) [Interactive Rag-Powered Terminal And Gui Portfolio.]
