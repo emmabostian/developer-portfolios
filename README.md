@@ -23,7 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [A Ahmed Rafi Riyaz] (https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [A Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
