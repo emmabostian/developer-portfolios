@@ -770,6 +770,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Le Duong Hung Thinh](https://thinh.io.vn) [Front-End Engineer]
+- [Leandro "Qazuor" Asrilevich](https://qazuor.com) [Full-Stack Developer (Frontend-focused)]
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
