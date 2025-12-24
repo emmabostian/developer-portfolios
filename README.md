@@ -1118,6 +1118,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
+- [Rizan Bhandari](https://acchyut.com.np) [Researcher & Fullstack developer]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
