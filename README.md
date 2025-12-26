@@ -558,6 +558,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com/)
+- [Gustavo Gutierrez](https://gutierrez-cv.vercel.app/) - [FullStack/AI&ML Developer]
 - [Gunjan Ghate](http://techggdev.vercel.app/) - [Full Stack Web2/Web3 Developer]
 
 ## H
