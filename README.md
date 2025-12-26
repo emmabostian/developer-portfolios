@@ -1082,6 +1082,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
+- [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app)
 - [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
