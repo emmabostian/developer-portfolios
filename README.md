@@ -420,6 +420,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dev Jadiya](https://dev-jadiya.web.app)
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev](https://devpalwar.vercel.app)
+- [Dev Sharma](https://devsh-portfolio8.vercel.app/) [Full Stack Developer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Devi R](https://devi-r.com)
