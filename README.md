@@ -756,6 +756,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer ]
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
+- [Kuchizu](https://kuchizu.com/) [DevOps Engineer]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | Sde | Swe)](https://ikushdev.github.io)
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) ([@Kushwi15](https://github.com/kushwi15)) [Software Developer | Frontend Engineer | Mern Stack Developer]
