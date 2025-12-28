@@ -493,6 +493,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Eswar Sai Korrapati](https://eswarsaiportfolio.org/) [Ai/Ml Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
+- [Eyad Ahmed](https://fezex.vercel.app/) [Full Stack Web Engineer]
 
 ## F
 
