@@ -876,6 +876,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mertcan Kose](https://mertcankose.vercel.app)
 - [Michael Hoffmann (Mokkapps)](https://mokkapps.de)
 - [Michael King](https://www.mikeking.dev) [Frontend Developer]
+- [Michael Ongaro](https://www.michaelongaro.com) [Full Stack Developer]
 - [Michaell Alavedra](https://www.michaellalavedra.com)
 - [Michaell Lynn](https://www.mlynn.org)
 - [Michal Dziuba](https://michaldziuba.dev) [Software Developer]
