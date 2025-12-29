@@ -590,6 +590,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer
 - [Hassan Tech](https://hassanx.tech) - Web Developer
+- [Hesbon Angwenyi](https://hezy.netlify.app/) - Fullstack Developer | DevOps Engineer
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henrique Machado](https://www.henriquecm.xyz) [Fullstack Developer]
