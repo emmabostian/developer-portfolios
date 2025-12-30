@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aro Aruvi](https://themukesh.com) [Full Stack Developer]
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
