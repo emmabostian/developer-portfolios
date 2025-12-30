@@ -845,6 +845,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Martin Barker](https://martinbarker.me)
+- [Martin Lefebvre](https://martinlefebvre.com) [Senior Full-Stack Developer | Tech Lead]
 - [Martin Tale](https://martintale.com) [Web, App, Game Developer]
 - [Masab Qurban](https://www.masabqurban.com) [Software Engineer | Full Stack Developer]
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
