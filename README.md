@@ -24,6 +24,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aro Aruvi](https://themukesh.com) [Full Stack Developer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [A Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
