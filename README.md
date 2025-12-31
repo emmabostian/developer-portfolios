@@ -196,6 +196,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ankit Pakhale](https://ankitpakhale.netlify.app) [Senior Software Engineer | AI | Fullstack
   Developer]
 - [Ankush Minda](http://ankushminda.com)
+- [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshuman Jha](https://anshuman-jha.vercel.app)
 - [Anthony Odumodu](https://antonodu.netlify.app)
