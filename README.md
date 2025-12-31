@@ -988,6 +988,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Nishmika Ekanayaka](https://nishmika-dev.vercel.app/) [Full Stack Developer | Junior]
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
+- [Nitish](https://nitishkr.fun/)
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel Developer | Go Enthusiast]
 - [Nsk Reddy](https://nskr.dev) [Student | Freelancer | Aspiring Ai Engineer]
