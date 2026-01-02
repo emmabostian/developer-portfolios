@@ -197,13 +197,30 @@ def main():
     bracket_trailing_space_re = re.compile(r"\[([^]]*?)\s+]")
     trimmed_lines = [bracket_trailing_space_re.sub(r"[\\1]", line) for line in title_case_names]
 
+    # Normalize common spelling variants: convert any "Full-Stack" (any case) to "Full Stack"
+    # but only inside bracketed descriptions that follow a link, e.g. '](url) [Full-Stack]'
+    desc_bracket_re = re.compile(r"(\)\s*\[)([^]]*?)(\])")
+    # also apply to parenthesized descriptions that follow a link, e.g. '](url) (FullStack)'
+    desc_paren_re = re.compile(r"(\)\s*\()([^)]+?)(\))")
+
+    def _norm_desc(m):
+        prefix, inside, suffix = m.group(1), m.group(2), m.group(3)
+        # replace full-stack variants case-insensitively inside the bracket content
+        # match 'full' and 'stack' as whole words allowing optional non-word or underscore separators
+        inside2 = re.sub(r"(?i)\bfull(?:[\W_]*?)stack\b", "Full Stack", inside)
+        return f"{prefix}{inside2}{suffix}"
+
+    # first normalize bracketed descriptions, then parenthesized descriptions
+    normalized_lines = [desc_bracket_re.sub(_norm_desc, line) for line in trimmed_lines]
+    normalized_lines = [desc_paren_re.sub(_norm_desc, line) for line in normalized_lines]
+
     # Auto-remove duplicates: ignore trailing whitespace but remain case-sensitive.
     # Keep the first occurrence of each (normalized) line. Pure-empty lines are preserved.
     seen = set()
     deduped_lines = []
     duplicates_removed = 0
 
-    for line in trimmed_lines:
+    for line in normalized_lines:
         if line is None:
             deduped_lines.append(line)
             continue
