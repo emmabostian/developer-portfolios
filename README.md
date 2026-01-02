@@ -1401,7 +1401,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
-
+- [Vallarasu K](https://vallarasuk.com) [React, Next.js Full Stack Developer]
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
