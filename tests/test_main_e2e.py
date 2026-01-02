@@ -14,6 +14,7 @@ class TestMainE2E(unittest.TestCase):
             "- [Same](https://example.com/path/)\n"
             "- [Same](https://example.com/path)\n"
             "- [Other](http://other.com/)\n"
+            "- [Foo](http://foo.com) [Full-Stack]\n"
         )
 
         with tempfile.TemporaryDirectory() as td:
@@ -39,6 +40,9 @@ class TestMainE2E(unittest.TestCase):
                 # bracket trailing space should be removed and duplicates collapsed
                 self.assertEqual(out.count("[Name]"), 1)
                 self.assertEqual(out.count("[Same]"), 1)
+
+                # Full-Stack spelling should be normalized to "Full Stack"
+                self.assertIn("Full Stack", out)
 
                 # URL trailing slash normalized for the same link (should still be present
                 # but duplicates removed): ensure base path exists

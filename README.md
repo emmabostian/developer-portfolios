@@ -24,27 +24,23 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aro Aruvi](https://themukesh.com) [💻⚡ Full Stack Developer | Web • Mobile • APIs]
-- [Akil Amit](https://themukesh.com) [Full Stack Developer]
-- [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
-- [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
 - [A Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
 - [A Aby Toukoum](https://toukoum.fr) [Ai Engineer]
-- [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [Ai/Ml Engineer]
+- [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aabar Khan](https://ceo.pronexus.in)
 - [Aabraham James](https://seera.framer.website)
-- [Aaditya Domle](https://aadi.is-a.dev) [Full-Stack Developer]
+- [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
-- [Aalim](https://zunedaalim.com) [Full-Stack Web Developer]
+- [Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Aaparth Sharma](https://parthsharma.me) [Full Stack & Ui/Ux Designer • Founder @ Rune]
-- [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full-Stack Developer]
+- [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
@@ -52,7 +48,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aathif Zahir](https://az-dev.vercel.app)
-- [Aayush Bharti](https://aayushbharti.in) [Full-Stack Developer]
+- [Aayush Bharti](https://aayushbharti.in) [Full Stack Developer]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abdelaziz El Arassi](http://aelarassi.com)
@@ -64,7 +60,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
-- [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai / Full-Stack Developer]
+- [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai / Full Stack Developer]
 - [Abdullah Waheed](https://abdullahw-portfolio.vercel.app) [Front-End Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
@@ -78,13 +74,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
-- [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full-Stack Developer]
+- [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
 - [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
 - [Abhishek Kandel](https://abhishekkandel.com.np)
 - [Abhishek Panchal](https://skillstackpanchal.vercel.app)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abhishek Sah](https://www.abhisheksah.dev) [Software Engineer]
-- [Abhishek Singh](https://www.abhishekworks.com) [Full-Stack Developer]
+- [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer |
 - [Adam Alston](https://www.adamalston.com)
@@ -108,12 +104,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
-- [Afam Olie](https://afamolie.com) [Full-Stack Developer]
+- [Afam Olie](https://afamolie.com) [Full Stack Developer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
 - [Aftab Alam](https://datasciencefolio.streamlit.app) [An Open-Source, Customizable Portfolio Template For Ai/Ml/Dl Developers And Data Scientists]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
-- [Ahamed Kabeer](https://aktech27.github.io) [Mern Full-Stack Developer]
+- [Ahamed Kabeer](https://aktech27.github.io) [Mern Full Stack Developer]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
@@ -123,20 +119,20 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
 - [Ajay Kannan](https://ajaykannan.netlify.app)
-- [Ajay Pawar](https://ajay-pawar.vercel.app) [Full-Stack Developer]
+- [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
 - [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app) [Quant Developer | Full Stack]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
-- [Akash Samanta](https://akashcraft.ca) [Full-Stack Developer]
+- [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
-- [Akhshy Ganesh](https://akhshyganesh.github.io) [Full-Stack Developer | Solution Architect]
+- [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
 - [Akil Amit](https://themukesh.com) [Full Stack Developer]
-- [Akira Yoshiro](https://gungho0619.vercel.app) [Full-Stack Developer Web | Blockchain]
+- [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshat Kotpalliwar Alias Integeralex](https://realtalkportfolio.vercel.app) [Full Stack Developer | Old School Portfolio]
 - [Akshay Abraham](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=dev_portfolios") [Aspiring Physicist | Backend & Research-Oriented Developer🔬| Frontend For Hobby 🎨]
-- [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full-Stack 3D Sofware Developer]
+- [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full Stack 3D Sofware Developer]
 - [Akshay](https://devakshay.vercel.app)
 - [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
 - [Alan Khalili](https://www.alan-khalili.com)
@@ -148,7 +144,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Alexandre Trotel](https://www.alexandretrotel.org)
 - [Alexey Golub](http://tyrrrz.me)
 - [Alfred Dagenais](https://alfreddagenais.com)
-- [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full-Stack Engineering]
+- [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
@@ -193,13 +189,13 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
-- [Anish Biswas](https://anish7.me) [Fullstack Dev]
+- [Anish Biswas](https://anish7.me) [Full Stack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Mohanty](https://ankitmohanty.vercel.app) [Software Developer]
 - [Ankit Pakhale](https://ankitpakhale.netlify.app) [Senior Software Engineer | AI | Fullstack
   Developer]
 - [Ankush Minda](http://ankushminda.com)
-- [Anshul Chauhan](https://anshulchauhan.dev) [Full-Stack Developer | Ios-Style Portfolio]
+- [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
 - [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshuman Jha](https://anshuman-jha.vercel.app)
@@ -224,6 +220,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arjad Gohar](https://arjad-portfolio.netlify.app) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app)
+- [Aro Aruvi](https://themukesh.com) [💻⚡ Full Stack Developer | Web • Mobile • APIs]
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
@@ -231,7 +228,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
-- [Asad Saeed 🔥](https://asad-saeed-portfolio.vercel.app) [Full-Stack Developer]
+- [Asad Saeed 🔥](https://asad-saeed-portfolio.vercel.app) [Full Stack Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Asamit](https://asamitportfolio.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX
@@ -270,7 +267,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ayfri](https://ayfri.com)
 - [Ayoub Alahyane](https://aalahyan3.tech)
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
-- [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full-Stack Developer]
+- [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
@@ -283,9 +280,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Balkrishna](https://balkrishnabk.com.np)
-- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full-Stack Engineer]
+- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
-- [Batuhan Eroğlu](https://batuhan.tech) [Full-Stack Developer]
+- [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
 - [Becca Bailey](http://Becca.is)
@@ -330,7 +327,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Brihadeesh R K](https://briha.xyz) [Full Stack Developer]
 - [Brijesh Patel](https://brijesh.work)
 - [Brittany Chiang](https://brittanychiang.com)
-- [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full-Stack Software Engineer]
+- [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 
 ## C
@@ -339,10 +336,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Capt. Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
-- [Carlos Gutierrez](https://cargdev.io) [Senior Full-Stack Engineer | Python, Typescript, Distributed Systems]
+- [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cemal Türkcan)](https://cemalturkcan.com)
-- [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Fullstack Developer]
+- [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Full Stack Developer]
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Chamindu Wn](https://chamindu-wn.vercel.app) [Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer]
@@ -402,14 +399,14 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
-- [Daniel Ortiz](https://danielortiz.web.app) [Full-Stack Developer]
-- [Daniel Steele](https://www.danielsteele.dev) [Full-Stack Developer]
+- [Daniel Ortiz](https://danielortiz.web.app) [Full Stack Developer]
+- [Daniel Steele](https://www.danielsteele.dev) [Full Stack Developer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Danilo Silva](https://www.iamdanilo.com)
 - [Darrell Roberts](https://www.darrellroberts.com)
 - [Darshan B](https://darshan.is-a.dev)
-- [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full-Stack Developer]
+- [Darshan Bhuva](https://darshanbhuva.vercel.app) [Full Stack Developer]
 - [Darshan Vasani 2](https://dpvasani56.vercel.app)
 - [Darya Redkina](https://reddev.in)
 - [Daryl Cletus Fernandes](https://daryl-fernandes.com)
@@ -441,19 +438,19 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Dhaval Patel](https://dhavalcode.com)
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhiraj Basavaraju](https://portfolio-dhirajb7.vercel.app)
-- [Dhiraj Bhawsar(Dhirajjsx)](https://dhirajbhawsar-portfolio.vercel.app) [Full-Stack Developer]
+- [Dhiraj Bhawsar(Dhirajjsx)](https://dhirajbhawsar-portfolio.vercel.app) [Full Stack Developer]
 - [Dhruba Datta](https://dhruba-datta.netlify.app) [Software Engineer & Researcher | React, Typescript, Qa Automation]
 - [Dhruv Mali](https://dhruvmali.netlify.app) [React And Node Devloper]
 - [Dhruv Patel](https://dhruvpatelofficial.vercel.app).
   [Ai & Data Science Enthusiast]
 - [Dhruv Sathe](https://dhruv-alpha.vercel.app) [Software Engineer & Freelancer]
 - [Dhruva Bhat S N](https://dhruvabhat.netlify.app)
-- [Dhvanit Monpara](https://dhvanitmonpara.in) [Full-Stack Developer]
+- [Dhvanit Monpara](https://dhvanitmonpara.in) [Full Stack Developer]
 - [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & Ui/Ux Designer]
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Diego López Reduello](https://deinigu.github.io/portfolio) [Data Scientist]
-- [Digbijaya Lenka](https://digbijayalenka.vercel.app) [Full-Stack Developer]
+- [Digbijaya Lenka](https://digbijayalenka.vercel.app) [Full Stack Developer]
 - [Digin Dominic](https://digindominic.me)
 - [Dilip Kumar Maurya](https://www.dilipmaurya.in) [Web Developer]
 - [Dillion Megida](http://dillionmegida.com)
@@ -482,7 +479,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
 - [Electric Magic Factory](https://electricmagicfactory.com/en)
-- [Eliah Hango](https://www.elitechwiz.site) [Fullstack Developer| Cyber Security Expert & Civil Engineer]
+- [Eliah Hango](https://www.elitechwiz.site) [Full Stack Developer| Cyber Security Expert & Civil Engineer]
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
@@ -514,18 +511,18 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np)
 - [Fayaz Bin Salam](https://p32929.github.io)
-- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app) [Full-Stack Developer]
+- [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app) [Full Stack Developer]
 - [Felipe Mourão](https://mouraocode.com.br)
 - [Felipe Schmidt](https://felipeschmidt.me) [Front-End Developer]
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
-- [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full-Stack Developer & Cibersecurity]
+- [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full Stack Developer & Cibersecurity]
 - [Fidalgo Pedro](http://fidalgo.dev)
 - [Fikri Izzuddin](https://oyi77.github.io) [Technical Lead | System Architect & Web3]
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
-- [Franck Galliod](https://www.franckwebpro.com) [Fullstack & Webflow Developer]
+- [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io)
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
@@ -584,7 +581,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanumant Jain](https://hanumantjain.tech) [Software Developer | Full Stack Developer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
-- [Hareesh Bhittam](https://hareesh.is-a.dev) [Full-Stack Developer]
+- [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
 - [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
@@ -600,16 +597,16 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hassan Tech](https://hassanx.tech) - Web Developer
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemsundar Paranthaman](https://hemdev.vercel.app)
-- [Henrique Machado](https://www.henriquecm.xyz) [Fullstack Developer]
+- [Henrique Machado](https://www.henriquecm.xyz) [Full Stack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
-- [Heny](https://heny.dev) [Full-Stack Developer | Mern | Next.Js]
+- [Heny](https://heny.dev) [Full Stack Developer | Mern | Next.Js]
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Hesbon Angwenyi](https://hezy.netlify.app) - Fullstack Developer | DevOps Engineer
-- [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Fullstack Developer | Web Developer]
-- [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Fullstack Developer]
+- [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
+- [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
-- [Hitesh Sahu](https://hiteshsahu.com) [Fullstack Developer | Frontend/Mobile | Backend | Cloud Infra]
+- [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
@@ -640,7 +637,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
 - [Iulian Rotaru](https://iulian.rotaru.fr)
-- [Iya Said Bah](https://www.iyabahsaid.site) [Fullstack(Nextjs) | Api Developer]
+- [Iya Said Bah](https://www.iyabahsaid.site) [Full Stack(Nextjs) | Api Developer]
 
 ## J
 
@@ -649,7 +646,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh B](https://jagadeeshftw.netlify.app)
 - [Jagannath P S](https://jagannathps.site) [Front End Developer]
-- [Jahidul Islam Jihad](https://jahiduljihad.netlify.app) [Full-Stack Developer]
+- [Jahidul Islam Jihad](https://jahiduljihad.netlify.app) [Full Stack Developer]
 - [Jahidul Islam](https://xahidex.com) [Digital Marketing & Seo Specialist]
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
@@ -667,9 +664,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jatin Kevlani](https://jatin-kevlani.vercel.app) [Full Stack Developer | AI/ML Enginner | IoT Engineer]
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app)
-- [Jatin](https://jating07925.vercel.app) [Fullstack Developer | .Net + React]
+- [Jatin](https://jating07925.vercel.app) [Full Stack Developer | .Net + React]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
-- [Jay Gaha](https://jaygaha.com.np) [Full-Stack Developer]
+- [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
 - [Jay Vegad](https://jayvegad.vercel.app)
 - [Jaya Vignesh](https://jayavignesh.dev) [Backend Developer]
@@ -688,23 +685,23 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jeremy Grifski](https://jeremygrifski.com)
 - [Jerin Bs](https://jerinbs.vercel.app)
 - [Jerry Hirsch](https://jerryhirsch.com)
-- [Jeslor Ssozi](https://www.jeslor.com) [Fullstack Engineer]
+- [Jeslor Ssozi](https://www.jeslor.com) [Full Stack Engineer]
 - [Jesus Santander](https://jsantanders.dev)
 - [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
-- [Jiru Gutema](https://jirugutema.vercel.app) [Fullstack Developer, Software Engineer, Backend Developer]
+- [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
 - [Jo Lienhoop](https://jolienhoop.com)
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Petalio](https://johnreypetalio.netlify.app)
 - [John Ryan Cottam](https://johnryancottam.com)
 - [Johnny Chai](https://johnnychai.com) [✨ Software Engineer]
-- [Johnny Dang](https://dnh2703.work) [Full-Stack Developer]
+- [Johnny Dang](https://dnh2703.work) [Full Stack Developer]
 - [Johnny Gérard](https://www.jgerard.dev) [Frontend Engineer]
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
-- [Jorge Cortés](https://jorgecortes.dev) [⚡ Fullstack Developer]
+- [Jorge Cortés](https://jorgecortes.dev) [⚡ Full Stack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
@@ -716,20 +713,20 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Judicaël Ahyi](https://judicael-ahyi.com)
 - [Julia Johnson](http://juliacodes.com)
 - [Julian Teofilov](https://julian-teofilov.vercel.app)
-- [Juon Kawakami (@Evesquare)](https://me.evesq.com) [Fullstack Developer | Ui/Ux Designer]
+- [Juon Kawakami (@Evesquare)](https://me.evesq.com) [Full Stack Developer | Ui/Ux Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
 ## K
 
 - [Kaiyu Hsu](https://kyh.io)
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
-- [Kalp Senghani](https://kalpsenghani.com) [👨🏼‍💻 Fullstack Developer || Ai Engineer]
+- [Kalp Senghani](https://kalpsenghani.com) [👨🏼‍💻 Full Stack Developer || Ai Engineer]
 - [Kamil Mazurek](https://kamilmazurek.pl)
-- [Kamran Mushtaq](https://kamipresents.com) [Fullstack Developer]
+- [Kamran Mushtaq](https://kamipresents.com) [Full Stack Developer]
 - [Karen Fletcher](https://knpfletcher.dev)
-- [Karrar Nazim](https://karrarnazim.space) [Full-Stack Web Developer]
+- [Karrar Nazim](https://karrarnazim.space) [Full Stack Web Developer]
 - [Karthik Menon](https://www.karthikmenon.com)
-- [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Fullstack Developer]
+- [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
 - [Kartik Jain](https://jkartik.in) [👨🏼‍💻 Backend Developer | 🛡️ Cybersecurity Enthusiast]
 - [Karunika](https://karunika.work)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) - `made with TechFolios`
@@ -738,7 +735,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
 - [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
 - [Kaustubhai](https://kaustubhai.netlify.app)
-- [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Fullstack Web Developer | Ui/Ux Designer]
+- [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Full Stack Web Developer | Ui/Ux Designer]
 - [Kavi Castelo Dev](https://kavicastelo-dev.netlify.app)
 - [Kavi Castelo](https://kavindukokila.netlify.app)
 - [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
@@ -766,7 +763,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Krishna Sathyamurthy - Pokédex Portfolio](https://krshsl.github.io)
 - [Krishnanand A](https://krishnananda.netlify.app)
-- [Krupal Fataniya](https://krupal.vercel.app) [Full-Stack Developer | Python, Django & React Specialist]
+- [Krupal Fataniya](https://krupal.vercel.app) [Full Stack Developer | Python, Django & React Specialist]
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
@@ -774,20 +771,20 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | Sde | Swe)](https://ikushdev.github.io)
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) ([@Kushwi15](https://github.com/kushwi15)) [Software Developer | Frontend Engineer | Mern Stack Developer]
-- [Kwameh Dhegbo](https://kwamehdhegbo.com) [@Kwamsd](https://github.com/kwamsd) [Fullstack Developper | Software Developer | Software Engineer | Student]
+- [Kwameh Dhegbo](https://kwamehdhegbo.com) [@Kwamsd](https://github.com/kwamsd) [Full Stack Developper | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson W](https://kyson.dev)
 - [Techfolios](https://techfolios.github.io)
 
 ## L
 
-- [Lai Huishan](https://shan-verse.com) [Fullstack Developer | Master Student]
+- [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Le Duong Hung Thinh](https://thinh.io.vn) [Front-End Engineer]
-- [Leandro "Qazuor" Asrilevich](https://qazuor.com) [Full-Stack Developer (Frontend-Focused)]
+- [Leandro "Qazuor" Asrilevich](https://qazuor.com) [Full Stack Developer (Frontend-Focused)]
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
@@ -825,7 +822,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Madza](https://www.madza.dev)
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
-- [Mahmoud Zalt](https://zalt.me) [Full-Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
+- [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
 - [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com)[Machine Learning Engineer]
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malay Patra](https://malaypatrav2.vercel.app) [Full Stack Developer ✨]
@@ -834,11 +831,11 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Manan Kanani (Full Stack Developer)](https://manankanani.in)
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
 - [Mandip Umretiya](https://mandipumretiya-portfolio.vercel.app) [Full Stack Developer]
-- [Manikanta Darapureddy💛](https://dmanikanta.site) [Ai Full-Stack Developer]
+- [Manikanta Darapureddy💛](https://dmanikanta.site) [Ai Full Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manish Tiwari](https://www.manishtiwari.dev)
-- [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full-Stack Developer | React | Spring Boot]
+- [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full Stack Developer | React | Spring Boot]
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
 - [Marc Backes](http://marc.dev)
@@ -853,7 +850,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Martin Barker](https://martinbarker.me)
-- [Martin Lefebvre](https://martinlefebvre.com) [Senior Full-Stack Developer | Tech Lead]
+- [Martin Lefebvre](https://martinlefebvre.com) [Senior Full Stack Developer | Tech Lead]
 - [Martin Tale](https://martintale.com) [Web, App, Game Developer]
 - [Masab Qurban](https://www.masabqurban.com) [Software Engineer | Full Stack Developer]
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
@@ -901,7 +898,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Migliorelli](https://migliorelli.dev)
 - [Miguel Rodriguez](https://migu.es)
-- [Mihir Das](https://getmihir.com) [Full-Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast]
+- [Mihir Das](https://getmihir.com) [Full Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast]
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app) [Front-End Developer]
 - [Minmitha A](https://minmitha.vercel.app)
@@ -923,7 +920,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
 - [Mohit Joe R.](https://mohitjoe.vercel.app)
 - [Mohit Paudyal](https://findmohit.netlify.app)
-- [Mohsin Raz](https://www.mohsinraz.me) [Fullstack Developer | Ai Automation]
+- [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
 - [Morelen Yim](https://morelenyim.com)
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
 - [Mouad Ziani](https://mouadziani.github.io)
@@ -945,7 +942,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mukul Chugh](https://mukulchugh.com)
 - [Mushfiqur Rahman](https://mushfiq.xyz)
 - [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
-- [Mustapha El Alamy](https://alamy.vercel.app) [Fullstack Software Engineer]
+- [Mustapha El Alamy](https://alamy.vercel.app) [Full Stack Software Engineer]
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
 
@@ -1055,12 +1052,12 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Philip Johnson](https://philipmjohnson.org)
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Phpxcoder](https://phpxcoder.in)
-- [Pierre Nel](https://pierre.io) [Full-Stack Developer | Ux/Ui Designer]
+- [Pierre Nel](https://pierre.io) [Full Stack Developer | Ux/Ui Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pol Gubau Amores](https://polgubau.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Prajwol Karki](https://prajwolkarki.com.np)
-- [Prakash Jha](https://prakashjha.com) [Full-Stack Dev.]
+- [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
@@ -1144,7 +1141,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
-- [Rizan Bhandari](https://acchyut.com.np) [Researcher & Fullstack Developer]
+- [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
@@ -1198,7 +1195,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
-- [Saiful Alom](https://saifulalom.com) [Fullstack Developer & Entrepreneur]
+- [Saiful Alom](https://saifulalom.com) [Full Stack Developer & Entrepreneur]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saikumar](https://saikumar.me) [Backend-Engineering | Developer]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
@@ -1216,7 +1213,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
-- [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full-Stack Developer]
+- [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full Stack Developer]
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
 - [Sankalp Tharu](https://sankalptharu.com.np)
@@ -1231,7 +1228,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sarvesh Patil](https://sarveshpatil.com)
 - [Saswata Dutta](https://saztech.org)
 - [Saswata Mondal](https://saswatamondal.me)
-- [Sathwik Yellapragada](https://www.sathwiky.dev) [Full-Stack Developer]
+- [Sathwik Yellapragada](https://www.sathwiky.dev) [Full Stack Developer]
 - [Satish Jhanwer](https://satishjhanwer.github.io)
 - [Satish Vaishnav](http://satishvaishnav.in)
 - [Satyam Gupta](https://imlolman.github.io) ([@Imlolman](https://github.com/imlolman))
@@ -1246,7 +1243,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
-- [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full-Stack Developer]
+- [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full Stack Developer]
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
 - [Schalk Venter](https://schalkventer.me)
 - [Schleidens Dev](https://schleidens.netlify.app)
@@ -1275,7 +1272,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Shaon An Nafi](https://shaonannafi.me) [ Software Engineer | Daffodil International University Bangladesh]
 - [Sharif Rahat](https://sharifrahat.com) [Full Stack Developer]
-- [Sharif](https://developersharif.github.io/me/) [Fullstack Engineer]
+- [Sharif](https://developersharif.github.io/me/) [Full Stack Engineer]
 - [Sharon Yi](https://sharon-yi.com) [Frontend Developer]
 - [Sharuk Sayyed](https://sayyed-sharuk-portfolio.vercel.app) [Frontend Developer]
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
@@ -1299,10 +1296,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
-- [Shubham Vandara](https://shubhamvandara.netlify.app) [Full-Stack Developer]
+- [Shubham Vandara](https://shubhamvandara.netlify.app) [Full Stack Developer]
 - [Shuvam Manna](http://shuvam.xyz)
-- [Sidar Adıgüzel](https://www.sidaradguzel.online) [Full-Stack Developer]
-- [Siddharth Chattoraj](https://siddharthchattoraj.com) [Full-Stack Developer | Production Designer]
+- [Sidar Adıgüzel](https://www.sidaradguzel.online) [Full Stack Developer]
+- [Siddharth Chattoraj](https://siddharthchattoraj.com) [Full Stack Developer | Production Designer]
 - [Siddharth Roy](https://siddharthroy.com)
 - [Siddharth](https://sudosidd.dev) [Game Developer]
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
@@ -1319,7 +1316,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Soumyajit Behera](https://soumyajit.vercel.app)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
-- [Sparsh Kamat](http://sparshkamat.me) [Full-Stack Web Developer]
+- [Sparsh Kamat](http://sparshkamat.me) [Full Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
 - [Sri Anjaneyam](https://srianjaneyam.me)
@@ -1351,7 +1348,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
-- [Taha Umar](https://tahaumar.site) [Full-Stack Developer]
+- [Taha Umar](https://tahaumar.site) [Full Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
@@ -1364,23 +1361,23 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
 - [Thekaushikgoswami](https://thekaushikgoswami.github.io)
-- [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full-Stack Developer]
+- [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
 - [Thibault Mathian](https://thibault.sh)
 - [Thinh Ngo](https://thinhcorner.com)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
-- [Tibor Ignéczi](https://igneczitibor.hu) [Full-Stack Developer]
+- [Tibor Ignéczi](https://igneczitibor.hu) [Full Stack Developer]
 - [Tien Truong (Mars Truong)](https://marstruong.com) [Flutter Developer |Software Developer]
 - [Tim Jones](https://timmoth.com)
-- [Tim Maes](https://www.tim-maes.com) [Full-Stack Developer]
+- [Tim Maes](https://www.tim-maes.com) [Full Stack Developer]
 - [Tim Stanton](https://www.tim-stanton.dev)
-- [Timmy O'Mahony](https://timmyomahony.com) [Full-Stack Developer]
+- [Timmy O'Mahony](https://timmyomahony.com) [Full Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
 - [Tj Klint](https://tjklint.github.io)
 - [Tomás Martinez](https://tomasmartinez.xyz)
-- [Tomáš Đinh](https://tomasdinh.cz) [Full-Stack Developer]
+- [Tomáš Đinh](https://tomasdinh.cz) [Full Stack Developer]
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
 - [Tristan Chin](https://www.chintristan.io)
@@ -1461,7 +1458,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## W
 
 - [Wajahat Ali Mir](https://mrwajahatalimir.odoo.com) [Native App Developer]
-- [Walkaisa](https://walkaisa.dev) [Full-Stack Web & App Developer]
+- [Walkaisa](https://walkaisa.dev) [Full Stack Web & App Developer]
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
@@ -1479,7 +1476,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## Y
 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
-- [Yaksh Devani](https://yakshdevani.framer.website) [Full-Stack Developer]
+- [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
@@ -1487,7 +1484,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yash Johri](https://yash1200.github.io)
 - [Yash Palav](https://yashpalav.vercel.app) [Full Stack Dev]
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
-- [Yassine Ben Zriouil](https://ybz.vercel.app) [Full-Stack-Dev]
+- [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
@@ -1496,10 +1493,10 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yog Prajapati](https://yog.zentor.site) [Ai Developer | Full Stack]
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
-- [Yogi Arif Widodo](https://yogiveloper.com) [Full-Stuck Software Engineer | Newbie Hacker]
+- [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
-- [Yubraj Khatri](https://www.yubrajkhatri.com.np) (FullStack/Ai Developer)
-- [Yuelin Liu](https://www.liuyuelin.dev) [Full-Stack Developer]
+- [Yubraj Khatri](https://www.yubrajkhatri.com.np) (Full Stack/Ai Developer)
+- [Yuelin Liu](https://www.liuyuelin.dev) [Full Stack Developer]
 - [Yuji Sato](https://yujisatojr.github.io/react-portfolio-template)
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
@@ -1509,7 +1506,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 - [Zachary J. Hamm](https://zacharyhamm.com)
 - [Zander Lewis](https://zanderlewis.dev)
-- [Zangwei Zheng](https://zangwei.dev) [Full-Stack Developer | Ai Researcher]
+- [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
 - [Zheng Robert](https://www.robert.hase-zheng.net)
 - [Zion Emond](https://zionemond.dev) [Software Engineer]
