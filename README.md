@@ -664,6 +664,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jann Chie](https://jannchie.com/en)
 - [Jason Cameron](https://jsn.cam) [[Repo](https://jsn.cam/repo)]
 - [Jatin Jha](https://jatin0jha.github.io)
+- [Jatin Kevlani](https://jatin-kevlani.vercel.app) [Full Stack Developer | AI/ML Enginner | IoT Engineer]
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app)
 - [Jatin](https://jating07925.vercel.app) [Fullstack Developer | .Net + React]
