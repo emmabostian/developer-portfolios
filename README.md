@@ -24,8 +24,9 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aro Aruvi](https://themukesh.com) [Full Stack Developer]
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
+- [🥈 Aro Aruvi](https://themukesh.com) [[💻⚡ Full Stack Developer | Web • Mobile • APIs]
+- [Akil Amit](https://themukesh.com) [Full Stack Developer]
 - [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
@@ -42,6 +43,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
 - [Aalim](https://zunedaalim.com) [Full-Stack Web Developer]
+- [Aaparth Sharma](https://parthsharma.me) [Full Stack & UI/UX designer • Founder @ Rune ]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full-Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
@@ -196,6 +198,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ankit Pakhale](https://ankitpakhale.netlify.app) [Senior Software Engineer | AI | Fullstack
   Developer]
 - [Ankush Minda](http://ankushminda.com)
+- [Anshul Chauhan](https://anshulchauhan.dev) [Full-Stack Developer | iOS-Style Portfolio]
 - [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
 - [Anshul Gora](https://anshulwork.netlify.app)
 - [Anshuman Jha](https://anshuman-jha.vercel.app)
@@ -260,6 +263,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
 - [Avnish Kumar](https://theavnishkumar.in) [Full Stack Developer]
 - [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
+- [Ayaan Ansari](https://me.aiyu.co.in/)
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
@@ -901,6 +905,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Minmitha A](https://minmitha.vercel.app)
 - [Missael Rangel](https://missaelr.com/en) [Frontend Developer | React/Typescript]
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
@@ -1401,7 +1406,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
-
+- [Vallarasu K](https://vallarasuk.com) [React, Next.js Full Stack Developer]
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
