@@ -24,6 +24,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Akil Amit](https://themukesh.com) [Full Stack Developer]
+- [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
@@ -32,10 +34,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [Ai/Ml Engineer]
 - [A Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
-- [Aaayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio]
 - [Aabar Khan](https://ceo.pronexus.in)
 - [Aabraham James](https://seera.framer.website)
-- [Aaditya Domle-2 📌](https://adittya.site) [Full-Stack Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full-Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
