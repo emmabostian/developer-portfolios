@@ -43,6 +43,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
 - [Aalim](https://zunedaalim.com) [Full-Stack Web Developer]
+- [Aaparth Sharma](https://parthsharma.me) [Full Stack & UI/UX designer • Founder @ Rune ]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full-Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
