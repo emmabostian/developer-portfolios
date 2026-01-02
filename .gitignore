@@ -168,4 +168,6 @@ tags
 # Ignore all local history of files
 .history
 
+README.md.bak
+
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
