@@ -25,6 +25,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Akil Amit](https://themukesh.com) [Full Stack Developer]
+- [Aaparth Sharma](https://parthh.in) [Full Stack Developer | 🎓 Founder @Rune]
 - [A Ahmed Rafi Riyaz](https://rafipatel.github.io/rafi/) [AI/ML Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
