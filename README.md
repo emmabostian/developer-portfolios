@@ -606,6 +606,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Damion](https://hugo-damion.me)
 - [Hugo Folloni](https://hugofolloni.com)
+- [Hugo Calmels](https://hugo-calmels.fr) [ Web Developper | React/Next.js/SpringBoot ]
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
