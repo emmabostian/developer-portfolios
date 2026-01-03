@@ -23,7 +23,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [Aro Aruvi](https://themukesh.com) [💻⚡ Full Stack Developer | Web • Mobile • APIs]
+- [A Aaabaa aysu](https://themukesh.com) [Full Stack Developer]
 - [A Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
@@ -127,7 +128,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
 - [Akhil Surapuram](https://surapuramakhil.github.io) [Sofware Engineer & Data Enthusiast]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
-- [Akil Amit](https://themukesh.com) [Full Stack Developer]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshat Kotpalliwar Alias Integeralex](https://realtalkportfolio.vercel.app) [Full Stack Developer | Old School Portfolio]
@@ -220,7 +220,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Arjad Gohar](https://arjad-portfolio.netlify.app) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Armel Munyaneza](https://munyaneza.vercel.app)
-- [Aro Aruvi](https://themukesh.com) [💻⚡ Full Stack Developer | Web • Mobile • APIs]
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
