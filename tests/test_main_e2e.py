@@ -9,12 +9,12 @@ class TestMainE2E(unittest.TestCase):
         orig = (
             "# Test README\n\n"
             "## A\n\n"
-            "- [Name ](http://example.com)\n"
-            "- [Name](http://example.com)\n"
+            "- [Name ](https://example.com)\n"
+            "- [Name](https://example.com)\n"
             "- [Same](https://example.com/path/)\n"
             "- [Same](https://example.com/path)\n"
-            "- [Other](http://other.com/)\n"
-            "- [Foo](http://foo.com) [Full-Stack]\n"
+            "- [Other](https://other.com/)\n"
+            "- [Foo](https://foo.com) [Full-Stack]\n"
         )
 
         with tempfile.TemporaryDirectory() as td:
@@ -54,4 +54,3 @@ class TestMainE2E(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-

@@ -5,7 +5,7 @@ from urllib.parse import urlparse, urlunparse
 
 def convert_to_title_case(readme_text):
     # Only title-case bracketed text that is immediately followed by '(' —
-    # this targets the link text portion in markdown like [Name](url)
+    # this targets the link text portion in Markdown like [Name](url)
     def _tc_match(m):
         inner = m.group(1)
         # Use a robust split that treats common whitespace (including NBSP) as separators
@@ -40,7 +40,7 @@ def find_duplicate_lines(lines, ignore_case=False, ignore_trailing_whitespace=Tr
     """Return a dict mapping a representative original line text -> list of 1-based line
     numbers where duplicates (by normalization) appear.
 
-    By default the normalization ignores trailing whitespace (so "foo\n" and
+    By default, the normalization ignores trailing whitespace (so "foo\n" and
     "foo " are treated as duplicates). Pure-empty lines are ignored. Matching is
     case-sensitive unless `ignore_case=True` is passed explicitly.
     """
@@ -74,7 +74,7 @@ def find_duplicate_lines(lines, ignore_case=False, ignore_trailing_whitespace=Tr
 def sort_lists_alphabetically(lines):
     header_pattern = re.compile(r"^##\s+([A-Z])")
     # Remove a trailing slash from captured http(s) URLs even when the slash is
-    # immediately followed by a closing parenthesis (e.g. markdown link) or
+    # immediately followed by a closing parenthesis (e.g. Markdown link) or
     # whitespace or end-of-line. Uses a lookahead so the ')' remains in the
     # surrounding text.
     http_pattern = re.compile(r"(http[s]?://[^\s/]+)/(?=[)\s]|$)")
@@ -150,7 +150,7 @@ def remove_duplicate_urls(lines):
     """
     Remove later occurrences of the same normalized URL across the entire document,
     keeping the first occurrence. Only considers the first parenthesized URL on a line
-    (typical markdown link). Returns (filtered_lines, removed_count).
+    (typical Markdown link). Returns (filtered_lines, removed_count).
     Non-markdown lines or lines without a parenthesized URL are preserved.
     """
     paren_re = re.compile(r"\(([^)]+)\)")
@@ -185,7 +185,7 @@ def remove_exact_duplicate_links(lines):
     removed = 0
     while i < len(lines):
         line = lines[i]
-        # By default keep the current line
+        # By default, keep the current line
         # If the next lines are duplicates (same bracket text and same normalized link),
         # skip all of them so only the first in the run is kept.
         j = i + 1
