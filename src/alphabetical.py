@@ -8,7 +8,22 @@ def convert_to_title_case(readme_text):
     # this targets the link text portion in markdown like [Name](url)
     def _tc_match(m):
         inner = m.group(1)
-        return f"[{inner.title()}]"
+        # Use a robust split that treats common whitespace (including NBSP) as separators
+        tokens = re.split(r"[\s\u00A0]+", inner)
+        cleaned_tokens = []
+        for t in tokens:
+            # strip common punctuation that may be attached to tokens
+            stripped = t.strip("()[]{}.,:;\"'`—–-")
+            if len(stripped) == 1 and re.fullmatch(r"[A-Za-z]", stripped):
+                # drop standalone single-letter tokens (e.g. 'A', 'B', 'x')
+                continue
+            cleaned_tokens.append(t)
+        if not cleaned_tokens:
+            # If removing single-letter tokens would leave the bracket empty,
+            # fall back to the original behavior (title-case the original text)
+            return f"[{inner.title()}]"
+        processed = " ".join(cleaned_tokens)
+        return f"[{processed.title()}]"
 
     # Use a lookahead to ensure we only match bracket text that precedes a (
     return re.sub(r"\[([^]]+)](?=\()", _tc_match, readme_text)
