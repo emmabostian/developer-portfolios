@@ -91,6 +91,62 @@ def sort_lists_alphabetically(lines):
     return sorted_lines, header_indices
 
 
+# Shared URL normalizer so multiple functions use the same rules for equivalence
+def _normalize_url(url: str) -> str:
+    """Normalize a URL for comparison:
+    - lowercase scheme and netloc
+    - remove default ports (:80, :443)
+    - strip a single trailing slash from the path
+    - preserve query/fragment
+    Returns a reconstructed URL string.
+    """
+    url = str(url)
+    try:
+        p = urlparse(url)
+    except Exception:
+        return str(url)
+
+    scheme = p.scheme.lower()
+    netloc = p.netloc.lower()
+    # remove default ports
+    if scheme == "http" and netloc.endswith(":80"):
+        netloc = netloc[: -3]
+    if scheme == "https" and netloc.endswith(":443"):
+        netloc = netloc[: -4]
+
+    # strip trailing slash from path
+    path = (p.path or '').rstrip('/')
+    # ensure all components are strings
+    params = p.params or ''
+    query = p.query or ''
+    fragment = p.fragment or ''
+    new = urlunparse((str(scheme), str(netloc), str(path), str(params), str(query), str(fragment)))
+    return str(new)
+
+
+def remove_duplicate_urls(lines):
+    """
+    Remove later occurrences of the same normalized URL across the entire document,
+    keeping the first occurrence. Only considers the first parenthesized URL on a line
+    (typical markdown link). Returns (filtered_lines, removed_count).
+    Non-markdown lines or lines without a parenthesized URL are preserved.
+    """
+    paren_re = re.compile(r"\(([^)]+)\)")
+    seen_urls = set()
+    out = []
+    removed = 0
+    for line in lines:
+        m = paren_re.search(line)
+        if m:
+            norm = _normalize_url(m.group(1))
+            if norm in seen_urls:
+                removed += 1
+                continue
+            seen_urls.add(norm)
+        out.append(line)
+    return out, removed
+
+
 def remove_exact_duplicate_links(lines):
     """
     Scan adjacent lines and remove the second line when both the [text] and (link)
@@ -101,38 +157,6 @@ def remove_exact_duplicate_links(lines):
     """
     bracket_re = re.compile(r"\[([^]]*?)]")
     paren_re = re.compile(r"\(([^)]+)\)")
-
-    def normalize_url(url: str) -> str:
-        """Normalize a URL for comparison:
-        - lowercase scheme and netloc
-        - remove default ports (:80, :443)
-        - strip a single trailing slash from the path
-        - preserve query/fragment
-        Returns a reconstructed URL string.
-        """
-        # ensure input is text and not bytes; return text on failure
-        url = str(url)
-        try:
-            p = urlparse(url)
-        except Exception:
-            return str(url)
-
-        scheme = p.scheme.lower()
-        netloc = p.netloc.lower()
-        # remove default ports
-        if scheme == "http" and netloc.endswith(":80"):
-            netloc = netloc[: -3]
-        if scheme == "https" and netloc.endswith(":443"):
-            netloc = netloc[: -4]
-
-        # strip trailing slash from path
-        path = (p.path or '').rstrip('/')
-        # ensure all components are strings
-        params = p.params or ''
-        query = p.query or ''
-        fragment = p.fragment or ''
-        new = urlunparse((str(scheme), str(netloc), str(path), str(params), str(query), str(fragment)))
-        return str(new)
 
     result = []
     i = 0
@@ -155,7 +179,7 @@ def remove_exact_duplicate_links(lines):
             if text1 != m1.group(1):
                 line = bracket_re.sub(f"[{text1}]", line, count=1)
             norm_text_1 = text1
-            norm_url_1 = normalize_url(p1.group(1))
+            norm_url_1 = _normalize_url(p1.group(1))
             # advance while the next line matches both bracket text and normalized link
             while j < len(lines):
                 next_line = lines[j]
@@ -164,7 +188,7 @@ def remove_exact_duplicate_links(lines):
                 if not (m2 and p2):
                     break
                 text2 = m2.group(1).rstrip()
-                url2 = normalize_url(p2.group(1))
+                url2 = _normalize_url(p2.group(1))
                 # exact match on the trimmed bracket text and normalized URL
                 if text2 == norm_text_1 and url2 == norm_url_1:
                     removed += 1
@@ -195,7 +219,8 @@ def main():
 
     # Trim trailing spaces inside any bracketed text (e.g. "[Name ]" -> "[Name]")
     bracket_trailing_space_re = re.compile(r"\[([^]]*?)\s+]")
-    trimmed_lines = [bracket_trailing_space_re.sub(r"[\\1]", line) for line in title_case_names]
+    # use a single backreference so the captured inner text replaces the group
+    trimmed_lines = [bracket_trailing_space_re.sub(r"[\1]", line) for line in title_case_names]
 
     # Normalize common spelling variants: convert any "Full-Stack" (any case) to "Full Stack"
     # but only inside bracketed descriptions that follow a link, e.g. '](url) [Full-Stack]'
@@ -214,13 +239,18 @@ def main():
     normalized_lines = [desc_bracket_re.sub(_norm_desc, line) for line in trimmed_lines]
     normalized_lines = [desc_paren_re.sub(_norm_desc, line) for line in normalized_lines]
 
+    # New: remove duplicate URLs across the document (keep first occurrence)
+    url_deduped_lines, url_removed = remove_duplicate_urls(normalized_lines)
+    if url_removed:
+        print(f"Removed {url_removed} duplicate URL line(s) from README.md (kept first occurrences).")
+
     # Auto-remove duplicates: ignore trailing whitespace but remain case-sensitive.
     # Keep the first occurrence of each (normalized) line. Pure-empty lines are preserved.
     seen = set()
     deduped_lines = []
     duplicates_removed = 0
 
-    for line in normalized_lines:
+    for line in url_deduped_lines:
         if line is None:
             deduped_lines.append(line)
             continue
