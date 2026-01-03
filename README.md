@@ -22,6 +22,8 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
+- [Aaa yush Bharti](https://aayushbharti.vercel.app) [🔥💻 Full-Stack Developer |  🧩 Freelancer]
 - [Aaa Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
