@@ -14,15 +14,22 @@ def convert_to_title_case(readme_text):
         for t in tokens:
             # strip common punctuation that may be attached to tokens
             stripped = t.strip("()[]{}.,:;\"'`—–-")
-            if len(stripped) == 1 and re.fullmatch(r"[A-Za-z]", stripped):
+            if stripped == "":
+                # nothing left after stripping punctuation
+                continue
+            # Option B: only remove 'Aaa' when it's a separate token (case-insensitive)
+            if stripped.lower() == "aaa":
+                # drop standalone 'Aaa' token
+                continue
+            if re.fullmatch(r"(?i)[A-Za-z]", stripped):
                 # drop standalone single-letter tokens (e.g. 'A', 'B', 'x')
                 continue
-            cleaned_tokens.append(t)
+            cleaned_tokens.append(stripped)
         if not cleaned_tokens:
             # If removing single-letter tokens would leave the bracket empty,
             # fall back to the original behavior (title-case the original text)
             return f"[{inner.title()}]"
-        processed = " ".join(cleaned_tokens)
+        processed = " ".join(cleaned_tokens).strip()
         return f"[{processed.title()}]"
 
     # Use a lookahead to ensure we only match bracket text that precedes a (
