@@ -224,7 +224,7 @@ def main():
 
     # Normalize common spelling variants: convert any "Full-Stack" (any case) to "Full Stack"
     # but only inside bracketed descriptions that follow a link, e.g. '](url) [Full-Stack]'
-    desc_bracket_re = re.compile(r"(\)\s*\[)([^]]*?)(\])")
+    desc_bracket_re = re.compile(r"(\)\s*\[)([^]]*?)(])")
     # also apply to parenthesized descriptions that follow a link, e.g. '](url) (FullStack)'
     desc_paren_re = re.compile(r"(\)\s*\()([^)]+?)(\))")
 
