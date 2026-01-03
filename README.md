@@ -23,7 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [A A Aayush Bharti](https://aayushbharti.in) [😎 Full-Stack Developer | 🎨 Creative Portfolio 🚀]
 - [A Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
 - [A Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [A Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
@@ -48,7 +48,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aathif Zahir](https://az-dev.vercel.app)
-- [Aayush Bharti](https://aayushbharti.in) [Full Stack Developer]
+- [Aayush Bharti](https://aayushbharti.in) [💻 Developer | 🌍 Freelancer | 🧩 Problem Solver]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abdelaziz El Arassi](http://aelarassi.com)
