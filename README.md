@@ -314,6 +314,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
+- [Bparth Sharma](https://wwwparthh.in) [Full Stack🧩 | UI/UX | 🎓 Founder @Rune]
 - [Brad Garropy](https://bradgarropy.com)
 - [Brad Myrick](https://kodr.pro) [Blockchain/Backend Engineer]
 - [Brady Macdonald](https://bradymacdonald.com) [Full Stack Developer]
