@@ -812,6 +812,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 ## M
 
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
+- [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io/) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
 - [Madhuravas](https://www.madhuravas.online) [Mern Stack Developer]
 - [Madhurima Rawat](https://madhurimarawat.github.io/Portfolio-Website) [Data Scientist & Frontend Developer]
