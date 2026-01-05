@@ -1155,6 +1155,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Sendziuk](https://portfolio-romsendz.vercel.app)
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
+- [Ronak Bokaria](https://ronakjain2012.netlify.app/)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Ruhban Abdullah](https://developerruhban.com)
 - [Rumman Srummanf](https://srummanf.vercel.app)
