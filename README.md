@@ -12,7 +12,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 Hopefully this repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1407
+## Current Portfolio Count: 1413
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -922,6 +922,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
 - [Mohit Joe](https://mohitjoe.vercel.app)
 - [Mohit Paudyal](https://findmohit.netlify.app)
+- [Mohit Shrivastava](https://iamohit.com) [Senior Full-Stack Engineer | Next.js Specialist]
 - [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
 - [Morelen Yim](https://morelenyim.com)
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
