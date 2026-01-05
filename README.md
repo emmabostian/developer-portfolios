@@ -240,6 +240,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
+- [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
 - [Atanas Atanasov](https://atanas.info)
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | Deveops]
