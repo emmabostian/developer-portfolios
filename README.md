@@ -269,7 +269,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 - [Dev Mir🔥](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
-- [Yush Bharti](https://aayushbharti.vercel.app) [🔥💻 Full Stack Developer |  🧩 Freelancer]
+- [Yush Bharti](https://aayushbharti.vercel.app) [🔥💻 Full Stack Developer | 🧩 Freelancer]
 
 ## B
 
@@ -1407,6 +1407,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
+
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
@@ -1447,6 +1448,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
+- [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app/) [Full Stack Engineer | AI Engineer]
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
 - [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel Ubuntu](http://vivek9patel.github.io)
