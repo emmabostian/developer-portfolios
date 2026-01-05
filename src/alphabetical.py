@@ -146,6 +146,190 @@ def _normalize_url(url: str) -> str:
     return str(new)
 
 
+# Define emoji ranges as integer codepoint intervals. We check characters
+# against these ranges with ord(), which avoids complex regex issues and is
+# portable across Python implementations.
+_EMOJI_RANGES = (
+    (0x1F300, 0x1F5FF),  # Misc Symbols and Pictographs
+    (0x1F600, 0x1F64F),  # Emoticons
+    (0x1F680, 0x1F6FF),  # Transport & Map
+    (0x1F700, 0x1F77F),  # Alchemical Symbols
+    (0x1F780, 0x1F7FF),  # Geometric Shapes Extended
+    (0x1F800, 0x1F8FF),  # Supplemental Arrows-C etc.
+    (0x1F900, 0x1F9FF),  # Supplemental Symbols and Pictographs
+    (0x1FA00, 0x1FA6F),  # Chess Symbols, Symbols and Pictographs
+    (0x1FA70, 0x1FAFF),  # Symbols and Pictographs Extended-A
+    (0x2600, 0x26FF),    # Misc symbols
+    (0x2700, 0x27BF),    # Dingbats
+    (0x24C2, 0x1F251),   # Enclosed characters (broad)
+)
+
+
+def _is_emoji_codepoint(cp: int) -> bool:
+    for start, end in _EMOJI_RANGES:
+        if start <= cp <= end:
+            return True
+    return False
+
+
+def has_emoji(text: str) -> bool:
+    """Return True if `text` contains any emoji-like character.
+
+    This implementation scans codepoints and returns True if any character
+    falls into one of the configured emoji ranges. It's conservative but
+    reliable without extra regex dependencies.
+    """
+    if not text:
+        return False
+    for ch in text:
+        if _is_emoji_codepoint(ord(ch)):
+            return True
+    return False
+
+
+def link_text_has_emoji(markdown_line: str) -> bool:
+    """Return True if the first Markdown bracketed link text in the line
+    contains an emoji.
+
+    Example: "- [Alice 😊](https://example.com)" -> True
+    """
+    if not markdown_line:
+        return False
+    m = re.search(r"\[([^]]+)\]", markdown_line)
+    if not m:
+        return False
+    return has_emoji(m.group(1))
+
+
+def emoji_adjacent_to_link(markdown_line: str) -> bool:
+    """Return True if there is an emoji inside a description immediately
+    following a link. Matches both bracketed and parenthesized descriptions
+    that directly follow a Markdown link, for example:
+      - [Foo](https://x) [Desc 😄]
+      - [Foo](https://x) (😄)
+
+    Only the description immediately after the first parenthesized URL is
+    checked.
+    """
+    if not markdown_line:
+        return False
+    # Find a link followed by a bracketed description: '](url) [desc]'
+    br_match = re.search(r"\]\s*\([^)]*\)\s*\[([^]]+)\]", markdown_line)
+    if br_match and has_emoji(br_match.group(1)):
+        return True
+    # Find a link followed by a parenthesized description: '](url) (desc)'
+    par_match = re.search(r"\]\s*\([^)]*\)\s*\(([^)]+)\)", markdown_line)
+    if par_match and has_emoji(par_match.group(1)):
+        return True
+    return False
+
+
+# New: functions to remove emoji from link text or adjacent descriptions
+def _remove_emoji_chars(s: str) -> (str, int):
+    """Return (new_string, removed_count) where emoji-like codepoints are removed from s."""
+    if not s:
+        return s, 0
+    out_chars = []
+    removed = 0
+    for ch in s:
+        if _is_emoji_codepoint(ord(ch)):
+            removed += 1
+            continue
+        out_chars.append(ch)
+    # Collapse any remaining runs of whitespace to a single space and strip
+    # leading/trailing space so removing an emoji doesn't leave an extra space
+    # inside bracketed text or descriptions. Preserve internal single spaces.
+    joined = ''.join(out_chars)
+    # replace any whitespace (space, NBSP, tabs, newlines) runs with single space
+    cleaned = re.sub(r"[\s\u00A0]+", " ", joined).strip()
+    return cleaned, removed
+
+
+def remove_emoji_from_lines(lines):
+    """Scan the given list of lines and remove emoji characters from:
+    - the bracketed link text (the [text] immediately followed by a parenthesis), and
+    - the immediate descriptions that follow a link, either bracketed or parenthesized
+      (e.g. '](url) [Desc 😄]' or '](url) (😄)').
+
+    Returns a tuple: (new_lines, removed_count) where removed_count is the total
+    number of emoji characters removed.
+    """
+    new_lines = []
+    total_removed = 0
+
+    # regex to find bracketed link text that is followed by '(' (typical Markdown link)
+    link_text_re = re.compile(r"\[([^]]+)\](?=\()")
+    # regex to find a link followed by either [desc] or (desc)
+    adj_desc_re = re.compile(r"\](\s*\([^)]*\)\s*)(?:\[([^]]*)\]|\(([^)]*)\))")
+
+    for line in lines:
+        modified_line = line
+        removed_this_line = 0
+
+        # 1) remove emoji from the first bracketed link text that precedes a '('
+        m = link_text_re.search(modified_line)
+        if m:
+            inner = m.group(1)
+            new_inner, removed = _remove_emoji_chars(inner)
+            if removed:
+                # replace only the first occurrence
+                modified_line = link_text_re.sub(f"[{new_inner}]", modified_line, count=1)
+                removed_this_line += removed
+
+        # 2) remove emoji from an adjacent description that immediately follows the first link
+        # Use a function to replace the captured description while preserving surrounding text
+        def _replace_adj(m):
+            nonlocal removed_this_line
+            sep = m.group(1)  # the intervening '(url)'-like section plus whitespace
+            bracket_desc = m.group(2)
+            paren_desc = m.group(3)
+            if bracket_desc is not None:
+                new_desc, removed = _remove_emoji_chars(bracket_desc)
+                removed_this_line += removed
+                return f"]{sep}[{new_desc}]"
+            if paren_desc is not None:
+                new_desc, removed = _remove_emoji_chars(paren_desc)
+                removed_this_line += removed
+                return f"]{sep}({new_desc})"
+            return m.group(0)
+
+        modified_line = adj_desc_re.sub(_replace_adj, modified_line, count=1)
+
+        total_removed += removed_this_line
+        new_lines.append(modified_line)
+
+    return new_lines, total_removed
+
+
+def remove_emoji_from_readme(dry_run=True, backup=True):
+    """Scan README.md and remove emojis from link text and adjacent descriptions.
+
+    Arguments:
+      dry_run (bool): if True, do not write changes, just return (removed_count, preview_lines)
+      backup (bool): if True and not dry_run, write README.md.bak with original content
+
+    Returns:
+      (removed_count, original_lines, new_lines) when dry_run True
+      (removed_count, None, new_lines) when dry_run False
+    """
+    path = "README.md"
+    with open(path, 'r', encoding='utf-8') as f:
+        orig_lines = f.readlines()
+
+    new_lines, removed = remove_emoji_from_lines(orig_lines)
+
+    if removed and not dry_run:
+        if backup:
+            with open(path + '.bak', 'w', encoding='utf-8') as b:
+                b.writelines(orig_lines)
+        with open(path, 'w', encoding='utf-8') as f:
+            f.writelines(new_lines)
+
+    if dry_run:
+        return removed, orig_lines, new_lines
+    return removed, None, new_lines
+
+
 def remove_duplicate_urls(lines):
     """
     Remove later occurrences of the same normalized URL across the entire document,
