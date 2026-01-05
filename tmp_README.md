@@ -1438,7 +1438,6 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
-- [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app/)[Full stack Engineer | AI Engineer]
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
 - [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel - Ubuntu](http://vivek9patel.github.io)
