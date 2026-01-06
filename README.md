@@ -4,13 +4,13 @@ A list of developer portfolios for your inspiration
 
 Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md) to this repo and
 
-This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
+This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 <a href="https://twitter.com/ASpittel/status/1171604728951779328">
 	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
 </a>
 
-Hopefully this repo can serve as a source of inspiration for your portfolio!
+This repo can serve as a source of inspiration for your portfolio!
 
 ## Current Portfolio Count: 1416
 
