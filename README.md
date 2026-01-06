@@ -23,6 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aaabaa Abdelmajid Nidnasser](https://nidnasser.me/) [Developer | Machine Learning Researcher | Freelancer | PhD]
 - [Aaabaa Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
 - [Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
