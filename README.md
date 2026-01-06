@@ -23,7 +23,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aaabaa Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
+- [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
 - [Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabab Toukoum](https://toukoum.fr) [Ai Engineer]
 - [Aaaban Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
