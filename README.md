@@ -1504,6 +1504,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
 - [Yuvin Raja](https://yuvinraja.vercel.app)
+- [Yaqoob Halepoto]([https://yuvinraja.vercel.app](https://yaqoobhalepoto.engineer/)) [Full Stack Developer]
 
 ## Z
 
