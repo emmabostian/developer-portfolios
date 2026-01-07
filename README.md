@@ -4,7 +4,7 @@ A list of developer portfolios for your inspiration
 
 Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md) to this repo and
 
-This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
+This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 <a href="https://twitter.com/ASpittel/status/1171604728951779328">
 	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
@@ -12,7 +12,7 @@ This repo was inspired by [Ali Spittel's](https://twitter.com/ASpittel) tweet
 
 This repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1416
+## Current Portfolio Count: 1419
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -93,7 +93,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
-- [Aditya Pillai] (https://aditya-pillai.vercel.app/) [Computer Science Undergraduate | SWE Intern]
+- [Aditya Pillai] (https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & Devops Architect]
@@ -1483,6 +1483,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
 - [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
+- [Yaqoob Halepoto]([Https://Yuvinraja.Vercel.App](https://yaqoobhalepoto.engineer)) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
@@ -1506,7 +1507,6 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Yuri Faria](https://windows87.github.io)
 - [Yusuf Yıldırım](https://www.yusufyildirim.dev)
 - [Yuvin Raja](https://yuvinraja.vercel.app)
-- [Yaqoob Halepoto]([https://yuvinraja.vercel.app](https://yaqoobhalepoto.engineer/)) [Full Stack Developer]
 
 ## Z
 
