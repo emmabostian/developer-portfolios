@@ -1149,6 +1149,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Roman Smunyov](https://romanisthere.github.io)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
 - [Ruhban Abdullah](https://developerruhban.com)
 - [Rumman - Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
