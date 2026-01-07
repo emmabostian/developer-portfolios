@@ -169,5 +169,6 @@ tags
 .history
 
 README.md.bak
+tmp_README.md
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
