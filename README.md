@@ -10,9 +10,9 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
 </a>
 
-Hopefully this repo can serve as a source of inspiration for your portfolio!
+This repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1416
+## Current Portfolio Count: 1419
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -93,6 +93,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
+- [Aditya Pillai] (https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & Devops Architect]
@@ -1158,6 +1159,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ronak Bokaria](https://ronakjain2012.netlify.app)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
 - [Ruhban Abdullah](https://developerruhban.com)
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
@@ -1481,6 +1483,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
 - [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
+- [Yaqoob Halepoto]([Https://Yuvinraja.Vercel.App](https://yaqoobhalepoto.engineer)) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
