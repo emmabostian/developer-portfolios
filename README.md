@@ -1170,6 +1170,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ryan Fitton](https://ryanfitton.co.uk)
 - [Ryan Maclean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
+- [Ruturaj Sharbidre](https://ruturajs.github.io/ruturaj-portfolio/)
 
 ## S
 
