@@ -1159,6 +1159,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ronak Bokaria](https://ronakjain2012.netlify.app)
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
+- [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
 - [Ruhban Abdullah](https://developerruhban.com)
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
