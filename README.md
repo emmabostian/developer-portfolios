@@ -23,7 +23,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aaabaa Ahmed](https://sawad.framer.website) [Software Engineer]
+- [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
