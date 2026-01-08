@@ -610,6 +610,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
+- [Hozaifa Ali]([https://hovanhoa.net](https://hozi-web3.site/)) [Software Engineer | Flutter Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Calmels](https://hugo-calmels.fr) [Web Developper | React/Next.js/SpringBoot]
