@@ -262,6 +262,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ayanabha Misra](https://ayanabha.life)
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
+- [Ayon Sarker](https://www.thenicedev.xyz)
 - [Ayoub Alahyane](https://aalahyan3.tech)
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
@@ -1228,6 +1229,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Sanyam Kumar](https://sanyam.dev)
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang](https://srng.dev)
+- [Sarker Ayon](https://www.thenicedev.xyz)
 - [Saroj Pradhan](https://pradhansaroj.com.np)
 - [Sarshij Karn](https://sarshijkarn.com.np) [Electronics,Communication & Information Engineer]
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev)
@@ -1363,6 +1365,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Tejas Kumar](http://tej.as)
 - [Tek Kshetri](http://tekkshetri.com.np)
 - [Tek Raj Joshi](https://t3kraj.netlify.app)
+- [The Nice Developer](https://www.thenicedev.xyz)
 - [Thea Choem](https://thea.juniorise.com)
 - [Thea Mushambadze](https://highflyer910.github.io)
 - [Thekaushikgoswami](https://thekaushikgoswami.github.io)
