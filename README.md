@@ -1397,6 +1397,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## U
 
+- [Ubeyidah](https://ubeyidah.tech)
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app)
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uday](https://portfoliov3-puce.vercel.app) [React, Typescript, Tailwindcss, Node.Js]
