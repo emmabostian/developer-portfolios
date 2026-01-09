@@ -381,8 +381,8 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Colin Lord](https://colinlord.com)
 - [Collins Koech](https://collinskoechportfolio.web.app)
 - [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app) [Front-End Developer]
-- [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full-Stack Engineer]
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
+- [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full-Stack Engineer]
 - [Cristian Barreiro](https://cristianbarreiro.github.io)
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
