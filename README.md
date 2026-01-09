@@ -1515,7 +1515,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ## Z
 
 - [Zachary Hamm](https://zacharyhamm.com)
-- [Zaid Rakhange](https://zaid.impiclabs.com) [GenAI Engineer | Founder @ImpicLabs]
+- [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
