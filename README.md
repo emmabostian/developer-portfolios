@@ -577,7 +577,6 @@ This repo can serve as a source of inspiration for your portfolio!
 ## H
 
 - [Hafid Ziti](https://www.hafidziti.dev)
-- [Haider Ali](http://haider-portfolio-dev.vercel.app) [Software Engineer & T3 Stack Developer]
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
@@ -628,9 +627,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
-- [Ike Ofoegbu](https://iodev.io)
 - [Ilija Korodić](https://ilijakorodic.netlify.app) [Frontend Developer]
-- [Ilke Ozsekerli](https://ilkeozs.info)
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
 - [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
 - [Indrajeet Nikam](https://indrajeet.me)
@@ -1491,7 +1488,6 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
 - [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
-- [Yaqoob Halepoto]([Https://Yuvinraja.Vercel.App](https://yaqoobhalepoto.engineer)) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
