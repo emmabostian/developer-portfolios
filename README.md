@@ -12,7 +12,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 This repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1422
+## Current Portfolio Count: 1426
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -275,12 +275,11 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Yush Bharti](https://aayushbharti.vercel.app) [Full Stack Developer | Freelancer]
 
 ## B
-- [Books Of World](https://books.themukesh.com)
 - [Badhon Ai](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Balkrishna](https://balkrishnabk.com.np)
-- [Bana Tawalbeh](https://rknastenka.com/) [Computer Engineer | Developer]
+- [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
 - [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Baris Taskiran](https://thebt.dev) [Full Stack Developer]
@@ -317,6 +316,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Boddapu Lokesh](https://boddapulokesh.github.io/portfolio) [Ai-Developer][India]
 - [Bohdan Khvorostovskyi](https://khvorostovskyi.com)
+- [Books Of World](https://books.themukesh.com)
 - [Boris Edison](https://borisedison.in)
 - [Bouwe Westerdijk](https://bouwe.io)
 - [Bparth Sharma](https://www.parthh.in) [Full Stack | UI/UX | Founder @Rune]
@@ -382,7 +382,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Collins Koech](https://collinskoechportfolio.web.app)
 - [Conor Crutchley](https://portfolio-for-conor-crutchley.vercel.app) [Front-End Developer]
 - [Constance Souville](https://constancesouville.com) [Frontend Developer]
-- [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full-Stack Engineer]
+- [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full Stack Engineer]
 - [Cristian Barreiro](https://cristianbarreiro.github.io)
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
@@ -612,7 +612,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
-- [Hozaifa Ali](https://hozi-web3.site/)) [Software Engineer | Flutter Developer]
+- [Hozaifa Ali](https://hozi-web3.site)) [Software Engineer | Flutter Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Calmels](https://hugo-calmels.fr) [Web Developper | React/Next.js/SpringBoot]
@@ -1166,12 +1166,12 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
+- [Ruturaj Sharbidre](https://ruturajs.github.io/ruturaj-portfolio/)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
 - [Ryan Fitton](https://ryanfitton.co.uk)
 - [Ryan Maclean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
-- [Ruturaj Sharbidre](https://ruturajs.github.io/ruturaj-portfolio/)
 
 ## S
 
