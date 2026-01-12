@@ -1314,6 +1314,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
 - [Sina Shahoveisi](https://sinasho.ir) [Software Engineer]
+- [Siva Vignesh](https://siva-vignesh.github.io/portfolio)
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev) ([@Sinashahoveisi](https://github.com/sinashahoveisi))
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Slimaeus](https://slimaeus.github.io) [.Net Developer]
