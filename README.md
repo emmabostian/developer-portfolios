@@ -1172,6 +1172,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
 - [Ruturaj Sharbidre](https://ruturajs.github.io/ruturaj-portfolio/)
+- [Ryan Aguiar](https://my-portfolio-rho-indol-29.vercel.app/)
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
 - [Ryan Fitton](https://ryanfitton.co.uk)
