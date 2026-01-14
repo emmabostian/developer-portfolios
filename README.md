@@ -22,7 +22,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
+- [Afaq Awan](https://afaq35202.github.io/) [Mobile App Developer]
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
