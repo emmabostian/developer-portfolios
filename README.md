@@ -22,6 +22,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
@@ -276,6 +277,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Yush Bharti](https://aayushbharti.vercel.app) [Full Stack Developer | Freelancer]
 
 ## B
+
 - [Badhon Ai](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
@@ -820,6 +822,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
+
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
@@ -969,6 +972,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-End Developer | Design Technologist | Ui/Ux Engineer]
 - [Nathan Simpson](https://nathansimpson.design)
 - [Naveed Ahmed](https://www.trixum.net)
+- [Naveed Sohail Gung](https://naveed-gung.dev/) [Software Engineer]
 - [Nayan Radadiya](https://nayan-raddiya.netlify.app) [Front-End Developer | Front-End Focus Full Stack]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
@@ -1426,6 +1430,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
+
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
 - [Vaibhav Prajapat](https://vai-portfolio.netlify.app)
