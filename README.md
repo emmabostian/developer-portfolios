@@ -224,6 +224,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio)
+- [Arthur Rasera](https://raseraa0.github.io/) [Software Engineer]
 - [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
