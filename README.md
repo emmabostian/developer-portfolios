@@ -543,6 +543,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## G
 
+- [GAURAV RATHVA](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
 - [Gabriel Carvalho](https://gabrielcarvalho.vercel.app) ([@Cttbiel](https://github.com/cttbiel))
   [👨🏽‍💻 Computer Engineering Student]
 - [Gabriel Jordan](https://jrdan.dev) [Software Engineer]
