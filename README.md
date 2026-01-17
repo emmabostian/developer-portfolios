@@ -490,6 +490,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
 - [Elango](https://elangodev.com)
 - [Electric Magic Factory](https://electricmagicfactory.com/en)
+- [Elgratio F C](https://elgratiofc.vercel.app) [Full Stack Developer]
 - [Eliah Hango](https://www.elitechwiz.site) [Full Stack Developer| Cyber Security Expert & Civil Engineer]
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
