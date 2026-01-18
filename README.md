@@ -261,7 +261,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
 - [Avinash](https://avinash-portfolio-v3.web.app) [Web Dev And Ai Engg.]
-- [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer)
+- [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer]
 - [Avnish Kumar](https://theavnishkumar.in) [Full Stack Developer]
 - [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
 - [Ayaan Ansari](https://me.aiyu.co.in)
@@ -292,7 +292,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Baris Taskiran](https://thebt.dev) [Full Stack Developer]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
 - [Baymax](https://www.sitaramoli.com.np)
-- [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer)
+- [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
 - [Becca Bailey](http://Becca.is)
 - [Bejagam Nithilesh](https://nithilesh.vercel.app)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
@@ -627,7 +627,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
-- [Hozaifa Ali](https://hozi-web3.site)) [Software Engineer | Flutter Developer]
+- [Hozaifa Ali](https://hozi-web3.site) [Software Engineer | Flutter Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
 - [Hubert Kimani](https://hubertkimani.me)
 - [Hugo Calmels](https://hugo-calmels.fr) [Web Developper | React/Next.js/SpringBoot]
@@ -1547,7 +1547,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
-- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Export Flutter Developer & FlutterFlow
+- [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Expert Flutter Developer & FlutterFlow]
 - [Zheng Robert](https://www.robert.hase-zheng.net)
 - [Zion Emond](https://zionemond.dev) [Software Engineer]
 - [Ziyad](https://ziyadsk.github.io/portfolio-V2)
