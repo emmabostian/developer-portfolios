@@ -435,6 +435,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Delba](https://delba.dev)
 - [Delwer Hossain](https://delwer.live)
 - [Demon142](https://demon142.net)
+- [Denil Dominic](https://portfolio.denil-dominic.com/)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Jadiya](https://dev-jadiya.web.app)
