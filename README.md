@@ -52,11 +52,11 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
-- [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer
+- [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
-- [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai / Full Stack Developer]
+- [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai | Full Stack Developer]
 - [Abdullah Waheed](https://abdullahw-portfolio.vercel.app) [Front-End Developer]
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
@@ -79,7 +79,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
-- [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer |
+- [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer]
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Williams](https://adjwilli.github.io)
 - [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
