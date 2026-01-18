@@ -24,6 +24,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ## A
 
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
+- [Aryan Hooda](https://personal-portfolio-gamma-gold-55.vercel.app/) [Full Stack Web Developer]
 - [Aaaby Alik](https://aaaby-code.github.io/portfolio/) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
