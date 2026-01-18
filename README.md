@@ -1142,6 +1142,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Raymond Valencia](https://paolo1231.github.io)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev)
 - [Razin Rayees](https://www.razinrayees.com)
+- [Redoyanul Haque](https://www.redoyanulhaque.me/) [AI Engineer | Fullstack Developer | Python Programmer]
 - [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
 - [Reeya Gupta](https://reeyadev.vercel.app) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
