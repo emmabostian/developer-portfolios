@@ -49,6 +49,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Jaber](https://aj7.is-a.dev)
+- [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer
