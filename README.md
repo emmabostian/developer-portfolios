@@ -1197,6 +1197,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Saad](https://saadarqam.vercel.app)
 - [Saahil](https://saahild.com)
 - [Saaketh Jella](https://www.saakethj.in) [Associate Software Engineer]
+- [Saavan Gajjar](https://www.saavangajjardev.in) [Software Engineer | Full-Stack]
 - [Sabarish](https://www.sabarish.in)
 - [Sabbir Ahmed Shawon](https://sabbirshawon.com) [Full Stack Software Developer]
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
