@@ -538,6 +538,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
 - [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
+- [Franco Ruiz](https://francoruiz.dev/) [Staff Frontend Engineer]
 - [Franklin Castellanos](https://onecastell.github.io)
 - [Franklin Huichi Contreras](https://franh20.github.io)
 - [Franklin Ohaegbulam](https://frankiefab.netlify.app)
