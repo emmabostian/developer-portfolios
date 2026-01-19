@@ -1192,6 +1192,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ## S
 
 - [Saad](https://saadarqam.vercel.app)
+- [Saad](https://iamsaadmehmood.com) [Full Stack Software Developer]
 - [Saahil](https://saahild.com)
 - [Saaketh Jella](https://www.saakethj.in) [Associate Software Engineer]
 - [Saavan Gajjar](https://www.saavangajjardev.in) [Software Engineer | Full Stack]
