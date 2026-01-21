@@ -22,11 +22,11 @@ This repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaby Alik](https://aaaby-code.github.io/portfolio/) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
+- [Adina Hawaldar](https://www.adinaa.me/) [Web Designer & Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
