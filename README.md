@@ -1296,7 +1296,6 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
-- [Shaik Raiyan](https://shaik-raiyan.vercel.app) [Fabric Data Engineer | Full Stack Developer]
 - [Shailendra Singh](https://singhshailendra.in)
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
