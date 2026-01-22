@@ -1468,6 +1468,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
+- [Vinay Patle] (https://vinaypatle.netlify.app/) [FrontEnd Developer]
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
