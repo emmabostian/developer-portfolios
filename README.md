@@ -46,9 +46,9 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aayush Bharti](https://aayushbharti.in) [Developer | Freelancer | Problem Solver]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
 - [Aayush Sood](https://www.aayushsood.com)
-- [Abdur Rahman](https://itsmeabdur.in) [Full-stack developer]
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
+- [Abdur Rahman](https://itsmeabdur.in) [Full-stack developer]
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
 - [Abdul Rahman](https://abdulrahman.id)
