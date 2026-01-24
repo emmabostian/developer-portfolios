@@ -12,7 +12,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 This repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1442
+## Current Portfolio Count: 1443
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1514,6 +1514,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ## Y
 
 - [Yadunand Kamath](https://yadunand-kamath.github.io/portfolio) [C++ Developer]
+- [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
 - [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
 - [Yamin Hossain](https://yamins-portfolio.vercel.app) [Fresher Data Scientist]
 - [Yared Tekileselassie](https://yared.vercel.app)
