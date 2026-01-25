@@ -324,6 +324,7 @@ This repo can serve as a source of inspiration for your portfolio!
   Extension]
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
+- [Blake Karbon](https://balakekarbon.github.io/) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full-Stack Developer] ([Written in 100% COBOL](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bluezly](https://www.bluezly.exid.me)
 - [Bob Matyas](https://www.bobmatyas.com)
