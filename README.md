@@ -648,6 +648,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ilija Korodić](https://ilijakorodic.netlify.app) [Frontend Developer]
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
+- [Ilya Glebov](https://ilyaglebov.dev) [Software Engineer | Tech Lead]
 - [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
