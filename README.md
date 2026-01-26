@@ -1507,7 +1507,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
-- [Wilson Costa](https://wilsoncosta-portfolio.onrender.com) [Backend Engineer | Full-Stack Developer]
+- [Wilson Costa](https://wilsoncosta-portfolio.vercel.app) [Backend Engineer | Full-Stack Developer]
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wilson Toribio](https://wt-portafolio.vercel.app)
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
