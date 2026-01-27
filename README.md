@@ -85,6 +85,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abu Suhaib](https://ceo.pronexus.in) [Leadnig Startup Founder]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer]
+- [Adarsh kumar](https://portfolio-e7gt.onrender.com/) [Full Stack Developer | Software Developer]
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Williams](https://adjwilli.github.io)
 - [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
