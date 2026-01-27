@@ -1,4 +1,5 @@
 import re
+import json
 from collections import defaultdict
 from urllib.parse import urlparse, urlunparse
 
@@ -407,6 +408,60 @@ def remove_exact_duplicate_links(lines):
     return result, removed
 
 
+def extract_portfolio_data(lines):
+    """
+    Extract portfolio data from README lines.
+    Returns a list of dictionaries with name, url, and optional tagline.
+
+    Format expected:
+    - [Name](url)
+    - [Name](url) [tagline]
+    """
+    portfolios = []
+    # Regex to match markdown links with optional tagline
+    # Pattern: - [name](url) optional[tagline]
+    pattern = re.compile(r'^-\s+\[([^\]]+)\]\(([^)]+)\)(?:\s+\[([^\]]*)\])?')
+
+    for line in lines:
+        match = pattern.match(line.strip())
+        if match:
+            name = match.group(1).strip()
+            url = match.group(2).strip()
+            tagline = match.group(3).strip() if match.group(3) else None
+
+            portfolio_entry = {
+                "name": name,
+                "url": url
+            }
+
+            if tagline:
+                portfolio_entry["tagline"] = tagline
+
+            portfolios.append(portfolio_entry)
+
+    return portfolios
+
+
+def create_feed_json(readme_path="README.md", output_path="feed.json"):
+    """
+    Read README.md and create/update feed.json with portfolio data.
+    Returns the number of portfolios extracted.
+    """
+    try:
+        with open(readme_path, 'r', encoding='utf-8') as f:
+            lines = f.readlines()
+
+        portfolios = extract_portfolio_data(lines)
+
+        with open(output_path, 'w', encoding='utf-8') as f:
+            json.dump(portfolios, f, indent=2, ensure_ascii=False)
+
+        return len(portfolios)
+    except Exception as e:
+        print(f"Error creating feed.json: {e}")
+        return 0
+
+
 def main():
     # Open with explicit utf-8
     with open("README.md", "r", encoding="utf-8") as file:
@@ -487,6 +542,11 @@ def main():
     # Write back using utf-8 as well
     with open("README.md", "w", encoding="utf-8") as file:
         file.writelines(final_lines)
+
+    # Create/update feed.json with portfolio data
+    portfolio_count = create_feed_json()
+    if portfolio_count:
+        print(f"Created feed.json with {portfolio_count} portfolio entries.")
 
 
 if __name__ == "__main__":
