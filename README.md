@@ -442,6 +442,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Deepak Chawla](https://deepak-chawla.com)
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Delba](https://delba.dev)
+- [Delvin Khor](https://delvin.portfolio-me.bio)
 - [Delwer Hossain](https://delwer.live)
 - [Demon142](https://demon142.net)
 - [Denil Dominic](https://portfolio.denil-dominic.com)
