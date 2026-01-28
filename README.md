@@ -765,6 +765,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
 - [Kaustubhai](https://kaustubhai.netlify.app)
 - [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Full Stack Web Developer | Ui/Ux Designer]
+- [Kaveen Kumarasinghe](https://kaveenk.com) [Software Engineer | Money Movement & AI]
 - [Kavi Castelo Dev](https://kavicastelo-dev.netlify.app)
 - [Kavi Castelo](https://kavindukokila.netlify.app)
 - [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
