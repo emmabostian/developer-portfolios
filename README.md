@@ -224,7 +224,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
 - [Asad Saeed](https://asad-saeed-portfolio.vercel.app) [Full Stack Developer]
-- [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
+- [Asad Shah](https://www.asadshah.site) [Web Application Developer]
 - [Asamit](https://asamitportfolio.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX
   Designer || Full Stack Developer]
