@@ -22,9 +22,9 @@ This repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
-- - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
+- [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer | Frontend Developer]
+- [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
-- [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaby Alik](https://toukoum.fr) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
