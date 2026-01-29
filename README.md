@@ -819,6 +819,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Leandro Simões](https://lesimoes.dev)
 - [Lee Robinson](https://leerob.io)
 - [Lee Warrick](http://leewarrick.com)
+- [Leo Ashcraft](https://leoashcraft.com) [Full Stack Software Developer | PHP, React, Astro]
 - [Leon Heuer](https://heuer.ovh)
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Leonel Ngoya](https://lndev.me)
