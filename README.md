@@ -745,6 +745,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Julian Teofilov](https://julian-teofilov.vercel.app)
 - [Juon Kawakami @Evesquare](https://me.evesq.com) [Full Stack Developer | Ui/Ux Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
+- [John Kimeu] (https://kimeu-johnn.vercel.app/) [Front-End Developer & Creative]
 
 ## K
 
