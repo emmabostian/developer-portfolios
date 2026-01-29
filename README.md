@@ -295,7 +295,8 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Balkrishna](https://balkrishnabk.com.np)
 - [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
-- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer] -[Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
+- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
+- [Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Baris Taskiran](https://thebt.dev) [Full Stack Developer]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
