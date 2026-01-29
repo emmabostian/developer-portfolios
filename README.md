@@ -22,6 +22,7 @@ This repo can serve as a source of inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer | Frontend Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
@@ -294,8 +295,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
 - [Balkrishna](https://balkrishnabk.com.np)
 - [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
-- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
--[Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
+- [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer] -[Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Baris Taskiran](https://thebt.dev) [Full Stack Developer]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
@@ -942,6 +942,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
 - [Mohammad Araf](https://araf-portfolio.vercel.app) [Software Developer]
+- [Mohammad Gauhar](https://www.iamgauhar.in/) [Full-Stack Engineer | Next.js & MERN]
 - [Mohammad Goli Khatir](https://github.com/mgolikhatir) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Rahmani](https://afgprogrammer.com)
