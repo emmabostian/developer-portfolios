@@ -1017,7 +1017,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Nikhila Koneru](https://nikhilakoneru.com) [Full Stack Developer | Devops Engineer]
 - [Nikita Sobolev](https://sobolevn.me)
 - [Niko Soriano](https://n-cv.vercel.app)
-- [Nilambar Sonu](https://nilambar-sonu-portfolio.vercel.app) [Data Scientist | Founder And Developer Of Mitti-Ai]
+- [Nilambar Sonu](https://nilambarsonu-portfolio.vercel.app) [Data Scientist | Founder And Developer Of Mitti-Ai(Saathiai.org)]
 - [Nilesh Kumar](https://nileshkumar.vercel.app)
 - [Nilesh Prajapat](https://itsnilesh.vercel.app) [App Developer]
 - [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
