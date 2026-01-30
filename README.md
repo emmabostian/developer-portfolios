@@ -167,6 +167,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Amine Rebbouh](https://main.dodjas56cfa3.amplifyapp.com)
 - [Amir Akbulut](https://amirdev.nl)
 - [Amirali Rashidi](https://amiralirashidi.github.io) [Front-End Developer]
+- [Amit Dubey](https://amitdubey.cloud) [Frontend Developer | Angular Expert]
 - [Amit Sah](https://amit-sah.com.np) [Ios Developer | Backend Engineer (Node.Js, Llms) | Cloud Computing]
 - [Amoda Fernando](https://www.fernand3z.dev)
 - [Amr El-Dhshan](https://amr-khaled-ahmed.github.io/Portfolio) [Cybersecurity Student At The Faculty Of Computers And Artificial Intelligence, Cairo University]
