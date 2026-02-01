@@ -944,6 +944,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Missael Rangel](https://missaelr.com/en) [Frontend Developer | React/Typescript]
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
+- [Mohammad Siddique Sakib](https://ssakib-portfolio.vercel.app/) [ Frontend Developer | React, Nextjs, TypeScript ]
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
 - [Mohammad Araf](https://araf-portfolio.vercel.app) [Software Developer]
