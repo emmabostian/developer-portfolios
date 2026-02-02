@@ -55,6 +55,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
 - [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
 - [Abdul Rahman](https://abdulrahman.id)
+- [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Fullstack Developer | 3D Web Specialist]
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
