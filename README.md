@@ -53,7 +53,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
-- [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
+- [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Fullstack Developer | 3D Web Specialist]
 - [Abdul Rauf](https://armujahid.me)
