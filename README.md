@@ -51,13 +51,13 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
-- [Abdul Samad](https://samadd.vercel.app/) [Software Developer]
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
 - [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Full Stack Developer | 3D Web Specialist]
+- [Abdul Samad](https://samadd.vercel.app/) [Software Developer]
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
