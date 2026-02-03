@@ -302,6 +302,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Baris Taskiran](https://thebt.dev) [Full Stack Developer]
+- [Barthélémy POUSSET](https://barthelemypousset.com) [Full Stack Developer | Devops]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
