@@ -1095,6 +1095,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Pavan Srivatsav Valluru](https://pavansrivatsav-portfolio.vercel.app) [Full Stack Developer]
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
+- [Peter Steinberger](https://steipete.me/) (Creator of [OpenClaw](https://openclaw.ai/))
 - [Philip Johnson](https://philipmjohnson.org)
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Phpxcoder](https://phpxcoder.in)
