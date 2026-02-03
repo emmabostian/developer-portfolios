@@ -23,9 +23,10 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
-- [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
+- [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer | Frontend Developer]
-- [Aaaby Alik](https://toukoum.fr) [AI Engineer]
+- [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
+- [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
