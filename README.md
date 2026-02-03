@@ -23,8 +23,8 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## A
 
+- [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
-- [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer | Frontend Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
