@@ -53,8 +53,9 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
-- [Abdul Quddus](https://qudduslarek.vercel.app) [Typescript Developer | Full Stack Engineer]
+- [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
 - [Abdul Rahman](https://abdulrahman.id)
+- [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Fullstack Developer | 3D Web Specialist]
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
@@ -1569,6 +1570,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
+- [Zaryab Mahmood](https://zubbihawk.netlify.app/) [Full Stack Developer]
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Expert Flutter Developer & FlutterFlow]
 - [Zheng Robert](https://www.robert.hase-zheng.net)
 - [Zion Emond](https://zionemond.dev) [Software Engineer]
