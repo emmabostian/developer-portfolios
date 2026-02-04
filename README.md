@@ -1443,7 +1443,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Ahuja](https://tusharahuja.me) [Full Stack Developer]
-- [Tushar Kanjariya](https://tusharkanjariya.me)
+- [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
