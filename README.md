@@ -806,6 +806,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
 - [Kuchizu](https://kuchizu.com) [Devops Engineer]
+- [Kuldeepsinh Jadeja](https://kuldeepjadeja.dev/) [Full Stack Developer | MERN Stack]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
 - [Kushan Devarajegowda Software Developer | Software Engineer | Sde | Swe](https://ikushdev.github.io)
