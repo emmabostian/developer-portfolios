@@ -57,6 +57,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
 - [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Full Stack Developer | 3D Web Specialist]
+- [Abdul Samad](https://samadd.vercel.app/) [Software Developer]
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
