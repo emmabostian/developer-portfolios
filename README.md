@@ -995,7 +995,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Mustapha El Alamy](https://alamy.vercel.app) [Full Stack Software Engineer]
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
-- [Muzammal Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Full Stack Web Developer | JavaScript, React, Node.js]
+- [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 
 ## N
 
