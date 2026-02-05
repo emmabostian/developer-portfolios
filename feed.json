@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aaaaby Alik",
+    "url": "https://toukoum.fr",
+    "tagline": "AI Sofware Engineer"
+  },
+  {
     "name": "Aaababhy Redoyanul Haque",
     "url": "https://www.redoyanulhaque.me",
     "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
@@ -7,12 +12,7 @@
   {
     "name": "Aaabad Ahmed",
     "url": "https://sawad.framer.website",
-    "tagline": "Software Engineer | Frontend Developer"
-  },
-  {
-    "name": "Aaaby Alik",
-    "url": "https://toukoum.fr",
-    "tagline": "AI Engineer"
+    "tagline": "Software Engineer"
   },
   {
     "name": "Aabraham James",
@@ -149,6 +149,11 @@
     "name": "Abdul Rehman Waseem",
     "url": "https://abdulrehmanwaseem.me",
     "tagline": "Full Stack Developer | 3D Web Specialist"
+  },
+  {
+    "name": "Abdul Samad",
+    "url": "https://samadd.vercel.app",
+    "tagline": "Software Developer"
   },
   {
     "name": "Abdul Wahab Khan",
@@ -1216,9 +1221,9 @@
     "url": "https://baptistemiramont.fr"
   },
   {
-    "name": "Baris Taskiran",
-    "url": "https://thebt.dev",
-    "tagline": "Full Stack Developer"
+    "name": "Barthélémy Pousset",
+    "url": "https://barthelemypousset.com",
+    "tagline": "Full Stack Developer | Devops"
   },
   {
     "name": "Batuhan Eroğlu",
@@ -2173,6 +2178,11 @@
     "url": "https://ezekielekunola.com"
   },
   {
+    "name": "Fabien Laurence",
+    "url": "https://fabienlaurence.com",
+    "tagline": "Full Stack Developer | TypeScript / Python / C#"
+  },
+  {
     "name": "Fabio Junior Raminhuk",
     "url": "https://fabra.dev"
   },
@@ -2645,11 +2655,6 @@
     "url": "https://www.ibrahimhizlioglu.com"
   },
   {
-    "name": "Ilija Korodić",
-    "url": "https://ilijakorodic.netlify.app",
-    "tagline": "Frontend Developer"
-  },
-  {
     "name": "Ilya Dyomin",
     "url": "https://sskd.tech",
     "tagline": "Front-End Developer"
@@ -2731,11 +2736,6 @@
   {
     "name": "Jagadeesh",
     "url": "https://jagadeeshftw.netlify.app"
-  },
-  {
-    "name": "Jagannath",
-    "url": "https://jagannathps.site",
-    "tagline": "Front End Developer"
   },
   {
     "name": "Jahidul Islam Jihad",
@@ -3268,6 +3268,11 @@
     "name": "Kuchizu",
     "url": "https://kuchizu.com",
     "tagline": "Devops Engineer"
+  },
+  {
+    "name": "Kuldeepsinh Jadeja",
+    "url": "https://kuldeepjadeja.dev",
+    "tagline": "Full Stack Developer | MERN Stack"
   },
   {
     "name": "Kunal Passan",
@@ -3899,10 +3904,6 @@
     "tagline": ".Net Full Stack Developer | Software Engineer"
   },
   {
-    "name": "Mohammed Hesham Farhan",
-    "url": "https://mohammedfarhan.me"
-  },
-  {
     "name": "Mohammed Ibrahim Islam",
     "url": "https://macromanager.dev"
   },
@@ -4056,9 +4057,9 @@
     "url": "https://mkdir.dev"
   },
   {
-    "name": "Muzammal Khalil",
+    "name": "Muzammil Khalil",
     "url": "https://muzammalkhalil.github.io/My-personal-Portfolio/",
-    "tagline": "Full Stack Web Developer | JavaScript, React, Node.js"
+    "tagline": "Wordpress Dev"
   },
   {
     "name": "Nabin Khair",
@@ -4460,6 +4461,10 @@
     "url": "https://pazindushane.github.io"
   },
   {
+    "name": "Peter Steinberger",
+    "url": "https://steipete.me"
+  },
+  {
     "name": "Philip Johnson",
     "url": "https://philipmjohnson.org"
   },
@@ -4627,6 +4632,10 @@
   {
     "name": "Ragav",
     "url": "https://ragavs-profile.netlify.app"
+  },
+  {
+    "name": "Rahul Gope",
+    "url": "https://portfolio-2-two-ebon.vercel.app"
   },
   {
     "name": "Rahul Gulabaji",
@@ -5086,11 +5095,6 @@
     "url": "https://www.saikiransomanagoudar.com"
   },
   {
-    "name": "Saikumar",
-    "url": "https://saikumar.me",
-    "tagline": "Backend-Engineering | Developer"
-  },
-  {
     "name": "Saim Shafique",
     "url": "https://saimshafique.com",
     "tagline": "Frontend Developer"
@@ -5208,10 +5212,6 @@
   {
     "name": "Sartaj Alam",
     "url": "https://sak03.github.io/sartaj.dev"
-  },
-  {
-    "name": "Sarvesh Patil",
-    "url": "https://sarveshpatil.com"
   },
   {
     "name": "Saswata Dutta",
@@ -5814,6 +5814,10 @@
     "url": "https://thomas-david-portfolio.netlify.app"
   },
   {
+    "name": "Thomas Havlik",
+    "url": "https://thavlik.dev"
+  },
+  {
     "name": "Tiago Hermano",
     "url": "https://tiagohermano.dev"
   },
@@ -5890,7 +5894,8 @@
   },
   {
     "name": "Tushar Kanjariya",
-    "url": "https://tusharkanjariya.me"
+    "url": "https://tusharkanjariya.me",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Tushar Singh Bisht",
@@ -6236,11 +6241,6 @@
     "name": "Xqyet",
     "url": "https://xqyet.dev",
     "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Yadunand Kamath",
-    "url": "https://yadunand-kamath.github.io/portfolio",
-    "tagline": "C++ Developer"
   },
   {
     "name": "Yagyaraj Lodhi",
