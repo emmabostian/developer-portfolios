@@ -12,7 +12,7 @@ This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 This repo can serve as a source of inspiration for your portfolio!
 
-## Current Portfolio Count: 1475
+## Current Portfolio Count: 1478
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1521,7 +1521,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## W
 
-- [Wadi3 EL-Wardy](https://wadi3.codes/) [Full-Stack Developer | Typescript, React.js, Python]
+- [Wadi3 El-Wardy](https://wadi3.codes) [Full Stack Developer | Typescript, React.js, Python]
 - [Wajahat Ali Mir](https://mrwajahatalimir.odoo.com) [Native App Developer]
 - [Walkaisa](https://walkaisa.dev) [Full Stack Web & App Developer]
 - [Walker Smith](https://walkersmith.me)
