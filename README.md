@@ -709,7 +709,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Jayanth Donavalli](https://jayanth.site) [Full Stack Developer | Designer | Photographer]
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
-- [Jeayoung Jeon](https://jyje.online) [Genai/Mlops Engineer]
+- [Jeayoung Jeon](https://jyje.online) [GenAi/Mlops Engineer]
 - [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens Van Wijhe](https://www.beterbekend.nl)
@@ -1235,7 +1235,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Sagar Adulkar](https://sagar-adulkar.vercel.app)
 - [Sagar Betkar](https://sagarbetkar.netlify.app)
 - [Sagar Bhusal](https://www.sagarb.com) [Expert System Admin And DevOps Engineer.]
-- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,Genai]
+- [Sagar Chopda](https://sagarchopda757.github.io/developer-portfolio) [Software Engineer - Mern,GenAi]
 - [Sagar Giri](https://girisagar46.github.io)
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
