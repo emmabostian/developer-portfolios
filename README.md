@@ -105,7 +105,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
-- [Aditya Pillai] (https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
+- [Aditya Pillai](https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & Devops Architect]
