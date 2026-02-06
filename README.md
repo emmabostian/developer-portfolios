@@ -832,7 +832,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Leonel Ngoya](https://lndev.me)
 - [Leroy Rosales](https://leroyrosales.com)
 - [Levi Kingma](https://www.levikingma.com)
-- [Lewis Hadden](https://lewishadden.com) [Senior Full Stack Engineer | React, Typescript, Node]
+- [Lewis Hadden](https://portfolio.lewishadden.com) [Senior Full Stack Engineer | React, Typescript, Node]
 - [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate At Snyk, Github Star, Openjs Foundation Pathfinder For Security Award]
