@@ -500,8 +500,13 @@ def main():
     normalized_lines = [desc_bracket_re.sub(_norm_desc, line) for line in trimmed_lines]
     normalized_lines = [desc_paren_re.sub(_norm_desc, line) for line in normalized_lines]
 
+    # Remove extra spaces at the start/end inside bracketed descriptions
+    # Matches [ spaces content spaces ] and removes the extra spaces
+    bracket_padding_re = re.compile(r"\[\s+([^]]*?)\s+\]")
+    cleaned_bracket_lines = [bracket_padding_re.sub(r"[\1]", line) for line in normalized_lines]
+
     # New: remove duplicate URLs across the document (keep first occurrence)
-    url_deduped_lines, url_removed = remove_duplicate_urls(normalized_lines)
+    url_deduped_lines, url_removed = remove_duplicate_urls(cleaned_bracket_lines)
     if url_removed:
         print(f"Removed {url_removed} duplicate URL line(s) from README.md (kept first occurrences).")
 

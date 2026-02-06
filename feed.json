@@ -286,7 +286,7 @@
   {
     "name": "Abu Suhaib",
     "url": "https://ceo.pronexus.in",
-    "tagline": "Leadnig Startup Founder"
+    "tagline": "Leading Startup Founder"
   },
   {
     "name": "Abubakr Mufutau-Oseni",
@@ -374,6 +374,11 @@
   {
     "name": "Aditya Medhe",
     "url": "https://aditya.medhe.in"
+  },
+  {
+    "name": "Aditya Pillai",
+    "url": "https://aditya-pillai.vercel.app",
+    "tagline": "Computer Science Undergraduate | SWE Intern"
   },
   {
     "name": "Aditya Punmiya",
@@ -541,7 +546,7 @@
   {
     "name": "Akshay Santhoshkumar",
     "url": "https://akshaysanthoshkumar.vercel.app",
-    "tagline": "Full Stack 3D Sofware Developer"
+    "tagline": "Full Stack 3D Software Developer"
   },
   {
     "name": "Akshay",
@@ -777,7 +782,7 @@
   {
     "name": "Anh Duong",
     "url": "https://dhlananh-dev-portfolio.vercel.app",
-    "tagline": "‍ Frontend Developer"
+    "tagline": "‍Frontend Developer"
   },
   {
     "name": "Anik Ahammed Khan",
@@ -886,11 +891,12 @@
   {
     "name": "Aradhya Pavan",
     "url": "https://aradhyapavan.github.io",
-    "tagline": "Full Stack Web Dev & Aspiring Aiml Engineer"
+    "tagline": "Full Stack Web Dev & Aspiring Ai / Ml Engineer"
   },
   {
     "name": "Aradhya Puneeth",
-    "url": "https://aradhyapuneeth.github.io"
+    "url": "https://aradhyapuneeth.github.io",
+    "tagline": "DevOps Engineer"
   },
   {
     "name": "Aravinthaprasath Venkataramanan",
@@ -900,7 +906,7 @@
   {
     "name": "Arbaz Ansari",
     "url": "https://arbazansari.dev",
-    "tagline": "Full Stack Software Engineer | Exploring Genai & Systems Design"
+    "tagline": "Full Stack Software Engineer | Exploring GenAi & Systems Design"
   },
   {
     "name": "Arctan2",
@@ -1067,7 +1073,7 @@
   {
     "name": "Atharva Kote",
     "url": "https://atharvakote.netlify.app",
-    "tagline": "Full Stack Developer | Deveops"
+    "tagline": "Full Stack Developer | DevOps"
   },
   {
     "name": "Atul Gupta",
@@ -1112,7 +1118,7 @@
   {
     "name": "Avinash",
     "url": "https://avinash-portfolio-v3.web.app",
-    "tagline": "Web Dev And Ai Engg."
+    "tagline": "Web Dev And Ai Eng."
   },
   {
     "name": "Avisek Ray",
@@ -5008,6 +5014,11 @@
     "url": "https://saeiddoroudi.ir"
   },
   {
+    "name": "Safal Narshing Shrestha",
+    "url": "https://safalnarshing.com.np",
+    "tagline": "ML/AI Engineer"
+  },
+  {
     "name": "Safoor Safdar",
     "url": "https://safoorsafdar.com"
   },
@@ -6026,7 +6037,7 @@
   {
     "name": "Vatsal Patel",
     "url": "https://vatsalpatel.vercel.app",
-    "tagline": "Software Devekioer | Ai/Ml Engineer"
+    "tagline": "Software Developer | Ai/Ml Engineer"
   },
   {
     "name": "Vatsal Shah",
@@ -6192,6 +6203,11 @@
     "name": "Vyom Dubey",
     "url": "https://vmoyd.github.io/portfolio-app",
     "tagline": "Vmoy"
+  },
+  {
+    "name": "Wadi3 El-Wardy",
+    "url": "https://wadi3.codes",
+    "tagline": "Full Stack Developer | Typescript, React.js, Python"
   },
   {
     "name": "Wajahat Ali Mir",
