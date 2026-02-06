@@ -803,7 +803,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
 - [Krutarth Parmar](https://kayparmar.com)
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
-- [Kuchizu](https://kuchizu.com) [Devops Engineer]
+- [Kuchizu](https://kuchizu.com) [DevOps Engineer]
 - [Kuldeepsinh Jadeja](https://kuldeepjadeja.dev) [Full Stack Developer | MERN Stack]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
