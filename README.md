@@ -812,7 +812,6 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [@Kwamsd](https://github.com/kwamsd) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
-- [Techfolios](https://techfolios.github.io)
 
 ## L
 
@@ -1411,6 +1410,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tarun](https://tarunms.netlify.app)
+- [Techfolios](https://techfolios.github.io)
 - [Tejas Jadhav](https://teeejaey.github.io)
 - [Tejas Kumar](http://tej.as)
 - [Tek Kshetri](http://tekkshetri.com.np)
