@@ -961,7 +961,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
 - [Mohit Joe](https://mohitjoe.vercel.app)
-- [Mohit Kumar] (https://mohit1r.github.io/Portfolio) [ Cloud Native Software Engineer | Java | Spring Boot | Azure ]
+- [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure]
 - [Mohit Paudyal](https://findmohit.netlify.app)
 - [Mohit Shrivastava](https://iamohit.com) [Senior Full Stack Engineer | Next.js Specialist]
 - [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
