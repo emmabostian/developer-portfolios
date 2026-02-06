@@ -1232,6 +1232,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Sabittwa Banerjee](https://strangelytrue.vercel.app)
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Saeid Doroudi](https://saeiddoroudi.ir)
+- [Safal Narshing Shrestha](https://safalnarshing.com.np) [ML/AI Engineer]
 - [Safoor Safdar](https://safoorsafdar.com)
 - [Sagar Adulkar](https://sagar-adulkar.vercel.app)
 - [Sagar Betkar](https://sagarbetkar.netlify.app)
