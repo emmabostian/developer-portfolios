@@ -273,7 +273,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
-- [Avinash](https://avinash-portfolio-v3.web.app) [Web Dev And Ai Engg.]
+- [Avinash](https://avinash-portfolio-v3.web.app) [Web Dev And Ai Eng.]
 - [Avisek Ray](https://avisek.codeltix.com) [Full Stack Developer]
 - [Avnish Kumar](https://theavnishkumar.in) [Full Stack Developer]
 - [Axel Lönnby Wesselgren](https://axelwesselgren.dev) [Full Stack Developer]
