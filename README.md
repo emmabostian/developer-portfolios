@@ -224,7 +224,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aradhya Pavan](https://aradhyapavan.github.io) [Full Stack Web Dev & Aspiring Ai / Ml Engineer]
 - [Aradhya Puneeth](https://aradhyapuneeth.github.io) [DevOps Engineer]
 - [Aravinthaprasath Venkataramanan](https://aravinthvr.github.io/portfolio/?utm_source=github&utm_medium=developer-portfolios&utm_campaign=personal_branding&utm_content=v1_27_07_25) [Software Engineer | Aspiring Data Scientist]
-- [Arbaz Ansari](https://arbazansari.dev) [Full Stack Software Engineer | Exploring Genai & Systems Design]
+- [Arbaz Ansari](https://arbazansari.dev) [Full Stack Software Engineer | Exploring GenAi & Systems Design]
 - [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app)
 - [Arhaan Siddiquee](https://arhaan-dev.vercel.app) [Full Stack Developer]
@@ -263,7 +263,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
 - [Atanas Atanasov](https://atanas.info)
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
-- [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | Deveops]
+- [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
 - [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
