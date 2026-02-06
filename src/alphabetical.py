@@ -31,7 +31,19 @@ def convert_to_title_case(readme_text):
             # fall back to the original behavior (title-case the original text)
             return f"[{inner.title()}]"
         processed = " ".join(cleaned_tokens).strip()
-        return f"[{processed.title()}]"
+
+        # Preserve words with internal capitals (like DevOps, GitHub, PostgreSQL, GenAI, etc.)
+        # and fully uppercase words (like PERN, API, SQL, etc.)
+        result_tokens = []
+        for token in processed.split():
+            # Check if the word has uppercase letters after the first character (e.g. DevOps, GenAI)
+            # OR if the entire word is uppercase (e.g. PERN, API, SQL)
+            if len(token) > 1 and (any(c.isupper() for c in token[1:]) or token.isupper()):
+                result_tokens.append(token)  # keep as-is
+            else:
+                result_tokens.append(token.title())  # apply title case
+
+        return f"[{' '.join(result_tokens)}]"
 
     # Use a lookahead to ensure we only match bracket text that precedes a (
     return re.sub(r"\[([^]]+)](?=\()", _tc_match, readme_text)

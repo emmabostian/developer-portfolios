@@ -210,7 +210,7 @@
   {
     "name": "Abhijit Zende",
     "url": "https://www.abhijitzende.com",
-    "tagline": "Devops/Dev"
+    "tagline": "DevOps/Dev"
   },
   {
     "name": "Abhinandhan Devadiga",
@@ -393,7 +393,7 @@
   {
     "name": "Aditya Seth",
     "url": "https://adityaseth.in",
-    "tagline": "Software Developer & Devops Architect"
+    "tagline": "Software Developer & DevOps Architect"
   },
   {
     "name": "Aditya Vikram Singh",
@@ -1014,7 +1014,7 @@
   {
     "name": "Ashik Saleem",
     "url": "https://ashik.ie",
-    "tagline": "Full Stack Developer | Data + Devops"
+    "tagline": "Full Stack Developer | Data + DevOps"
   },
   {
     "name": "Ashikur Rahaman",
@@ -1035,7 +1035,7 @@
   {
     "name": "Ashlok Chaudhary",
     "url": "https://ashlok.dev",
-    "tagline": "Full Stack Developer || Devops"
+    "tagline": "Full Stack Developer || DevOps"
   },
   {
     "name": "Ashutosh Pandey",
@@ -1229,7 +1229,7 @@
   {
     "name": "Barthélémy Pousset",
     "url": "https://barthelemypousset.com",
-    "tagline": "Full Stack Developer | Devops"
+    "tagline": "Full Stack Developer | DevOps"
   },
   {
     "name": "Batuhan Eroğlu",
@@ -1331,7 +1331,7 @@
   {
     "name": "Binyam Seyoum",
     "url": "https://binyam.io",
-    "tagline": "Devops & Cloud Solutions Engineer"
+    "tagline": "DevOps & Cloud Solutions Engineer"
   },
   {
     "name": "Bipin",
@@ -1821,7 +1821,7 @@
   {
     "name": "Decoopman Nicolas",
     "url": "https://ncsdecoopman.github.io",
-    "tagline": "Data & Devops"
+    "tagline": "Data & DevOps"
   },
   {
     "name": "Deepak Chawla",
@@ -2528,7 +2528,7 @@
   {
     "name": "Hasan Ashab",
     "url": "https://hasan-ashab.vercel.app",
-    "tagline": "Cloud Architect | Devops Engineer | Backend Developer"
+    "tagline": "Cloud Architect | DevOps Engineer | Backend Developer"
   },
   {
     "name": "Hasan Aydoğdu",
@@ -2876,7 +2876,7 @@
   {
     "name": "Jeayoung Jeon",
     "url": "https://jyje.online",
-    "tagline": "Genai/Mlops Engineer"
+    "tagline": "GenAi/Mlops Engineer"
   },
   {
     "name": "Jeff Cardinal",
@@ -3242,7 +3242,7 @@
   {
     "name": "Konan Serge",
     "url": "https://serge07cloud.github.io/portfolio/",
-    "tagline": "Web Developer | Pern"
+    "tagline": "Web Developer | PERN"
   },
   {
     "name": "Kosikan Nagananthakumaran",
@@ -3277,7 +3277,7 @@
   {
     "name": "Kuchizu",
     "url": "https://kuchizu.com",
-    "tagline": "Devops Engineer"
+    "tagline": "DevOps Engineer"
   },
   {
     "name": "Kuldeepsinh Jadeja",
@@ -3294,8 +3294,9 @@
     "tagline": "AI/ML Engineer"
   },
   {
-    "name": "Kushan Devarajegowda Software Developer | Software Engineer | Sde | Swe",
-    "url": "https://ikushdev.github.io"
+    "name": "Kushan Devarajegowda",
+    "url": "https://ikushdev.github.io",
+    "tagline": "Software Developer | Software Engineer | Sde | Swe"
   },
   {
     "name": "Kushwinth Kumar",
@@ -3313,10 +3314,6 @@
   {
     "name": "Kyson",
     "url": "https://kyson.dev"
-  },
-  {
-    "name": "Techfolios",
-    "url": "https://techfolios.github.io"
   },
   {
     "name": "Lai Huishan",
@@ -3514,7 +3511,8 @@
   },
   {
     "name": "Mahtab Ahmad",
-    "url": "https://portfolio-1-0xhg.onrender.com"
+    "url": "https://portfolio-1-0xhg.onrender.com",
+    "tagline": "Machine Learning Engineer"
   },
   {
     "name": "Makechi Eric",
@@ -3534,8 +3532,9 @@
     "url": "https://malith.dev"
   },
   {
-    "name": "Manan Kanani Full Stack Developer",
-    "url": "https://manankanani.in"
+    "name": "Manan Kanani",
+    "url": "https://manankanani.in",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Manan Narwal",
@@ -3766,6 +3765,11 @@
   {
     "name": "Mehdi Ali",
     "url": "https://exoo25.github.io"
+  },
+  {
+    "name": "Mehedi Hasan",
+    "url": "https://m-hasan.vercel.app",
+    "tagline": "Frontend Developer"
   },
   {
     "name": "Meicloudie",
@@ -4038,7 +4042,7 @@
   {
     "name": "Mukesh",
     "url": "https://themukesh.com",
-    "tagline": "Java,React, next js, Full Stack Developer"
+    "tagline": "Java,React, next.js, Full Stack Developer"
   },
   {
     "name": "Mukul Chugh",
@@ -4193,7 +4197,7 @@
   {
     "name": "Nikhila Koneru",
     "url": "https://nikhilakoneru.com",
-    "tagline": "Full Stack Developer | Devops Engineer"
+    "tagline": "Full Stack Developer | DevOps Engineer"
   },
   {
     "name": "Nikita Sobolev",
@@ -4895,7 +4899,7 @@
   {
     "name": "Rolind Roy",
     "url": "https://rolind.me",
-    "tagline": "Devops"
+    "tagline": "DevOps"
   },
   {
     "name": "Roman Sendziuk",
@@ -5033,12 +5037,12 @@
   {
     "name": "Sagar Bhusal",
     "url": "https://www.sagarb.com",
-    "tagline": "Expert System Admin And Devops Engineer."
+    "tagline": "Expert System Admin And DevOps Engineer."
   },
   {
     "name": "Sagar Chopda",
     "url": "https://sagarchopda757.github.io/developer-portfolio",
-    "tagline": "Software Engineer - Mern,Genai"
+    "tagline": "Software Engineer - Mern,GenAi"
   },
   {
     "name": "Sagar Giri",
@@ -5068,7 +5072,7 @@
   {
     "name": "Sai Ganesh",
     "url": "https://my-portfolio-iota-mauve-22.vercel.app",
-    "tagline": "Full Stack Developer, Ui/Ux Designer And Adode Tools"
+    "tagline": "Full Stack Developer, Ui/Ux Designer And Adobe Tools"
   },
   {
     "name": "Sai Sudheer Dontha",
@@ -5081,7 +5085,7 @@
   {
     "name": "Sai Terukula",
     "url": "https://terukulasai-portfolio.netlify.app",
-    "tagline": "Devops Engineer"
+    "tagline": "DevOps Engineer"
   },
   {
     "name": "Saibramha Narsingoju",
@@ -5327,7 +5331,7 @@
   {
     "name": "Sebbie Chanzu",
     "url": "https://sebbie-chanzu.vercel.app",
-    "tagline": "Backend, Devops And Machine Learning Engineer"
+    "tagline": "Backend, DevOps And Machine Learning Engineer"
   },
   {
     "name": "Sebi",
@@ -5778,6 +5782,10 @@
   {
     "name": "Tarun",
     "url": "https://tarunms.netlify.app"
+  },
+  {
+    "name": "Techfolios",
+    "url": "https://techfolios.github.io"
   },
   {
     "name": "Tejas Jadhav",
