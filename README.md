@@ -1461,6 +1461,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Satav](https://utkarshsatav.netlify.app) [Full Stack Developer]
 - [Utkarsh Singhal](https://utkarsh-work.vercel.app)
+  [Utsav Adhikari](https://utsavadhikari07.com.np) [Full Stack Developer]
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
