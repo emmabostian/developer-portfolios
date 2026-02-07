@@ -1045,6 +1045,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Nsk Reddy](https://nskr.dev) [Student | Freelancer | Aspiring Ai Engineer]
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
+- [Nyamboga Hezron](https://www.nyambogahezron.dev/) [Full Stack Developer | React, Node.js, TypeScript]
 
 ## O
 
