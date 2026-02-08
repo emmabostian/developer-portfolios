@@ -1156,6 +1156,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
+- [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
 - [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
