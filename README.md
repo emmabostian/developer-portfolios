@@ -1465,6 +1465,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Utkarsh Singhal](https://utkarsh-work.vercel.app)
 - [Utsav Adhikari](https://utsavadhikari07.com.np) [Full Stack Developer]
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
+- [Uygar Polat](https://uygarpolat.com) [Software Engineer]
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
 ## V
