@@ -25,6 +25,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
+- [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
