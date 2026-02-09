@@ -268,11 +268,11 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
 - [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
+- [Augusto Polonio](https://augustopolonio.vercel.app/) [Game Developer | Senior Full Stack Engineer]
 - [Auroob Ahmad](https://auroob.github.io/dev-port)
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Austin Serb](https://www.austinserb.com) [Full Stack Developer]
-- [Augusto Polonio](https://augustopolonio.vercel.app/) [Game Developer | Senior Full Stack Engineer]
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
