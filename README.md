@@ -888,6 +888,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Marios Sofokleous](https://msof.me)
 - [Mariya Baig](https://mariyabaig.vercel.app)([@Mariyabaig](https://github.com/mariyabaig))
 - [Mariya Jebastin](https://mariyajebastin.netlify.app) [Full Stack Developer]
+- [Mark Ernst](https://cyntax.dev) [Freelance Senior Full-Stack Software Engineer @ Cyntax | .NET/PHP/TS]
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
