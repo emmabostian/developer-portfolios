@@ -389,6 +389,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Chris Coyier](https://chriscoyier.net) [Co-Founder Of Codepen]
 - [Chris Otto](https://chrisotto.dev)
 - [Chris Poole](https://chrispoole.com)
+- [Christian Eckardt](https://eckeecke.github.io/) [Full Stack Developer]
 - [Christian Jöcker](https://jocker.dev) [Full Stack Developer]
 - [Christian Kaisermann](https://kaisermann.me)
 - [Christian Toscano](https://achris.me)
