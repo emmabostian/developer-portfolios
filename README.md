@@ -544,6 +544,7 @@ This repo can serve as a source of inspiration for your portfolio!
 
 ## F
 
+- [Fabian Lugo](https://lugotech.dev/) [Full Stack Developer]
 - [Fabien Laurence](https://fabienlaurence.com) [Full Stack Developer | TypeScript / Python / C#]
 - [Fabio Junior Raminhuk](https://fabra.dev)
 - [Fahed Khan](https://fahed-khan.vercel.app)
