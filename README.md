@@ -166,6 +166,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
 - [Aman Mittal](http://amanhimself.dev)
+- [Aman Rai](https://obliviousaman.netlify.app) [Frontend Developer | Vue.js, GSAP Animations, Bilingual English/Japanese Web Apps]
 - [Aman Shrivastava](https://aman04.netlify.app)
 - [Ameed Darawsha](https://ameed.me)
 - [Ameer Muavia Shah](https://maveeshah.github.io/projects.html) [Frappe | Erpnext | Python]
