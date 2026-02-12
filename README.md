@@ -260,6 +260,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashish Narnoli](https://ashishnarnoli.com)
+- [Ashish Tomar](https://ashish-porfolio.vercel.app/) [Frontend Developer]
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
