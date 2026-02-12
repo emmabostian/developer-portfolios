@@ -258,6 +258,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ashik Saleem](https://ashik.ie) [Full Stack Developer | Data + DevOps]
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app)
 - [Ashish Mehra](https://ashishmehra.dev)
+- [Ashish Tomar](https://ashish-porfolio.vercel.app/) [Frontend Developer]
 - [Ashish Namdeo](https://ashishnamdeo.com)
 - [Ashish Narnoli](https://ashishnarnoli.com)
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
