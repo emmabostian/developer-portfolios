@@ -68,6 +68,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Abdulmalik Alsufayran](https://malikthefullstack.com)
 - [Abdur Rahman](https://itsmeabdur.in) [Full Stack developer]
 - [Abdusamad Malikov](https://www.abdusamad.uz)
+- [Abhay Rana](https://abhayrana.com) [Full Stack Developer]
 - [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
 - [Abhijeet Singh Parihar](https://abhijeet-singh-parihar-portfolio.vercel.app) [Software Engineer]
 - [Abhijit Zende](https://www.abhijitzende.com) [DevOps/Dev]
