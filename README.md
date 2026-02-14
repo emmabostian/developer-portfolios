@@ -1463,6 +1463,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
+- [Tushar Umbarkar](https://tusharumbarkar.space/) [Software Engineer | GenAI & Agentic Systems]
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
 
 ## U
