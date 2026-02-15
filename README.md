@@ -294,7 +294,6 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
-- [Dev Mir](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
 - [Yush Bharti](https://aayushbharti.vercel.app) [Full Stack Developer | Freelancer]
 
@@ -462,6 +461,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Dev Jadiya](https://dev-jadiya.web.app)
+- [Dev Mir](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Deval Daki](https://deval-portfolio.netlify.app) [AI/ML Engineer]
