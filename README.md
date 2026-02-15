@@ -631,6 +631,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
 - [Harsh Singhvi](https://harshsinghvi.com)
+- [Harsh Vardhan Singh](https://hvsingh.vercel.app/) [Full Stack Developer]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
