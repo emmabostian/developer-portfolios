@@ -887,7 +887,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
 - [Marc Backes](http://marc.dev)
-- [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | Vanilla JS]
+- [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | VanillaJS]
 - [Marco Baldini](https://marcobaldini.pages.dev)
 - [Marcos Moura](https://marcos-moura97.github.io)
 - [Marin Takanov](https://www.takanov.com) [Senior Software Engineer]
