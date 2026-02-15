@@ -688,7 +688,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh](https://jagadeeshftw.netlify.app)
 - [Jahidul Islam Jihad](https://jahiduljihad.netlify.app) [Full Stack Developer]
-- [Jahidul Islam](https://xahidex.com) [Digital Marketing & Seo Specialist]
+- [Jahidul Islam](https://xahidex.com) [Digital Marketing & SEO Specialist]
 - [Jahir Fiquitiva](https://jahir.dev)
 - [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
 - [Jaimin Bariya](https://jaimin-bariya.web.app)
