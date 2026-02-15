@@ -925,7 +925,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
 - [Md Rashid](https://md-rashid.vercel.app) [Software Developer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
-- [Mees Verberne](https://meesverberne.com)[Creative Frontend Developer & Designer]
+- [Mees Verberne](https://meesverberne.com) [Creative Frontend Developer & Designer]
 - [Meet Vipul Gandhi](https://portfolio-nu-lovat-90.vercel.app/project) [Software Developer]
 - [Mehdi Ali](https://exoo25.github.io)
 - [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
