@@ -645,7 +645,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Heny](https://heny.dev) [Full Stack Developer | Mern | Next.Js]
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
-- [Hesbon Angwenyi](https://hezy.netlify.app) - Fullstack Developer | DevOps Engineer
+- [Hesbon Angwenyi](https://hezy.netlify.app) [Fullstack Developer | DevOps Engineer]
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
