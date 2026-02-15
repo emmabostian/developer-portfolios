@@ -586,6 +586,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app)
 - [Gaurav Rathva](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
+- [Geet Trivedi](https://www.geettrivedi.com) [Full Stack Developer | MEAN/MERN]
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [George Christeas](https://chr-ge.com)
 - [George Fincher](https://www.grimfunky.dev)
