@@ -1084,6 +1084,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Panhareach Phat](https://phatpanhareach.vercel.app)
 - [Pankaj Gaikar](https://pankajgaikar.com)
 - [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
+- [Param Chaudhari](https://paramsc.dev)
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
