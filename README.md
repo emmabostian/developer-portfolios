@@ -1406,6 +1406,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Sumeet Haldar](https://hsumeet.site)
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
+- [Sunil Mahato](https://mahatosunil.com.np) [Android Developer | Kotlin]
 - [Supratik Bhowal](https://supratikb23.github.io) [Ai/Ml Student | Junior Researcher]
 - [Suraj Kumar Nanda](https://www.surajkumarnanda.com) [Senior DevOps Engineer]
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
