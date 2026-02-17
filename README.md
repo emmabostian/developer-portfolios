@@ -1407,6 +1407,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
 - [Sudarshan Rai](https://sudarshanrai.com.np) [Full Stack Developer]
 - [Sudev Thapa Magar](https://www.sudevmagar.tech)
+- [Suhail Roushan](https://suhailroushan.com)
 - [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
 - [Sumeet Haldar](https://hsumeet.site)
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
