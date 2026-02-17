@@ -302,6 +302,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
 - [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
+- [Barnabas Varga](https://barnabasvarga.com)
 - [Barthélémy Pousset](https://barthelemypousset.com) [Full Stack Developer | DevOps]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
 - [Baymax](https://www.sitaramoli.com.np)
