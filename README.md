@@ -976,6 +976,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Mubeen Mohammed](https://mubeenmohammed.tech)
 - [Mudassir Ali](https://mudassirali.com) [Full Stack Developer | Software Engineer]
 - [Mudassir Junejo](https://mudassir-junejo.vercel.app) [AI Developer | Portfolio]
+- [Mufida Andi](https://heymufi.com/) [Software Engineer | Frontend]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
 - [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
 - [Muhammad Iqbal Nazulis](https://iqbalnzls.github.io/portfolio/) [Software Engineer | Backend]
