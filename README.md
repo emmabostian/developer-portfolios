@@ -209,6 +209,8 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
 - [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
 - [Anshul Gora](https://anshulwork.netlify.app)
+- [Anshul Soni](https://anshulsoni.in)
+- [Anthony MAHEFASOA](https://thony32.tech)
 - [Anshuman Jha](https://anshuman-jha.vercel.app)
 - [Anthony Odumodu](https://antonodu.netlify.app)
 - [Antoine Dangleterre](https://antoinedangleterre.com)
