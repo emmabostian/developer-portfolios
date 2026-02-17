@@ -1418,6 +1418,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer | Polygot Programmer]
+- [Syed Omer Ali](https://syedomer.me) [Software Engineer | DevSecOps Engineer]
 - [Syed Saad](https://syedsaad.dev) [Software Engineer]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
