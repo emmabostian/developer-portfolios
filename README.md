@@ -736,6 +736,7 @@ This repo can serve as a source of inspiration for your portfolio!
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
 - [Jo Lienhoop](https://jolienhoop.com)
+- [Joel C. Johnson](https://www.joelcjohnson.me/) [Full Stack Developer, Software Engineer]
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Kimeu](https://kimeu-johnn.vercel.app) [Front-End Developer & Creative]
 - [John Petalio](https://johnreypetalio.netlify.app)
