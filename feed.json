@@ -841,8 +841,16 @@
     "url": "https://anshulwork.netlify.app"
   },
   {
+    "name": "Anshul Soni",
+    "url": "https://anshulsoni.in"
+  },
+  {
     "name": "Anshuman Jha",
     "url": "https://anshuman-jha.vercel.app"
+  },
+  {
+    "name": "Anthony MAHEFASOA",
+    "url": "https://thony32.tech"
   },
   {
     "name": "Anthony Odumodu",
@@ -1226,6 +1234,10 @@
     "url": "https://baptistemiramont.fr"
   },
   {
+    "name": "Barnabas Varga",
+    "url": "https://barnabasvarga.com"
+  },
+  {
     "name": "Barthélémy Pousset",
     "url": "https://barthelemypousset.com",
     "tagline": "Full Stack Developer | DevOps"
@@ -1425,6 +1437,11 @@
     "name": "Brendon Van Zanten",
     "url": "https://brendonvanzanten.com",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Brhane Giday",
+    "url": "https://brhane.vercel.app",
+    "tagline": "Software Engineer | AI Engineer"
   },
   {
     "name": "Brian Kamau",
@@ -2276,6 +2293,11 @@
     "tagline": "Technical Lead | System Architect & Web3"
   },
   {
+    "name": "Fikri Rozan",
+    "url": "https://fikrirozan.vercel.app",
+    "tagline": "Full Stack Developer"
+  },
+  {
     "name": "Florian Giacinti",
     "url": "https://florian.giacinti.me",
     "tagline": "Software Developer"
@@ -2384,6 +2406,11 @@
     "name": "Gaurav Rathva",
     "url": "https://gauravrathva.me",
     "tagline": "Full Stack Engineer | Mobile & Agentic AI Systems"
+  },
+  {
+    "name": "Geet Trivedi",
+    "url": "https://www.geettrivedi.com",
+    "tagline": "Full Stack Developer | MEAN/MERN"
   },
   {
     "name": "Genesis Gabiola",
@@ -2976,6 +3003,11 @@
   {
     "name": "Jo Lienhoop",
     "url": "https://jolienhoop.com"
+  },
+  {
+    "name": "Joel Johnson",
+    "url": "https://www.joelcjohnson.me",
+    "tagline": "Full Stack Developer, Software Engineer"
   },
   {
     "name": "John Doe",
@@ -3606,7 +3638,7 @@
   {
     "name": "Marciano Mavungo",
     "url": "https://marcmav.dev",
-    "tagline": "Frontend Software Engineer | VanillaJS"
+    "tagline": "Frontend Software Engineer | vanillaJS"
   },
   {
     "name": "Marco Baldini",
@@ -4014,6 +4046,11 @@
     "name": "Mudassir Junejo",
     "url": "https://mudassir-junejo.vercel.app",
     "tagline": "AI Developer | Portfolio"
+  },
+  {
+    "name": "Mufida Andi",
+    "url": "https://heymufi.com",
+    "tagline": "Software Engineer | Frontend"
   },
   {
     "name": "Muhammad Azlaan Zubair",
@@ -4441,6 +4478,10 @@
     "tagline": "Software Engineer"
   },
   {
+    "name": "Param Chaudhari",
+    "url": "https://paramsc.dev"
+  },
+  {
     "name": "Parth Kaul",
     "url": "https://parthkaul-bit.github.io/portfolio"
   },
@@ -4604,6 +4645,11 @@
   {
     "name": "Prem Prakash Sharma",
     "url": "https://premprakashsharma.vercel.app"
+  },
+  {
+    "name": "Prince Bhayani",
+    "url": "https://princeb.dev",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Pritam Debnath",
@@ -5055,6 +5101,11 @@
     "name": "Sabbir Ahmed Shawon",
     "url": "https://sabbirshawon.com",
     "tagline": "Full Stack Software Developer"
+  },
+  {
+    "name": "Sabbir Ahmed",
+    "url": "https://sabbirahmed.net",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Sabin Ranabhat",
@@ -5767,6 +5818,10 @@
     "url": "https://www.sudevmagar.tech"
   },
   {
+    "name": "Suhail Roushan",
+    "url": "https://suhailroushan.com"
+  },
+  {
     "name": "Sujal Bedre",
     "url": "https://sujal-bedre.vercel.app",
     "tagline": "Ai/Ml Dev && Mern-Stack Dev"
@@ -5782,6 +5837,11 @@
   {
     "name": "Sumonta Saha Mridul",
     "url": "https://sumonta056.github.io"
+  },
+  {
+    "name": "Sunil Mahato",
+    "url": "https://mahatosunil.com.np",
+    "tagline": "Android Developer | Kotlin"
   },
   {
     "name": "Supratik Bhowal",
@@ -5815,6 +5875,11 @@
     "name": "Syed Muhammad Saad Bukhari",
     "url": "https://saadbukhari.vercel.app",
     "tagline": "Software Developer | Polygot Programmer"
+  },
+  {
+    "name": "Syed Omer Ali",
+    "url": "https://syedomer.me",
+    "tagline": "Software Engineer | DevSecOps Engineer"
   },
   {
     "name": "Syed Saad",
