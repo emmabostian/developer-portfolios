@@ -1426,6 +1426,7 @@ This repo can serve as inspiration for your portfolio!
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
+- [Syed Aashiq Ahamed](https://www.syedahamed.in/) [Software Development Engineer | Frontend Engineer]
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer | Polygot Programmer]
 - [Syed Omer Ali](https://syedomer.me) [Software Engineer | DevSecOps Engineer]
