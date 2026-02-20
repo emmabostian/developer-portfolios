@@ -1581,6 +1581,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
 - [Yash Palav](https://yashpalav.vercel.app) [Full Stack Dev]
+- [Yashas H Majmudar](https://yashashm.dev) [Flutter | Full-Stack | AI]
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
