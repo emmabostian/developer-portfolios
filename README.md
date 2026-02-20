@@ -1557,7 +1557,7 @@ This repo can serve as inspiration for your portfolio!
 ## W
 
 - [Wadi3 El-Wardy](https://wadi3.codes) [Full Stack Developer | Typescript, React.js, Python]
-- [Wajahat Ali Mir](https://mrwajahatalimir.odoo.com) [Native App Developer]
+- [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
 - [Walkaisa](https://walkaisa.dev) [Full Stack Web & App Developer]
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
