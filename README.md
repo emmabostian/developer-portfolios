@@ -25,6 +25,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## A
 
+- [aaaaali wajahat ali mir](https://wajahat-ali-mir-dev.vercel.app/) [React Native Developer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aaabad Ahmed](https://sawad.framer.website) [Software Engineer]
