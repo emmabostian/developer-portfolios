@@ -533,6 +533,7 @@ This repo can serve as inspiration for your portfolio!
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
 - [Erfan Ramezani](https://erfan-ramezani.ir) [Llm And Agentic Ai Engineer]
 - [Eric Chen](https://ericc.vercel.app)
+- [Eric Zhu](https://eric4048.framer.website)
 - [Erick Namukolo](https://www.ericknamukolo.com)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
