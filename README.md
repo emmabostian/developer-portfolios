@@ -1476,6 +1476,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Ahuja](https://tusharahuja.me) [Full Stack Developer]
 - [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
+- [Tushar Kanti Dey](https://www.tushardevx01.tech/) [Full Stack Developer and DevOps Engineer]
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tushar Umbarkar](https://tusharumbarkar.space) [Software Engineer | GenAI & Agentic Systems]
