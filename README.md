@@ -1511,6 +1511,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vaibhav Singh](http://vaibhavsingh97.com)
 - [Vaidhyanathan](https://vaidhyanathansm.netlify.app)
 - [Valentin Gil](https://vgil.fr) [Student]
+- [Valentin Lefrançois](https://valentinlefrancois.dev) [Senior Full Stack Engineer]
 - [Vallarasu](https://vallarasuk.com) [React, Next.Js Full Stack Developer]
 - [Vamsi Indugu](https://vamsiindugu.vercel.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
