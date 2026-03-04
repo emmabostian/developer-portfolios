@@ -856,6 +856,7 @@ This repo can serve as inspiration for your portfolio!
 - [Loc Le](https://looc.dev)
 - [Long Do](https://longpdo.github.io)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+- [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
 - [Lucas De Moraes](https://devlucas.website) [Full Stack Developer]
