@@ -1111,6 +1111,7 @@ This repo can serve as inspiration for your portfolio!
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
 - [Paul Agbogun](https://ifeoluwa-portfolio-five.vercel.app)
+- [Paul Henry Atienza] (https://www.paulatienza.dev) [Software Engineer | Enterprise Java Developer]
 - [Paul Koeck](https://paul.koeck.dev)
 - [Paul Pietzko](https://www.paulpietzko.com)
 - [Paulo Oliveira](https://paul8liveira.is-a.dev)
