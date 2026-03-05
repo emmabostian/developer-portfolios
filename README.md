@@ -312,6 +312,7 @@ This repo can serve as inspiration for your portfolio!
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
 - [Becca Bailey](http://Becca.is)
+- [Befikir Shimelis](https://squidwardcodes.web.app/) [Full Stack Developer | Software Engineering Student]
 - [Bejagam Nithilesh](https://nithilesh.vercel.app)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
