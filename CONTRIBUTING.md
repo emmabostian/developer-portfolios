@@ -4,6 +4,23 @@
 2. Clone your new repository to your system.
 3. Create a new branch (i.e. `add/your-name`).
 4. Add your new site. Remember to add **alphabetically to the list.**
+    ### Format
+
+    Add your portfolio entry in the following format:
+    
+    ```markdown
+    - [Your Name](portfolio-link) [Your Title | Your Expertise]
+    ```
+
+    ### Example
+
+    ```markdown
+    - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
+    ```
+
+    ### Result
+    - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
+
 5. Commit changes and push the new branch.
 6. Open and submit a PR.
 
