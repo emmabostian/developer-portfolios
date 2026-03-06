@@ -832,7 +832,6 @@ This repo can serve as inspiration for your portfolio!
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
 
-
 ## L
 
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
