@@ -830,6 +830,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [@Kwamsd](https://github.com/kwamsd) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
+- - [Katey](https://portfolio-katey.vercel.app/)
 
 ## L
 
