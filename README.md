@@ -784,6 +784,7 @@ This repo can serve as inspiration for your portfolio!
 - [Karunika](https://karunika.work)
 - [Katie Amberg-Johnson](https://kambergjohnson.com) - `made with TechFolios`
 - [Katie Haus](https://astro-portfolio-site.netlify.app)
+- [Katey Philip](https://portfolio-katey.vercel.app/) [@KateyKwesi](https://github.com/KateyKwesi) [Frontend Developer]
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
 - [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
@@ -830,7 +831,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [@Kwamsd](https://github.com/kwamsd) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
-- [Katey Philip](https://portfolio-katey.vercel.app/) [Frontend Developer]
+
 
 ## L
 
