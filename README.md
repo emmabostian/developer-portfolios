@@ -1189,6 +1189,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Raman Ramanouski](https://ratu.dev)
 - [Ramesh Kumar](https://rameskum.com)
+- [Rameshwar Bhagwat](https://www.rameshwarbhagwat.me) [Full Stack Developer]
 - [Ramin Rezaei V1](https://raminrezaei.se)
 - [Ramin Rezaei V2](https://raminr77.vercel.app)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
