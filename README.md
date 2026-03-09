@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1521
+## Current Portfolio Count: 1536
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -30,7 +30,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
-- [Aahana Bobade](https://aahanabobade-portfolio.vercel.app/) [Software Developer]
+- [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
@@ -289,11 +289,11 @@ This repo can serve as inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
 - [Ayoub Alahyane](https://aalahyan3.tech)
-- [Ayush Pradhan](https://ayushpradhan29.netlify.app/) [Full Stack Developer | AI-ML Engineer]
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
+- [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | AI-ML Engineer]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 
@@ -312,7 +312,7 @@ This repo can serve as inspiration for your portfolio!
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
 - [Becca Bailey](http://Becca.is)
-- [Befikir Shimelis](https://squidwardcodes.web.app/) [Full Stack Developer | Software Engineering Student]
+- [Befikir Shimelis](https://squidwardcodes.web.app) [Full Stack Developer | Software Engineering Student]
 - [Bejagam Nithilesh](https://nithilesh.vercel.app)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
 - [Ben Oldham](https://www.benoldham.dev) [Web Developer]
@@ -782,9 +782,9 @@ This repo can serve as inspiration for your portfolio!
 - [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
 - [Kartik Jain](https://jkartik.in) [‍ Backend Developer | Cybersecurity Enthusiast]
 - [Karunika](https://karunika.work)
+- [Katey Philip](https://portfolio-katey.vercel.app) [@KateyKwesi](https://github.com/KateyKwesi) [Frontend Developer]
 - [Katie Amberg-Johnson](https://kambergjohnson.com) - `made with TechFolios`
 - [Katie Haus](https://astro-portfolio-site.netlify.app)
-- [Katey Philip](https://portfolio-katey.vercel.app/) [@KateyKwesi](https://github.com/KateyKwesi) [Frontend Developer]
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
 - [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
 - [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
@@ -1403,16 +1403,16 @@ This repo can serve as inspiration for your portfolio!
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Slimaeus](https://slimaeus.github.io) [.NET Developer]
 - [Soham Mondal](https://sohammondal.com)
-- [Soham Penshanwar ](https://thesoham2203.vercel.app)
-- [Soham Sarkar](https://sohamsarkar.com/) [Builder | Tech | Product]
-- [Sohanuzzaman Soad](https://ssoad.github.io/) [Software Engineer | Mobile App Developer | AI Engineer]
+- [Soham Penshanwar](https://thesoham2203.vercel.app)
+- [Soham Sarkar](https://sohamsarkar.com) [Builder | Tech | Product]
+- [Sohanuzzaman Soad](https://ssoad.github.io) [Software Engineer | Mobile App Developer | AI Engineer]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soufiane El Hamri](https://www.soufiane-elhamri.com) [Full Stack Developer]
+- [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
-- [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
 - [Sparsh Kamat](http://sparshkamat.me) [Full Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
@@ -1423,8 +1423,8 @@ This repo can serve as inspiration for your portfolio!
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Stefan Topalovic](https://www.stefantopalovic.com)
 - [Stephanie Lin](https://lin-stephanie.github.io)
-- [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) ([@Chan-Stephane](https://github.com/chan-stephane)) [Software Engineer]
 - [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
+- [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) ([@Chan-Stephane](https://github.com/chan-stephane)) [Software Engineer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
   ([@Satishjhanwer](https://github.com/satishjhanwer))
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
@@ -1442,13 +1442,13 @@ This repo can serve as inspiration for your portfolio!
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
+- [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
 - [Syed Muhammad Saad Bukhari](https://saadbukhari.vercel.app) [Software Developer | Polygot Programmer]
 - [Syed Omer Ali](https://syedomer.me) [Software Engineer | DevSecOps Engineer]
 - [Syed Saad](https://syedsaad.dev) [Software Engineer]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
-- [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
 
 ## T
 
