@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1536
+## Current Portfolio Count: 1533
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -464,7 +464,6 @@ This repo can serve as inspiration for your portfolio!
 - [Dev Jadiya](https://dev-jadiya.web.app)
 - [Dev Mir](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
-- [Deval Daki](https://deval-portfolio.netlify.app) [AI/ML Engineer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Devi](https://devi-r.com)
@@ -504,7 +503,6 @@ This repo can serve as inspiration for your portfolio!
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
-- [Dushmanta Behera](https://dushmanta.dev)
 - [Dustin Brett](https://dustinbrett.com)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app)
 - [Dylan Gil Amaro](https://dga-dev.fr)
@@ -856,7 +854,6 @@ This repo can serve as inspiration for your portfolio!
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate At Snyk, Github Star, Openjs Foundation Pathfinder For Security Award]
 - [Lisa Blunt](https://lisablunt.github.io)
-- [Lisa Savoie](http://lscodes.com)
 - [Liz Lam](https://lizlam.github.io)
 - [Loc Le](https://looc.dev)
 - [Long Do](https://longpdo.github.io)
