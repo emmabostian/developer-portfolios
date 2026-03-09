@@ -1,5 +1,4 @@
 [
-  
   {
     "name": "Aaaabad Ahmed",
     "url": "https://sawad.framer.website",
@@ -23,6 +22,11 @@
     "name": "Aaditya Domle",
     "url": "https://aadi.is-a.dev",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Aahana Bobade",
+    "url": "https://aahanabobade-portfolio.vercel.app",
+    "tagline": "Software Developer"
   },
   {
     "name": "Aakash Rajbanshi",
@@ -117,6 +121,11 @@
     "url": "https://www.aayushsood.com"
   },
   {
+    "name": "Abbas Raza",
+    "url": "https://abbasraza.dev",
+    "tagline": "Software Engineer | Freelancer | AI & Blockchain Enthusiast"
+  },
+  {
     "name": "Abdelaziz El Arassi",
     "url": "http://aelarassi.com"
   },
@@ -194,6 +203,10 @@
     "name": "Abdullah Waheed",
     "url": "https://abdullahw-portfolio.vercel.app",
     "tagline": "Front-End Developer"
+  },
+  {
+    "name": "Abdullah Warraich",
+    "url": "https://abdullah-warraich-ch.vercel.app"
   },
   {
     "name": "Abdur Rahman",
@@ -1193,6 +1206,11 @@
     "url": "https://ayushn.netlify.app"
   },
   {
+    "name": "Ayush Pradhan",
+    "url": "https://ayushpradhan29.netlify.app",
+    "tagline": "Full Stack Developer | AI-ML Engineer"
+  },
+  {
     "name": "Azaan Suhail",
     "url": "https://personal-portfolio-website-seven-teal.vercel.app"
   },
@@ -1257,6 +1275,11 @@
   {
     "name": "Becca Bailey",
     "url": "http://Becca.is"
+  },
+  {
+    "name": "Befikir Shimelis",
+    "url": "https://squidwardcodes.web.app",
+    "tagline": "Full Stack Developer | Software Engineering Student"
   },
   {
     "name": "Bejagam Nithilesh",
@@ -1884,11 +1907,6 @@
     "tagline": ".Net Devloper & Freelancer"
   },
   {
-    "name": "Deval Daki",
-    "url": "https://deval-portfolio.netlify.app",
-    "tagline": "AI/ML Engineer"
-  },
-  {
     "name": "Devansh Baghel",
     "url": "https://baghel.dev",
     "tagline": "Full Stack Developer"
@@ -2056,10 +2074,6 @@
     "url": "https://yodkwtf.com"
   },
   {
-    "name": "Dushmanta Behera",
-    "url": "https://dushmanta.dev"
-  },
-  {
     "name": "Dustin Brett",
     "url": "https://dustinbrett.com"
   },
@@ -2180,6 +2194,10 @@
   {
     "name": "Eric Chen",
     "url": "https://ericc.vercel.app"
+  },
+  {
+    "name": "Eric Zhu",
+    "url": "https://eric4048.framer.website"
   },
   {
     "name": "Erick Namukolo",
@@ -3165,6 +3183,11 @@
     "url": "https://karunika.work"
   },
   {
+    "name": "Katey Philip",
+    "url": "https://portfolio-katey.vercel.app",
+    "tagline": "@KateyKwesi"
+  },
+  {
     "name": "Katie Amberg-Johnson",
     "url": "https://kambergjohnson.com"
   },
@@ -3395,6 +3418,11 @@
     "tagline": "For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature"
   },
   {
+    "name": "Lamine Neggazi",
+    "url": "https://lamine.cc",
+    "tagline": "Full Stack Developer | Algiers"
+  },
+  {
     "name": "Larry Xue",
     "url": "https://larryxue.dev"
   },
@@ -3472,10 +3500,6 @@
     "url": "https://lisablunt.github.io"
   },
   {
-    "name": "Lisa Savoie",
-    "url": "http://lscodes.com"
-  },
-  {
     "name": "Liz Lam",
     "url": "https://lizlam.github.io"
   },
@@ -3490,6 +3514,11 @@
   {
     "name": "Loránd Kiss",
     "url": "https://lorandkissdev.github.io/github-portfolio"
+  },
+  {
+    "name": "Luca Félix",
+    "url": "https://luca-felix.com",
+    "tagline": "Design System Engineer | Digital Product Designer & Developer"
   },
   {
     "name": "Luca Lischetti",
@@ -4534,7 +4563,7 @@
   },
   {
     "name": "Paul Henry Atienza",
-    "url": "https://paulatienza.dev",
+    "url": "https://www.paulatienza.dev",
     "tagline": "Software Engineer | Enterprise Java Developer"
   },
   {
@@ -4831,6 +4860,11 @@
   {
     "name": "Ramesh Kumar",
     "url": "https://rameskum.com"
+  },
+  {
+    "name": "Rameshwar Bhagwat",
+    "url": "https://www.rameshwarbhagwat.me",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Ramin Rezaei V1",
@@ -5741,7 +5775,15 @@
   {
     "name": "Slimaeus",
     "url": "https://slimaeus.github.io",
-    "tagline": ".Net Developer"
+    "tagline": ".NET Developer"
+  },
+  {
+    "name": "Soham Mondal",
+    "url": "https://sohammondal.com"
+  },
+  {
+    "name": "Soham Penshanwar",
+    "url": "https://thesoham2203.vercel.app"
   },
   {
     "name": "Soham Sarkar",
@@ -5751,7 +5793,7 @@
   {
     "name": "Sohanuzzaman Soad",
     "url": "https://ssoad.github.io",
-    "tagline": "Software Engineer | Mobile App Developer | Ai Engineer"
+    "tagline": "Software Engineer | Mobile App Developer | AI Engineer"
   },
   {
     "name": "Sonu Hansda",
@@ -5762,6 +5804,11 @@
     "name": "Soufiane El Hamri",
     "url": "https://www.soufiane-elhamri.com",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Souilah Moncef",
+    "url": "https://moncef37i.github.io/portfolio/",
+    "tagline": "Full Stack Web Developer | Algeria"
   },
   {
     "name": "Soumyajit Basak",
@@ -5821,6 +5868,11 @@
   {
     "name": "Stephanie Lin",
     "url": "https://lin-stephanie.github.io"
+  },
+  {
+    "name": "Stuart Blackler",
+    "url": "https://codewithstu.tv",
+    "tagline": "Principal Software Engineer | AWS | .NET"
   },
   {
     "name": "Stéphane Chan Hiou Kong",
@@ -5897,6 +5949,11 @@
     "name": "Syed Aashiq Ahamed",
     "url": "https://www.syedahamed.in",
     "tagline": "Software Development Engineer | Frontend Engineer"
+  },
+  {
+    "name": "Syed Abdul Aman",
+    "url": "https://p-r-e-m-i-u-m.github.io/AmanGenAI/",
+    "tagline": "Generative AI Developer | LLMs | Python"
   },
   {
     "name": "Syed Muhammad Abdullah Ahsan",
@@ -6214,6 +6271,11 @@
     "name": "Valentin Gil",
     "url": "https://vgil.fr",
     "tagline": "Student"
+  },
+  {
+    "name": "Valentin Lefrançois",
+    "url": "https://valentinlefrancois.dev",
+    "tagline": "Senior Full Stack Engineer"
   },
   {
     "name": "Vallarasu",
