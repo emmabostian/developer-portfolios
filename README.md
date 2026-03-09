@@ -780,7 +780,7 @@ This repo can serve as inspiration for your portfolio!
 - [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
 - [Kartik Jain](https://jkartik.in) [‍ Backend Developer | Cybersecurity Enthusiast]
 - [Karunika](https://karunika.work)
-- [Katey Philip](https://portfolio-katey.vercel.app) [@KateyKwesi](https://github.com/KateyKwesi) [Frontend Developer]
+- [Katey Philip](https://portfolio-katey.vercel.app) [Frontend Developer] ([@KateyKwesi](https://github.com/KateyKwesi))
 - [Katie Amberg-Johnson](https://kambergjohnson.com) - `made with TechFolios`
 - [Katie Haus](https://astro-portfolio-site.netlify.app)
 - [Katleho Mokhele](https://mokhele.pythonanywhere.com)
