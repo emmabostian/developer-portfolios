@@ -5,10 +5,10 @@
 accept = [200, 201, 204, 301, 302, 307, 308, 403, 429]
 
 # Timeout for each request (in seconds)
-timeout = 30
+timeout = 20
 
 # Maximum number of retries per link
-max_retries = 5
+max_retries = 3
 
 # Number of concurrent network requests
 max_concurrency = 10
