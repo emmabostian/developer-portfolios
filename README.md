@@ -608,6 +608,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gianluca Galota](https://gianlucagalota.dev)
 - [Gil Itzhaky Gilitz](https://gilitz.com) - `Interactive 3D Protfolio Game` [Frontend Developer]
 - [Giorgio Faini](https://giorgiofaini.com)
+- [Glen Elric Fernandes](https://www.glenelric.space/) [Full stack SDE| Data Science Researcher| Student]
 - [Goh Jun Xiang](https://gohjunx.github.io/GohJunXiang.github.io)
 - [Goh You Sheng](https://shenggg2000.github.io/portfolio)
 - [Gokhul](https://gokhul.dev) - [Full Stack Engineer]
