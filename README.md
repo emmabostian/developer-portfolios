@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1533
+## Current Portfolio Count: 1534
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -331,6 +331,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
+- [Bhushan Zade](https://bhushanz.netlify.app/) [Senior Fullstack Developer (Angular, React, NodeJS)]
 - [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Binyam Seyoum](https://binyam.io) [DevOps & Cloud Solutions Engineer]
 - [Bipin](https://bipinmv.netlify.app)
