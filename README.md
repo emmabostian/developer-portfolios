@@ -1232,6 +1232,7 @@ This repo can serve as inspiration for your portfolio!
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Raj](https://rohit-raj.netlify.app)
+- [Rohit Solanki](https://rohitsolanki.me)
 - [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland Taylor](http://rolandixor.pro)
