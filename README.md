@@ -377,6 +377,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Chamindu Wn](https://chamindu-wn.vercel.app) [Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer]
+- [Chandradithya Janaswami](https://chandradithya.dev) [Undergrad, SWE and OSC]
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
 - [Chanhdai](https://chanhdai.com)
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
