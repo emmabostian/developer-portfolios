@@ -1069,6 +1069,7 @@ This repo can serve as inspiration for your portfolio!
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
 - [Om](https://omchaudhari1107.github.io)
+- [Om Takale](https://omtakale.vercel.app/)
 - [Omar Emad(Om3X4](https://om3x4.com) [Full Stack Developer]
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omargpax](https://omargpax.pages.dev)
