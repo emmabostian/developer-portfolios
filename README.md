@@ -24,7 +24,6 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
-- [Ankur Bag](https://www.ankurbag.tech/) [Full Stack Dev with GenAI]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
@@ -46,6 +45,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aathif Zahir](https://az-dev.vercel.app)
+- [Ankur Bag](https://www.ankurbag.tech/) [Full Stack Dev with GenAI]
 - [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
 - [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
 - [Aayush Bharti](https://aayushbharti.in) [Developer | Freelancer | Problem Solver]
