@@ -1429,6 +1429,7 @@ This repo can serve as inspiration for your portfolio!
 - [Stephanie Lin](https://lin-stephanie.github.io)
 - [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me) ([@Chan-Stephane](https://github.com/chan-stephane)) [Software Engineer]
+- [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) ([@SubhajitSK](https://github.com/SubhajitSK)) [Full Stack Developer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
   ([@Satishjhanwer](https://github.com/satishjhanwer))
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
