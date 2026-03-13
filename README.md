@@ -24,7 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
-
+- [Ankur Bag](https://www.ankurbag.tech/) [Full Stack Dev with GenAI]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
