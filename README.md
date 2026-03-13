@@ -1556,6 +1556,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
+- [Viraj Mavani](https://virajmavani.dev/) ([@Viraj-Mavani](https://github.com/Viraj-Mavani)) [Full Stack Engineer | AI Engineer]
 - [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
 - [Vishal Bhosle](https://vishalb.dev) [Expert Full Stack Software Developer]
