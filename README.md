@@ -1464,6 +1464,7 @@ This repo can serve as inspiration for your portfolio!
 - [Taranjeet Singh](https://taranjeet.co)
 - [Tarun](https://tarunms.netlify.app)
 - [Techfolios](https://techfolios.github.io)
+- [Tejas Gupta](https://www.tejas-gupta.com/)
 - [Tejas Jadhav](https://teeejaey.github.io)
 - [Tejas Kumar](http://tej.as)
 - [Tek Kshetri](http://tekkshetri.com.np)
