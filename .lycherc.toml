@@ -26,7 +26,7 @@ insecure = true
 max_redirects = 10
 
 # Include verbosity for better debugging (only effective with --verbose flag)
-verbose = false
+verbose = "error"
 
 # Cache results to speed up subsequent runs
 cache = true
