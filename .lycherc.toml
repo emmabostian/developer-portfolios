@@ -46,6 +46,4 @@ DNT = "1"
 Connection = "keep-alive"
 Upgrade-Insecure-Requests = "1"
 
-# Include links in output even if they succeed (false to reduce noise)
-include_verbatim = false
 
