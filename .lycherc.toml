@@ -38,7 +38,7 @@ cache = true
 method = "get"
 
 # Additional headers to send with requests (helps avoid bot detection)
-[headers]
+[header]
 Accept = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
 Accept-Language = "en-US,en;q=0.5"
 Accept-Encoding = "gzip, deflate, br"
