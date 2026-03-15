@@ -37,8 +37,11 @@ cache = true
 # HTTP method to use for checking links
 method = "get"
 
+# Include links in output even if they succeed (false to reduce noise)
+include_verbatim = false
+
 # Additional headers to send with requests (helps avoid bot detection)
-[headers]
+[header]
 Accept = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
 Accept-Language = "en-US,en;q=0.5"
 Accept-Encoding = "gzip, deflate, br"
@@ -46,6 +49,4 @@ DNT = "1"
 Connection = "keep-alive"
 Upgrade-Insecure-Requests = "1"
 
-# Include links in output even if they succeed (false to reduce noise)
-include_verbatim = false
 
