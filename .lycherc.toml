@@ -37,8 +37,6 @@ cache = true
 # HTTP method to use for checking links
 method = "get"
 
-# Include links in output even if they succeed (false to reduce noise)
-include_verbatim = false
 
 # Additional headers to send with requests (helps avoid bot detection)
 [header]
