@@ -1428,6 +1428,7 @@ This repo can serve as inspiration for your portfolio!
 - [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
+- [Subrat Dwivedi](https://subratdwivedi.dev) [Software Engineer | Full Stack Developer]
 - [Sudarshan Rai](https://sudarshanrai.com.np) [Full Stack Developer]
 - [Sudev Thapa Magar](https://www.sudevmagar.tech)
 - [Suhail Roushan](https://suhailroushan.com)
