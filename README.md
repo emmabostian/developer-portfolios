@@ -142,6 +142,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
+- [Akli Massinissa Sadek](https://sadoukas.com) [Full Stack Developer | Freelance Services]
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Akshat Kotpalliwar Alias Integeralex](https://realtalkportfolio.vercel.app) [Full Stack Developer | Old School Portfolio]
 - [Akshay Abraham](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=dev_portfolios") [Aspiring Physicist | Backend & Research-Oriented Developer| Frontend For Hobby]
