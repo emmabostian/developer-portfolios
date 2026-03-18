@@ -1579,7 +1579,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vm](https://vmthedev.web.app)
 - [Vu Nguyen](https://vunguyenit.site)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
-- [Vishal Sharma] (https://snick0128.github.io/snick0128/) [Vishal]
+- [Vishal Sharma](https://snick0128.github.io/snick0128/) [Vishal]
 
 ## W
 
