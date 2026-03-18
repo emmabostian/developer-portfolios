@@ -311,6 +311,7 @@ This repo can serve as inspiration for your portfolio!
 - [Baptiste Miramont](https://baptistemiramont.fr)
 - [Barnabas Varga](https://barnabasvarga.com)
 - [Barthélémy Pousset](https://barthelemypousset.com) [Full Stack Developer | DevOps]
+- [Basil Suhail](https://basilsuhail.com) [AI Driven Developer | Apps, Data & Finance]
 - [Batuhan Eroğlu](https://batuhan.tech) [Full Stack Developer]
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
