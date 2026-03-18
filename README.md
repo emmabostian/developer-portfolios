@@ -1569,6 +1569,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
+- [Vishal Sharma](https://snick0128.github.io/snick0128/) [Vishal]
 - [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app) [Full Stack Engineer | AI Engineer]
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
 - [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
@@ -1579,7 +1580,6 @@ This repo can serve as inspiration for your portfolio!
 - [Vm](https://vmthedev.web.app)
 - [Vu Nguyen](https://vunguyenit.site)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
-- [Vishal Sharma](https://snick0128.github.io/snick0128/) [Vishal]
 
 ## W
 
