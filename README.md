@@ -1018,7 +1018,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mustapha Nkhili](https://mustapha-nkhili.web.app)
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
-
+- [Mwaki Denis](https://mwakidenis.pages.dev) Prompt AI
 ## N
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
