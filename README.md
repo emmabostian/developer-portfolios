@@ -413,7 +413,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cian Goon](https://ciangoon.dev) [Software Engineer, Quant Developer]
 - [Ciro Ciampaglia](https://cirociampaglia.it)
 - [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
-- [Cleo Balaranjith](https://cleof.us) [High Schooler | Full Stack Developer | Aura Farmer]
+- [Cleo Balaranjith](https://cleof.us) [SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer]
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Clément Clix Garcia](https://clixmods.github.io) [Game Developer | Full Stack Developer]
 - [Codervai](https://codervai.vercel.app)
