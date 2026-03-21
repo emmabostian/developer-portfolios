@@ -785,6 +785,7 @@ This repo can serve as inspiration for your portfolio!
 ## K
 
 - [Kaiyu Hsu](https://kyh.io)
+- [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kalp Senghani](https://kalpsenghani.com) [‍ Full Stack Developer || Ai Engineer]
 - [Kamil Mazurek](https://kamilmazurek.pl)
