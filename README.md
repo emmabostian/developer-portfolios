@@ -272,7 +272,7 @@ This repo can serve as inspiration for your portfolio!
 - [Asmaa Abdul-Amin](https://asmaa.dev) [Software Engineering Student | Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
-- [Aswin](https://www.aswincloud.com) - Software Engineer
+- [Aswin](https://www.aswincloud.com) [Software Engineer]
 - [Atanas Atanasov](https://atanas.info)
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
