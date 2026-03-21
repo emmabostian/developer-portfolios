@@ -839,6 +839,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kushan Devarajegowda](https://ikushdev.github.io) [Software Developer | Software Engineer | Sde | Swe]
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [Full Stack Developer | Software Developer | Software Engineer | Student]
+- [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
 
