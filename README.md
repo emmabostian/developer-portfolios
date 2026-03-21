@@ -841,6 +841,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
+- [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 
 ## L
 
