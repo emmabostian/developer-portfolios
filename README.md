@@ -268,6 +268,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashish Narnoli](https://ashishnarnoli.com)
 - [Ashish Tomar](https://ashish-porfolio.vercel.app) [Frontend Developer]
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
+- [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Asmaa Abdul-Amin](https://asmaa.dev) [Software Engineering Student | Full Stack Developer]
