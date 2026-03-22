@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1539
+## Current Portfolio Count: 1545
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -378,6 +378,7 @@ This repo can serve as inspiration for your portfolio!
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
+- [Carlos Rojas](https://carlos-rojas-portfolio.vercel.app) [Full-Stack Developer | Aspiring Software Engineer]
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cedric Karungu](https://cedric-karungu.vercel.app)
 - [Cemal Türkcan](https://cemalturkcan.com)
@@ -541,6 +542,7 @@ This repo can serve as inspiration for your portfolio!
 - [Emmanuel Alabi](https://emjjkk.tech) [CS Student | Full Stack Web/App]
 - [Emmanuel Ziem Yaan-Tol](https://emmanuelmayne23.vercel.app)
 - [Enea Xharja](https://eneaxharja.com)
+- [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
@@ -1265,6 +1267,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ryan Burgess](http://ryanburgess.com)
 - [Ryan Chen](https://ryanyychen.github.io/portfolio) [Student]
 - [Ryan Fitton](https://ryanfitton.co.uk)
+- [Ryan Ma](https://yutengma.me/work-experience) [SoC Power Engineer At Apple]
 - [Ryan Maclean](http://ryanmaclean.com)
 - [Ryan Pereira](http://ryanpereira.me)
 
@@ -1313,6 +1316,7 @@ This repo can serve as inspiration for your portfolio!
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Samarth Kosta](https://xamarth.pp.ua)
 - [Sambhu Babu](https://sambhusbabu.com) [Frappe & ERPNext Developer]
+- [Sameer Agarwal](https://www.elite-lord.com/) [Computer Science Student | Software Intern]
 - [Sameer](https://sameer27.netlify.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
@@ -1402,6 +1406,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
 - [Shomi Khan](https://shomi-khan.github.io)
+- [Shrestha Mishra](https://shresthamishra.vercel.app/) [Software Engineer | CS @ University Of Texas At Austin]
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
 - [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
@@ -1507,6 +1512,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tomáš Đinh](https://tomasdinh.cz) [Full Stack Developer]
 - [Torben Korb](https://www.digital-creative.de)
 - [Travis Fischer](https://transitivebullsh.it)
+- [Trisha Darure](https://trishadar.github.io/Portfolio/#about) [Full-Stack Engineer]
 - [Tristan Chin](https://www.chintristan.io)
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Ahuja](https://tusharahuja.me) [Full Stack Developer]
