@@ -355,9 +355,9 @@
     "tagline": "Software Engineer"
   },
   {
-  "name": "Aditya Kumar",
-  "url": "https://portfolio0728.netlify.app/",
-  "tagline": "Full Stack Developer | AI/ML Engineer | Web, Mobile & Developer Tools Specialist"
+    "name": "Aditya Kumar",
+    "url": "https://portfolio0728.netlify.app/",
+    "tagline": "Full Stack Developer | AI/ML Engineer | Web, Mobile & Developer Tools Specialist"
   },
   {
     "name": "Aditya Chaudhary",
@@ -5995,6 +5995,11 @@
     "name": "Suraj Yadav",
     "url": "https://suraj-yadav0.github.io/terminal-portfolio/",
     "tagline": "Software Engineer | Ubuntu Touch Developer"
+  },
+  {
+    "name": "Suvojit Konar",
+    "url": "https://portfolio-ten-olive-gldao60wxb.vercel.app/",
+    "tagline": "Senior Software Engineer | Backend Developer | AI Enthusiast"
   },
   {
     "name": "Swaroop Vyawahare",
