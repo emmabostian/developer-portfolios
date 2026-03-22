@@ -959,7 +959,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mehdi Ali](https://exoo25.github.io)
 - [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
 - [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
-- [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer] 
+- [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvin Prince](https://melvinprince.io)
 - [Melvyn Malherbe](https://melvynx.com)
@@ -1369,6 +1369,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sezer](https://www.imsezer.com) [Machine Learning/Robotics Engineer, Photography Amateur]
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shafiuzzaman](https://shafisma.me) [Full Stack Developer | UI/UX]
+- [Shahan Arshad](https://shahan-arshad.github.io) [Full Stack Developer]
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
