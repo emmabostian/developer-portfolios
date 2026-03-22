@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
@@ -433,6 +434,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cui Ding](https://cuierd.github.io)
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 - [Cassiane Nascimento](https://cassymari.github.io/Portfolio-profissional/)
+
 ## D
 
 - [Daan Hessen](https://www.daanhessen.nl) [Software Developer]
@@ -1033,6 +1035,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
+
 ## N
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
@@ -1473,6 +1476,7 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Saad](https://syedsaad.dev) [Software Engineer]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
+- [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
 
 ## T
 
