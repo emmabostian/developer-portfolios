@@ -1042,6 +1042,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
+- [Naveen Kumar](https://naveenweb.site) [Full Stack Developer | MERN Stack]
 - [Nafas Ebrahimi](https://nafasebra.ir)
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Front-End Developer]
