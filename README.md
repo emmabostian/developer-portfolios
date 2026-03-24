@@ -1428,6 +1428,7 @@ This repo can serve as inspiration for your portfolio!
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Knott](https://simonknott.de)
+- [Simon Fereshetyan](https://fereshetyan.space) [Software Engineer / DevOps]
 - [Siva Vignesh](https://siva-vignesh.github.io/portfolio)
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
@@ -1481,7 +1482,6 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-- [Simon Fereshetyan](https://fereshetyan.space) [Software Engineer]
 
 ## T
 
