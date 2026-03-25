@@ -1468,6 +1468,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sunil Mahato](https://mahatosunil.com.np) [Android Developer | Kotlin]
 - [Supratik Bhowal](https://supratikb23.github.io) [Ai/Ml Student | Junior Researcher]
 - [Suraj Kumar Nanda](https://www.surajkumarnanda.com) [Senior DevOps Engineer]
+- [Suraj Savle](https://surajsavle.in) [Full Stack Developer]
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
 - [Suvojit Konar](https://portfolio-ten-olive-gldao60wxb.vercel.app/) [Senior Software Engineer | Backend Developer | AI Enthusiast]
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
