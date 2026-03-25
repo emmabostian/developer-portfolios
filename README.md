@@ -1430,6 +1430,7 @@ This repo can serve as inspiration for your portfolio!
 - [Siddharth](https://sudosidd.dev) [Game Developer]
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
+- [Simon Fereshetyan](https://fereshetyan.space) [Software Engineer / DevOps]
 - [Simon Knott](https://simonknott.de)
 - [Siva Vignesh](https://siva-vignesh.github.io/portfolio)
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
