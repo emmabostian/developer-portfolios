@@ -1183,7 +1183,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## Q
 
-- [Kevin Qi](https://kevqi.com) [Neurosecurity Researcher & Designer]
 - [Qui Nguyen](https://www.lexnguyen.dev)
 - [Quint Wessels](https://quintwessels.com)
 
