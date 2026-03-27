@@ -1622,9 +1622,9 @@ This repo can serve as inspiration for your portfolio!
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.vercel.app) [React Native Developer]
 - [Walkaisa](https://walkaisa.dev) [Full Stack Web & App Developer]
-- [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
 - [Walker Smith](https://walkersmith.me)
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
+- [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
 - [Wilson Costa](https://wilsoncosta-portfolio.vercel.app) [Backend Engineer | Full Stack Developer]
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
