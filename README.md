@@ -794,6 +794,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kaiyu Hsu](https://kyh.io)
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
+- [Kaligotla Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
 - [Kalp Senghani](https://kalpsenghani.com) [‍ Full Stack Developer || Ai Engineer]
 - [Kamil Mazurek](https://kamilmazurek.pl)
 - [Kamran Mushtaq](https://kamipresents.com) [Full Stack Developer]
