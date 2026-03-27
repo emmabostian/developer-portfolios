@@ -1098,6 +1098,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## O
 
+- [Omar Ashraf](https://portfollio-five-nu.vercel.app/) [Frontend Developer]
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
