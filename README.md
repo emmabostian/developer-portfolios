@@ -1580,6 +1580,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Vedas Dixit](https://vedas-desktop.vercel.app)
 - [Veerendra Dwivedi](https://veerendra-portfolio-seven.vercel.app) [ DevOps Engineer]
+- [Venkat Nurukurthi](https://venkatnurukurthi.info) [ Microsoft Endpoint Administrator | Full Stack Developer]
 - [Vertanzil](https://vertanzil.github.io)
 - [Vibhor Arya](https://vibhorarya12.vercel.app)
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
