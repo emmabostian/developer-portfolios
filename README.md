@@ -1449,6 +1449,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
 - [Sri Anjaneyam](https://srianjaneyam.me)
+- [Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
 - [Srihari Kulkarni](https://srihari-k-portfolio.vercel.app)
 - [Srijan Baniyal](https://srijanbaniyal.com) [Full Stack Developer]
 - [Ste O'Neill](https://steoneill.dev)
