@@ -1583,6 +1583,7 @@ This repo can serve as inspiration for your portfolio!
 - [Venkat Nurukurthi](https://venkatnurukurthi.info) [ Microsoft Endpoint Administrator | Full Stack Developer]
 - [Vertanzil](https://vertanzil.github.io)
 - [Vibhor Arya](https://vibhorarya12.vercel.app)
+- [Victor Vento](https://victorvento.net) [Software Developer | .NET and JavaScript]
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vighnesh Raut](https://vighnesh153.dev)
 - [Vigneshwaran Balamurugan](https://vigneshwaran.tech) [Associate Engineer | Backend Developer]
