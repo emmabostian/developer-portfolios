@@ -1098,12 +1098,12 @@ This repo can serve as inspiration for your portfolio!
 
 ## O
 
-- [Omar Ashraf](https://portfollio-five-nu.vercel.app/) [Frontend Developer]
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
 - [Om Takale](https://omtakale.vercel.app)
 - [Om](https://omchaudhari1107.github.io)
+- [Omar Ashraf](https://portfollio-five-nu.vercel.app/) [Frontend Developer]
 - [Omar Emad(Om3X4](https://om3x4.com) [Full Stack Developer]
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omargpax](https://omargpax.pages.dev)
