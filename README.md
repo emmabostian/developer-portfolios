@@ -1305,6 +1305,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sagar Gupta](https://sagargupta.online/portfolio-react/) [Cloud Consultant at AWS | Full Stack Developer]
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
+- [Sahil Bajaj](https://sahilbajajportfolio.vercel.app) .[Full Stack Developer]
 - [Sahil Bhatane](https://sahilbhatane.vercel.app) [Ai/Ml Engineer]
 - [Sahil Khan](https://sahil-site-chi.vercel.app) [Full Stack Developer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
