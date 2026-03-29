@@ -896,6 +896,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## M
 
+- [Maruf Hasan](https://itsmaruf.me/) [Android Developer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
