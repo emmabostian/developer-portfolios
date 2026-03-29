@@ -903,10 +903,10 @@ This repo can serve as inspiration for your portfolio!
 - [Mads Hougesen](https://mhouge.dk)
 - [Maduakor Emmanuel](https://emmajs.vercel.app)
 - [Madza](https://www.madza.dev)
+- [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
 - [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
-- [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com) [Machine Learning Engineer]
 - [Makechi Eric](https://love-makechi.web.app)
 - [Malay Patra](https://malaypatrav2.vercel.app) [Full Stack Developer]
