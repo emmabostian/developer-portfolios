@@ -545,6 +545,7 @@ This repo can serve as inspiration for your portfolio!
 - [Emmanuel Adekplovi](https://homescriptone.com)
 - [Emmanuel Alabi](https://emjjkk.tech) [CS Student | Full Stack Web/App]
 - [Emmanuel Ziem Yaan-Tol](https://emmanuelmayne23.vercel.app)
+- [Emre Akçadağ](https://akcadag.dev) [Mobile Developer | Android & Flutter]
 - [Enea Xharja](https://eneaxharja.com)
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
