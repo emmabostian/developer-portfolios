@@ -477,6 +477,7 @@ This repo can serve as inspiration for your portfolio!
 - [Denil Dominic](https://portfolio.denil-dominic.com)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
+- [Derek Chen](https://www.derekchen.dev/)
 - [Dev Jadiya](https://dev-jadiya.web.app)
 - [Dev Mir](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
