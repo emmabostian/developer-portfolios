@@ -1213,6 +1213,7 @@ This repo can serve as inspiration for your portfolio!
 - [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
+- [Rajesh Pal](https://rajs.app/) [Fullstack Developer | AI Enthusiast]
 - [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
 - [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
 - [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
