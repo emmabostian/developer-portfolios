@@ -1668,6 +1668,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yog Prajapati](https://yog.zentor.site) [Ai Developer | Full Stack]
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
+- [Yaner Firenze](https://firenze42.com/en) [Growth, SEO/GEO, Product Workflows]
 - [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np) (Full Stack/Ai Developer)
