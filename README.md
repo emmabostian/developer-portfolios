@@ -1185,6 +1185,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pruthviraj Mundargi](https://pruthviraj-guddu.github.io)
 - [Puja Sridhar](https://pujasridhar.github.io) [Interactive Rag-Powered Terminal And Gui Portfolio.]
 - [Purnank Jadhav](https://purnankjadhav-portfolio.vercel.app) [Front-End Engineer]
+- [Purnendu Samanta](https://purnendusamanta.github.io/MyPortfolio/) [Android Application Developer | Flutter Developer]
 - [Purv Kabaria](https://purvkabaria.netlify.app)
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
