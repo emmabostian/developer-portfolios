@@ -603,6 +603,11 @@
     "url": "https://alexandros.tech"
   },
   {
+    "name": "Alexandre Fernandes",
+    "url": "https://alexandrefernandes.dev",
+    "tagline": "Software Engineer | AI/ML & Full Stack"
+  },
+  {
     "name": "Alexandre Trotel",
     "url": "https://www.alexandretrotel.org"
   },
@@ -1323,6 +1328,11 @@
     "url": "http://Becca.is"
   },
   {
+    "name": "Bechir Lahoueg",
+    "url": "https://www.bechirlahoueg.tech",
+    "tagline": "Full Stack Developer | React & Node.js"
+  },
+  {
     "name": "Befikir Shimelis",
     "url": "https://squidwardcodes.web.app",
     "tagline": "Full Stack Developer | Software Engineering Student"
@@ -1546,6 +1556,11 @@
     "name": "Caiovisuals",
     "url": "https://www.caiovisuals.com",
     "tagline": "Front-End Developer"
+  },
+  {
+    "name": "Camil Bradea",
+    "url": "https://bradeac.dev",
+    "tagline": "Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS"
   },
   {
     "name": "Capt Michael",
@@ -1963,13 +1978,12 @@
     "url": "https://denncriss.com"
   },
   {
-    "name": "Dev Jadiya",
-    "url": "https://dev-jadiya.web.app"
+    "name": "Derek Chen",
+    "url": "https://www.derekchen.dev"
   },
   {
-    "name": "Dev Mir",
-    "url": "https://www.mrwajahatalimir.com",
-    "tagline": "App Developer | Python Programmer | Android Enthusiast"
+    "name": "Dev Jadiya",
+    "url": "https://dev-jadiya.web.app"
   },
   {
     "name": "Dev Patel",
@@ -2238,6 +2252,11 @@
   {
     "name": "Emmanuel Ziem Yaan-Tol",
     "url": "https://emmanuelmayne23.vercel.app"
+  },
+  {
+    "name": "Emre Akçadağ",
+    "url": "https://akcadag.dev",
+    "tagline": "Mobile Developer | Android & Flutter"
   },
   {
     "name": "Enea Xharja",
@@ -3256,6 +3275,11 @@
     "url": "http://kaleighscruggs.com"
   },
   {
+    "name": "Kaligotla Sri Datta Sai Vithal",
+    "url": "https://sridattasai18.github.io/Neo-folio/",
+    "tagline": "Full Stack Developer / Gen AI Engineer"
+  },
+  {
     "name": "Kalp Senghani",
     "url": "https://kalpsenghani.com",
     "tagline": "‍ Full Stack Developer || Ai Engineer"
@@ -3458,6 +3482,11 @@
     "name": "Krupal Sanchaniya",
     "url": "https://krupal-portfolio.vercel.app",
     "tagline": "Software Developer"
+  },
+  {
+    "name": "Krushna Rathod",
+    "url": "https://krushna.gridly.xyz",
+    "tagline": "UI/UX Designer"
   },
   {
     "name": "Ksv Muralidhar",
@@ -3703,6 +3732,11 @@
     "url": "https://www.madza.dev"
   },
   {
+    "name": "Mahatab Hossen Sudip",
+    "url": "https://sudipmhx.pro.bd",
+    "tagline": "MERN Stack Developer"
+  },
+  {
     "name": "Mahdi.Is-A.Dev",
     "url": "http://mahdi.is-a.dev"
   },
@@ -3763,8 +3797,8 @@
   },
   {
     "name": "Manikanta Darapureddy",
-    "url": "https://dmanikanta.site",
-    "tagline": "Ai Full Stack Developer"
+    "url": "https://manikantadarapureddy.in",
+    "tagline": "AI Engineer | Full Stack Engineer"
   },
   {
     "name": "Manish Kumar Dholpuriya",
@@ -4372,11 +4406,6 @@
     "tagline": "Full Stack Developer"
   },
   {
-    "name": "Nayan Radadiya",
-    "url": "https://nayan-raddiya.netlify.app",
-    "tagline": "Front-End Developer | Front-End Focus Full Stack"
-  },
-  {
     "name": "Nazia Shehnaz Joynab",
     "url": "https://geek-a-byte.github.io"
   },
@@ -4568,6 +4597,11 @@
   {
     "name": "Om",
     "url": "https://omchaudhari1107.github.io"
+  },
+  {
+    "name": "Omar Ashraf",
+    "url": "https://portfollio-five-nu.vercel.app",
+    "tagline": "Frontend Developer"
   },
   {
     "name": "Omar Emad(Om3X4",
@@ -4975,6 +5009,11 @@
     "url": "https://rajekevin.fr"
   },
   {
+    "name": "Rajesh Pal",
+    "url": "https://rajs.app",
+    "tagline": "Full Stack Developer | AI Enthusiast"
+  },
+  {
     "name": "Rajiv Mahto",
     "url": "https://rajiv-portfolio-dev.vercel.app",
     "tagline": "Software Engineer | Python, Django, Automation"
@@ -5379,6 +5418,10 @@
   {
     "name": "Sagar Mude",
     "url": "https://sagarmude.netlify.app"
+  },
+  {
+    "name": "Sahil Bajaj",
+    "url": "https://sahilbajajportfolio.vercel.app"
   },
   {
     "name": "Sahil Bhatane",
@@ -6570,6 +6613,11 @@
     "url": "https://vibhorarya12.vercel.app"
   },
   {
+    "name": "Victor Vento",
+    "url": "https://victorvento.net",
+    "tagline": "Software Developer | .NET and JavaScript"
+  },
+  {
     "name": "Vidushan Chooriyakumaran",
     "url": "https://vidu.sh/an"
   },
@@ -6742,6 +6790,11 @@
     "name": "Wesker Shek",
     "url": "https://weskershek.com",
     "tagline": "Full Stack/Creative Developer"
+  },
+  {
+    "name": "Whilmar Bitoco",
+    "url": "https://whilmarbitoco.vercel.app",
+    "tagline": "Software Developer | Web & Cloud"
   },
   {
     "name": "William Thanh Long",

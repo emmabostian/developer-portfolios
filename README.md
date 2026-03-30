@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1575
+## Current Portfolio Count: 1589
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -322,7 +322,7 @@ This repo can serve as inspiration for your portfolio!
 - [Baymax](https://www.sitaramoli.com.np)
 - [Beatriz Neaime](https://beatrizneaime.com) [Full Stack Web Developer]
 - [Becca Bailey](http://Becca.is)
-- [Bechir Lahoueg](https://www.bechirlahoueg.tech/) [Full-Stack Developer | React & Node.js]
+- [Bechir Lahoueg](https://www.bechirlahoueg.tech) [Full Stack Developer | React & Node.js]
 - [Befikir Shimelis](https://squidwardcodes.web.app) [Full Stack Developer | Software Engineering Student]
 - [Bejagam Nithilesh](https://nithilesh.vercel.app)
 - [Bekah Hawrot Weigel](http://bekahhw.github.io)
@@ -378,7 +378,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
-- [Camil Bradea](https://bradeac.dev) [Senior Full-stack Engineer | TypeScript, React, Laravel, Docker, AWS]
+- [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
@@ -478,9 +478,8 @@ This repo can serve as inspiration for your portfolio!
 - [Denil Dominic](https://portfolio.denil-dominic.com)
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
-- [Derek Chen](https://www.derekchen.dev/)
+- [Derek Chen](https://www.derekchen.dev)
 - [Dev Jadiya](https://dev-jadiya.web.app)
-- [Dev Mir](https://www.mrwajahatalimir.com) [App Developer | Python Programmer | Android Enthusiast]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
@@ -1060,7 +1059,6 @@ This repo can serve as inspiration for your portfolio!
 - [Naveed Sohail Gung](https://naveed-gung.dev) [Software Engineer]
 - [Naveen Kumar](https://naveenweb.site) [Full Stack Developer | MERN Stack]
 - [NaveenKumar](https://naveenkumarm.space) [Full Stack Developer]
-- [Nayan Radadiya](https://nayan-raddiya.netlify.app) [Front-End Developer | Front-End Focus Full Stack]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
@@ -1109,7 +1107,7 @@ This repo can serve as inspiration for your portfolio!
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
 - [Om Takale](https://omtakale.vercel.app)
 - [Om](https://omchaudhari1107.github.io)
-- [Omar Ashraf](https://portfollio-five-nu.vercel.app/) [Frontend Developer]
+- [Omar Ashraf](https://portfollio-five-nu.vercel.app) [Frontend Developer]
 - [Omar Emad(Om3X4](https://om3x4.com) [Full Stack Developer]
 - [Omar Gastón Chalas](https://ogaston.com)
 - [Omargpax](https://omargpax.pages.dev)
@@ -1215,7 +1213,7 @@ This repo can serve as inspiration for your portfolio!
 - [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
-- [Rajesh Pal](https://rajs.app/) [Fullstack Developer | AI Enthusiast]
+- [Rajesh Pal](https://rajs.app) [Full Stack Developer | AI Enthusiast]
 - [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
 - [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
 - [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
