@@ -200,6 +200,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
+- [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Andrii Zontov](https://lwjerri.dev)
 - [André De Faria](https://andredfaria.github.io)
 - [André Souza](https://an3dree.dev) [Backend Developer]
