@@ -638,6 +638,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gokul](https://gokul.ink) - [Front end Engineer]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
+- [Gunasree R](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
 - [Gunjan Ghate](http://techggdev.vercel.app) - [Full Stack Web2/Web3 Developer]
 - [Gustavo Gutierrez](https://gutierrez-cv.vercel.app) - [Fullstack/Ai&Ml Developer]
 - [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
