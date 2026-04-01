@@ -1,0 +1,50 @@
+# Lychee link checker configuration
+# This configuration helps reduce false positives and handles SSL certificate issues
+
+# Accept these HTTP status codes as valid
+accept = [200, 201, 204, 301, 302, 307, 308, 403, 429]
+
+# Timeout for each request (in seconds)
+timeout = 20
+
+# Maximum number of retries per link
+max_retries = 3
+
+# Number of concurrent network requests
+max_concurrency = 10
+
+# Retry wait time between attempts (in seconds)
+retry_wait_time = 2
+
+# Set a custom User-Agent to avoid being blocked as a bot
+user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+# Accept invalid SSL/TLS certificates (helps with certificate errors)
+insecure = true
+
+# Follow redirects
+max_redirects = 10
+
+# Include verbosity for better debugging (only effective with --verbose flag)
+verbose = "error"
+
+# Cache results to speed up subsequent runs
+cache = true
+
+# Exclude certain URL patterns (in addition to .lycheeignore file)
+# These are handled by the .lycheeignore file
+
+# HTTP method to use for checking links
+method = "get"
+
+
+# Additional headers to send with requests (helps avoid bot detection)
+[header]
+Accept = "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+Accept-Language = "en-US,en;q=0.5"
+Accept-Encoding = "gzip, deflate, br"
+DNT = "1"
+Connection = "keep-alive"
+Upgrade-Insecure-Requests = "1"
+
+
