@@ -1549,8 +1549,8 @@ This repo can serve as inspiration for your portfolio!
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
 
 ## U
-
 - [Ubeyidah](https://ubeyidah.tech)
+- [Uday Ahire](https://udayahireexe.vercel.app/) [Design Engineer | Frontend Developer]
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app)
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uday](https://portfoliov3-puce.vercel.app) [React, Typescript, Tailwindcss, Node.Js]
