@@ -307,6 +307,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | AI-ML Engineer]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
+- [Arka Mahajan](https://arkamahajan.in/) [Robotics Engineer | IOT Enthusiast]
 
 ## B
 
