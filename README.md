@@ -29,8 +29,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
 - [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
-- [Aadeb](https://devdebpriyo.vercel.app/)[Web & App developer & designer]
-- [Aadebpriyo Ghosal](https://devdebpriyo.vercel.app/) [Web Developer & Designer]
+- [Aadeb](https://devdebpriyo.vercel.app)[Web & App developer & designer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
@@ -200,7 +199,6 @@ This repo can serve as inspiration for your portfolio!
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
-- [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Andrii Zontov](https://lwjerri.dev)
 - [André De Faria](https://andredfaria.github.io)
 - [André Souza](https://an3dree.dev) [Backend Developer]
@@ -211,6 +209,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aniket Joshi](https://aniketj.dev) [Software Architect]
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
+- [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
 - [Anish Biswas](https://anish7.me) [Full Stack Dev]
 - [Ankit Dey](https://dub.sh/ankitdey)
@@ -638,7 +637,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gokul](https://gokul.ink) - [Front end Engineer]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
-- [Gunasree R](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
+- [Gunasree](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
 - [Gunjan Ghate](http://techggdev.vercel.app) - [Full Stack Web2/Web3 Developer]
 - [Gustavo Gutierrez](https://gutierrez-cv.vercel.app) - [Fullstack/Ai&Ml Developer]
 - [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
@@ -1551,7 +1550,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## U
 - [Ubeyidah](https://ubeyidah.tech)
-- [Uday Ahire](https://udayahireexe.vercel.app/) [Design Engineer | Frontend Developer]
+- [Uday Ahire](https://udayahireexe.vercel.app) [Design Engineer | Frontend Developer]
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app)
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uday](https://portfoliov3-puce.vercel.app) [React, Typescript, Tailwindcss, Node.Js]
