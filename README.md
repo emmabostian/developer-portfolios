@@ -1170,6 +1170,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pol Gubau Amores](https://polgubau.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
+- [Poorvaj Hinge](https://poorvajhinge.vercel.app/) [DevOps and AIOps Software Engineer]
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
