@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1589
+## Current Portfolio Count: 1600
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -26,19 +26,12 @@ This repo can serve as inspiration for your portfolio!
 ## A
 
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
-- [Aaaaby Alik](https://toukoum.fr) [AI Sofware Engineer]
-- [Aaababhy Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Aabraham James](https://seera.framer.website)
-- [Aadeb](https://devdebpriyo.vercel.app)[Web & App developer & designer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
-- [Aalim](https://zunedaalim.com) [Full Stack Web Developer]
-- [Aamir Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
-- [Aaparth Sharma](https://parthh.in) [Full Stack Developer | Founder @Rune]
-- [Aaparth Sharma](https://parthsharma.me) [Full Stack & Ui/Ux Designer • Founder @ Rune]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
 - [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
@@ -48,10 +41,9 @@ This repo can serve as inspiration for your portfolio!
 - [Aashutosh Rathi](https://aashutosh.dev)
 - [Aathif Zahir](https://az-dev.vercel.app)
 - [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
-- [Aayush](https://ayushcmd.me) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
 - [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
-- [Aayush Bharti](https://aayushbharti.in) [Developer | Freelancer | Problem Solver]
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
+- [Aayush Raj](https://ayushcmd.me) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abbas Raza](https://abbasraza.dev) [Software Engineer | Freelancer | AI & Blockchain Enthusiast]
 - [Abdelaziz El Arassi](http://aelarassi.com)
@@ -247,6 +239,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aries Chang](https://ariesjchang.com) [Software Engineer]
 - [Arjad Gohar](https://arjad-portfolio.netlify.app) [Full Stack Developer]
 - [Arjun Ganesan](https://arjunganesan.com)
+- [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
 - [Armel Munyaneza](https://munyaneza.vercel.app)
 - [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
 - [Arsh Sahzad](https://www.arsh.dev)
@@ -308,7 +301,12 @@ This repo can serve as inspiration for your portfolio!
 - [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | AI-ML Engineer]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
-- [Arka Mahajan](https://arkamahajan.in/) [Robotics Engineer | IOT Enthusiast]
+- [Debpriyo Ghosal](https://devdebpriyo.vercel.app)[Web & App developer & designer]
+- [Muhammad Aamir Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
+- [Parth Sharma](https://parthsharma.me) [Full Stack & Ui/Ux Designer • Founder @ Rune]
+- [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
+- [Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
+- [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 
 ## B
 
@@ -1172,7 +1170,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pol Gubau Amores](https://polgubau.com)
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
-- [Poorvaj Hinge](https://poorvajhinge.vercel.app/) [DevOps and AIOps Software Engineer]
+- [Poorvaj Hinge](https://poorvajhinge.vercel.app) [DevOps and AIOps Software Engineer]
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
