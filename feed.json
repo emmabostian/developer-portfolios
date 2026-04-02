@@ -5,22 +5,8 @@
     "tagline": "Software Engineer"
   },
   {
-    "name": "Aaaaby Alik",
-    "url": "https://toukoum.fr",
-    "tagline": "AI Sofware Engineer"
-  },
-  {
-    "name": "Aaababhy Redoyanul Haque",
-    "url": "https://www.redoyanulhaque.me",
-    "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
-  },
-  {
     "name": "Aabraham James",
     "url": "https://seera.framer.website"
-  },
-  {
-    "name": "Aadeb",
-    "url": "https://devdebpriyo.vercel.app"
   },
   {
     "name": "Aaditya Domle",
@@ -45,26 +31,6 @@
     "name": "Aakhand Tajmirul",
     "url": "https://www.tajmirul.site",
     "tagline": "Frontend Engineer"
-  },
-  {
-    "name": "Aalim",
-    "url": "https://zunedaalim.com",
-    "tagline": "Full Stack Web Developer"
-  },
-  {
-    "name": "Aamir Malik",
-    "url": "https://www.muhammadaamirmalik.com",
-    "tagline": "Full Stack Hybride App Developer"
-  },
-  {
-    "name": "Aaparth Sharma",
-    "url": "https://parthh.in",
-    "tagline": "Full Stack Developer | Founder @Rune"
-  },
-  {
-    "name": "Aaparth Sharma",
-    "url": "https://parthsharma.me",
-    "tagline": "Full Stack & Ui/Ux Designer • Founder @ Rune"
   },
   {
     "name": "Aarab Nishchal",
@@ -111,14 +77,14 @@
     "tagline": "Developer | Freelancer | Problem Solver"
   },
   {
-    "name": "Aayush Bharti",
-    "url": "https://aayushbharti.in",
-    "tagline": "Developer | Freelancer | Problem Solver"
-  },
-  {
     "name": "Aayush Mishra",
     "url": "https://aayush-mishra.xyz",
     "tagline": "Front-End Developer"
+  },
+  {
+    "name": "Aayush Raj",
+    "url": "https://ayushcmd.me",
+    "tagline": "Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer"
   },
   {
     "name": "Aayush Sood",
@@ -715,6 +681,11 @@
     "tagline": "Frontend Developer | Angular Expert"
   },
   {
+    "name": "Amit Kumar Raj",
+    "url": "https://amitkumarraj.vercel.app",
+    "tagline": "Full Stack Developer | MERN"
+  },
+  {
     "name": "Amit Sah",
     "url": "https://amit-sah.com.np",
     "tagline": "Ios Developer | Backend Engineer (Node.Js, Llms) | Cloud Computing"
@@ -1002,6 +973,11 @@
     "url": "https://arjunganesan.com"
   },
   {
+    "name": "Arka Mahajan",
+    "url": "https://arkamahajan.in",
+    "tagline": "Robotics Engineer | IOT Enthusiast"
+  },
+  {
     "name": "Armel Munyaneza",
     "url": "https://munyaneza.vercel.app"
   },
@@ -1268,6 +1244,35 @@
     "name": "Azel",
     "url": "https:omargpax.vercel.app",
     "tagline": "Software Developer - Full Stack"
+  },
+  {
+    "name": "Debpriyo Ghosal",
+    "url": "https://devdebpriyo.vercel.app"
+  },
+  {
+    "name": "Muhammad Aamir Malik",
+    "url": "https://www.muhammadaamirmalik.com",
+    "tagline": "Full Stack Hybride App Developer"
+  },
+  {
+    "name": "Parth Sharma",
+    "url": "https://parthsharma.me",
+    "tagline": "Full Stack & Ui/Ux Designer • Founder @ Rune"
+  },
+  {
+    "name": "Raphaël Giraud",
+    "url": "https://toukoum.fr",
+    "tagline": "AI Sofware Engineer"
+  },
+  {
+    "name": "Redoyanul Haque",
+    "url": "https://www.redoyanulhaque.me",
+    "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
+  },
+  {
+    "name": "Zuned Aalim",
+    "url": "https://zunedaalim.com",
+    "tagline": "Full Stack Web Developer"
   },
   {
     "name": "Badhon Ai",
@@ -4033,6 +4038,11 @@
     "tagline": "Creative Frontend Developer & Designer"
   },
   {
+    "name": "Meet Prajapati",
+    "url": "https://meetprajapati.com",
+    "tagline": "Lead Mobile Engineer | Android, AI, Flutter, React Native"
+  },
+  {
     "name": "Meet Vipul Gandhi",
     "url": "https://portfolio-nu-lovat-90.vercel.app/project",
     "tagline": "Software Developer"
@@ -4843,6 +4853,11 @@
   {
     "name": "Poonam Chauhan",
     "url": "https://poo17nam.github.io/profile"
+  },
+  {
+    "name": "Poorvaj Hinge",
+    "url": "https://poorvajhinge.vercel.app",
+    "tagline": "DevOps and AIOps Software Engineer"
   },
   {
     "name": "Prajwol Karki",
@@ -6027,7 +6042,8 @@
   },
   {
     "name": "Siraj AL Zahran",
-    "url": "https://sirajalzahran.com"
+    "url": "https://sirajalzahran.com",
+    "tagline": "Software Engineer | Tech Artisan"
   },
   {
     "name": "Siva Vignesh",
