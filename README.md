@@ -1042,6 +1042,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muhammad Tayyab](https://iamtayyab.com) [Full Stack Software Engineer]
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammad Uzair Khan](https://uzairkhan.tech)
+- [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
