@@ -1021,6 +1021,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mohit Joe](https://mohitjoe.vercel.app)
 - [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps]
 - [Mohit Paudyal](https://findmohit.netlify.app)
+- [Mohit Verma](https://mohitverma.codes)
 - [Mohit Shrivastava](https://iamohit.com) [Senior Full Stack Engineer | Next.js Specialist]
 - [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
 - [Moin Sheikh](https://moinsheikh.in) [Full Stack Developer | AI Innovator]
