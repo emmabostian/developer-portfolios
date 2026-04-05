@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1600
+## Current Portfolio Count: 1604
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -58,8 +58,8 @@ This repo can serve as inspiration for your portfolio!
 - [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Full Stack Developer | 3D Web Specialist]
 - [Abdul Samad](https://samadd.vercel.app) [Software Developer]
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
-- [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Ahmed](https://abdallaahmed.icu) [Full Stack Developer]
+- [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
 - [Abdullah James](https://portfolio-website-abdullah-jamess.vercel.app) [Ai | Full Stack Developer]
@@ -539,7 +539,6 @@ This repo can serve as inspiration for your portfolio!
 - [Elango](https://elangodev.com)
 - [Electric Magic Factory](https://electricmagicfactory.com/en)
 - [Elgratio](https://elgratiofc.vercel.app) [Full Stack Developer]
-- [Eliah Hango](https://www.elitechwiz.site) [Full Stack Developer| Cyber Security Expert & Civil Engineer]
 - [Elio Jordan Lopes](https://developer.vercel.app)
 - [Elliot Négrel-Jerzy](https://bsodium.fr)
 - [Elmo Nickol](https://elmonickcool.vercel.app)
@@ -714,7 +713,6 @@ This repo can serve as inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
 - [Iulian Rotaru](https://iulian.rotaru.fr)
-- [Iya Said Bah](https://www.iyabahsaid.site) [Full Stack(Nextjs) | Api Developer]
 
 ## J
 
@@ -1022,8 +1020,8 @@ This repo can serve as inspiration for your portfolio!
 - [Mohit Joe](https://mohitjoe.vercel.app)
 - [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps]
 - [Mohit Paudyal](https://findmohit.netlify.app)
-- [Mohit Verma](https://mohitverma.codes)
 - [Mohit Shrivastava](https://iamohit.com) [Senior Full Stack Engineer | Next.js Specialist]
+- [Mohit Verma](https://mohitverma.codes)
 - [Mohsin Raz](https://www.mohsinraz.me) [Full Stack Developer | Ai Automation]
 - [Moin Sheikh](https://moinsheikh.in) [Full Stack Developer | AI Innovator]
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
@@ -1035,6 +1033,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mufida Andi](https://heymufi.com) [Software Engineer | Frontend]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
 - [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
+- [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
 - [Muhammad Iqbal Nazulis](https://iqbalnzls.github.io/portfolio/) [Software Engineer | Backend]
 - [Muhammad Jahanzeb](https://jahanzeb.dev) [Mobile App Developer | React Native | Expo | Kotlin | NodeJS]
 - [Muhammad Muhaddis](https://muhaddis.info)
@@ -1044,7 +1043,6 @@ This repo can serve as inspiration for your portfolio!
 - [Muhammad Tayyab](https://iamtayyab.com) [Full Stack Software Engineer]
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammad Uzair Khan](https://uzairkhan.tech)
-- [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
@@ -1289,7 +1287,6 @@ This repo can serve as inspiration for your portfolio!
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
-- [Ruhban Abdullah](https://developerruhban.com)
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
