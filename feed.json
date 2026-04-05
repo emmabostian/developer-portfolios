@@ -151,13 +151,13 @@
     "tagline": "Mobile Developer"
   },
   {
-    "name": "Abdullah Ayoola",
-    "url": "https://ayooladev.vercel.app"
-  },
-   {
     "name": "Abdullah Ahmed",
     "url": "https://abdallaahmed.icu",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Abdullah Ayoola",
+    "url": "https://ayooladev.vercel.app"
   },
   {
     "name": "Abdullah Bozdağ",
@@ -2151,6 +2151,11 @@
     "tagline": "Full Stack Developer"
   },
   {
+    "name": "Dipanshu Singh",
+    "url": "https://dipanshusingh.vercel.app",
+    "tagline": "Full Stack · AI Engineer"
+  },
+  {
     "name": "Divyansh Kathuria",
     "url": "https://divyanshkathuria.netlify.app"
   },
@@ -2220,11 +2225,6 @@
     "name": "Elgratio",
     "url": "https://elgratiofc.vercel.app",
     "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Eliah Hango",
-    "url": "https://www.elitechwiz.site",
-    "tagline": "Full Stack Developer| Cyber Security Expert & Civil Engineer"
   },
   {
     "name": "Elio Jordan Lopes",
@@ -2936,11 +2936,6 @@
     "url": "https://iulian.rotaru.fr"
   },
   {
-    "name": "Iya Said Bah",
-    "url": "https://www.iyabahsaid.site",
-    "tagline": "Full Stack(Nextjs) | Api Developer"
-  },
-  {
     "name": "Jack Parsons",
     "url": "https://jackparsonss.me"
   },
@@ -3525,6 +3520,11 @@
     "name": "Kuchizu",
     "url": "https://kuchizu.com",
     "tagline": "DevOps Engineer"
+  },
+  {
+    "name": "Kuei Poch Kuei",
+    "url": "http://kueiyiee-portfolio.vercel.app",
+    "tagline": "Full Stack Dev and Creative Thinker"
   },
   {
     "name": "Kuldeepsinh Jadeja",
@@ -4249,6 +4249,10 @@
     "tagline": "Senior Full Stack Engineer | Next.js Specialist"
   },
   {
+    "name": "Mohit Verma",
+    "url": "https://mohitverma.codes"
+  },
+  {
     "name": "Mohsin Raz",
     "url": "https://www.mohsinraz.me",
     "tagline": "Full Stack Developer | Ai Automation"
@@ -4300,6 +4304,10 @@
     "name": "Muhammad Faheem Iqbal Faheem506Pk",
     "url": "https://faheem506pk.vercel.app",
     "tagline": "Frontend Developer | Mern Stack Developer | Iot Enthusiast"
+  },
+  {
+    "name": "Muhammad Hassan Nazar",
+    "url": "https://hassannazar72.github.io/portfolio/"
   },
   {
     "name": "Muhammad Iqbal Nazulis",
@@ -5329,10 +5337,6 @@
     "tagline": "Researcher | Engineer"
   },
   {
-    "name": "Ruhban Abdullah",
-    "url": "https://developerruhban.com"
-  },
-  {
     "name": "Rumman Srummanf",
     "url": "https://srummanf.vercel.app"
   },
@@ -6084,7 +6088,7 @@
   {
     "name": "Somenath Sau",
     "url": "https://somenathsau.github.io",
-    "tagline": "Data Analyst with Gen AI"
+    "tagline": "Data Analyst | gen AI | Cloud"
   },
   {
     "name": "Sonu Hansda",
@@ -6113,6 +6117,10 @@
   {
     "name": "Sourabh Kothari",
     "url": "https://sourabhkothari.vercel.app"
+  },
+  {
+    "name": "Sourav Dey",
+    "url": "https://souravdey.space"
   },
   {
     "name": "Sourav Dutta",
