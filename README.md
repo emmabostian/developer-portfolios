@@ -1469,6 +1469,7 @@ This repo can serve as inspiration for your portfolio!
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app)
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
+- [Sourav Dey](https://souravdey.space)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
 - [Sparsh Kamat](http://sparshkamat.me) [Full Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
