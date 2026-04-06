@@ -67,6 +67,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdullah Warraich](https://abdullah-warraich-ch.vercel.app)
 - [Abdur Rahman](https://itsmeabdur.in) [Full Stack developer]
 - [Abdusamad Malikov](https://www.abdusamad.uz)
+- [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abhay Rana](https://abhayrana.com) [Full Stack Developer]
 - [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
 - [Abhijeet Singh Parihar](https://abhijeet-singh-parihar-portfolio.vercel.app) [Software Engineer]
@@ -83,7 +84,6 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Panchal](https://skillstackpanchal.vercel.app)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abhishek Sah](https://www.abhisheksah.dev) [Software Engineer]
-- [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
 - [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
