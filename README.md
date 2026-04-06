@@ -497,6 +497,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dhvanit Monpara](https://dhvanitmonpara.in) [Full Stack Developer]
 - [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & Ui/Ux Designer]
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
+- [Diana Pontes](https://martineoficial-portfolio.vercel.app/) [Software Engineering Analyst | Full Stack Developer]
 - [Dick Wyn Yong](https://dickwyn.xyz)
 - [Digbijaya Lenka](https://digbijayalenka.vercel.app) [Full Stack Developer]
 - [Digin Dominic](https://digindominic.me)
