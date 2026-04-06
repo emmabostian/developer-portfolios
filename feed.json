@@ -1,5 +1,275 @@
 [
   {
+    "name": "Cade Kynaston",
+    "url": "https://cade.codes"
+  },
+  {
+    "name": "Caiovisuals",
+    "url": "https://www.caiovisuals.com",
+    "tagline": "Front-End Developer"
+  },
+  {
+    "name": "Camil Bradea",
+    "url": "https://bradeac.dev",
+    "tagline": "Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS"
+  },
+  {
+    "name": "Capt Michael",
+    "url": "https://captmichael.dev",
+    "tagline": "Mern Full Stack Developer"
+  },
+  {
+    "name": "Carlos Dubón",
+    "url": "https://carlosdubon.dev"
+  },
+  {
+    "name": "Carlos Gutierrez",
+    "url": "https://cargdev.io",
+    "tagline": "Senior Full Stack Engineer | Python, Typescript, Distributed Systems"
+  },
+  {
+    "name": "Carlos Rojas",
+    "url": "https://carlos-rojas-portfolio.vercel.app",
+    "tagline": "Full Stack Developer | Aspiring Software Engineer"
+  },
+  {
+    "name": "Cassiane Nascimento",
+    "url": "https://cassymari.github.io/Portfolio-profissional/"
+  },
+  {
+    "name": "Cecelia Martinez",
+    "url": "http://ceceliacreates.com"
+  },
+  {
+    "name": "Cedric Karungu",
+    "url": "https://cedric-karungu.vercel.app"
+  },
+  {
+    "name": "Cemal Türkcan",
+    "url": "https://cemalturkcan.com"
+  },
+  {
+    "name": "Cesar Gonzalez Anaya",
+    "url": "https://www.caesarcode.com.mx/index.html",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Chaitanya Sai Meka",
+    "url": "https://chaitanya-sai-meka.vercel.app",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Chambrin Alexandre",
+    "url": "https://chambrin.dev"
+  },
+  {
+    "name": "Chamindu Wn",
+    "url": "https://chamindu-wn.vercel.app",
+    "tagline": "Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer"
+  },
+  {
+    "name": "Chandradithya Janaswami",
+    "url": "https://chandradithya.dev",
+    "tagline": "Undergrad, SWE and OSC"
+  },
+  {
+    "name": "Chandrakant Sharma",
+    "url": "https://ichandrasharma.vercel.app",
+    "tagline": "Software Engineer | Remote Engineer"
+  },
+  {
+    "name": "Chanhdai",
+    "url": "https://chanhdai.com"
+  },
+  {
+    "name": "Charles Ouimet",
+    "url": "https://ouimet.info",
+    "tagline": "Backend Developer"
+  },
+  {
+    "name": "Charles Pustejovsky Iii",
+    "url": "https://cpustejovsky.com"
+  },
+  {
+    "name": "Che Overmeyer",
+    "url": "https://cheovermeyer.com",
+    "tagline": "Frontend Developer"
+  },
+  {
+    "name": "Chetan Padia",
+    "url": "https://chetbox.com"
+  },
+  {
+    "name": "Chetanya Kandhari",
+    "url": "https://availchet.github.io"
+  },
+  {
+    "name": "Chethin Manage",
+    "url": "https://www.cmanage.dev"
+  },
+  {
+    "name": "Chicago It Systems",
+    "url": "https://www.chicagoitsystems.com"
+  },
+  {
+    "name": "Chirag Bhalotia",
+    "url": "https://chirag.codes"
+  },
+  {
+    "name": "Chirag Samal",
+    "url": "http://chiragsamal.github.io"
+  },
+  {
+    "name": "Chiragchrg",
+    "url": "https://chiragchrg.netlify.app",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Chosensoul",
+    "url": "https://chosensoul.kesug.com",
+    "tagline": "Frontend\\Embedded Developer"
+  },
+  {
+    "name": "Chris Carr",
+    "url": "http://snackpipe.com"
+  },
+  {
+    "name": "Chris Coyier",
+    "url": "https://chriscoyier.net",
+    "tagline": "Co-Founder Of Codepen"
+  },
+  {
+    "name": "Chris Otto",
+    "url": "https://chrisotto.dev"
+  },
+  {
+    "name": "Chris Poole",
+    "url": "https://chrispoole.com"
+  },
+  {
+    "name": "Chris Ryczke",
+    "url": "https://www.chrisryczke.com"
+  },
+  {
+    "name": "Christian Eckardt",
+    "url": "https://eckeecke.github.io",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Christian Jöcker",
+    "url": "https://jocker.dev",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Christian Kaisermann",
+    "url": "https://kaisermann.me"
+  },
+  {
+    "name": "Christian Toscano",
+    "url": "https://achris.me"
+  },
+  {
+    "name": "Chuck Smith",
+    "url": "https://eclecticcoding.com"
+  },
+  {
+    "name": "Chuckz Okoye",
+    "url": "https://chuckzokoye.com"
+  },
+  {
+    "name": "Chung Nguyen Thanh Chunhthanhde",
+    "url": "https://chunhthanhde.github.io"
+  },
+  {
+    "name": "Cian Goon",
+    "url": "https://ciangoon.dev",
+    "tagline": "Software Engineer, Quant Developer"
+  },
+  {
+    "name": "Ciro Ciampaglia",
+    "url": "https://cirociampaglia.it"
+  },
+  {
+    "name": "Claudia Freitas",
+    "url": "https://icfclaudia.com",
+    "tagline": "Product Owner | Project Manager | Digital Marketer"
+  },
+  {
+    "name": "Cleo Balaranjith",
+    "url": "https://cleof.us",
+    "tagline": "SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer"
+  },
+  {
+    "name": "Clyde D'Souza",
+    "url": "https://clydedsouza.net"
+  },
+  {
+    "name": "Clément Clix Garcia",
+    "url": "https://clixmods.github.io",
+    "tagline": "Game Developer | Full Stack Developer"
+  },
+  {
+    "name": "Codervai",
+    "url": "https://codervai.vercel.app"
+  },
+  {
+    "name": "Cole Emeruche",
+    "url": "https://coleruche.com"
+  },
+  {
+    "name": "Colin Lord",
+    "url": "https://colinlord.com"
+  },
+  {
+    "name": "Collins Koech",
+    "url": "https://collinskoechportfolio.web.app"
+  },
+  {
+    "name": "Conor Crutchley",
+    "url": "https://portfolio-for-conor-crutchley.vercel.app",
+    "tagline": "Front-End Developer"
+  },
+  {
+    "name": "Constance Souville",
+    "url": "https://constancesouville.com",
+    "tagline": "Frontend Developer"
+  },
+  {
+    "name": "Cornelius Weidmann",
+    "url": "https://caweidmann.dev",
+    "tagline": "Senior Front-End / Full Stack Engineer"
+  },
+  {
+    "name": "Crisbelo Neto",
+    "url": "https://crisbeloneto.github.io",
+    "tagline": "Software Engineer"
+  },
+  {
+    "name": "Cristian Barreiro",
+    "url": "https://cristianbarreiro.github.io"
+  },
+  {
+    "name": "Cristian Cezar Moisés",
+    "url": "https://ccm.securityops.com.br"
+  },
+  {
+    "name": "Cristiano Filho",
+    "url": "https://cristianofilho.github.io"
+  },
+  {
+    "name": "Cristopher Coronado Moreira",
+    "url": "https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios",
+    "tagline": "Full Stack Developer | .Net/Angular"
+  },
+  {
+    "name": "Cui Ding",
+    "url": "https://cuierd.github.io"
+  },
+  {
+    "name": "Cyril Aguvasu Kedeng'E",
+    "url": "https://cyrilaguvasu.tech"
+  },
+  {
     "name": "Aaaabad Ahmed",
     "url": "https://sawad.framer.website",
     "tagline": "Software Engineer"
@@ -1052,7 +1322,8 @@
   },
   {
     "name": "Asfakur Nariz",
-    "url": "https://asfakur-portfolio-nextjs.vercel.app"
+    "url": "https://asfakur-portfolio-nextjs.vercel.app",
+    "tagline": "Front-end Developer || UI/UX Designer || Full Stack Developer"
   },
   {
     "name": "Ashak Zahin Hasan",
@@ -1249,35 +1520,6 @@
     "name": "Azel",
     "url": "https:omargpax.vercel.app",
     "tagline": "Software Developer - Full Stack"
-  },
-  {
-    "name": "Debpriyo Ghosal",
-    "url": "https://devdebpriyo.vercel.app"
-  },
-  {
-    "name": "Muhammad Aamir Malik",
-    "url": "https://www.muhammadaamirmalik.com",
-    "tagline": "Full Stack Hybride App Developer"
-  },
-  {
-    "name": "Parth Sharma",
-    "url": "https://parthsharma.me",
-    "tagline": "Full Stack & Ui/Ux Designer • Founder @ Rune"
-  },
-  {
-    "name": "Raphaël Giraud",
-    "url": "https://toukoum.fr",
-    "tagline": "AI Sofware Engineer"
-  },
-  {
-    "name": "Redoyanul Haque",
-    "url": "https://www.redoyanulhaque.me",
-    "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
-  },
-  {
-    "name": "Zuned Aalim",
-    "url": "https://zunedaalim.com",
-    "tagline": "Full Stack Web Developer"
   },
   {
     "name": "Badhon Ai",
@@ -1568,276 +1810,6 @@
     "url": "https://multikitty.onrender.com"
   },
   {
-    "name": "Cade Kynaston",
-    "url": "https://cade.codes"
-  },
-  {
-    "name": "Caiovisuals",
-    "url": "https://www.caiovisuals.com",
-    "tagline": "Front-End Developer"
-  },
-  {
-    "name": "Camil Bradea",
-    "url": "https://bradeac.dev",
-    "tagline": "Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS"
-  },
-  {
-    "name": "Capt Michael",
-    "url": "https://captmichael.dev",
-    "tagline": "Mern Full Stack Developer"
-  },
-  {
-    "name": "Carlos Dubón",
-    "url": "https://carlosdubon.dev"
-  },
-  {
-    "name": "Carlos Gutierrez",
-    "url": "https://cargdev.io",
-    "tagline": "Senior Full Stack Engineer | Python, Typescript, Distributed Systems"
-  },
-  {
-    "name": "Carlos Rojas",
-    "url": "https://carlos-rojas-portfolio.vercel.app",
-    "tagline": "Full Stack Developer | Aspiring Software Engineer"
-  },
-  {
-    "name": "Cassiane Nascimento",
-    "url": "https://cassymari.github.io/Portfolio-profissional/"
-  },
-  {
-    "name": "Cecelia Martinez",
-    "url": "http://ceceliacreates.com"
-  },
-  {
-    "name": "Cedric Karungu",
-    "url": "https://cedric-karungu.vercel.app"
-  },
-  {
-    "name": "Cemal Türkcan",
-    "url": "https://cemalturkcan.com"
-  },
-  {
-    "name": "Cesar Gonzalez Anaya",
-    "url": "https://www.caesarcode.com.mx/index.html",
-    "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Chaitanya Sai Meka",
-    "url": "https://chaitanya-sai-meka.vercel.app",
-    "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Chambrin Alexandre",
-    "url": "https://chambrin.dev"
-  },
-  {
-    "name": "Chamindu Wn",
-    "url": "https://chamindu-wn.vercel.app",
-    "tagline": "Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer"
-  },
-  {
-    "name": "Chandradithya Janaswami",
-    "url": "https://chandradithya.dev",
-    "tagline": "Undergrad, SWE and OSC"
-  },
-  {
-    "name": "Chandrakant Sharma",
-    "url": "https://ichandrasharma.vercel.app",
-    "tagline": "Software Engineer | Remote Engineer"
-  },
-  {
-    "name": "Chanhdai",
-    "url": "https://chanhdai.com"
-  },
-  {
-    "name": "Charles Ouimet",
-    "url": "https://ouimet.info",
-    "tagline": "Backend Developer"
-  },
-  {
-    "name": "Charles Pustejovsky Iii",
-    "url": "https://cpustejovsky.com"
-  },
-  {
-    "name": "Che Overmeyer",
-    "url": "https://cheovermeyer.com",
-    "tagline": "Frontend Developer"
-  },
-  {
-    "name": "Chetan Padia",
-    "url": "https://chetbox.com"
-  },
-  {
-    "name": "Chetanya Kandhari",
-    "url": "https://availchet.github.io"
-  },
-  {
-    "name": "Chethin Manage",
-    "url": "https://www.cmanage.dev"
-  },
-  {
-    "name": "Chicago It Systems",
-    "url": "https://www.chicagoitsystems.com"
-  },
-  {
-    "name": "Chirag Bhalotia",
-    "url": "https://chirag.codes"
-  },
-  {
-    "name": "Chirag Samal",
-    "url": "http://chiragsamal.github.io"
-  },
-  {
-    "name": "Chiragchrg",
-    "url": "https://chiragchrg.netlify.app",
-    "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Chosensoul",
-    "url": "https://chosensoul.kesug.com",
-    "tagline": "Frontend\\Embedded Developer"
-  },
-  {
-    "name": "Chris Carr",
-    "url": "http://snackpipe.com"
-  },
-  {
-    "name": "Chris Coyier",
-    "url": "https://chriscoyier.net",
-    "tagline": "Co-Founder Of Codepen"
-  },
-  {
-    "name": "Chris Otto",
-    "url": "https://chrisotto.dev"
-  },
-  {
-    "name": "Chris Poole",
-    "url": "https://chrispoole.com"
-  },
-  {
-    "name": "Chris Ryczke",
-    "url": "https://www.chrisryczke.com"
-  },
-  {
-    "name": "Christian Eckardt",
-    "url": "https://eckeecke.github.io",
-    "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Christian Jöcker",
-    "url": "https://jocker.dev",
-    "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Christian Kaisermann",
-    "url": "https://kaisermann.me"
-  },
-  {
-    "name": "Christian Toscano",
-    "url": "https://achris.me"
-  },
-  {
-    "name": "Chuck Smith",
-    "url": "https://eclecticcoding.com"
-  },
-  {
-    "name": "Chuckz Okoye",
-    "url": "https://chuckzokoye.com"
-  },
-  {
-    "name": "Chung Nguyen Thanh Chunhthanhde",
-    "url": "https://chunhthanhde.github.io"
-  },
-  {
-    "name": "Cian Goon",
-    "url": "https://ciangoon.dev",
-    "tagline": "Software Engineer, Quant Developer"
-  },
-  {
-    "name": "Ciro Ciampaglia",
-    "url": "https://cirociampaglia.it"
-  },
-  {
-    "name": "Claudia Freitas",
-    "url": "https://icfclaudia.com",
-    "tagline": "Product Owner | Project Manager | Digital Marketer"
-  },
-  {
-    "name": "Cleo Balaranjith",
-    "url": "https://cleof.us",
-    "tagline": "SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer"
-  },
-  {
-    "name": "Clyde D'Souza",
-    "url": "https://clydedsouza.net"
-  },
-  {
-    "name": "Clément Clix Garcia",
-    "url": "https://clixmods.github.io",
-    "tagline": "Game Developer | Full Stack Developer"
-  },
-  {
-    "name": "Codervai",
-    "url": "https://codervai.vercel.app"
-  },
-  {
-    "name": "Cole Emeruche",
-    "url": "https://coleruche.com"
-  },
-  {
-    "name": "Colin Lord",
-    "url": "https://colinlord.com"
-  },
-  {
-    "name": "Collins Koech",
-    "url": "https://collinskoechportfolio.web.app"
-  },
-  {
-    "name": "Conor Crutchley",
-    "url": "https://portfolio-for-conor-crutchley.vercel.app",
-    "tagline": "Front-End Developer"
-  },
-  {
-    "name": "Constance Souville",
-    "url": "https://constancesouville.com",
-    "tagline": "Frontend Developer"
-  },
-  {
-    "name": "Cornelius Weidmann",
-    "url": "https://caweidmann.dev",
-    "tagline": "Senior Front-End / Full Stack Engineer"
-  },
-  {
-    "name": "Crisbelo Neto",
-    "url": "https://crisbeloneto.github.io",
-    "tagline": "Software Engineer"
-  },
-  {
-    "name": "Cristian Barreiro",
-    "url": "https://cristianbarreiro.github.io"
-  },
-  {
-    "name": "Cristian Cezar Moisés",
-    "url": "https://ccm.securityops.com.br"
-  },
-  {
-    "name": "Cristiano Filho",
-    "url": "https://cristianofilho.github.io"
-  },
-  {
-    "name": "Cristopher Coronado Moreira",
-    "url": "https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios",
-    "tagline": "Full Stack Developer | .Net/Angular"
-  },
-  {
-    "name": "Cui Ding",
-    "url": "https://cuierd.github.io"
-  },
-  {
-    "name": "Cyril Aguvasu Kedeng'E",
-    "url": "https://cyrilaguvasu.tech"
-  },
-  {
     "name": "Daan Hessen",
     "url": "https://www.daanhessen.nl",
     "tagline": "Software Developer"
@@ -1949,6 +1921,10 @@
   {
     "name": "Debasish Dutta",
     "url": "https://debasishdutta.is-a.dev"
+  },
+  {
+    "name": "Debpriyo Ghosal",
+    "url": "https://devdebpriyo.vercel.app"
   },
   {
     "name": "Declan Chidlow",
@@ -4296,6 +4272,11 @@
     "tagline": "Software Engineer | Frontend"
   },
   {
+    "name": "Muhammad Aamir Malik",
+    "url": "https://www.muhammadaamirmalik.com",
+    "tagline": "Full Stack Hybride App Developer"
+  },
+  {
     "name": "Muhammad Azlaan Zubair",
     "url": "https://www.mdazlaanzubair.com",
     "tagline": "Frontend Developer"
@@ -4767,6 +4748,11 @@
     "url": "https://parthmittal.netlify.app"
   },
   {
+    "name": "Parth Sharma",
+    "url": "https://parthsharma.me",
+    "tagline": "Full Stack & Ui/Ux Designer • Founder @ Rune"
+  },
+  {
     "name": "Pasindu Dilshan",
     "url": "https://pasi-d.me"
   },
@@ -5128,9 +5114,9 @@
     "url": "https://my-portfolio-pied-xi.vercel.app"
   },
   {
-    "name": "Revan Azra",
-    "url": "https://portoku0091.dpdns.org",
-    "tagline": "Frontend Dev"
+    "name": "Raphaël Giraud",
+    "url": "https://toukoum.fr",
+    "tagline": "AI Sofware Engineer"
   },
   {
     "name": "Rasyid Nuruddin",
@@ -5174,6 +5160,11 @@
     "tagline": "Full Stack Developer"
   },
   {
+    "name": "Redoyanul Haque",
+    "url": "https://www.redoyanulhaque.me",
+    "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
+  },
+  {
     "name": "Reeya Gupta",
     "url": "https://reeyadev.vercel.app",
     "tagline": "Full Stack Developer"
@@ -5199,6 +5190,11 @@
   {
     "name": "Rensith Udara",
     "url": "https://rensithudara.github.io/portfolio"
+  },
+  {
+    "name": "Revan Azra",
+    "url": "https://portoku0091.dpdns.org",
+    "tagline": "Frontend Dev"
   },
   {
     "name": "Rhenz Rhenz Portfolio",
@@ -7084,6 +7080,11 @@
   {
     "name": "Zulfiqar Alam",
     "url": "https://zulfiqaralam18.github.io"
+  },
+  {
+    "name": "Zuned Aalim",
+    "url": "https://zunedaalim.com",
+    "tagline": "Full Stack Web Developer"
   },
   {
     "name": "Zyon Tiangson",
