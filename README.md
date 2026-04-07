@@ -764,6 +764,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
+- [Jinki Jung](https://jinkijung.github.io)
 - [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
 - [Jo Lienhoop](https://jolienhoop.com)
 - [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
