@@ -1156,7 +1156,7 @@ This repo can serve as inspiration for your portfolio!
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
-- [Parth Sharma](https://parthsharma.me) [Full Stack & Ui/Ux Designer • Founder @ Rune]
+- [Parth Sharma](https://parthh.in) [Full Stack & Ui/Ux Designer • Founder @ Rune]
 - [Pasindu Dilshan](https://pasi-d.me)
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
