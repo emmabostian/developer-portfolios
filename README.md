@@ -1234,6 +1234,7 @@ This repo can serve as inspiration for your portfolio!
 - [Raj Aryan](https://rajxryan.vercel.app)
 - [Raj Chhalotrte](https://raj-portfolio101.netlify.app)
 - [Raj Kalsariya](https://www.freezemoment.co.uk) [Photographer]
+- [Raj Sharma](https://www.rajsh.in) [Software Engineer]
 - [Rajan Bhattarai](https://cdrrazan.com)
 - [Rajekevin](https://rajekevin.fr)
 - [Rajesh Pal](https://rajs.app) [Full Stack Developer | AI Enthusiast]
