@@ -1694,6 +1694,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yashas Majmudar](https://yashashm.dev) [Flutter | Full Stack | AI]
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
+- [Yassine Erradouani](https://yerradouani.me) [Data Engineer | Data Analyst | BI Consultant]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
