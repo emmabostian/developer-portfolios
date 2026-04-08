@@ -1570,6 +1570,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tushar Umbarkar](https://tusharumbarkar.space) [Software Engineer | GenAI & Agentic Systems]
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
+- [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
 
 ## U
 
