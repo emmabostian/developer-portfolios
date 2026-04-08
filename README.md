@@ -1563,6 +1563,7 @@ This repo can serve as inspiration for your portfolio!
 - [Travis Fischer](https://transitivebullsh.it)
 - [Trisha Darure](https://trishadar.github.io/Portfolio/#about) [Full Stack Engineer]
 - [Tristan Chin](https://www.chintristan.io)
+- [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
 - [Tsiry Sandratraina](https://tsiry-sandratraina.com)
 - [Tushar Ahuja](https://tusharahuja.me) [Full Stack Developer]
 - [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
@@ -1570,7 +1571,6 @@ This repo can serve as inspiration for your portfolio!
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
 - [Tushar Umbarkar](https://tusharumbarkar.space) [Software Engineer | GenAI & Agentic Systems]
 - [Tvoosai](https://www.tvoosai.dev) [Freelance Mobile, Web & Backend Developer]
-- [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
 
 ## U
 
