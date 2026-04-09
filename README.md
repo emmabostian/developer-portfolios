@@ -1219,7 +1219,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app)
-- [Peter Kyale](https://studio44.is-a.dev/) [Blockchain Developer | Web3 ]
+- [Peter Kyale](https://studio44.is-a.dev/) [Blockchain Developer | Web3]
 
 ## Q
 
