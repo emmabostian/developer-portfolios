@@ -1260,7 +1260,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ramin Rezaei V1](https://raminrezaei.se)
 - [Ramin Rezaei V2](https://raminr77.vercel.app)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
-- [Ramzi Bouzaiene] (https://ramzibouzaiene.vercel.app/) [Software Engineer | Full Stack Developer]
+- [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app/) [Software Engineer | Full Stack Developer]
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
 - [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid) [Front-End Developer]
 - [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh)
