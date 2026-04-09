@@ -375,7 +375,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
   Extension]
-  
+
 ## C
 
 
@@ -531,7 +531,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
   [Ai & Data Science Enthusiast]
-  
+
 ## E
 
 
@@ -1260,6 +1260,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ramin Rezaei V1](https://raminrezaei.se)
 - [Ramin Rezaei V2](https://raminr77.vercel.app)
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
+- [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app/) [Software Engineer | Full Stack Developer]
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
 - [Rasyid Nuruddin](https://thesimpanze.github.io/Portofolio-Rasyid) [Front-End Developer]
 - [Ratnesh Patil](https://ratanesh-patil.github.io/portfolioratnesh)
