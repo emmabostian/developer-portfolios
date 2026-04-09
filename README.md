@@ -1067,6 +1067,8 @@ This repo can serve as inspiration for your portfolio!
 - [Muzaffer Kadir Yilmaz](https://mkdir.dev)
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
+- [Mydhily M R](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
+
 
 ## N
 
