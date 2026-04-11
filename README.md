@@ -1188,6 +1188,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Peter Oravec](https://peteroravec.com) [Full Stack Developer]
 - [Peter Steinberger](https://steipete.me) (Creator of [Openclaw](https://openclaw.ai))
+- [Petros Dhespollari](https://peterdsp.dev) [iOS Engineer]
 - [Philip Johnson](https://philipmjohnson.org)
 - [Philipe Almeida](https://palmeida.netlify.app)
 - [Phpxcoder](https://phpxcoder.in)
