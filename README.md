@@ -472,6 +472,7 @@ This repo can serve as inspiration for your portfolio!
 - [David Nguyen](https://davidnguyen.codes) [Developer]
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
+- [Debbie Chen](https://debbiechen.me/) [Designer at UT Austin]
 - [Debpriyo Ghosal](https://devdebpriyo.vercel.app)[Web & App developer & designer]
 - [Declan Chidlow](https://vale.rocks/portfolio) [Front-End Developer]
 - [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
