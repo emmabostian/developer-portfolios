@@ -1017,6 +1017,8 @@ This repo can serve as inspiration for your portfolio!
 - [Minmitha](https://minmitha.vercel.app)
 - [Missael Rangel](https://missaelr.com/en) [Frontend Developer | React/Typescript]
 - [Mitul Savani](http://mitulsavani.com)
+- [Mohammad Ahmad](https://ahmad-netflix-portfolio-ujir.vercel.app/) [Full Stack Developer]
+- [Mohammad Ahmad](https://3d-portfolio-orpin-one.vercel.app/) [Full Stack Developer]
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
