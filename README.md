@@ -657,6 +657,7 @@ This repo can serve as inspiration for your portfolio!
 ## H
 
 
+- [Hafeez Mohamad](https://haffee.vercel.app) [Software Engineer | Full Stack Developer | AI Engineer]
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hafiq Iqmal](https://hafiq.dev) [Software Engineer | Backend & API Engineering | DevSecOps]
 - [Hamish Williams](https://hamishw.com)
