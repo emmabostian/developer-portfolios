@@ -39,7 +39,7 @@ cache = true
 method = "head"
 
 # Prefer HTTPS over HTTP when both are available
-scheme = "https"
+scheme = ["https", "http"]
 
 
 # Additional headers to send with requests (helps avoid bot detection)
