@@ -1286,6 +1286,7 @@ This repo can serve as inspiration for your portfolio!
 - [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
 - [Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Reeya Gupta](https://reeyadev.vercel.app) [Full Stack Developer]
+- [Remco Stoeten](https://remcostoeten.nl) [Frontend Engineer | Graphic Design Degree]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & Ui/Ux Designer]
 - [Renan Silva](https://devrenansilva.netlify.app) [Full Stack Developer]
