@@ -15,8 +15,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2.8.0
         with:
           args: --config .lycherc.toml --no-progress README.md
-          # Throttle requests (milliseconds between requests)
-          throttle: 500
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
