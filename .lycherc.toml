@@ -5,16 +5,16 @@
 accept = [200, 201, 204, 301, 302, 307, 308, 403, 429]
 
 # Timeout for each request (in seconds)
-timeout = 20
+timeout = 30
 
 # Maximum number of retries per link
-max_retries = 3
+max_retries = 5
 
-# Number of concurrent network requests
-max_concurrency = 10
+# Number of concurrent network requests (reduced to avoid rate limiting)
+max_concurrency = 5
 
 # Retry wait time between attempts (in seconds)
-retry_wait_time = 2
+retry_wait_time = 5
 
 # Set a custom User-Agent to avoid being blocked as a bot
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -35,7 +35,11 @@ cache = true
 # These are handled by the .lycheeignore file
 
 # HTTP method to use for checking links
-method = "get"
+# Using 'head' is faster and gentler on servers, falls back to 'get' if head fails
+method = "head"
+
+# Prefer HTTPS over HTTP when both are available
+scheme = "https"
 
 
 # Additional headers to send with requests (helps avoid bot detection)
@@ -46,5 +50,8 @@ Accept-Encoding = "gzip, deflate, br"
 DNT = "1"
 Connection = "keep-alive"
 Upgrade-Insecure-Requests = "1"
+Sec-Fetch-Dest = "document"
+Sec-Fetch-Mode = "navigate"
+Sec-Fetch-Site = "none"
 
 
