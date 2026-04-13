@@ -1549,6 +1549,7 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
+- [Shubhanshu Singh][https://shubhanshusingh.com/][Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
 
 ## T
 
