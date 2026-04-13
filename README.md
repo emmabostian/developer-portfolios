@@ -1242,7 +1242,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## R
 
-
+- [Ritesh Kumar](https://ritesh-portfolio-2026.vercel.app/) [Full Stack Developer | MERN + TypeScript]
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
