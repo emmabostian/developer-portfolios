@@ -1650,6 +1650,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vibhor Arya](https://vibhorarya12.vercel.app)
 - [Victor Vento](https://victorvento.net) [Software Developer | .NET and JavaScript]
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
+- [Vignesh Devendran](https://vigneshdevendran.pages.dev) [Software Developer | Python, Full-Stack JavaScript/TypeSript, Ruby on Rails | FLOSS Enthusiast]
 - [Vighnesh Raut](https://vighnesh153.dev)
 - [Vigneshwaran Balamurugan](https://vigneshwaran.tech) [Associate Engineer | Backend Developer]
 - [Vijay Verma](https://vjy.me)
