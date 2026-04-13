@@ -1744,6 +1744,7 @@ This repo can serve as inspiration for your portfolio!
 ## Z
 
 - [Zachary Hamm](https://zacharyhamm.com)
+- [Zahid Mushtaq](https://devzahid.in) [Full Stack AI Developer]
 - [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
 - [Zander Lewis](https://zanderlewis.dev)
 - [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
