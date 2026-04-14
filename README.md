@@ -306,7 +306,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
 - [Ayush Nighoskar](https://ayushn.netlify.app)
-- [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | AI-ML Engineer]
+- [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | Computer Vision Engineer | Well-versed in modern tech stacks]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 
