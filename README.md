@@ -1484,6 +1484,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shubham Vandara](https://shubhamvandara.netlify.app) [Full Stack Developer]
+- [Shubhanshu Singh](https://shubhanshusingh.com/) [Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
 - [Shuvam Manna](http://shuvam.xyz)
 - [Siddharth Chattoraj](https://siddharthchattoraj.com) [Full Stack Developer | Production Designer]
 - [Siddharth Roy](https://siddharthroy.com)
@@ -1549,8 +1550,6 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-- [Shubhanshu Singh](https://shubhanshusingh.com/) [Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
-
 ## T
 
 
