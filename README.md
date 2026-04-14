@@ -443,7 +443,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
 - [Cui Ding](https://cuierd.github.io)
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
-- [ChickyHuynh](https://chickyhuynhprojects.xo.je)[Junior Flutter Dev]
+- [ChickyHuynh](https://chickyhuynhprojects.xo.je) [Junior Flutter Dev]
 
 
 ## D
