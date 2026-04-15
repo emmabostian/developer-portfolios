@@ -997,6 +997,7 @@ This repo can serve as inspiration for your portfolio!
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
 - [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
 - [Md Rashid](https://md-rashid.vercel.app) [Software Developer]
+- [Md Sarfaraz Alam](https://mdsaifedu.eu.cc/3D-portfolio/) [Full Stack DevOps Engineer]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Mees Verberne](https://meesverberne.com) [Creative Frontend Developer & Designer]
 - [Meet Prajapati](https://meetprajapati.com) [Lead Mobile Engineer | Android, AI, Flutter, React Native]
