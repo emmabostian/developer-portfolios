@@ -1210,6 +1210,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pierre Nel](https://pierre.io) [Full Stack Developer | Ux/Ui Designer]
 - [Pieter-Jan Scheir](https://www.pieterjanscheir.com)
 - [Pol Gubau Amores](https://polgubau.com)
+- [Poluianov Ivan](https://poluianov.com) [Senior Software Engineer]
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Poorvaj Hinge](https://poorvajhinge.vercel.app) [DevOps and AIOps Software Engineer]
 - [Prajwol Karki](https://prajwolkarki.com.np)
