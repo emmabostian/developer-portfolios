@@ -1651,6 +1651,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vatsal Patel](https://vatsalpatel.vercel.app) [Software Developer | Ai/Ml Engineer]
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vauth](https://vauth.github.io/hueco)
+- [Vauzher](https://vauzher.dev) [Full Stack Developer | AI]
 - [Vedant Athavale](https://vedantathavale.webflow.io)
 - [Vedant Milind Athavale](http://vedant-athavale.byethost31.com/portfolio.html?i=1)
 - [Vedas Dixit](https://vedas-desktop.vercel.app)
