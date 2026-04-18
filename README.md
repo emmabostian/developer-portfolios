@@ -96,6 +96,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adam Alston](https://www.adamalston.com)
 - [Adam Williams](https://adjwilli.github.io)
 - [Adarsh Kumar](https://portfolio-e7gt.onrender.com) [Full Stack Developer | Software Developer]
+- [Adarsh Singh](https://adarshsinghh.vercel.app/) [Software Engineer]
 - [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
 - [Adham Dannaway](https://www.adhamdannaway.com) [Ux/Ui Designer & Frontend Developer]
 - [Adina Hawaldar](https://www.adinaa.me) [Web Designer & Developer]
