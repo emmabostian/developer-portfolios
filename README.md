@@ -23,9 +23,8 @@ This repo can serve as inspiration for your portfolio!
 
 ---
 
-
-
 ## A
+
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
@@ -313,7 +312,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## B
 
-
 - [Badhon Ai](https://www.badhon.online)
 - [Badhon Biswas](https://badhonbiswas.vercel.app)
 - [Bakare Afolabi](http://afolabibakare.netlify.app)
@@ -383,7 +381,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## C
 
-
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
@@ -447,9 +444,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 - [ChickyHuynh](https://chickyhuynhprojects.xo.je) [Junior Flutter Dev]
 
-
 ## D
-
 
 - [Daan Hessen](https://www.daanhessen.nl) [Software Developer]
 - [Dale French](https://dalefrench.dev)
@@ -542,7 +537,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## E
 
-
 - [Edgard Barquero Real](https://barquero.dev)
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Ehsan Rafee](https://ehsanrafee.ir)
@@ -578,7 +572,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## F
 
-
 - [Fabian Letsch](https://fabianletsch.de) [Full Stack Developer]
 - [Fabian Lugo](https://lugotech.dev) [Full Stack Developer]
 - [Fabien Laurence](https://fabienlaurence.com) [Full Stack Developer | TypeScript / Python / C#]
@@ -613,7 +606,6 @@ This repo can serve as inspiration for your portfolio!
 - [Furkan Kapukaya](https://furkankapukayaa.github.io)
 
 ## G
-
 
 - [Gabriel Carvalho](https://gabrielcarvalho.vercel.app) [👨🏽‍💻 Computer Engineering Student]
 - [Gabriel Jordan](https://jrdan.dev) [Software Engineer]
@@ -659,7 +651,6 @@ This repo can serve as inspiration for your portfolio!
 - [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
 
 ## H
-
 
 - [Hafeez Mohamad](https://haffee.vercel.app) [Software Engineer | Full Stack Developer | AI Engineer]
 - [Hafid Ziti](https://www.hafidziti.dev)
@@ -712,7 +703,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## I
 
-
 - [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
@@ -732,7 +722,6 @@ This repo can serve as inspiration for your portfolio!
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 
 ## J
-
 
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
@@ -818,7 +807,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## K
 
-
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
@@ -887,7 +875,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## L
 
-
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
@@ -925,7 +912,6 @@ This repo can serve as inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
-
 
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
@@ -1085,9 +1071,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
 
-
 ## N
-
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
@@ -1147,7 +1131,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## O
 
-
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
@@ -1170,7 +1153,6 @@ This repo can serve as inspiration for your portfolio!
 - [Owono2001](https://myportfolio-b-type.onrender.com)
 
 ## P
-
 
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
@@ -1199,6 +1181,7 @@ This repo can serve as inspiration for your portfolio!
 - [Paulo Oliveira](https://paul8liveira.is-a.dev)
 - [Pavan Srivatsav Valluru](https://pavansrivatsav-portfolio.vercel.app) [Full Stack Developer]
 - [Pawaret Meungkaew](https://www.pawaret.dev)
+- [Pawan Kumar](https://pawan-portfolio-dev.vercel.app/) [Full Stack Developer]
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Pep Alonso](https://pepalonso.com) [Software Engineer]
 - [Peter Kyale](https://studio44.is-a.dev) [Blockchain Developer | Web3]
@@ -1245,12 +1228,10 @@ This repo can serve as inspiration for your portfolio!
 
 ## Q
 
-
 - [Qui Nguyen](https://www.lexnguyen.dev)
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
-
 
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
@@ -1347,7 +1328,6 @@ This repo can serve as inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
 
 - [Saad Mehmood](https://iamsaadmehmood.com) [Full Stack Software Developer]
 - [Saad](https://saadarqam.vercel.app)
@@ -1559,8 +1539,8 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-## T
 
+## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taha Umar](https://tahaumar.site) [Full Stack Developer]
@@ -1632,7 +1612,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## V
 
-
 - [Vaibhav Baranwal](https://vaibhavbaranwal.me) [Backend/ML Developer]
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
@@ -1697,7 +1676,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## W
 
-
 - [Wadi3 El-Wardy](https://wadi3.codes) [Full Stack Developer | Typescript, React.js, Python]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.vercel.app) [React Native Developer]
@@ -1715,11 +1693,9 @@ This repo can serve as inspiration for your portfolio!
 
 ## X
 
-
 - [Xqyet](https://xqyet.dev) [Full Stack Developer]
 
 ## Y
-
 
 - [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
 - [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
