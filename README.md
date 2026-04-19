@@ -808,6 +808,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
+- [Juan Gomes Macario](https://crashunix.nl) [Senior Full Stack Developer]
 - [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-End Developer]
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Judicaël Ahyi](https://judicael-ahyi.com)
