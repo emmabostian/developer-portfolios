@@ -234,9 +234,9 @@ This repo can serve as inspiration for your portfolio!
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
 - [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
 - [Anup Pradhan](https://www.anuppradhan.in) [Full Stack Developer | Terminal Portfolio]
-- [Anushka Isuranga](https://anushkaisuranga.github.io) [Full Stack Developer]
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Zete](https://portfolio-anuragzete.web.app) [Software Engineer]
+- [Anushka Isuranga](https://anushkaisuranga.github.io) [Full Stack Developer]
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website) [Software Developer]
 - [Aprameya Kannan](https://aprameyak.vercel.app)) [Software Engineer]
 - [Aradhya Pavan](https://aradhyapavan.github.io) [Full Stack Web Dev & Aspiring Ai / Ml Engineer]
