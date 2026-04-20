@@ -883,6 +883,7 @@ This repo can serve as inspiration for your portfolio!
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
 - [Lamine Neggazi](https://lamine.cc) [Full Stack Developer | Algiers]
+- [Lampard Kipyegon](https://lampard.netlify.app) [Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya]
 - [Larry Xue](https://larryxue.dev)
 - [Laurie Barth](http://laurieontech.dev)
 - [Le Duong Hung Thinh](https://thinh.io.vn) [Front-End Engineer]
