@@ -140,6 +140,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app) [Quant Developer | Full Stack]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
+- [Akashkumar Jadav](https://akash.ac) [Full Stack Engineer | Cloud Architect]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
 - [Akli Massinissa Sadek](https://sadoukas.com) [Full Stack Developer | Freelance Services]
