@@ -1677,7 +1677,6 @@ This repo can serve as inspiration for your portfolio!
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
-- [Vince](https://vince-work-portfolio.vercel.app) [Full Stack Developer]
 
 ## W
 
