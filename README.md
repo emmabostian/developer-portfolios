@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1642
+## Current Portfolio Count: 1643
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -78,6 +78,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhinav Jaiswal](https://terminal.iabhinav.me) [Terminal Portfolio]
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
+- [Abhishek Agrawal](https://abhish0.github.io/My-Portfolio/) [Full Stack Developer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
 - [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
