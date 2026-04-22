@@ -798,7 +798,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
-- [Joshua Prini](https://joshuaprini.com) [Full Stack Developer, Software Engineer]
+- [Joshua Prini](https://joshuaprini.com) [Full Stack Developer | Software Engineer]
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
