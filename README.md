@@ -1474,6 +1474,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shourov Paul](https://shourov-paul.github.io) [Electronics Engineer | Embedded Systems]
 - [Shrestha Mishra](https://shresthamishra.vercel.app) [Software Engineer | CS @ University Of Texas At Austin]
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
+- [Shrey Varshney](https://shreyvarshney.pages.dev) [Software Engineer | Full Stack Developer]
 - [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
