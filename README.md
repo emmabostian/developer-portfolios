@@ -1233,7 +1233,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app)
-- [Phat Tran Tan](https://portfolio-ttp.vercel.app/)
+- [Phat Tran Tan](https://portfolio-ttp.vercel.app/) [Software Engineer | Frontend Developer]
 
 ## Q
 
