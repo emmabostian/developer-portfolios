@@ -984,6 +984,7 @@ This repo can serve as inspiration for your portfolio!
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maxim Villivald](https://villivald.com)
+- [Maxime Haegeman](https://www.maximehaegeman.com) [Data / ML Engineer]
 - [Maxwel Khadambi](https://maxwel-khadambi.vercel.app) [Software Developer | Full Stack Developer]
 - [Maya Shavin](https://www.mayashavin.com)
 - [Mayank Aggarwal](https://mayank0255.github.io)
