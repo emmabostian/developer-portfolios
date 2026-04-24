@@ -1236,6 +1236,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pushkar Patel](https://thepushkarp.com)
 - [Pushpak Chhajed](https://pushpak1300.github.io)
 - [Puzant Bakjejian](https://puzant.netlify.app)
+- [Priyanshu Chauhan](https://priyanshuportfolioo.netlify.app/) [Full Stack Developer]
 
 ## Q
 
