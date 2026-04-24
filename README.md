@@ -78,6 +78,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhinav Jaiswal](https://terminal.iabhinav.me) [Terminal Portfolio]
 - [Abhinav Kumar](https://my-portfolio-flax-kappa.vercel.app)
 - [Abhinay Thakur](https://abhinaythakur.com)
+- [Abhisek Panda](https://abhisekpanda072.vercel.app) [Front-End Developer | MERN Stack Developer | Freelancer]
 - [Abhishek Agrawal](https://abhish0.github.io/My-Portfolio/) [Full Stack Developer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
@@ -87,7 +88,6 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
 - [Abhishek Sah](https://www.abhisheksah.dev) [Software Engineer]
 - [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
-- [Abhisek Panda](https://abhisekpanda072.vercel.app) [Front-End Developer | MERN Stack Developer | Freelancer]
 - [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
 - [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
