@@ -765,7 +765,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jeayoung Jeon](https://jyje.online) [GenAi/Mlops Engineer]
 - [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
-- [Jeeva Prakash G](https://c1ph3rj.in)
+- [Jeeva Prakash G](https://c1ph3rj.in) [Software Developer]
 - [Jens Van Wijhe](https://www.beterbekend.nl)
 - [Jenul Ferdinand](https://jenulferdinand.dev) [Software Engineer | Bcompsci 26' At Monash University]
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
