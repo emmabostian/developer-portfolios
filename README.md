@@ -728,7 +728,7 @@ This repo can serve as inspiration for your portfolio!
 - [Iulian Rotaru](https://iulian.rotaru.fr)
 
 ## J
-
+- [SE Jihad](https://sejihad.vercel.app) [Full Stack Developer]
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
