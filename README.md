@@ -263,6 +263,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arup Mandal](https://arupmandal.github.io)
 - [Aryan Hooda](https://personal-portfolio-gamma-gold-55.vercel.app) [Full Stack Web Developer]
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
+- [Aryan Raj](https://www.aryanraj.cv/) [Machine Learning Engineer]
 - [Aryan Rajguru](https://aryan-r-pfp.netlify.app) [Full Stack Developer (Python + MERN)]
 - [Asad Saeed](https://asad-saeed-portfolio.vercel.app) [Full Stack Developer]
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
