@@ -450,6 +450,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## D
 
+- [Di Huynh](https://me.nextdi.io.vn/) [Front-end Forcused Engineer | React, Next, Nest ]
 - [Daan Hessen](https://www.daanhessen.nl) [Software Developer]
 - [Dale French](https://dalefrench.dev)
 - [Dale Larroder](https://dalelarroder.com)
