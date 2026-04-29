@@ -496,7 +496,7 @@ This repo can serve as inspiration for your portfolio!
 - [Derek Chen](https://www.derekchen.dev)
 - [Dev Jadiya](https://dev-jadiya.web.app)
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
-- [Dev Saini](https://devportfolio001.netlify.app/)[Full Stack Developer & AI/ML Engineer]
+- [Dev Saini](https://devportfolio001.netlify.app/) [Full Stack Developer & AI/ML Engineer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Devi](https://devi-r.com)
