@@ -1334,6 +1334,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ronny Coste](https://ronnycoste.com)
 - [Roshan Kr Soni](https://roshankrsoni.github.io)
 - [Roshan Kunwar](https://roshankunwar.com.np) [Researcher | Engineer]
+- [Roshan Parajuli](https://roshanparajuli.com.np) [Senior Engineer | Technical Project Manager]
 - [Ruban Gino Singh](https://www.rubangino.ca) [AI Engineer | AI Systems Builder | Full-Stack AI Developer]
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
