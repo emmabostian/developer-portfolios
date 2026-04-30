@@ -531,6 +531,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dinokage](https://dinokage.in)
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
 - [Dipanshu Singh](https://dipanshusingh.vercel.app) [Full Stack · AI Engineer]
+- [Divij Shrivastava](https://divij.tech)[Full Stack . Web Developer]
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
 - [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
 - [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
