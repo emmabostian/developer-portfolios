@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1644
+## Current Portfolio Count: 1679
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -535,6 +535,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dinokage](https://dinokage.in)
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
 - [Dipanshu Singh](https://dipanshusingh.vercel.app) [Full Stack · AI Engineer]
+- [Dipin Yadav](https://dipin-yadav.github.io/dipin/) [Software Engineer | Backend Engineering & Cloud]
 - [Divij Shrivastava](https://divij.tech)[Full Stack . Web Developer]
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
 - [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
