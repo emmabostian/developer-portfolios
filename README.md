@@ -653,6 +653,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ghulam Mujtaba](https://ghulammujtaba.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
+- [Gii-DE](https://gii-de.onrender.com) [Creative Engineer | AI, Web, Security & Custom Design]
 - [Gil Itzhaky Gilitz](https://gilitz.com) - `Interactive 3D Protfolio Game` [Frontend Developer]
 - [Giorgio Faini](https://giorgiofaini.com)
 - [Glen Elric Fernandes](https://www.glenelric.space) [Full Stack SDE| Data Science Researcher| Student]
