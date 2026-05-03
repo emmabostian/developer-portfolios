@@ -622,10 +622,10 @@ This repo can serve as inspiration for your portfolio!
 ## G
 
 - [Gabriel Carvalho](https://gabrielcarvalho.vercel.app) [👨🏽‍💻 Computer Engineering Student]
-- [Gabriel Maggioni](https://maggioni.dev) [Programmer as a hobby - enjoys Linux, Blender, and GameDev.]
 - [Gabriel Jordan](https://jrdan.dev) [Software Engineer]
 - [Gabriel López](https://glpzzz.dev)
 - [Gabriel Machado](https://machado001.github.io)
+- [Gabriel Maggioni](https://maggioni.dev) [Programmer as a hobby - enjoys Linux, Blender, and GameDev.]
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
