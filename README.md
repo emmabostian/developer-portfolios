@@ -391,6 +391,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## C
 
+- [Cid Kageno](https://www.mritunjoy.online/) [Full Stack Developer] (Kinda weird) 
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
