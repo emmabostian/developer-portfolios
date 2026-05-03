@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1644
+## Current Portfolio Count: 1645
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -604,6 +604,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full Stack Developer & Cibersecurity]
 - [Fernando Morenilla](https://fmorenil.dev) [Front End Developer]
 - [Fidalgo Pedro](http://fidalgo.dev)
+- [Fielding Johnston](https://justfielding.com)
 - [Fikri Izzuddin](https://oyi77.github.io) [Technical Lead | System Architect & Web3]
 - [Fikri Rozan](https://fikrirozan.vercel.app) [Full Stack Developer]
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
