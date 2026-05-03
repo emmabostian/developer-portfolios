@@ -435,6 +435,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chung Nguyen Thanh Chunhthanhde](https://chunhthanhde.github.io)
 - [Cian Goon](https://ciangoon.dev) [Software Engineer, Quant Developer]
 - [Ciro Ciampaglia](https://cirociampaglia.it)
+- [Cid Kageno](https://www.mritunjoy.online/) [Full stack developer]
 - [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
 - [Cleo Balaranjith](https://cleof.us) [SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer]
 - [Clyde D'Souza](https://clydedsouza.net)
