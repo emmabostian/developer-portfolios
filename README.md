@@ -1667,6 +1667,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
 - [Varinder Singh](https://varinder148.github.io/portfolio)
 - [Varun Dey](https://varundey.me)
+- [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
 - [Vatsal Patel](https://vatsalpatel.vercel.app) [Software Developer | Ai/Ml Engineer]
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vauth](https://vauth.github.io/hueco)
