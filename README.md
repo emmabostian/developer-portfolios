@@ -542,6 +542,7 @@ This repo can serve as inspiration for your portfolio!
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
 - [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
 - [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
+- [Donnie Yap](https://d2yap.github.io/)
 - [Dor Lugasi-Gal](https://dorlugasigal.netlify.app)
 - [Drew Bredvick](https://drew.tech)
 - [Durgesh Chaudhary](https://yodkwtf.com)
@@ -1361,7 +1362,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
- 
+
 - [Saad Mehmood](https://iamsaadmehmood.com) [Full Stack Software Developer]
 - [Saad](https://saadarqam.vercel.app)
 - [Saahil](https://saahild.com)
