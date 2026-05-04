@@ -1239,6 +1239,7 @@ This repo can serve as inspiration for your portfolio!
 - [Preet Suthar](https://preetsuthar.me)
 - [Prem Acharya](https://premacharya.vercel.app)
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
+- [Prem S Gangadharan](https://premsg.info)
 - [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
 - [Pritu Yadav](https://prituyadav.github.io)
