@@ -741,6 +741,7 @@ This repo can serve as inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
 - [Iulian Rotaru](https://iulian.rotaru.fr)
+- [Ifaz Md Zahin](https://ifaz-zahin-protfolio.vercel.app/) [Full Stack Developer | Machine Learning Engineer]
 
 ## J
 
