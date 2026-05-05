@@ -895,6 +895,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
 - [Kwameh Dhegbo](https://kwamehdhegbo.com) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
+- [Kashif Ali Bhatti](https://kashifali.dev) [Software Engineer | Mobile & Web Developer | AI Automation]
 - [Kyson](https://kyson.dev)
 
 ## L
