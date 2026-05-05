@@ -542,6 +542,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kushan Devarajegowda (Software Developer | Software Engineer | SDE | SWE)](https://ikushdev.github.io)
 - [Kyle Smith](https://yskkyle.com)
+- [Kashif Ali Bhatti](https://kashifali.dev) [Software Engineer | Mobile & Web Developer | AI Automation]
 
 ## L
 
