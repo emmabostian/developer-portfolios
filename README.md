@@ -1568,6 +1568,7 @@ This repo can serve as inspiration for your portfolio!
 - [Suraj Savle](https://surajsavle.in) [Full Stack Developer]
 - [Suraj Yadav](https://suraj-yadav0.github.io/terminal-portfolio/) [Software Engineer | Ubuntu Touch Developer]
 - [Suvojit Konar](https://portfolio-ten-olive-gldao60wxb.vercel.app) [Senior Software Engineer | Backend Developer | AI Enthusiast]
+- [Swagata Ganguly](https://swagata.tech) [Full Stack Developer with GEN AI]
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
