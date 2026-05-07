@@ -133,7 +133,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
-- [Ahmed Allali]([https://www.ahallali.duckdns.org](https://portfolio-ahmed-allalis-projects.vercel.app/)) [Front-End Developer]
+- [Ahmed Allali](<[https://www.ahallali.duckdns.org](https://portfolio-ahmed-allalis-projects.vercel.app/)>) [Front-End Developer]
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
@@ -166,6 +166,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alexandre Fernandes](https://alexandrefernandes.dev) [Software Engineer | AI/ML & Full Stack]
 - [Alexandre Trotel](https://www.alexandretrotel.org)
 - [Alexey Golub](http://tyrrrz.me)
+- [Alexis De Jesus](https://www.aalexis.fr) [Full Stack Developer]
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
 - [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
