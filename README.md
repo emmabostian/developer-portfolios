@@ -133,7 +133,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
-- [Ahmed Allali](<[https://www.ahallali.duckdns.org](https://portfolio-ahmed-allalis-projects.vercel.app/)>) [Front-End Developer]
+- [Ahmed Allali](https://portfolio-ahmed-allalis-projects.vercel.app/) [Front-End Developer | ahallali.duckdns.org]
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
