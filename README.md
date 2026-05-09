@@ -1592,6 +1592,7 @@ This repo can serve as inspiration for your portfolio!
 - [Taha Umar](https://tahaumar.site) [Full Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
+- [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
 - [Tanish Rai](https://tanishrai.dev) [Software Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Taranjeet Singh](https://taranjeet.co)
