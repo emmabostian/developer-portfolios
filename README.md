@@ -1138,8 +1138,8 @@ This repo can serve as inspiration for your portfolio!
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nidal Ghonaim](https://www.nidal.dev) [Full Stack Developer | Designer]
 - [Nihar Das](https://www.nihardaily.com/portfolio) [Full Stack Developer | Software Engineer]
+- [Nikhil Madaravena](https://www.nikhilmadaravena.me)
 - [Nikhila Koneru](https://nikhilakoneru.com) [Full Stack Developer | DevOps Engineer]
-- [Nikhil Madaravena](https://www.nikhilmadaravena.me/)
 - [Nikita Sobolev](https://sobolevn.me)
 - [Niko Soriano](https://n-cv.vercel.app)
 - [Nikunj Khitha](https://nikunj.codenex.dev) [Full Stack Gen AI Developer]
