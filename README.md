@@ -29,7 +29,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
-- [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app/) [Software Engineer & Web Developer]
+- [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
@@ -134,7 +134,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ahmad Awais](https://ahmadawais.com)
 - [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
-- [Ahmed Allali](https://portfolio-ahmed-allalis-projects.vercel.app/) [Front-End Developer | ahallali.duckdns.org]
+- [Ahmed Allali](https://portfolio-ahmed-allalis-projects.vercel.app) [Front-End Developer | ahallali.duckdns.org]
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
@@ -644,7 +644,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app)
 - [Gaurav Rathva](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
 - [Gaurav Saxena](https://www.gauravsaxena.site) [Full Stack Engineer | AI Engineer]
-- [Gazi Anas](https://gazimdanas.netlify.app/) [AI-assisted Developer | Problem Solver]
+- [Gazi Anas](https://gazimdanas.netlify.app) [AI-assisted Developer | Problem Solver]
 - [Geet Trivedi](https://www.geettrivedi.com) [Full Stack Developer | MEAN/MERN]
 - [Genesis Gabiola](https://genesisgabiola.now.sh)
 - [George Christeas](https://chr-ge.com)
@@ -710,7 +710,7 @@ This repo can serve as inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Hesbon Angwenyi](https://hezy.netlify.app) [Full Stack Developer | DevOps Engineer]
-- [Hien Dao](https://hiendao.dev/) [Software Engineer | Backend]
+- [Hien Dao](https://hiendao.dev) [Software Engineer | Backend]
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
@@ -748,6 +748,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## J
 
+- [JAY](https://jay-65.netlify.app) [Frontend Developer]
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
@@ -1456,7 +1457,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
-- [Sayeed Shorif](https://sayeeed-shorif.vercel.app/) [FrontEnd Web Developer]
+- [Sayeed Shorif](https://sayeeed-shorif.vercel.app) [FrontEnd Web Developer]
 - [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full Stack Developer]
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
 - [Schalk Venter](https://schalkventer.me)
