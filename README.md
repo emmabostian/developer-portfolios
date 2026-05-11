@@ -34,6 +34,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
+- [Aakash Singh](https://parth-porto-eta.vercel.app) [UI/UX Expert]
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
 - [Aanand Madhav](https://aanandmadhav.com) [Senior PM | UX]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
