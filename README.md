@@ -772,7 +772,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app)
 - [Jatin](https://jating07925.vercel.app) [Full Stack Developer | .Net + React]
-- [JAY](https://jay-65.netlify.app) [Frontend Developer]
+- [Jay](https://jay-65.netlify.app) [Frontend Developer]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
