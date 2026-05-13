@@ -748,7 +748,6 @@ This repo can serve as inspiration for your portfolio!
 
 ## J
 
-- [JAY](https://jay-65.netlify.app) [Frontend Developer]
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
@@ -773,6 +772,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app)
 - [Jatin](https://jating07925.vercel.app) [Full Stack Developer | .Net + React]
+- [JAY](https://jay-65.netlify.app) [Frontend Developer]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
