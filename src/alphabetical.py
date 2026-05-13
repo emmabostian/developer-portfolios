@@ -84,6 +84,141 @@ def find_duplicate_lines(lines, ignore_case=False, ignore_trailing_whitespace=Tr
     return duplicates
 
 
+def validate_section_placement(lines):
+    """
+    Validate that all entries are in the correct alphabetical section.
+    Move any misplaced entries to their correct sections.
+    Returns (corrected_lines, moved_count).
+    """
+    import unicodedata
+
+    header_pattern = re.compile(r"^##\s+([A-Z])$")
+    link_pattern = re.compile(r"^-\s+\[([^]]+)\]")
+
+    # Build a structure: {section_letter: {'lines': [], 'entries': []}}
+    sections_order = []
+    sections = {}
+    current_section = None
+    preamble = []
+
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        header_match = header_pattern.match(line.rstrip())
+
+        if header_match:
+            section_letter = header_match.group(1)
+            current_section = section_letter
+            if section_letter not in sections:
+                sections[section_letter] = {'header': line, 'before': [], 'entries': [], 'after': []}
+                sections_order.append(section_letter)
+            i += 1
+        elif current_section is None:
+            # Before any section headers
+            preamble.append(line)
+            i += 1
+        elif current_section and line.startswith("- "):
+            # This is an entry
+            sections[current_section]['entries'].append(line)
+            i += 1
+        else:
+            # Other lines (empty lines, etc.) - track whether before or after entries
+            if current_section:
+                if not sections[current_section]['entries']:
+                    sections[current_section]['before'].append(line)
+                else:
+                    sections[current_section]['after'].append(line)
+            i += 1
+
+    # Now validate and move entries
+    moved_count = 0
+    for section_letter in list(sections_order):  # Use list() to avoid modification during iteration
+        section = sections[section_letter]
+        correct_entries = []
+
+        for entry in section['entries']:
+            link_match = link_pattern.match(entry)
+            if link_match:
+                name = link_match.group(1).strip()
+                if not name:
+                    correct_entries.append(entry)
+                    continue
+
+                # Get the first character
+                first_char = name[0].upper()
+
+                # Normalize accented characters (e.g., 'É' -> 'E', 'Ö' -> 'O')
+                try:
+                    normalized = unicodedata.normalize('NFD', first_char)
+                    base_char = normalized[0] if normalized else first_char
+                except:
+                    base_char = first_char
+
+                # If not a letter A-Z, keep in current section
+                if not base_char.isalpha() or not base_char.isupper():
+                    correct_entries.append(entry)
+                    continue
+
+                # Check if in correct section
+                if base_char == section_letter:
+                    correct_entries.append(entry)
+                else:
+                    # Need to move this entry
+                    moved_count += 1
+
+                    # Add to correct section
+                    if base_char in sections:
+                        sections[base_char]['entries'].append(entry)
+                    else:
+                        # Create new section
+                        sections[base_char] = {
+                            'header': f"## {base_char}\n",
+                            'before': ['\n'],
+                            'entries': [entry],
+                            'after': []
+                        }
+                        # Insert in alphabetical order
+                        insert_idx = 0
+                        for idx, letter in enumerate(sections_order):
+                            if letter < base_char:
+                                insert_idx = idx + 1
+                        sections_order.insert(insert_idx, base_char)
+            else:
+                # Keep entries that don't match pattern
+                correct_entries.append(entry)
+
+        # Update section with corrected entries
+        section['entries'] = correct_entries
+
+    # Rebuild the file
+    result = []
+    result.extend(preamble)
+
+    for idx, section_letter in enumerate(sections_order):
+        section = sections[section_letter]
+        
+        # Add section header
+        result.append(section['header'])
+        
+        # Add lines before entries (typically one blank line)
+        result.extend(section['before'])
+        
+        # Add entries
+        result.extend(section['entries'])
+        
+        # Add lines after entries
+        # If there are 'after' lines, use them
+        if section['after']:
+            result.extend(section['after'])
+        else:
+            # Ensure there's a blank line after the last entry if not the last section
+            # and if entries exist in this section
+            if section['entries'] and idx < len(sections_order) - 1:
+                result.append('\n')
+
+    return result, moved_count
+
+
 def sort_lists_alphabetically(lines):
     header_pattern = re.compile(r"^##\s+([A-Z])")
     # Remove a trailing slash from captured http(s) URLs even when the slash is
@@ -548,8 +683,13 @@ def main():
     if duplicates_removed:
         print(f"Removed {duplicates_removed} duplicate line(s) from README.md (kept first occurrences).")
 
-    # Sort and write back (using the deduplicated list)
-    sorted_lines, header_indices = sort_lists_alphabetically(deduped_lines)
+    # NEW: Validate and reorganize sections - move misplaced entries to correct sections
+    reorganized_lines, moved_count = validate_section_placement(deduped_lines)
+    if moved_count:
+        print(f"Moved {moved_count} misplaced entr{'y' if moved_count == 1 else 'ies'} to correct alphabetical section(s).")
+
+    # Sort and write back (using the reorganized list)
+    sorted_lines, header_indices = sort_lists_alphabetically(reorganized_lines)
 
     # New: remove adjacent exact duplicates where both [text] and (link) match
     final_lines, post_removed = remove_exact_duplicate_links(sorted_lines)
