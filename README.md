@@ -227,7 +227,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ankit Dey](https://dub.sh/ankitdey)
 - [Ankit Jha](https://ankitjha.vercel.app) [MERN stack developer]
 - [Ankit Mohanty](https://ankitmohanty.vercel.app) [Software Developer]
-- [Ankit Roy](https://ankit-roy.netlify.app) [Software | Backend | Bot Developer and AI Automation] 
+- [Ankit Roy](https://ankit-roy.netlify.app) [Software | Backend | Bot Developer and AI Automation]
 - [Ankur Bag](https://www.ankurbag.tech) [Full Stack Dev with GenAI]
 - [Ankush Minda](http://ankushminda.com)
 - [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
@@ -262,6 +262,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arjun Ganesan](https://arjunganesan.com)
 - [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
 - [Armel Munyaneza](https://munyaneza.vercel.app)
+- [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
 - [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
 - [Arsh Sahzad](https://www.arsh.dev)
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
