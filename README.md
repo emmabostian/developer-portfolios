@@ -31,7 +31,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app/) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
-- [Aahana Bobade](https://aahanabobade-portfolio.vercel.app) [Software Developer]
+- [Aahana Bobade](https://aahanabobade.com) [Software Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakash Singh](https://parth-porto-eta.vercel.app) [UI/UX Expert]
