@@ -1779,6 +1779,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
 - [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
+- [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np) (Full Stack/Ai Developer)
 - [Yuelin Liu](https://www.liuyuelin.dev) [Full Stack Developer]
