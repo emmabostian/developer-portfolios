@@ -354,7 +354,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhagawat Adhikari](https://github.com/bhagawatadhikari)
 - [Bharat Bhandari](https://bharatdev.vercel.app)
 - [Bhavani Ravi](http://bhavaniravi.com)
-- [Bhavesh Gudlani](https://bhaveshgudlani.me)
+- [Bhavesh Gudlani](https://bhaveshgudlani.me) [AI/ML Engineer | Fullstack Development-Android-AI/ML]
 - [Bhavesh Mishra](https://bhaveshmishra.dev)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
