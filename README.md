@@ -1473,6 +1473,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 - [Shalon Fernando](https://shalon.vercel.app) [Software Engineer]
 - [Shannon Crabill](http://shannoncrabill.com)
+- [Shankumar Pitta](http://shankumar.is-a.dev)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Shanto Joseph](https://shantojoseph.com) [Full Stack | Developer]
 - [Sharif Rahat](https://sharifrahat.com) [Full Stack Developer]
