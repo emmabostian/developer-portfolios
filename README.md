@@ -614,6 +614,7 @@ This repo can serve as inspiration for your portfolio!
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
 - [Frances Coronel](https://francescoronel.com)
+- [Francisco Salido](https://paco.fyi?utm_source=gh) [Software Engineer]
 - [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
 - [Franco Ruiz](https://francoruiz.dev) [Staff Frontend Engineer]
 - [Franklin Castellanos](https://onecastell.github.io)
