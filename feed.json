@@ -495,11 +495,6 @@
     "tagline": "Front-End Web Developer"
   },
   {
-    "name": "Ahmed Allali",
-    "url": "https://www.ahallali.duckdns.org",
-    "tagline": "Front-End Developer"
-  },
-  {
     "name": "Ahmed Tokyo",
     "url": "https://ahmedtokyo.com",
     "tagline": "Senior Software Engineer | Ai"
@@ -550,9 +545,9 @@
     "tagline": "Full Stack Developer"
   },
   {
-    "name": "Akashkumar Jadav",
-    "url": "https://akash.ac",
-    "tagline": "Full Stack Engineer | Cloud Architect"
+    "name": "Akhileswar Kamale",
+    "url": "https://akhileswar6.github.io/Portfolio/",
+    "tagline": "Full Stack Developer"
   },
   {
     "name": "Akhshy Ganesh",
@@ -1485,9 +1480,11 @@
   {
     "name": "Bhavani Ravi",
     "url": "http://bhavaniravi.com"
-  },{
+  },
+  {
     "name": "Bhavesh Gudlani",
-    "url": "https://bhaveshgudlani.me"
+    "url": "https://bhaveshgudlani.me",
+    "tagline": "AI/ML Engineer | Full Stack Development-Android-AI/ML"
   },
   {
     "name": "Bhavesh Mishra",
@@ -2567,6 +2564,11 @@
     "url": "https://francescoronel.com"
   },
   {
+    "name": "Francisco Salido",
+    "url": "https://paco.fyi?utm_source=gh",
+    "tagline": "Software Engineer"
+  },
+  {
     "name": "Franck Galliod",
     "url": "https://www.franckwebpro.com",
     "tagline": "Full Stack & Webflow Developer"
@@ -2655,6 +2657,11 @@
   {
     "name": "Garv Nanwani",
     "url": "https://garvnanwani.netlify.app"
+  },
+  {
+    "name": "Gary Doman / GareBear99 / GareBearProductionz / TizWildin",
+    "url": "https://garebear99.github.io/TizWildinEntertainmentHUB/",
+    "tagline": "Software Developer | Audio DSP | AI Infrastructure | Music Tech"
   },
   {
     "name": "Gaspare Tortora",
@@ -3935,11 +3942,6 @@
     "url": "https://madhank93.github.io"
   },
   {
-    "name": "Madhuravas",
-    "url": "https://www.madhuravas.online",
-    "tagline": "Mern Stack Developer"
-  },
-  {
     "name": "Madhurima Rawat",
     "url": "https://madhurimarawat.github.io/Portfolio-Website",
     "tagline": "Data Scientist & Frontend Developer"
@@ -4725,10 +4727,6 @@
   {
     "name": "Nguyen Chanh Dang",
     "url": "https://chanhdang.com"
-  },
-  {
-    "name": "Nhlanhla Hasane",
-    "url": "https://nhlanhlahasane.netlify.app"
   },
   {
     "name": "Nicholas Gannon",
@@ -5651,11 +5649,6 @@
     "tagline": "Senior Engineer | Technical Project Manager"
   },
   {
-    "name": "Ruban Gino Singh",
-    "url": "https://www.rubangino.ca",
-    "tagline": "AI Engineer | AI Systems Builder | Full Stack AI Developer"
-  },
-  {
     "name": "Rumman Srummanf",
     "url": "https://srummanf.vercel.app"
   },
@@ -5761,10 +5754,6 @@
     "name": "Safal Narshing Shrestha",
     "url": "https://safalnarshing.com.np",
     "tagline": "ML/AI Engineer"
-  },
-  {
-    "name": "Safoor Safdar",
-    "url": "https://safoorsafdar.com"
   },
   {
     "name": "Sagar Adulkar",
@@ -6201,6 +6190,10 @@
     "tagline": "Software Engineer"
   },
   {
+    "name": "Shankumar Pitta",
+    "url": "http://shankumar.is-a.dev"
+  },
+  {
     "name": "Shannon Crabill",
     "url": "http://shannoncrabill.com"
   },
@@ -6256,13 +6249,13 @@
     "tagline": "Software Engineer | Machine Learning Engineer"
   },
   {
-    "name": "Shefali",
-    "url": "https://shefali.dev"
+    "name": "Shawn Kurtnelle Lewis",
+    "url": "https://shawnklewis.com",
+    "tagline": "Augmented Software Engineer | Systems Architect"
   },
   {
-    "name": "Sheljin",
-    "url": "https://shelj.in",
-    "tagline": "Full Stack Developer"
+    "name": "Shefali",
+    "url": "https://shefali.dev"
   },
   {
     "name": "Shihablabs",
@@ -6329,6 +6322,11 @@
     "name": "Shreyas Raviprakash",
     "url": "https://portfolio-vfee.vercel.app",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Shubham 404",
+    "url": "https://shubham-404.vercel.app",
+    "tagline": "Crafting Code with Purpose | Student"
   },
   {
     "name": "Shubham Chaturvedi",
@@ -6717,10 +6715,6 @@
     "url": "http://tekkshetri.com.np"
   },
   {
-    "name": "Tek Raj Joshi",
-    "url": "https://t3kraj.netlify.app"
-  },
-  {
     "name": "Thea Choem",
     "url": "https://thea.juniorise.com"
   },
@@ -7054,11 +7048,6 @@
     "name": "Veerendra Dwivedi",
     "url": "https://veerendra-portfolio-seven.vercel.app",
     "tagline": "DevOps Engineer"
-  },
-  {
-    "name": "Venkat Nurukurthi",
-    "url": "https://venkatnurukurthi.info",
-    "tagline": "Microsoft Endpoint Administrator | Full Stack Developer"
   },
   {
     "name": "Vertanzil",
