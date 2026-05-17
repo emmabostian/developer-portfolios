@@ -145,6 +145,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
 - [Akashkumar Jadav](https://akash.ac) [Full Stack Engineer | Cloud Architect]
+- [Akhileswar Kamale](https://akhileswar6.github.io/Portfolio/) [Full stack Developer]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
 - [Akli Massinissa Sadek](https://sadoukas.com) [Full Stack Developer | Freelance Services]
