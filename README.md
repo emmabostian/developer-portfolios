@@ -1162,6 +1162,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## O
 
+- [Orkhan Asgarli](https://orkhanasgarli.vercel.app)
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
