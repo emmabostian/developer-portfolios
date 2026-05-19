@@ -748,6 +748,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Jack Parsons](https://jackparsonss.me)
 - [Jacob Herper](https://jacobherper.com)
+- [Jack Phát](https://jackphat.vercel.app) [Full Stack Developer | Vibe coding]
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh](https://jagadeeshftw.netlify.app)
 - [Jahidul Islam Jihad](https://jahiduljihad.netlify.app) [Full Stack Developer]
