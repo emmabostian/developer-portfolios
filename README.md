@@ -14,7 +14,8 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1682
+## Current Portfolio Count: 1683
+
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -747,6 +748,7 @@ This repo can serve as inspiration for your portfolio!
 ## J
 
 - [Jack Parsons](https://jackparsonss.me)
+- [Jack Phát](https://jackphat.vercel.app) [Full Stack Developer | Vibe coding]
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh](https://jagadeeshftw.netlify.app)
