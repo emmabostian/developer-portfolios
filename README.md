@@ -1231,6 +1231,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
+- [Prakhar Yadav](https://prakharyxdev.vercel.app/) [Full Stack Developer | Tech Content Creator]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
 - [Pranay Bandaru](https://pranaybandaru.vercel.app) [Data Science]
