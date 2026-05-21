@@ -730,6 +730,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
+- [Ifaz Md Zahin](https://ifazzahin.vercel.app/) [Full Stack Developer | ML Engineer]
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
 - [Ilya Glebov](https://ilyaglebov.dev) [Software Engineer | Tech Lead]
 - [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
