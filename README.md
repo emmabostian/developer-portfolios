@@ -1278,7 +1278,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rahul Gurujala](https://rahulgurujala.is-a.dev) [Full Stack Developer]
 - [Rahul Khatwani](https://rahulkhatwani.vercel.app) [Full Stack Developer]
 - [Rahul Kumar](https://rahulbaran.vercel.app)
-- [Rahul Kushwaha](https://raahulllkushwaha.dev) [Full Stack Developer | Java | Spring Boot]
+- [Rahul Kushwaha](https://raahullkushwaha.dev) [Full Stack Developer | Java | Spring Boot]
 - [Rahul Mehta](https://rahulmehta.dev)
 - [Rahul Sawant](http://raalzz.com)
 - [Raj Aryan](https://rajxryan.vercel.app)
