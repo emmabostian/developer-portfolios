@@ -5312,6 +5312,11 @@
     "name": "Rahul Kumar",
     "url": "https://rahulbaran.vercel.app"
   },
+   {
+  "name": "Rahul Kushwaha",
+  "url": "https://raahullkushwaha.dev",
+  "tagline": "Full Stack Developer", "Java", "Spring Boot"
+},
   {
     "name": "Rahul Mehta",
     "url": "https://rahulmehta.dev"
@@ -5320,11 +5325,7 @@
     "name": "Rahul Sawant",
     "url": "http://raalzz.com"
   },
-  {
-  "name": "Rahul Kushwaha",
-  "url": "https://raahulllkushwaha.dev",
-  "tagline": ["Full Stack Developer", "Java", "Spring Boot"]
-},
+ 
   {
     "name": "Raj Aryan",
     "url": "https://rajxryan.vercel.app"
