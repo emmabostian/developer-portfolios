@@ -870,6 +870,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kelvin Juma](https://kelvin-site.vercel.app) [Full Stack Engineer]
 - [Kenneth Sunjaya](https://kennethsunjaya.com) [Software Engineer]
 - [Kenta Yamamoto](https://ychof.com)
+- [kenTom](https://kentom.co.ke) [Software Developer]
 - [Kenzy Codex](https://kenzycodex.vercel.app) [Software Developer | Backend Engineer]
 - [Ketuman Vishwakarma](https://k2maan.vercel.app)
 - [Kevin Bogagne](https://kevinbg.vercel.app) [Software Engineer]
