@@ -1485,6 +1485,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sebastian Cherny](https://sebascherny.github.io)
 - [Sebbie Chanzu](https://sebbie-chanzu.vercel.app) [Backend, DevOps And Machine Learning Engineer]
 - [Sebi](https://sebilune.dev) [Full Stack Developer]
+- [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
 - [Sergei Chestakov](https://sergei.com)
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
 - [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
