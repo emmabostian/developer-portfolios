@@ -1283,6 +1283,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## Q
 
+- [Qihang Feng](https://qfeng.beaverexp.com) [Software Engineering Student | Full Stack Development, Machine Learning]
 - [Qui Nguyen](https://www.lexnguyen.dev)
 - [Quint Wessels](https://quintwessels.com)
 
