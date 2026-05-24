@@ -247,6 +247,7 @@ This repo can serve as inspiration for your portfolio!
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
 - [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
+- [Anukool Patel](https://anukool.me) [Full Stack Developer | AI]
 - [Anup Pradhan](https://www.anuppradhan.in) [Full Stack Developer | Terminal Portfolio]
 - [Anurag Affection](https://anuragaffection.vercel.app)
 - [Anurag Zete](https://portfolio-anuragzete.web.app) [Software Engineer]
