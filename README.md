@@ -234,6 +234,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anton Bojko](https://mrtoxas.github.io/cv/portfolio)
 - [Anton Manaev](https://antonmanaev.name) [AI | Full Stack Developer | Designer]
 - [Antonio Ferreiro](https://toniferr.github.io)
+- [Antonio Ranivoarison](https://tsioryantonio.vercel.app) [Full Stack Developer & Aspiring AI / Ml Engineer]
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
 - [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
