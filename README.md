@@ -84,6 +84,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhinay Thakur](https://abhinaythakur.com)
 - [Abhisek Panda](https://abhisekpanda072.vercel.app) [Front-End Developer | MERN Stack Developer | Freelancer]
 - [Abhishek Agrawal](https://abhish0.github.io/My-Portfolio/) [Full Stack Developer]
+- [Abhishek Anand](https://abhishekdev-portfolio.vercel.app) [Software Engineer | Full Stack Developer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
 - [Abhishek Ghimire](https://www.abhishekg.com.np) [Software Engineer]
