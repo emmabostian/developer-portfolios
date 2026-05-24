@@ -320,6 +320,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
 - [Ayodele Ayoola](https://www.ayodeleayoola.com) [Software Developer | Frontend Heavy Full Stack]
+- [Ayman Ismail](https://aymanismail.com) [Software Engineer | Full Stack Developer]
 - [Ayoub Alahyane](https://aalahyan3.tech)
 - [Ayush Acharya](https://ayushacharya.vercel.app) [Passionate - Full Stack Software Developer]
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
