@@ -1232,6 +1232,7 @@ This repo can serve as inspiration for your portfolio!
 - [Patricia Aas](https://patricia.no)
 - [Patrick Chiu](https://patrick-kw-chiu.github.io)
 - [Patrick Hyatt](https://www.patrickhyatt.com)
+- [Patrick Müller](https://p-mueller.dev) [Software Developer]
 - [Patrick Obermeier](https://www.patrickobermeier.at)
 - [Patrick Reid](http://iamreliq.com)
 - [Paul Agbogun](https://ifeoluwa-portfolio-five.vercel.app)
