@@ -432,6 +432,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Ike Ofoegbu](https://iodev.io)
 - [Ilham Riski Wibowo](http://ilhamriski.com/) [Fullstack Developer]
 - [Ilke Ozsekerli](https://ilkeozs.info)
+- [Ilija Korodic](https://ilijakorodic.com) [Frontend & Webflow Developer]
 - [Ilyes Landolsi](https://ilandols.com)
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Ingus Jansons](https://ingus.co.uk)
