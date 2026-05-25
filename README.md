@@ -989,7 +989,7 @@ This repo can serve as inspiration for your portfolio!
 - [Manan Kanani](https://manankanani.in) [Full Stack Developer]
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
 - [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
-- [Manikanta Darapureddy](https://manikantadarapureddy.in) [AI/ML Enginner | Full-Stack Developer]
+- [Manikanta Darapureddy](https://manikantadarapureddy.in)💛[AI/ML Enginner | Full-Stack Developer]
 - [Manav Chudasama](https://manav-chudasama.vercel.app) [Full Stack Developer]
 - [Mandip Umretiya](https://mandipumretiya-portfolio.vercel.app) [Full Stack Developer]
 - [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
