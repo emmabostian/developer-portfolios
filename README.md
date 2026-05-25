@@ -1817,6 +1817,7 @@ This repo can serve as inspiration for your portfolio!
 - [Zaid Rakhange](https://zaid.impiclabs.com) [Gen AI Engineer | Founder @ImpicLabs]
 - [Zangwei Zheng](https://zangwei.dev) [Full Stack Developer | Ai Researcher]
 - [Zaryab Mahmood](https://zubbihawk.netlify.app) [Full Stack Developer]
+- [Zayar Shein](https://zayarshein.com) [Full Stack Developer | Software Engineer]
 - [Zeel Bhanderi](https://zeelbhanderi.netlify.app) [Expert Flutter Developer & FlutterFlow]
 - [Zheng Robert](https://www.robert.hase-zheng.net)
 - [Zion Emond](https://zionemond.dev) [Software Engineer]
