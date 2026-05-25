@@ -1171,6 +1171,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nilkanth Patadiya](https://nilkanthpatadiya.vercel.app)
 - [Nimit Trevadiya](https://nimit-trevadiya.vercel.app) [Full Stack Developer]
 - [Nipun Jain](https://lucifernipun22.github.io)
+- [Nitika](https://my-portfolio-beryl-xi-81.vercel.app/) [Graphic designer | Backend developer]
 - [Niresh Shrestha](https://niresh.com.np)
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app)
