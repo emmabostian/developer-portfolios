@@ -211,6 +211,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app)
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
+- [Andrianaivo Blaise Ismael](https://andrianaivo-ismael.vercel.app/admin)
 - [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
 - [Andrii Zontov](https://lwjerri.dev)
 - [André De Faria](https://andredfaria.github.io)
