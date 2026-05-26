@@ -1797,9 +1797,8 @@ This repo can serve as inspiration for your portfolio!
 - [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
 - [Yoav](https://yoav.xyz)
 - [Yocrrz/Aditya](https://yocrrz.is-a.dev) [Js | Cybersecurity | Full Stack dev]
-- [Yog Prajapati](https://yog.zentor.site) [Ai Developer | Full Stack]
+- [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer | Full Stack]
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
-- [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer]
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
 - [Yogi Arif Widodo](https://yogiveloper.com) [Full Stack Software Engineer | Newbie Hacker]
 - [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
