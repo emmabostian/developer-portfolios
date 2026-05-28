@@ -28,7 +28,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
-- [Aaadak Rakesh](https://rakesh404.vercel.app/) [Animated Portfolio | GSAP | Student | Backend Dev]
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
@@ -1326,6 +1325,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
 - [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
 - [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
+- [Rakesh Adak](https://rakesh404.vercel.app/) [Animated Portfolio | GSAP | Student | Backend Dev]
 - [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
