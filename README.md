@@ -1325,6 +1325,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rajiv Mahto](https://rajiv-portfolio-dev.vercel.app) [Software Engineer | Python, Django, Automation]
 - [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
 - [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
+- [Rakesh Adak](https://rakesh404.vercel.app/) [Student | Backend Dev]
 - [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
