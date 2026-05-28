@@ -1380,6 +1380,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rohit Solanki](https://rohitsolanki.me)
 - [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
+- [Rohit Kumar Ranjan](https://rohitkumarranjan.in)
 - [Roland Taylor](http://rolandixor.pro)
 - [Rolind Roy](https://rolind.me) [DevOps]
 - [Roman Sendziuk](https://portfolio-romsendz.vercel.app)
