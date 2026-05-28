@@ -125,6 +125,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adityakumar Sinha](https://aditya113141.github.io)
 - [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
 - [Advait Nair](https://advaitnair.org) [Full-Stack Engineer]
+- [Adwitya](https://adwityac.netlify.app/)
 - [Afam Olie](https://afamolie.com) [Full Stack Developer]
 - [Afaq Awan](https://afaq35202.github.io) [Mobile App Developer]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
