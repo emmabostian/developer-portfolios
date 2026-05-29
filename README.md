@@ -1373,6 +1373,7 @@ This repo can serve as inspiration for your portfolio!
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kumar Sahoo](https://rohitksahoo.vercel.app/) [Systems Architect | Backend Developer]
+- [Rohit Kumar Ranjan](https://rohitkumarranjan.in) [Cyber Security]
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Raj](https://rohit-raj.netlify.app)
 - [Rohit Singh](https://rohitsinghworks.vercel.app) [Software & Web Developer | Next.js, MERN & Full Stack]
@@ -1380,7 +1381,6 @@ This repo can serve as inspiration for your portfolio!
 - [Rohit Solanki](https://rohitsolanki.me)
 - [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
-- [Rohit Kumar Ranjan](https://rohitkumarranjan.in)
 - [Roland Taylor](http://rolandixor.pro)
 - [Rolind Roy](https://rolind.me) [DevOps]
 - [Roman Sendziuk](https://portfolio-romsendz.vercel.app)
