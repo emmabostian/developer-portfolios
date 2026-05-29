@@ -1372,8 +1372,8 @@ This repo can serve as inspiration for your portfolio!
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
-- [Rohit Kumar Sahoo](https://rohitksahoo.vercel.app/) [Systems Architect | Backend Developer]
 - [Rohit Kumar Ranjan](https://rohitkumarranjan.in) [Cyber Security]
+- [Rohit Kumar Sahoo](https://rohitksahoo.vercel.app/) [Systems Architect | Backend Developer]
 - [Rohit Kushwaha](https://rohitk06.vercel.app)
 - [Rohit Raj](https://rohit-raj.netlify.app)
 - [Rohit Singh](https://rohitsinghworks.vercel.app) [Software & Web Developer | Next.js, MERN & Full Stack]
