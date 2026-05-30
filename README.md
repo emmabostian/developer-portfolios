@@ -855,6 +855,7 @@ This repo can serve as inspiration for your portfolio!
 - [Judicaël Ahyi](https://judicael-ahyi.com)
 - [Julia Johnson](http://juliacodes.com)
 - [Julian Teofilov](https://julian-teofilov.vercel.app)
+- [Junaid Irfan](https://www.junaidirfan.com) [DevOps | Full-Stack Developer]
 - [Juon Kawakami @Evesquare](https://me.evesq.com) [Full Stack Developer | Ui/Ux Designer]
 - [Jyotirmoy Bandyopadhayaya](https://itsmebravo.dev)
 
