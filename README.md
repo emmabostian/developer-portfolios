@@ -1305,7 +1305,7 @@ This repo can serve as inspiration for your portfolio!
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
-
+- [Rakesh kannepelli](https://portfolio-ruby-tau-62.vercel.app/) [AI / ML and Full stack Developer]
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
