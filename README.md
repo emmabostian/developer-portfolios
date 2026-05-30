@@ -844,6 +844,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joshua Prini](https://joshuaprini.com) [Full Stack Developer | Software Engineer]
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
+- [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
 - [Juan Gomes Macario](https://crashunix.nl) [Senior Full Stack Developer]
