@@ -1047,6 +1047,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mayank Aggarwal](https://mayank0255.github.io)
 - [Mayank Mehra](https://mayank-portfolio-pied.vercel.app)
 - [Maytiya Monburinon](https://gigigimay.github.io)
+- [Mayurdhvajsinh Jadeja](https://mayurdhvaj.in) [Software Engineer | Backend, AI]
 - [Md Kawsar](https://www.kawsarlog.com) [Python Developer | Web Scraping, Automation, And Development Expert]
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
 - [Md Nabil Ahsan](https://www.mdnabilahsan.com)
