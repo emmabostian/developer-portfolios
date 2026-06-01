@@ -692,6 +692,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Gokul Suresh](https://gokulsuresh.vercel.app) [ Project Lead]
 - [Gokul](https://gokul.ink) - [Front end Engineer]
+- [Gowtham Sridhar](https://www.gowthamsridhar.com/) - [AI engineer, HCI Scientist + robots]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
 - [Gunasree](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
