@@ -236,7 +236,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ankit Roy](https://ankit-roy.netlify.app) [Software | Backend | Bot Developer and AI Automation]
 - [Ankur Bag](https://www.ankurbag.tech) [Full Stack Dev with GenAI]
 - [Ankush Minda](http://ankushminda.com)
-- [Ankush Rathour](https://ankushrathour.com) [Software Engineer | Full-Stack Specialist]
+- [Ankush Rathour](https://ankushrathour.com) [Software Engineer | Full Stack Specialist]
 - [Anshul Chauhan](https://anshulchauhan.dev) [Full Stack Developer | Ios-Style Portfolio]
 - [Anshul Dev](https://github.com/AnshulGora/portfolio_template_v1) [Software Developer | Web Solutions]
 - [Anshul Gora](https://anshulwork.netlify.app)
@@ -302,7 +302,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
-- [Asif Javed](https://asifjaved.dev/)  [Software Engineer]
+- [Asif Javed](https://asifjaved.dev)  [Software Engineer]
 - [Asmaa Abdul-Amin](https://asmaa.dev) [Software Engineering Student | Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
@@ -381,7 +381,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
 - [Bhushan Zade](https://bhushanz.netlify.app) [Senior Full Stack Developer (Angular, React, NodeJS)]
-- [bimql](https://bimql.link/) [Indie Developer | Full-Stack & Mobile]
+- [Bimql](https://bimql.link) [Indie Developer | Full Stack & Mobile]
 - [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Binyam Seyoum](https://binyam.io) [DevOps & Cloud Solutions Engineer]
 - [Bipin](https://bipinmv.netlify.app)
@@ -690,7 +690,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gokul Raja](https://gokul-raja84.github.io)
 - [Gokul Suresh](https://gokulsuresh.vercel.app) [ Project Lead]
 - [Gokul](https://gokul.ink) - [Front end Engineer]
-- [Gowtham Sridhar](https://www.gowthamsridhar.com/) - [AI engineer, HCI Scientist + robots]
+- [Gowtham Sridhar](https://www.gowthamsridhar.com) - [AI engineer, HCI Scientist + robots]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
 - [Gunasree](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
@@ -1763,6 +1763,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vivek Patel Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
 - [Vivek Raval](https://mrthree.netlify.app) [App | Ios | Web | Ai & Ml Engineer]
+- [Vladimir Rybalsky](https://alevoldon.com) [AI Builder & Creative Technologist]
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
