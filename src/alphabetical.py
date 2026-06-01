@@ -151,7 +151,7 @@ def validate_section_placement(lines):
                 try:
                     normalized = unicodedata.normalize('NFD', first_char)
                     base_char = normalized[0] if normalized else first_char
-                except:
+                except Exception:
                     base_char = first_char
 
                 # If not a letter A-Z, keep in current section
