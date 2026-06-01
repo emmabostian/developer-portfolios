@@ -401,6 +401,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brendan Lentz](https://brendanlentz.com)
 - [Brendon Van Zanten](https://brendonvanzanten.com) [Full Stack Developer]
 - [Brhane Giday](https://brhane.vercel.app) [Software Engineer | AI Engineer]
+- [Brian Kabbo](https://briankabbo.vercel.app) [Software Engineer | Full Stack Developer]
 - [Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
 - [Brihadeesh](https://briha.xyz) [Full Stack Developer]
 - [Brijesh Patel](https://brijesh.work)
