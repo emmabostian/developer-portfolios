@@ -906,6 +906,7 @@ This repo can serve as inspiration for your portfolio!
 - [Khang Nguyen](https://khangnd.info)
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
+- [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
 - [Kidus Bewket](https://kidus.ca)
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
