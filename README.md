@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1728
+## Current Portfolio Count: 1742
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -222,6 +222,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andy Wong](https://www.andy-hk.com) [Full Stack Developer | Mobile App Developer]
 - [Angkon Kar](https://angkonkar.netlify.app) [‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app) [‍Frontend Developer]
+- [Anh Nguyen](https://anhnq15.github.io) [Software Engineer]
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Joshi](https://aniketj.dev) [Software Architect]
 - [Aniket Kudale](https://aniket.co)
@@ -302,7 +303,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
-- [Asif Javed](https://asifjaved.dev)  [Software Engineer]
+- [Asif Javed](https://asifjaved.dev) [Software Engineer]
 - [Asmaa Abdul-Amin](https://asmaa.dev) [Software Engineering Student | Full Stack Developer]
 - [Aster Li](https://asterjuneli.com)
 - [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
@@ -490,6 +491,7 @@ This repo can serve as inspiration for your portfolio!
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
 - [Daniel Ortiz](https://danielortiz.web.app) [Full Stack Developer]
+- [Daniel Peace](https://concrete.codes) [Web Developer]
 - [Daniel Steele](https://www.danielsteele.dev) [Full Stack Developer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
@@ -506,6 +508,7 @@ This repo can serve as inspiration for your portfolio!
 - [David Dolph](https://git.id.au)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
+- [Dax](https://daolanx.com)[Front-End Developer | Freelancer]
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Debbie Chen](https://debbiechen.me) [Designer at UT Austin]
 - [Debpriyo Ghosal](https://debpriyo.is-a.dev)[Design Engineer]
@@ -1540,6 +1543,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shaurya Chandhoke](https://shauryachandhoke.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio) [Software Engineer | Machine Learning Engineer]
 - [Shawn Kurtnelle Lewis](https://shawnklewis.com) [Augmented Software Engineer | Systems Architect]
+- [Shazeb Khan](https://shazeb-portfolio.vercel.app) [ Full Stack Developer| AI Engineer]
 - [Shefali](https://shefali.dev)
 - [Shihablabs](https://shihablabs.vercel.app) [Full Stack Developer / Software Engineer]
 - [Shikhar Gupta](https://shikhar97.github.io)

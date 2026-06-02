@@ -905,6 +905,11 @@
     "tagline": "‍Frontend Developer"
   },
   {
+    "name": "Anh Nguyen",
+    "url": "https://anhnq15.github.io",
+    "tagline": "Software Engineer"
+  },
+  {
     "name": "Anik Ahammed Khan",
     "url": "https://anikahammedkhan.com"
   },
@@ -2069,6 +2074,11 @@
     "tagline": "Full Stack Developer"
   },
   {
+    "name": "Daniel Peace",
+    "url": "https://concrete.codes",
+    "tagline": "Web Developer"
+  },
+  {
     "name": "Daniel Steele",
     "url": "https://www.danielsteele.dev",
     "tagline": "Full Stack Developer"
@@ -2135,6 +2145,10 @@
   {
     "name": "Davide Santangelo",
     "url": "https://davidesantangelo.com"
+  },
+  {
+    "name": "Dax",
+    "url": "https://daolanx.com"
   },
   {
     "name": "Debasish Dutta",
@@ -2892,7 +2906,8 @@
   },
   {
     "name": "Gowtham Sridhar",
-    "url": "https://www.gowthamsridhar.com"
+    "url": "https://www.gowthamsridhar.com",
+    "tagline": "AI engineer, HCI Scientist + robots"
   },
   {
     "name": "Grace Snow",
@@ -6520,6 +6535,11 @@
     "name": "Shawn Kurtnelle Lewis",
     "url": "https://shawnklewis.com",
     "tagline": "Augmented Software Engineer | Systems Architect"
+  },
+  {
+    "name": "Shazeb Khan",
+    "url": "https://shazeb-portfolio.vercel.app",
+    "tagline": "Full Stack Developer| AI Engineer"
   },
   {
     "name": "Shefali",
