@@ -506,6 +506,7 @@ This repo can serve as inspiration for your portfolio!
 - [David Dolph](https://git.id.au)
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
+- [Dax](https://daolanx.com)[Front-End Developer | Freelancer]
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Debbie Chen](https://debbiechen.me) [Designer at UT Austin]
 - [Debpriyo Ghosal](https://debpriyo.is-a.dev)[Design Engineer]
