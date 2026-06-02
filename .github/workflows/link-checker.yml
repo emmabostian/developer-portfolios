@@ -19,23 +19,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.11"
-
-      - name: Check for ad/parking redirects
-        id: parking
-        run: |
-          python src/check_parking_redirects.py \
-            --lychee-out ./lychee/out.md \
-            --output ./lychee/out.md \
-            --concurrency 20 \
-            --timeout 10
-        continue-on-error: true
-
       - name: Create Issue From File
-        if: steps.lychee.outputs.exit_code != 0 || steps.parking.outcome == 'success'
+        if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: "[Bot] Broken Links Report"

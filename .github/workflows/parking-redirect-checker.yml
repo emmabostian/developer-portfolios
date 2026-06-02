@@ -1,0 +1,33 @@
+on:
+  repository_dispatch:
+  workflow_dispatch:
+  schedule:
+    - cron: "00 18 * * 0"  # Sundays at 18:00 UTC (day after link-checker)
+name: Check for ad/parking redirects
+jobs:
+  parkingChecker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Check for ad/parking redirects
+        id: parking
+        run: |
+          python src/check_parking_redirects.py \
+            --output ./parking-report.md \
+            --concurrency 20 \
+            --timeout 10
+        continue-on-error: true
+
+      - name: Create Issue From File
+        if: steps.parking.outcome == 'success'
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: "[Bot] Ad/Parking Redirect Report"
+          content-filepath: ./parking-report.md
+          labels: report
