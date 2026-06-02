@@ -610,6 +610,7 @@ This repo can serve as inspiration for your portfolio!
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
+- [Evangelos Pappas](https://hyperautomation.substack.com/) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
