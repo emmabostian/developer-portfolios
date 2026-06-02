@@ -95,6 +95,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
 - [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
+- [Abu Bakar Butt](https://abu-bakar-portfolio-mauve.vercel.app/)[ Full Stack Web Developer]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer]
