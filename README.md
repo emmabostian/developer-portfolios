@@ -489,13 +489,13 @@ This repo can serve as inspiration for your portfolio!
 - [Damian Markowski](https://damianmarkowski.com)
 - [Damodar Kamani](https://damkam.vercel.app)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
+- [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | AI Engineer]
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
 - [Daniel Ortiz](https://danielortiz.web.app) [Full Stack Developer]
 - [Daniel Peace](https://concrete.codes) [Web Developer]
 - [Daniel Steele](https://www.danielsteele.dev) [Full Stack Developer]
-- [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | Machine Learning Engineer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Danilo Silva](https://www.iamdanilo.com)
