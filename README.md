@@ -488,8 +488,8 @@ This repo can serve as inspiration for your portfolio!
 - [Damian Markowski](https://damianmarkowski.com)
 - [Damodar Kamani](https://damkam.vercel.app)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
-- [Daniyal Javadia](https://daniyal-works-portfolio.vercel.app/)[Full Stack Developer | Software Engineer]
 - [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | Machine Learning Engineer]
+- [Daniyal Javadia](https://daniyal-works-portfolio.vercel.app/) [Full Stack Developer | Software Engineer]
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
