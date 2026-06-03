@@ -1746,7 +1746,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
-- [Vinay Katikireddy](https://vinaykatikireddy.github.io/) [Cybersecurity, Full Stack Developer]
+- [Vinay Katikireddy](https://vinaykatikireddy.is-a.dev) [Cybersecurity, Full Stack Developer]
 - [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
