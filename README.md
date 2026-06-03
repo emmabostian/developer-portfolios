@@ -1783,6 +1783,7 @@ This repo can serve as inspiration for your portfolio!
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.github.io) [Native App Developer]
 - [Wajahat Ali Mir](https://wajahat-ali-mir-dev.vercel.app) [React Native Developer]
 - [Walker Smith](https://walkersmith.me)
+- [Wasib Sattar](https://wasibsattar.com) [AI Engineer]
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
 - [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
@@ -1791,7 +1792,6 @@ This repo can serve as inspiration for your portfolio!
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 - [Wyatt Hansen](https://www.wyatthansen.dev)
-- [Wasib Sattar](https://wasibsattar.com) [AI Engineer]
 
 ## X
 
