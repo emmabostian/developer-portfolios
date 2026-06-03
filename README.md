@@ -144,6 +144,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
+- [Aitezaz Sikandar Khan](https://aitezazdev.vercel.app/) [Full Stack Developer | Web Development]
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
