@@ -664,6 +664,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Gambhir.Dev](https://gambhir.dev) [Full Stack | DevOps]
+- [Ganesh Angadi](https://ganeshangadi.online) [Devops Engineer | System Thinker]
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Ganesh](https://ganesh717.netlify.app)
