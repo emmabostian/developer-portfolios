@@ -1791,6 +1791,7 @@ This repo can serve as inspiration for your portfolio!
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 - [Wyatt Hansen](https://www.wyatthansen.dev)
+- [Wasib Sattar](https://wasibsattar.com) [AI Engineer]
 
 ## X
 
