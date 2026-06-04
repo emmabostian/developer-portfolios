@@ -1570,6 +1570,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shivam Raj](https://shivxmr.netlify.app)
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
+- [Shivy Patel](https://shivypatel.com) [Full Stack Developer]
 - [Shomi Khan](https://shomi-khan.github.io)
 - [Shourov Paul](https://shourov-paul.github.io) [Electronics Engineer | Embedded Systems]
 - [Shrestha Mishra](https://shresthamishra.vercel.app) [Software Engineer | CS @ University Of Texas At Austin]
