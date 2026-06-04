@@ -26,7 +26,6 @@ This repo can serve as inspiration for your portfolio!
 ## A
 
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
-- [Mejed Alkoutaini](https://majd-portfolio.framer.website/) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
@@ -1062,6 +1061,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mehdi Ali](https://exoo25.github.io)
 - [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
 - [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
+- [Mejed Alkoutaini](https://majd-portfolio.framer.website/) [Software Engineer]
 - [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvin Prince](https://melvinprince.io)
