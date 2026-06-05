@@ -770,6 +770,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
 - [Ilya Glebov](https://ilyaglebov.dev) [Software Engineer | Tech Lead]
+- [Inamullah Mahar](https://inamcodes.github.io) [CS Student | AI Engineer]
 - [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
