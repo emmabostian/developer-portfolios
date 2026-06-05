@@ -494,7 +494,6 @@ This repo can serve as inspiration for your portfolio!
 - [Damodar Kamani](https://damkam.vercel.app)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | Machine Learning Engineer]
-- [Daniyal Javadia](https://daniyal-works-portfolio.vercel.app/) [Full Stack Developer | Software Engineer]
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
@@ -504,6 +503,7 @@ This repo can serve as inspiration for your portfolio!
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Danilo Silva](https://www.iamdanilo.com)
+- [Daniyal Javadia](https://daniyal-works-portfolio.vercel.app) [Full Stack Developer | Software Engineer]
 - [Danny Montoya](https://danny-portfolio-zeta.vercel.app) [Full Stack AI Engineer]
 - [Darakshan Manower Rasheed](https://darakshanrasheed.in)
 - [Darrell Roberts](https://www.darrellroberts.com)
@@ -863,7 +863,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
-- [Juan Benito](https://juanbenito.vercel.app) [Full-Stack Web Developer]
+- [Juan Benito](https://juanbenito.vercel.app) [Full Stack Web Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
 - [Juan Gomes Macario](https://crashunix.nl) [Senior Full Stack Developer]
@@ -1075,7 +1075,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mehdi Ali](https://exoo25.github.io)
 - [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
 - [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
-- [Mejed Alkoutaini](https://majd-portfolio.framer.website/) [Software Engineer]
+- [Mejed Alkoutaini](https://majd-portfolio.framer.website) [Software Engineer]
 - [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer]
 - [Melvin Jones Repol](https://mrepol742.github.io)
 - [Melvin Prince](https://melvinprince.io)
@@ -1207,6 +1207,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
 - [Nitika](https://my-portfolio-beryl-xi-81.vercel.app) [Graphic designer | Backend developer]
+- [Nitin Sahu](https://flawlessnitin.com) [Full Stack Engineer | Backend | Frontend]
 - [Nitish](https://nitishkr.fun)
 - [Noaman Ahmed](https://noamanahmed.com)
 - [Noel Young](https://noeljyoung.github.io/portfolio/) [Senior Software Engineer | Laravel Developer | Go Enthusiast]
@@ -1250,7 +1251,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pankaj Gaikar](https://pankajgaikar.com)
 - [Pankaj Kumar](https://pankaj-kumar-techie.github.io) [Software Engineer]
 - [Param Chaudhari](https://paramsc.dev)
-- [Parinith Mavurapu](https://parinithmavurapu.vercel.app/) [Machine Learning & Full Stack Developer]
+- [Parinith Mavurapu](https://parinithmavurapu.vercel.app) [Machine Learning & Full Stack Developer]
 - [Parish Khan](https://parish.cv) [Senior Software Developer | React, TypeScript, Frontend Architecture]
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
@@ -1326,11 +1327,9 @@ This repo can serve as inspiration for your portfolio!
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
-- [Rakesh kannepelli](https://portfolio-ruby-tau-62.vercel.app/) [AI / ML and Full stack Developer]
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
-- [Rakesh kannepelli](https://portfolio-ruby-tau-62.vercel.app/) [AI / ML and Full stack Developer]
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
 - [Ragav](https://ragavs-profile.netlify.app)
@@ -1352,6 +1351,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rajneesh Tiwari](https://myselfraj.com) [Software Developer | Creative Technologist & AI Engineer]
 - [Rajveer Singh](https://rajveersingh24.vercel.app) [AI/ML Engineer]
 - [Rakesh Adak](https://rakesh404.vercel.app) [Animated Portfolio | GSAP | Student | Backend Dev]
+- [Rakesh Kannepelli](https://portfolio-ruby-tau-62.vercel.app) [AI / ML and Full Stack Developer]
 - [Rakesh Kumar Gupta](https://rakesh.arcavio.com)
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
@@ -1383,7 +1383,7 @@ This repo can serve as inspiration for your portfolio!
 - [Richard Hill](https://www.rhdigital.co.uk) [Digital Designer]
 - [Richard Porter](https://richardporter.dev) [Full Stack Developer | Laravel | Vue | React]
 - [Rick Hanlon](https://rickhanlonii.github.io)
-- [Ricky Serrano](https://rickyserrano.dev/) [Help Desk Grunt | Next.js, React, SpringBoot, Full Stack]
+- [Ricky Serrano](https://rickyserrano.dev) [Help Desk Grunt | Next.js, React, SpringBoot, Full Stack]
 - [Ridoy Dey](https://iamridoydey.com) [Devops & Cloud Engineer | python, bash, go, Docker, CI/CD, Kubernetes, aws, azure, azure devops]
 - [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
@@ -1515,7 +1515,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Adhikary](https://www.sayanadhikary.me) [Full Stack Mern]
 - [Sayan Pramanik](https://sayanpramanik2012.github.io/Portfolio)
-- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io/) [Software Engineer]
+- [Sayandeep Majumdar](https://sayandeepmajumdar.github.io) [Software Engineer]
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
 - [Sayeed Shorif](https://sayeeed-shorif.vercel.app) [FrontEnd Web Developer]
