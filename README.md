@@ -726,6 +726,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
 - [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
 - [Harlon Garcia](https://harlon.netlify.app)
+- [Haroon Khalid](https://haronkhalid.github.io/Portfolio-Website/) [Software Engineer & Digital Creator]
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
 - [Harsh Singhvi](https://harshsinghvi.com)
