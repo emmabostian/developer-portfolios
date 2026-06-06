@@ -314,8 +314,8 @@ This repo can serve as inspiration for your portfolio!
 - [Aster Li](https://asterjuneli.com)
 - [Astruc Laurent](https://lastbrain.fr) [Freelance [FR] | FullStack Developer]
 - [Aswin](https://www.aswincloud.com) [Software Engineer]
+- [Atal Sairam Kumar Patro](https://itsairamkumar.github.io/portfolio/) [Cloud & DevOps Engineer]
 - [Atanas Atanasov](https://atanas.info)
-- [Atal Sairam Kumar Patro](https://itsairamkumar.github.io/portfolio/) [Cloud & DevOps Engineer] 
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
 - [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
