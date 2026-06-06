@@ -65,6 +65,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdul Samad](https://samadd.vercel.app) [Software Developer]
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
 - [Abdullah Ahmed](https://abdallaahmed.icu) [Full Stack Developer]
+- [Abdullah Al Monir](https://abdullah-al-monir.web.app) [Full Stack Developer]
 - [Abdullah Ayoola](https://ayooladev.vercel.app)
 - [Abdullah Bozdağ](https://abdullahbozdag.com) [Full Stack Developer]
 - [Abdullah Iqbal](https://abdullah-portfolio-dev.vercel.app) [Full Stack Developer]
