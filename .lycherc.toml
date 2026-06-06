@@ -5,10 +5,6 @@
 # 405 = Method Not Allowed (some servers reject HEAD but serve GET fine)
 accept = [200, 201, 204, 301, 302, 307, 308, 403, 405, 429]
 
-# Treat timeouts as success — many valid personal/portfolio sites block CI
-# datacenter IPs (GitHub Actions ranges) causing false-positive timeouts
-timeout_ok = true
-
 # Timeout for each request (in seconds)
 timeout = 60
 
