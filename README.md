@@ -6,15 +6,13 @@ Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md)
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-<a href="https://twitter.com/ASpittel/status/1171604728951779328">
-	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
-</a>
+
 
 This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1775
+## Current Portfolio Count: 1778
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -291,6 +289,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arthur Rasera](https://raseraa0.github.io) [Software Engineer]
 - [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
 - [Arup Mandal](https://arupmandal.github.io)
+- [Aryan Gupta](https://aryancodes.tech) [Backend Developer | Golang | PostgreSQL]
 - [Aryan Hooda](https://personal-portfolio-gamma-gold-55.vercel.app) [Full Stack Web Developer]
 - [Aryan Maurya](https://amsrportfolio.netlify.app) [Full Stack Web + App + Game Developer]
 - [Aryan Raj](https://www.aryanraj.cv) [Machine Learning Engineer]
@@ -420,7 +419,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
-  Extension]
+Extension]
 
 ## C
 
@@ -583,7 +582,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app)
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-  [Ai & Data Science Enthusiast]
+[Ai & Data Science Enthusiast]
 
 ## E
 
@@ -1335,6 +1334,7 @@ This repo can serve as inspiration for your portfolio!
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
+
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
@@ -1878,3 +1878,4 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+
