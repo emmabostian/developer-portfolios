@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1778
+## Current Portfolio Count: 1770
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -140,7 +140,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aharon Zilberman](https://ahronsilv.dev) [Full Stack & React Native Engineer | Mobile Infrastructure, Native Integrations & AI-assisted Delivery]
 - [Ahmad Almory](https://ahmedalmory.github.io/portfolio)
 - [Ahmad Awais](https://ahmadawais.com)
-- [Ahmad Gill](https://muhammadahmad.me) [Full Stack Software Engr. | Web 3 / Blockchain]
 - [Ahmed Abdelhafiez](https://nevo.is-a.dev) [Front-End Web Developer]
 - [Ahmed Allali](https://portfolio-ahmed-allalis-projects.vercel.app) [Front-End Developer | ahallali.duckdns.org]
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
@@ -233,7 +232,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
-- [Animesh Bhatt](https://animesh-bhatt.vercel.app) [Software Developer]
 - [Anish Biswas](https://anish7.me) [Full Stack Dev]
 - [Anish Navalgund](https://anishknavalgund.vercel.app) [AI, Robotics and Automation]
 - [Ankit Dey](https://dub.sh/ankitdey)
@@ -744,7 +742,6 @@ Extension]
 - [Hassan Tech](https://hassanx.tech) [Web Developer]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
-- [Hemsundar Paranthaman](https://hemdev.vercel.app)
 - [Henry Lee](https://dragonwarrior.vercel.app)
 - [Heny](https://heny.dev) [Full Stack Developer | Mern | Next.Js]
 - [Herman Starikov](http://starikov.dev)
@@ -848,7 +845,6 @@ Extension]
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jin Jheng Rong](https://jinrup.vercel.app)
-- [Jinki Jung](https://jinkijung.github.io)
 - [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
 - [Jithin Vijayan](https://jithin.dev) [Lead Software Engineer / Full Stack Developer (React / Node / Angular / Vue)]
 - [Jo Lienhoop](https://jolienhoop.com)
@@ -1120,7 +1116,6 @@ Extension]
 - [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com) [React Native Developer | Full Stack Developer | Software Engineer]
 - [Mohammed Atef](https://mohammedatefportfolio.vercel.app) [.Net Full Stack Developer | Software Engineer]
 - [Mohammed Ibrahim Islam](https://macromanager.dev)
-- [Mohammed-Yousuf Hamid](https://mohammedcodes.dev)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
 - [Mohit Joe](https://mohitjoe.vercel.app)
@@ -1500,7 +1495,6 @@ Extension]
 - [Sanjiv Thapa](https://portfolio.sanjivthapa.com.np/home) [Backend Developer]
 - [Sankalp Tharu](https://sankalptharu.com.np)
 - [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
-- [Santosh Shrestha](https://santoshxshrestha.onrender.com)
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
@@ -1679,7 +1673,6 @@ Extension]
 - [Techfolios](https://techfolios.github.io)
 - [Tejas Gupta](https://www.tejas-gupta.com)
 - [Tejas Jadhav](https://teeejaey.github.io)
-- [Tejas Kumar](http://tej.as)
 - [Tek Kshetri](http://tekkshetri.com.np)
 - [Thanh Tran](https://thanhtran-portfolio.vercel.app) [Software Engineer]
 - [Thea Choem](https://thea.juniorise.com)
@@ -1740,7 +1733,6 @@ Extension]
 
 ## V
 
-- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [React Native, ReactJs, NodeJs Developer]
 - [Vaibhav Baranwal](https://vaibhavbaranwal.me) [Backend/ML Developer]
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
@@ -1795,9 +1787,9 @@ Extension]
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
-- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [React Native, ReactJs, NodeJs Developer]
 - [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app) [Full Stack Engineer | AI Engineer]
 - [Vivek Chudasama](https://vivekchudasama-2004.github.io/portfolio)
+- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [React Native, ReactJs, NodeJs Developer]
 - [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
