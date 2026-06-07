@@ -185,6 +185,11 @@
     "tagline": "Full Stack Developer"
   },
   {
+    "name": "Abdullah Al Monir",
+    "url": "https://abdullah-al-monir.web.app",
+    "tagline": "Full Stack Developer"
+  },
+  {
     "name": "Abdullah Ayoola",
     "url": "https://ayooladev.vercel.app"
   },
@@ -3227,6 +3232,24 @@
     "tagline": "Full Stack Developer | ML Engineer"
   },
   {
+    "name": "Ike Ofoegbu",
+    "url": "https://iodev.io"
+  },
+  {
+    "name": "Ilham Riski Wibowo",
+    "url": "http://ilhamriski.com",
+    "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Ilija Korodic",
+    "url": "https://ilijakorodic.com",
+    "tagline": "Frontend & Webflow Developer"
+  },
+  {
+    "name": "Ilke Ozsekerli",
+    "url": "https://ilkeozs.info"
+  },
+  {
     "name": "Ilya Dyomin",
     "url": "https://sskd.tech",
     "tagline": "Front-End Developer"
@@ -3235,6 +3258,10 @@
     "name": "Ilya Glebov",
     "url": "https://ilyaglebov.dev",
     "tagline": "Software Engineer | Tech Lead"
+  },
+  {
+    "name": "Ilyes Landolsi",
+    "url": "https://ilandols.com"
   },
   {
     "name": "Inamullah Mahar",
@@ -6409,6 +6436,11 @@
     "url": "https://saurabh-works.netlify.app"
   },
   {
+    "name": "Saurabh Talele",
+    "url": "https://saurabhtalele.com",
+    "tagline": "Full Stack developer"
+  },
+  {
     "name": "Saurabh Verma",
     "url": "https://saurabhv749.github.io",
     "tagline": "Full Stack Developer"
@@ -7224,6 +7256,11 @@
   {
     "name": "Travis Fischer",
     "url": "https://transitivebullsh.it"
+  },
+  {
+    "name": "Triet Thai",
+    "url": "https://katatnt.github.io/portfolio/",
+    "tagline": "Senior DevOps Engineer"
   },
   {
     "name": "Trisha Darure",

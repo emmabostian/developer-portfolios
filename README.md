@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1767
+## Current Portfolio Count: 1775
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -770,8 +770,13 @@ This repo can serve as inspiration for your portfolio!
 - [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
+- [Ike Ofoegbu](https://iodev.io)
+- [Ilham Riski Wibowo](http://ilhamriski.com) [Full Stack Developer]
+- [Ilija Korodic](https://ilijakorodic.com) [Frontend & Webflow Developer]
+- [Ilke Ozsekerli](https://ilkeozs.info)
 - [Ilya Dyomin](https://sskd.tech) [Front-End Developer]
 - [Ilya Glebov](https://ilyaglebov.dev) [Software Engineer | Tech Lead]
+- [Ilyes Landolsi](https://ilandols.com)
 - [Inamullah Mahar](https://inamcodes.github.io) [CS Student | AI Engineer]
 - [Indra Mahkota](https://indramahkota.info) [Mobile Developer]
 - [Indrajeet Nikam](https://indrajeet.me)
@@ -1513,7 +1518,7 @@ This repo can serve as inspiration for your portfolio!
 - [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer)
 - [Saurabh Patil](https://saurabhpatil.netlify.app) [Code Craftsman]
 - [Saurabh Singh](https://saurabh-works.netlify.app)
-- [Saurabh Talele](https://saurabhtalele.com) [Full stack developer]
+- [Saurabh Talele](https://saurabhtalele.com) [Full Stack developer]
 - [Saurabh Verma](https://saurabhv749.github.io) [Full Stack Developer]
 - [Saurav](https://sauravmh.com)
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
