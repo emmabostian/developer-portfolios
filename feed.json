@@ -532,11 +532,6 @@
     "url": "https://ahmadawais.com"
   },
   {
-    "name": "Ahmad Gill",
-    "url": "https://muhammadahmad.me",
-    "tagline": "Full Stack Software Engr. | Web 3 / Blockchain"
-  },
-  {
     "name": "Ahmed Abdelhafiez",
     "url": "https://nevo.is-a.dev",
     "tagline": "Front-End Web Developer"
@@ -953,11 +948,6 @@
     "name": "Anil Peter",
     "url": "https://anilpeter.vercel.app",
     "tagline": "[‍Frontend Developer"
-  },
-  {
-    "name": "Animesh Bhatt",
-    "url": "https://animesh-bhatt.vercel.app",
-    "tagline": "Software Developer"
   },
   {
     "name": "Anish Biswas",
@@ -3126,10 +3116,6 @@
     "tagline": "Engineering Student | Full Stack Developer"
   },
   {
-    "name": "Hemsundar Paranthaman",
-    "url": "https://hemdev.vercel.app"
-  },
-  {
     "name": "Henry Lee",
     "url": "https://dragonwarrior.vercel.app"
   },
@@ -3560,10 +3546,6 @@
   {
     "name": "Jin Jheng Rong",
     "url": "https://jinrup.vercel.app"
-  },
-  {
-    "name": "Jinki Jung",
-    "url": "https://jinkijung.github.io"
   },
   {
     "name": "Jiru Gutema",
@@ -4745,10 +4727,6 @@
   {
     "name": "Mohammed Ibrahim Islam",
     "url": "https://macromanager.dev"
-  },
-  {
-    "name": "Mohammed-Yousuf Hamid",
-    "url": "https://mohammedcodes.dev"
   },
   {
     "name": "Mohan Reddy",
@@ -6356,10 +6334,6 @@
     "tagline": "Full Stack Architect"
   },
   {
-    "name": "Santosh Shrestha",
-    "url": "https://santoshxshrestha.onrender.com"
-  },
-  {
     "name": "Santosh Yadav",
     "url": "http://santoshyadav.dev"
   },
@@ -7145,10 +7119,6 @@
     "url": "https://teeejaey.github.io"
   },
   {
-    "name": "Tejas Kumar",
-    "url": "http://tej.as"
-  },
-  {
     "name": "Tek Kshetri",
     "url": "http://tekkshetri.com.np"
   },
@@ -7388,11 +7358,6 @@
     "url": "https://uguratmacacv.web.app"
   },
   {
-    "name": "Vivek Ghodadra",
-    "url": "https://vivek-ghodadra.web.app",
-    "tagline": "React Native, ReactJs, NodeJs Developer"
-  },
-  {
     "name": "Vaibhav Baranwal",
     "url": "https://vaibhavbaranwal.me",
     "tagline": "Backend/ML Developer"
@@ -7630,11 +7595,6 @@
     "url": "https://forbrig.github.io"
   },
   {
-    "name": "Vivek Ghodadra",
-    "url": "https://vivek-ghodadra.web.app",
-    "tagline": "React Native, ReactJs, NodeJs Developer"
-  },
-  {
     "name": "Vivek Choudhary",
     "url": "https://vivekportfoliopersonal.vercel.app",
     "tagline": "Full Stack Engineer | AI Engineer"
@@ -7642,6 +7602,11 @@
   {
     "name": "Vivek Chudasama",
     "url": "https://vivekchudasama-2004.github.io/portfolio"
+  },
+  {
+    "name": "Vivek Ghodadra",
+    "url": "https://vivek-ghodadra.web.app",
+    "tagline": "React Native, ReactJs, NodeJs Developer"
   },
   {
     "name": "Vivek Jaiswal",
