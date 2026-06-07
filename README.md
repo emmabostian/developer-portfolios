@@ -6,7 +6,9 @@ Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md)
 
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
-
+<a href="https://twitter.com/ASpittel/status/1171604728951779328">
+	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
+</a>
 
 This repo can serve as inspiration for your portfolio!
 
