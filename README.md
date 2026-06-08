@@ -1485,6 +1485,7 @@ Extension]
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Samrin Jaji](https://samrinjaji.github.io/my-portfolio/) [Frontend Developer | Web Applications]
+- [Samuel Alewi](https://krash-cod3.github.io) [Backend Engineer and Web Automation Expert]
 - [Samuel Ezra](https://www.samuelezranas.codes) [Full Stack & Mobile Developer | Tech Student & Enthusiast]
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
