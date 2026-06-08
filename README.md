@@ -851,6 +851,7 @@ Extension]
 - [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Kimeu](https://kimeu-johnn.vercel.app) [Front-End Developer & Creative]
+- [John Mutua Musee](https://spongebobportfolio.framer.website/) [System Admin]
 - [John Petalio](https://johnreypetalio.netlify.app)
 - [John Ryan Cottam](https://johnryancottam.com)
 - [Johnny Chai](https://johnnychai.com) [Software Engineer]
