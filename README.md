@@ -1540,7 +1540,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shaurya Chandhoke](https://shauryachandhoke.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio) [Software Engineer | Machine Learning Engineer]
 - [Shawn Kurtnelle Lewis](https://shawnklewis.com) [Augmented Software Engineer | Systems Architect]
-- [Shazeb Khan](https://shazeb-portfolio.vercel.app) [ Full Stack Developer| AI Engineer]
+- [Shazeb Khan](https://shazeb-portfolio.vercel.app) [AI Engineer | Full Stack Developer]
 - [Shefali](https://shefali.dev)
 - [Shihablabs](https://shihablabs.vercel.app) [Full Stack Developer / Software Engineer]
 - [Shikhar Gupta](https://shikhar97.github.io)
