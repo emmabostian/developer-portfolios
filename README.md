@@ -1238,6 +1238,7 @@ Extension]
 - [Orion Dobos](https://oriondobos.com)
 - [Osama Islam](https://osamaislam.vercel.app)
 - [Oscar Tian](http://www.bluexguardian.com)
+- [Othmaro Fallas](https://othmaro.dev) [Software Architect | Founder of Filaxy Labs, Inc.]
 - [Oussama Bonnor](https://oussamabonnor1.github.io/portfolio)
 - [Oussama Bouchikhi](https://oussamabouchikhi.github.io)
 - [Oussama Sallak](https://www.osallak.tech)
