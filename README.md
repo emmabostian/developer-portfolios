@@ -1752,6 +1752,7 @@ Extension]
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
+- [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com/)
 - [Varinder Singh](https://varinder148.github.io/portfolio)
 - [Varun Dey](https://varundey.me)
 - [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
