@@ -178,6 +178,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alexey Golub](http://tyrrrz.me)
 - [Alexis De Jesus](https://www.aalexis.fr) [Full Stack Developer]
 - [Alfred Dagenais](https://alfreddagenais.com)
+- [Alireza](https://alireza-h-dev.vercel.app/)
 - [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
 - [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
