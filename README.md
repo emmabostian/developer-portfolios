@@ -630,7 +630,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Jaya Vignesh](https://i-viki.github.io) [Backend Developer]
 - [Jayant Goel](http://jayantgoel001.github.io)
 - [Jayant Parashar](https://jparasha.github.io)
-- [Jayanth Donavalli](https://jayanth.site/) [Full Stack Developer | Designer | Photographer]
+- [Jayanth Donavalli](https://djayanth.site/) [Full Stack Developer | Designer | Photographer]
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer ✨]
