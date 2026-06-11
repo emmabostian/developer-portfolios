@@ -2,19 +2,20 @@
 # This configuration helps reduce false positives and handles SSL certificate issues
 
 # Accept these HTTP status codes as valid
-accept = [200, 201, 204, 301, 302, 307, 308, 403, 429]
+# 405 = Method Not Allowed (some servers reject HEAD but serve GET fine)
+accept = [200, 201, 204, 301, 302, 307, 308, 403, 405, 429]
 
 # Timeout for each request (in seconds)
-timeout = 30
+timeout = 60
 
 # Maximum number of retries per link
-max_retries = 5
+max_retries = 3
 
-# Number of concurrent network requests (reduced to avoid rate limiting)
-max_concurrency = 5
+# Number of concurrent network requests (lower = less likely to trigger rate limits)
+max_concurrency = 2
 
 # Retry wait time between attempts (in seconds)
-retry_wait_time = 5
+retry_wait_time = 10
 
 # Set a custom User-Agent to avoid being blocked as a bot
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
