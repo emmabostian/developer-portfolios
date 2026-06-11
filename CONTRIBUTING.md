@@ -21,8 +21,19 @@
     ### Result
     - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
 
-5. Commit changes and push the new branch.
-6. Open and submit a PR.
+5. Verify your submission meets the checklist below.
+6. Commit changes and push the new branch.
+7. Open and submit a PR.
+
+### PR Submission Checklist
+
+Before opening a pull request, confirm each of the following:
+
+- [ ] I have opened my portfolio link in a browser and it loads correctly — it does **not** redirect to a domain parking/sale page or return an error.
+- [ ] My entry is added in **strict alphabetical order** by first name.
+- [ ] I have **not** edited `feed.json` — it is auto-generated and will be updated automatically.
+
+> **Note on the automated link checker:** A scheduled workflow runs every Saturday to verify all links in the repo. Broken or parked links are flagged and removed. You can view a sample broken link report [here](https://github.com/emmabostian/developer-portfolios/issues/3696).
 
 If you have never opened a PR and need direction, read more below.
 
