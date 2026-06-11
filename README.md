@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1770
+## Current Portfolio Count: 1779
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -24,7 +24,6 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
-- [Aman Bam](https://my-portfolio-d7jf.vercel.app/) [Full Stack Developer]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
@@ -188,6 +187,7 @@ This repo can serve as inspiration for your portfolio!
 - [Althruist](https://althruist.fyi) [Game Developer]
 - [Alvalens](https://www.alvalens.my.id)
 - [Aman Anku](http://amananku26.github.io)
+- [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Rai](https://obliviousaman.netlify.app) [Frontend Developer | Vue.js, GSAP Animations, Bilingual English/Japanese Web Apps]
@@ -853,7 +853,7 @@ Extension]
 - [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Kimeu](https://kimeu-johnn.vercel.app) [Front-End Developer & Creative]
-- [John Mutua Musee](https://spongebobportfolio.framer.website/) [System Admin]
+- [John Mutua Musee](https://spongebobportfolio.framer.website) [System Admin]
 - [John Petalio](https://johnreypetalio.netlify.app)
 - [John Ryan Cottam](https://johnryancottam.com)
 - [Johnny Chai](https://johnnychai.com) [Software Engineer]
@@ -927,7 +927,7 @@ Extension]
 - [Kevin Nguyen](https://kevinbkdev.vercel.app) [Software Engineer | Blockchain Enthusiast]
 - [Kevin Oliveira](https://kevinoliveira.com.br) [Front-end | UI Designer]
 - [Khaled Ahmed](https://khaled.is-a.dev)
-- [Khalid Mahmud](https://mdkhalidmahmud.com/) [Full Stack Developer | AI & LLM Enthusiast]
+- [Khalid Mahmud](https://mdkhalidmahmud.com) [Full Stack Developer | AI & LLM Enthusiast]
 - [Khang Nguyen](https://khangnd.info)
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
@@ -1299,7 +1299,7 @@ Extension]
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
-- [Prakhar Mittal](https://stackbyprakhar.vercel.app/) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
+- [Prakhar Mittal](https://stackbyprakhar.vercel.app) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
 - [Prakhar Yadav](https://prakharyxdev.vercel.app) [Full Stack Developer | Tech Content Creator]
 - [Pramesh Karki](https://karkipramesh.com.np)
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
@@ -1754,7 +1754,7 @@ Extension]
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
-- [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com/)
+- [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com)
 - [Varinder Singh](https://varinder148.github.io/portfolio)
 - [Varun Dey](https://varundey.me)
 - [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
