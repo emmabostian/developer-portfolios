@@ -1676,6 +1676,7 @@ Extension]
 - [Tanish Rai](https://tanishrai.dev) [Software Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
 - [Tarun](https://tarunms.netlify.app)
+- [Tariqul Islam](https://tariqulislamrc.vercel.app) [Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote]
 - [Techfolios](https://techfolios.github.io)
 - [Tejas Gupta](https://www.tejas-gupta.com)
 - [Tejas Jadhav](https://teeejaey.github.io)
