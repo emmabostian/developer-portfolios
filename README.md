@@ -827,7 +827,7 @@ Extension]
 - [Jaya Vignesh](https://jayavignesh.dev) [Backend Developer]
 - [Jayant Goel](http://jayantgoel001.github.io)
 - [Jayant Parashar](https://jparasha.github.io)
-- [Jayanth Donavalli](https://jayanth.site) [Full Stack Developer | Designer | Photographer]
+- [Jayanth Donavalli](https://djayanth.site) [Full Stack Developer | Designer | Photographer]
 - [Jayed Rafi](https://jayedrafi.com)
 - [Jayvee Valenzuela](https://jayveepvalenzuela.github.io)
 - [Jeayoung Jeon](https://jyje.online) [GenAi/Mlops Engineer]
