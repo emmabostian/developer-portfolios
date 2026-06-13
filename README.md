@@ -791,6 +791,7 @@ Extension]
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Issam SENSI](https://issamsensi.com) [AI Developer | Full Stack Developer]
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
+- [Ivin Titus](https://ivin.site/) [Full Stack Engineer]
 
 ## J
 

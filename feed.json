@@ -3333,6 +3333,11 @@
     "tagline": "Front-End Developer"
   },
   {
+    "name": "Ivin Titus",
+    "url": "https://ivin.site/",
+    "tagline": "Full Stack Engineer"
+  },
+  {
     "name": "Jack Parsons",
     "url": "https://jackparsonss.me"
   },
@@ -3478,7 +3483,7 @@
   },
   {
     "name": "Jayanth Donavalli",
-    "url": "https://djayanth.site",
+    "url": "https://djayanth.site/",
     "tagline": "Full Stack Developer | Designer | Photographer"
   },
   {
@@ -4207,6 +4212,11 @@
     "url": "https://lukaszkups.net"
   },
   {
+    "name": "Luke Liukonen",
+    "url": "https://liukonen.dev",
+    "tagline": "Senior Software Engineer | Technical Lead, AI Strategy, Infrastructure"
+  },
+  {
     "name": "Luís Oliveira",
     "url": "https://lo-devpage.netlify.app"
   },
@@ -4651,6 +4661,11 @@
   {
     "name": "Miguel Rodriguez",
     "url": "https://migu.es"
+  },
+  {
+    "name": "Mihir Chauhan",
+    "url": "https://chauhan-mihir.vercel.app",
+    "tagline": "ML / AI Engineer | Data Science"
   },
   {
     "name": "Mihir Das",
@@ -7136,6 +7151,11 @@
   {
     "name": "Tanisha Gupta",
     "url": "https://tanishagupta1.github.io/Tanisha-Gupta-portfolio"
+  },
+  {
+    "name": "Tariqul Islam",
+    "url": "https://tariqulislamrc.vercel.app",
+    "tagline": "Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote"
   },
   {
     "name": "Tarun",
