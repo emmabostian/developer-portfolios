@@ -8,7 +8,7 @@ jobs:
   linkChecker:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v4
 
       - name: Link Checker
         id: lychee
@@ -19,10 +19,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
-      - name: Create Issue From File
+      - name: Write broken links to Job Summary
         if: steps.lychee.outputs.exit_code != 0
-        uses: peter-evans/create-issue-from-file@v6
-        with:
-          title: "[Bot] Broken Links Report"
-          content-filepath: ./lychee/out.md
-          labels: report
+        run: cat ./lychee/out.md >> $GITHUB_STEP_SUMMARY
