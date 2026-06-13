@@ -995,6 +995,7 @@ Extension]
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
 - [Lukasz Kups](https://lukaszkups.net)
+- [Luke Liukonen](https://liukonen.dev) [Senior Software Engineer | Technical Lead, AI Strategy, Infrastructure]
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
