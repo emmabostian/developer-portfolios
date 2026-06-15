@@ -975,6 +975,7 @@ Extension]
 - [Lee Warrick](http://leewarrick.com)
 - [Leo Ashcraft](https://leoashcraft.com) [Full Stack Software Developer | PHP, React, Astro]
 - [Leon Heuer](https://heuer.ovh)
+- [Leonardo Glorioso](https://crllect.dev) [Full Stack Developer | React, TS, Astro, Node, UI/UX]
 - [Leonardo Oliveira](https://leonardoliveira.com)
 - [Leonel Ngoya](https://lndev.me)
 - [Leroy Rosales](https://leroyrosales.com)
