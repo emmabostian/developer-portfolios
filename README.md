@@ -1826,7 +1826,7 @@ Extension]
 ## Y
 
 - [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
-- [Yaksh Devani](https://yakshdevani.framer.website) [Full Stack Developer]
+- [Yaksh Bambhroliya](https://yakshcore.vercel.app/) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
