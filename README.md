@@ -1665,7 +1665,7 @@ Extension]
 ## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
-- [Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
+- [Taha Nawab](https://taha-nawab-portfolio.vercel.app/) [Full-Stack Developer · AI/ML Engineer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
