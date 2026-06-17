@@ -1007,6 +1007,7 @@ Extension]
 - [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahdi Hasan](https://mahdihasan.space) [Software Engineer]
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
+- [Mahin Hasan](https://mahin527.vercel.app/) [Shopify Expert | Full Stack Web Developer ]
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
 - [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
 - [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com) [Machine Learning Engineer]
