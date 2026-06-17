@@ -1285,6 +1285,7 @@ Extension]
 - [Phat Tran Tan](https://portfolio-ttp.vercel.app) [Software Engineer | Frontend Developer]
 - [Philip Johnson](https://philipmjohnson.org)
 - [Philipe Almeida](https://palmeida.netlify.app)
+- [Philippe Fanaro](https://aquarifolio.vercel.app/) [Full Stack Developer]
 - [Phpxcoder](https://phpxcoder.in)
 - [Phyo Min Thein](https://phyominthein.com) [Full Stack Developer | AI Engineer]
 - [Pierre Nel](https://pierre.io) [Full Stack Developer | Ux/Ui Designer]
