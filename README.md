@@ -1138,6 +1138,7 @@ Extension]
 - [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
 - [Muhammad Furqan](https://iammuhammadfurqan.github.io/portfolio/) [Full Stack AI Engineer | RAG & Voice AI Specialist]
 - [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
+- [Muhammed Ijlan](https://ijlan.dev)
 - [Muhammad Iqbal Nazulis](https://iqbalnzls.github.io/portfolio/) [Software Engineer | Backend]
 - [Muhammad Jahanzeb](https://jahanzeb.dev) [Mobile App Developer | React Native | Expo | Kotlin | NodeJS]
 - [Muhammad Muhaddis](https://muhaddis.info)
