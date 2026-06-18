@@ -660,7 +660,7 @@ Extension]
 
 ## G
 
-- [Guna Teja S P](https://tejafolio.dev/) [AI ML Student]
+- [Guna Teja S P](https://tejafolio.dev) [AI ML Student]
 - [Gabriel Carvalho](https://gabrielcarvalho.vercel.app) [👨🏽‍💻 Computer Engineering Student]
 - [Gabriel Jordan](https://jrdan.dev) [Software Engineer]
 - [Gabriel López](https://glpzzz.dev)
