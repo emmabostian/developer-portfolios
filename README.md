@@ -348,6 +348,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | Computer Vision Engineer | Well-versed in modern tech stacks]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
+- [Azwad Fawad Hasan](https://azwadfawadhasan.github.io/resume/) [SWE | Researcher | Tech Enthusiast]
 
 ## B
 
@@ -1883,4 +1884,3 @@ Extension]
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-
