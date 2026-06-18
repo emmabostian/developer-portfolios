@@ -1031,6 +1031,7 @@ Extension]
 - [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full Stack Developer | React | Spring Boot]
 - [Mann Patel](https://patelmann.vercel.app) [Full Stack Developer]
 - [Manoj Hankare](https://manojhankare.in) [Full Stack Developer | AI Engineer]
+- [Manoj Kumar Mandal](https://manojmandal.com) [Full Stack Engineer | AI Engineer | Generative AI | SaaS]
 - [Manoj Thilakarathna](https://manojtharindu11.github.io/Personal_portfolio_website)
 - [Mansha Qarib](https://manshaqarib.vercel.app)
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
