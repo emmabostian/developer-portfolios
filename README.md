@@ -964,6 +964,7 @@ Extension]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
 -  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+-  [Lalith ](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist ]
 - [Lamine Neggazi](https://lamine.cc) [Full Stack Developer | Algiers]
 - [Lampard Kipyegon](https://lampard.netlify.app) [Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya]
 - [Larry Xue](https://larryxue.dev)
