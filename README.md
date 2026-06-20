@@ -1271,6 +1271,7 @@ Extension]
 - [Param Chaudhari](https://paramsc.dev)
 - [Parinith Mavurapu](https://parinithmavurapu.vercel.app) [Machine Learning & Full Stack Developer]
 - [Parish Khan](https://parish.cv) [Senior Software Developer | React, TypeScript, Frontend Architecture]
+- [Parth Kale](https://parkky.vercel.app) [AI Engineer]
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
