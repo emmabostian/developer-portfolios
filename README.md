@@ -572,6 +572,7 @@ Extension]
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
 - [Dipanshu Singh](https://dipanshusingh.vercel.app) [Full Stack · AI Engineer]
 - [Dipin Yadav](https://dipin-yadav.github.io/dipin/) [Software Engineer | Backend Engineering & Cloud]
+- [Ditom Baroi Antu](https://xtditom.github.io) [Web Developer | Open-Source Contributor]
 - [Divij Shrivastava](https://divij.tech)[Full Stack . Web Developer]
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
 - [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
