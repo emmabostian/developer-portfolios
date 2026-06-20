@@ -582,6 +582,7 @@ Extension]
 - [Durgesh Chaudhary](https://yodkwtf.com)
 - [Dustin Brett](https://dustinbrett.com)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app)
+- [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
 [Ai & Data Science Enthusiast]
