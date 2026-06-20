@@ -1258,6 +1258,7 @@ Extension]
 
 ## P
 
+- [Parth Kale] (https://parkky.vercel.app) [AI Engineer]
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
