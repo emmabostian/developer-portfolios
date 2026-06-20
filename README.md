@@ -722,6 +722,7 @@ Extension]
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
 - [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
+- [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanumant Jain](https://hanumantjain.tech) [Software Developer | Full Stack Developer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
