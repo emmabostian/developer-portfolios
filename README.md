@@ -766,7 +766,7 @@ Extension]
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
 - [Hussein Sarea](https://ho011.vercel.app)
-- [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app/) [Full-Stake-AI Developer | DevOps Engineer]
+- [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full-Stack AI Developer | DevOps Engineer]
 
 ## I
 
