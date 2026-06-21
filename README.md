@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1790
+## Current Portfolio Count: 1791
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1599,6 +1599,7 @@ Extension]
 - [Shrey Varshney](https://shreyvarshney.pages.dev) [Software Engineer | Full Stack Developer]
 - [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
+- [Shubhadeep Mahapatra](https://shubhadeepsec.github.io) [Cybersecurity]
 - [Shubham 404](https://shubham-404.vercel.app) [Crafting Code with Purpose | Student]
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Dey](https://shubhamdey01.github.io) [Student | AI/ML | Data Science]
