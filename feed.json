@@ -1766,11 +1766,6 @@
     "tagline": "Full Stack Developer"
   },
   {
-    "name": "Breakerino",
-    "url": "https://breakerino.me",
-    "tagline": "Full Stack Web Developer"
-  },
-  {
     "name": "Brendan Lentz",
     "url": "https://brendanlentz.com"
   },
@@ -1997,11 +1992,6 @@
     "name": "Cian Goon",
     "url": "https://ciangoon.dev",
     "tagline": "Software Engineer, Quant Developer"
-  },
-  {
-    "name": "Cid Kageno",
-    "url": "https://www.mritunjoy.online",
-    "tagline": "Full Stack Developer"
   },
   {
     "name": "Ciro Ciampaglia",
@@ -2938,6 +2928,11 @@
     "url": "https://gianlucagalota.dev"
   },
   {
+    "name": "Gii-DE",
+    "url": "https://g-dea.com",
+    "tagline": "Creative Engineer (AI & Web) | based in Europe"
+  },
+  {
     "name": "Gil Itzhaky Gilitz",
     "url": "https://gilitz.com"
   },
@@ -3130,6 +3125,11 @@
     "url": "https://www.hassanahmed.net"
   },
   {
+    "name": "Hassan Ali",
+    "url": "https://hassan-ali-portfolio-nine.vercel.app",
+    "tagline": "Full Stack AI Developer | DevOps Engineer"
+  },
+  {
     "name": "Hassan Rj",
     "url": "https://hassanrj.vercel.app"
   },
@@ -3151,11 +3151,6 @@
   {
     "name": "Henry Lee",
     "url": "https://dragonwarrior.vercel.app"
-  },
-  {
-    "name": "Heny",
-    "url": "https://heny.dev",
-    "tagline": "Full Stack Developer | Mern | Next.Js"
   },
   {
     "name": "Herman Starikov",
@@ -3535,11 +3530,6 @@
   {
     "name": "Jens Van Wijhe",
     "url": "https://www.beterbekend.nl"
-  },
-  {
-    "name": "Jenul Ferdinand",
-    "url": "https://jenulferdinand.dev",
-    "tagline": "Software Engineer | Bcompsci 26' At Monash University"
   },
   {
     "name": "Jeremiah Haastrup",
@@ -5399,6 +5389,11 @@
     "tagline": "Senior Software Developer | React, TypeScript, Frontend Architecture"
   },
   {
+    "name": "Parth Kale",
+    "url": "https://parkky.vercel.app",
+    "tagline": "AI Engineer"
+  },
+  {
     "name": "Parth Kaul",
     "url": "https://parthkaul-bit.github.io/portfolio"
   },
@@ -6973,11 +6968,6 @@
   {
     "name": "Sourav Dutta",
     "url": "http://i-am-souravdutta.firebaseapp.com"
-  },
-  {
-    "name": "Sparsh Kamat",
-    "url": "http://sparshkamat.me",
-    "tagline": "Full Stack Web Developer"
   },
   {
     "name": "Sree Godavarthi",

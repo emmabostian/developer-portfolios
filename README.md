@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1792
+## Current Portfolio Count: 1790
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -412,7 +412,6 @@ This repo can serve as inspiration for your portfolio!
 - [Brad Myrick](https://kodr.pro) [Blockchain/Backend Engineer]
 - [Brady Macdonald](https://bradymacdonald.com) [Full Stack Developer]
 - [Brandon Mitchell](https://juncie.com) [Full Stack Developer]
-- [Breakerino](https://breakerino.me) [Full Stack Web Developer]
 - [Brendan Lentz](https://brendanlentz.com)
 - [Brendon Van Zanten](https://brendonvanzanten.com) [Full Stack Developer]
 - [Brhane Giday](https://brhane.vercel.app) [Software Engineer | AI Engineer]
@@ -468,7 +467,6 @@ Extension]
 - [Chuckz Okoye](https://chuckzokoye.com)
 - [Chung Nguyen Thanh Chunhthanhde](https://chunhthanhde.github.io)
 - [Cian Goon](https://ciangoon.dev) [Software Engineer, Quant Developer]
-- [Cid Kageno](https://www.mritunjoy.online) [Full Stack Developer]
 - [Ciro Ciampaglia](https://cirociampaglia.it)
 - [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
 - [Cleo Balaranjith](https://cleof.us) [SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer]
@@ -697,6 +695,7 @@ Extension]
 - [Ghulam Mujtaba](https://ghulammujtaba.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
+- [Gii-DE](https://g-dea.com) [Creative Engineer (AI & Web) | based in Europe]
 - [Gil Itzhaky Gilitz](https://gilitz.com) - `Interactive 3D Protfolio Game` [Frontend Developer]
 - [Giorgio Faini](https://giorgiofaini.com)
 - [Glen Elric Fernandes](https://www.glenelric.space) [Full Stack SDE| Data Science Researcher| Student]
@@ -743,12 +742,12 @@ Extension]
 - [Hasan](https://hasansiddiqui.netlify.app)
 - [Hasnat Amir](https://hasnatdev.com) [Full Stack Developer | Node.js/React.js/Next.js/Typescript]
 - [Hassan Ahmed](https://www.hassanahmed.net)
+- [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full Stack AI Developer | DevOps Engineer]
 - [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer
 - [Hassan Tech](https://hassanx.tech) [Web Developer]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
-- [Heny](https://heny.dev) [Full Stack Developer | Mern | Next.Js]
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Hesbon Angwenyi](https://hezy.netlify.app) [Full Stack Developer | DevOps Engineer]
@@ -839,7 +838,6 @@ Extension]
 - [Jeff Cardinal](https://jeffcardinal.com) [Software Engineer | Designer]
 - [Jeff Chiu](https://jeffchiucp.github.io/portfolio)
 - [Jens Van Wijhe](https://www.beterbekend.nl)
-- [Jenul Ferdinand](https://jenulferdinand.dev) [Software Engineer | Bcompsci 26' At Monash University]
 - [Jeremiah Haastrup](https://jeremiahhaastrup.com)
 - [Jeremy Erik Leong](https://www.jeremyerikleong.com)
 - [Jeremy Grifski](https://jeremygrifski.com)
@@ -1272,6 +1270,7 @@ Extension]
 - [Param Chaudhari](https://paramsc.dev)
 - [Parinith Mavurapu](https://parinithmavurapu.vercel.app) [Machine Learning & Full Stack Developer]
 - [Parish Khan](https://parish.cv) [Senior Software Developer | React, TypeScript, Frontend Architecture]
+- [Parth Kale](https://parkky.vercel.app) [AI Engineer]
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
 - [Parth Mittal](https://parthmittal.netlify.app)
@@ -1634,7 +1633,6 @@ Extension]
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dey](https://souravdey.space)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
-- [Sparsh Kamat](http://sparshkamat.me) [Full Stack Web Developer]
 - [Sree Godavarthi](http://sreegodavarthi.github.io)
 - [Sreenitya Thatikunta](https://portfolio-sreenitya.vercel.app)
 - [Sri Anjaneyam](https://srianjaneyam.me)
