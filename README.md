@@ -696,6 +696,7 @@ Extension]
 - [Ghulam Mujtaba](https://ghulammujtaba.com)
 - [Gianluca Fiore](http://gianlucafiore.it)
 - [Gianluca Galota](https://gianlucagalota.dev)
+- [Gii-DE](https://g-dea.com) [Creative Engineer (AI & Web) | based in Europe]
 - [Gil Itzhaky Gilitz](https://gilitz.com) - `Interactive 3D Protfolio Game` [Frontend Developer]
 - [Giorgio Faini](https://giorgiofaini.com)
 - [Glen Elric Fernandes](https://www.glenelric.space) [Full Stack SDE| Data Science Researcher| Student]
