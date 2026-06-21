@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1775
+## Current Portfolio Count: 1792
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -24,7 +24,6 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
-- [.Aditya Chauhan](https://aditya-chauhan.vercel.app) [Full Stack Developer]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
@@ -111,6 +110,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adithya Krishnan](https://www.adithyakrishnan.com)
 - [Aditi Arya](https://aditiarya.netlify.app) [Software Engineer]
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app)
+- [Aditya Chauhan](https://aditya-chauhan.vercel.app) [Full Stack Developer]
 - [Aditya Domle](https://adittya.site) [Software Developer | Freelancer]
 - [Aditya Dubey](https://adityacodes.in)
 - [Aditya Dutt Pandey](https://www.adpandey.com) [Founder | Backend Engineer | System Architect]
@@ -709,7 +709,7 @@ Extension]
 - [Gowtham Sridhar](https://www.gowthamsridhar.com) [AI engineer, HCI Scientist + robots]
 - [Grace Snow](https://gracesnowdesign.co.uk)
 - [Greta Macri](https://gretamacri.com)
-- [Guna Teja S P](https://tejafolio.dev/) [AI ML Student]
+- [Guna Teja](https://tejafolio.dev) [AI ML Student]
 - [Gunasree](https://gunasree-portfolio.vercel.app) [AI Engineer | Technical Expertise]
 - [Gunjan Ghate](http://techggdev.vercel.app) - [Full Stack Web2/Web3 Developer]
 - [Gustavo Gutierrez](https://gutierrez-cv.vercel.app) - [Fullstack/Ai&Ml Developer]
@@ -723,8 +723,8 @@ Extension]
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
-- [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
 - [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
+- [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
 - [Hanumant Jain](https://hanumantjain.tech) [Software Developer | Full Stack Developer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
@@ -963,12 +963,12 @@ Extension]
 
 ## L
 
+-  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+-  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
 - [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
 - [Lakshya Jain](https://port-folio-nine-lemon-27.vercel.app) [For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature]
--  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
--  [Lalith ](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist ]
 - [Lamine Neggazi](https://lamine.cc) [Full Stack Developer | Algiers]
 - [Lampard Kipyegon](https://lampard.netlify.app) [Data Scientist | AI/ML Engineer | Full Stack Dev | Scikit-learn, Numpy, Pandas, Matplotlib, Django etc. | Kenya]
 - [Larry Xue](https://larryxue.dev)
@@ -1017,7 +1017,7 @@ Extension]
 - [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahdi Hasan](https://mahdihasan.space) [Software Engineer]
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
-- [Mahin Hasan](https://mahin527.vercel.app/) [Shopify Expert | Full Stack Web Developer ]
+- [Mahin Hasan](https://mahin527.vercel.app) [Shopify Expert | Full Stack Web Developer]
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
 - [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
 - [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com) [Machine Learning Engineer]
@@ -1150,7 +1150,6 @@ Extension]
 - [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
 - [Muhammad Furqan](https://iammuhammadfurqan.github.io/portfolio/) [Full Stack AI Engineer | RAG & Voice AI Specialist]
 - [Muhammad Hassan Nazar](https://hassannazar72.github.io/portfolio/)
-- [Muhammed Ijlan](https://ijlan.dev)
 - [Muhammad Iqbal Nazulis](https://iqbalnzls.github.io/portfolio/) [Software Engineer | Backend]
 - [Muhammad Jahanzeb](https://jahanzeb.dev) [Mobile App Developer | React Native | Expo | Kotlin | NodeJS]
 - [Muhammad Muhaddis](https://muhaddis.info)
@@ -1158,10 +1157,11 @@ Extension]
 - [Muhammad Mustafiz Rahman](https://mustafizrahman.vercel.app) [Frontend Developer | Mern Stack Developer]
 - [Muhammad Rashid](https://iamrashy.netlify.app)
 - [Muhammad Saqib Atif](https://msaqibatifj.vercel.app) [AI/ML Engineer | Full Stack Developer]
-- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full-Stack Developer · AI/ML Engineer]
+- [Muhammad Taha Nawab](https://taha-nawab-portfolio.vercel.app) [Full Stack Developer · AI/ML Engineer]
 - [Muhammad Tayyab](https://iamtayyab.com) [Full Stack Software Engineer]
 - [Muhammad Tufail Ahmed Khan](https://tufail.dev) [Lead Engineer | AI Engineer]
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
+- [Muhammed Ijlan](https://ijlan.dev)
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
@@ -1297,7 +1297,7 @@ Extension]
 - [Phat Tran Tan](https://portfolio-ttp.vercel.app) [Software Engineer | Frontend Developer]
 - [Philip Johnson](https://philipmjohnson.org)
 - [Philipe Almeida](https://palmeida.netlify.app)
-- [Philippe Fanaro](https://aquarifolio.vercel.app/) [Full Stack Developer]
+- [Philippe Fanaro](https://aquarifolio.vercel.app) [Full Stack Developer]
 - [Phpxcoder](https://phpxcoder.in)
 - [Phyo Min Thein](https://phyominthein.com) [Full Stack Developer | AI Engineer]
 - [Pierre Nel](https://pierre.io) [Full Stack Developer | Ux/Ui Designer]
@@ -1681,7 +1681,6 @@ Extension]
 ## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
-- [Taha Nawab](https://taha-nawab-portfolio.vercel.app/) [Full-Stack Developer · AI/ML Engineer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
@@ -1843,7 +1842,7 @@ Extension]
 ## Y
 
 - [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
-- [Yaksh Bambhroliya](https://yakshcore.vercel.app/) [Full Stack Developer]
+- [Yaksh Bambhroliya](https://yakshcore.vercel.app) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
