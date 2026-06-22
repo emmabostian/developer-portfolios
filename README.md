@@ -1495,6 +1495,7 @@ Extension]
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Samarth Kosta](https://xamarth.pp.ua)
+- [Sam Foreman](https://batrasamarth.com) [Software Developer]
 - [Sambhu Babu](https://sambhusbabu.com) [Frappe & ERPNext Developer]
 - [Sameer Agarwal](https://www.elite-lord.com) [Computer Science Student | Software Intern]
 - [Sameer](https://sameer27.netlify.app)
