@@ -1412,6 +1412,7 @@ Extension]
 - [Riley Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
+- [Rishav](https://v0idrsh.vercel.app)
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
