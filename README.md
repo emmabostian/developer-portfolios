@@ -1772,6 +1772,7 @@ Extension]
 - [Varinder Singh](https://varinder148.github.io/portfolio)
 - [Varun Dey](https://varundey.me)
 - [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
+- [Vasudev Katariya](https://vasudev7891.github.io/Portfolio/) [Software Engineer | Java & DSA | Full Stack (MERN)]
 - [Vatsal Patel](https://vatsalpatel.vercel.app) [Software Developer | Ai/Ml Engineer]
 - [Vatsal Shah](https://vatsalshah.in)
 - [Vauth](https://vauth.github.io/hueco)
