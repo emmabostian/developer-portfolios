@@ -1009,6 +1009,7 @@ Extension]
 
 ## M
 
+- [Maame Yaa Twumasi](https://maameyaa.vercel.app) [FullStack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
