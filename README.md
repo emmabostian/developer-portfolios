@@ -418,6 +418,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brhane Giday](https://brhane.vercel.app) [Software Engineer | AI Engineer]
 - [Brian Kabbo](https://briankabbo.vercel.app) [Software Engineer | Full Stack Developer]
 - [Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
+- [Brianna Brockington](https://briannab1997.github.io/BBPortfolio/) [Software Engineer | QA & Support]
 - [Brihadeesh](https://briha.xyz) [Full Stack Developer]
 - [Brijesh Patel](https://brijesh.work)
 - [Brittany Chiang](https://brittanychiang.com)
