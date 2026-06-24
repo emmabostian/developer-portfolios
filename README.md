@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1791
+## Current Portfolio Count: 1792
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1857,6 +1857,7 @@ Extension]
 - [Yash Palav](https://yashpalav.vercel.app) [Full Stack Dev]
 - [Yashas Majmudar](https://yashashm.dev) [Flutter | Full Stack | AI]
 - [Yashita Namdeo](https://yashitanamdeo.github.io)
+- [Yashwanth Patam](https://yashwanth-patam-portfolio.vercel.app) [Backend Developer | Engineer | Freelancer]
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
 - [Yassine Erradouani](https://yerradouani.me) [Data Engineer | Data Analyst | BI Consultant]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
