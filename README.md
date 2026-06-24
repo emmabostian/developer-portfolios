@@ -994,6 +994,7 @@ Extension]
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Liz Lam](https://lizlam.github.io)
 - [Loc Le](https://looc.dev)
+- [Loic Duong](https://www.loicduong.dev)
 - [Long Do](https://longpdo.github.io)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
