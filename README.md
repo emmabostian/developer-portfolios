@@ -1495,6 +1495,7 @@ Extension]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
+- [Sakib Mansuri](https://sakib-m.me/) [Software engineer/AI developer]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
