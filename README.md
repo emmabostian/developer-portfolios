@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1792
+## Current Portfolio Count: 1800
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -994,6 +994,7 @@ Extension]
 - [Lisa Blunt](https://lisablunt.github.io)
 - [Liz Lam](https://lizlam.github.io)
 - [Loc Le](https://looc.dev)
+- [Loic Duong](https://www.loicduong.dev)
 - [Long Do](https://longpdo.github.io)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
