@@ -941,8 +941,8 @@ Extension]
 - [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
 - [Kidus Bewket](https://kidus.ca)
 - [Kiran Poudel](https://pkiran.com.np)
-- [Kishore M](https://mkishore.is-a.dev/)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
+- [Kishore M](https://mkishore.is-a.dev/)
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
