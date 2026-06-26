@@ -1522,6 +1522,7 @@ Extension]
 - [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
 - [Sanjiv Thapa](https://portfolio.sanjivthapa.com.np/home) [Backend Developer]
 - [Sankalp Tharu](https://sankalptharu.com.np)
+- [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
 - [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Sanyam Kumar](https://sanyam.dev)
