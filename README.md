@@ -499,6 +499,7 @@ Extension]
 - [Damodar Kamani](https://damkam.vercel.app)
 - [Dania Al-Hakim](https://pixeldania.netlify.app)
 - [Danial Khilji](https://danialkhilji.github.io/portfolio/) [Data Scientist | Machine Learning Engineer]
+- [Daniel Andrés Rodríguez](https://danrodd.dev) [Software Developer]
 - [Daniel Grazziotti](https://grazziotti-portfolio.vercel.app)
 - [Daniel Mark](https://thedanielmark.com)
 - [Daniel Michael](https://www.daniel-michael.com)
