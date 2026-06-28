@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1812
+## Current Portfolio Count: 1806
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -97,7 +97,6 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
 - [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
 - [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
-- [Abu Bakar Butt](https://abu-bakar-portfolio-mauve.vercel.app)[ Full Stack Web Developer]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achyut Katiyar](https://www.achyutkatiyar.com) [Full Stack Developer| UI/UX Desginer]
@@ -833,7 +832,6 @@ Extension]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
-- [Jay Vegad](https://jayvegad.vercel.app)
 - [Jay](https://jay-65.netlify.app) [Frontend Developer]
 - [Jaya Vignesh](https://jayavignesh.dev) [Backend Developer]
 - [Jayant Goel](http://jayantgoel001.github.io)
@@ -943,7 +941,6 @@ Extension]
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
 - [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
-- [Kidus Bewket](https://kidus.ca)
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
 - [Kishore](https://mkishore.is-a.dev)
@@ -1417,7 +1414,6 @@ Extension]
 - [Richard Porter](https://richardporter.dev) [Full Stack Developer | Laravel | Vue | React]
 - [Rick Hanlon](https://rickhanlonii.github.io)
 - [Ricky Serrano](https://rickyserrano.dev) [Help Desk Grunt | Next.js, React, SpringBoot, Full Stack]
-- [Ridoy Dey](https://iamridoydey.com) [Devops & Cloud Engineer | python, bash, go, Docker, CI/CD, Kubernetes, aws, azure, azure devops]
 - [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Rifqisakha](https://www.rifqisakha.my.id) [Frontend Developer, Designer, Ui/Ux]
@@ -1566,7 +1562,6 @@ Extension]
 - [Scott Spence](https://scottspence.com)
 - [Sebastian Cherny](https://sebascherny.github.io)
 - [Sebbie Chanzu](https://sebbie-chanzu.vercel.app) [Backend, DevOps And Machine Learning Engineer]
-- [Sebi](https://sebilune.dev) [Full Stack Developer]
 - [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
 - [Sergei Chestakov](https://sergei.com)
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
@@ -1673,7 +1668,6 @@ Extension]
 - [Sudev Thapa Magar](https://www.sudevmagar.tech)
 - [Suhail Roushan](https://suhailroushan.com)
 - [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
-- [Sumeet Haldar](https://hsumeet.site)
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Sunil Band](https://www.sunilband.com) [Frontend Engineer]
