@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1800
+## Current Portfolio Count: 1812
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -188,8 +188,8 @@ This repo can serve as inspiration for your portfolio!
 - [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
 - [Aloys Dillar](https://trolologuy.github.io)
 - [Althruist](https://althruist.fyi) [Game Developer]
+- [Alucard](https://dg.aluc.me) [Full Stack Engineer | AI, Founder]
 - [Alvalens](https://www.alvalens.my.id)
-- [Alucard](https://dg.aluc.me) [Full-Stack Engineer | AI, Founder]
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
@@ -625,7 +625,7 @@ Extension]
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
-- [Evandro Antônio da Costa de Paula](https://eacp.dev) [Software Engineer | Fullstack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
+- [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
 - [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
@@ -946,7 +946,7 @@ Extension]
 - [Kidus Bewket](https://kidus.ca)
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
-- [Kishore M](https://mkishore.is-a.dev/)
+- [Kishore](https://mkishore.is-a.dev)
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
@@ -1017,7 +1017,7 @@ Extension]
 
 ## M
 
-- [Maame Yaa Twumasi](https://maameyaa.vercel.app) [FullStack Software Engineer]
+- [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
 - [Madhan](https://madhank93.github.io)
@@ -1100,8 +1100,8 @@ Extension]
 - [Md Usman Ansari](https://mdusmanansari.netlify.app)
 - [Meet Prajapati](https://meetprajapati.com) [Lead Mobile Engineer | Android, AI, Flutter, React Native]
 - [Mehdi Ali](https://exoo25.github.io)
-- [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
 - [Mehedi Hasan Janny](https://mhjanny.com) [Full Stack Developer]
+- [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
 - [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
 - [Mejed Alkoutaini](https://majd-portfolio.framer.website) [Software Engineer]
 - [Melvin Biju](https://melvinbiju.vercel.app) [Full Stack Dev | Graphic Designer]
@@ -1502,11 +1502,12 @@ Extension]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
-- [Sakib Mansuri](https://sakib-m.me/) [Software engineer/AI developer]
+- [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
 - [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
+- [Samarth Batra](https://batrasamarth.com) [Software Developer]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
 - [Samarth Kosta](https://xamarth.pp.ua)
 - [Sambhu Babu](https://sambhusbabu.com) [Frappe & ERPNext Developer]
@@ -1515,7 +1516,7 @@ Extension]
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Samrin Jaji](https://samrinjaji.github.io/my-portfolio/) [Frontend Developer | Web Applications]
-- [Samrit Mukherjee](https://samrit.dev/) [Full Stack Dev | AI Dev | Product Dev]
+- [Samrit Mukherjee](https://samrit.dev) [Full Stack Dev | AI Dev | Product Dev]
 - [Samuel Alewi](https://krash-cod3.github.io) [Backend Engineer and Web Automation Expert]
 - [Samuel Ezra](https://www.samuelezranas.codes) [Full Stack & Mobile Developer | Tech Student & Enthusiast]
 - [Sanajit Jana](https://sanajitjana.github.io)
