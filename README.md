@@ -189,6 +189,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aloys Dillar](https://trolologuy.github.io)
 - [Althruist](https://althruist.fyi) [Game Developer]
 - [Alvalens](https://www.alvalens.my.id)
+- [Alucard](https://dg.aluc.me) [Full-Stack Engineer | AI, Founder]
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
