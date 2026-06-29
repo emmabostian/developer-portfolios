@@ -1423,6 +1423,7 @@ Extension]
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
 - [Rishav](https://v0idrsh.vercel.app)
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
+- [Rito Chabalala](https://ritochabalala.github.io) [Software Engineer | Full Stack & AI / GenAI Engineer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
