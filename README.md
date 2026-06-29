@@ -134,6 +134,7 @@ This repo can serve as inspiration for your portfolio!
 - [Afaq Awan](https://afaq35202.github.io) [Mobile App Developer]1
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
 - [Aftab Alam](https://datasciencefolio.streamlit.app) [An Open-Source, Customizable Portfolio Template For Ai/Ml/Dl Developers And Data Scientists]
+- [Aggelos Ladas](https://aggelosladas.com) [Spring Boot Backend | Android Developer]
 - [Agney Menon](https://agney.dev)
 - [Agrawal Pratham](https://agrawalpratham.in)
 - [Ahamed Kabeer](https://aktech27.github.io) [Mern Full Stack Developer]
