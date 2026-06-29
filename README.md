@@ -1662,6 +1662,7 @@ Extension]
 - [Stephanie Lin](https://lin-stephanie.github.io)
 - [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me)
+- [Stimmie](https://stimmie.dev) [Software Engineer | Next.js]
 - [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
