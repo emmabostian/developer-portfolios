@@ -905,6 +905,7 @@ Extension]
 - [Kalp Senghani](https://kalpsenghani.com) [‍ Full Stack Developer || Ai Engineer]
 - [Kamil Mazurek](https://kamilmazurek.pl)
 - [Kamran Mushtaq](https://kamipresents.com) [Full Stack Developer]
+- [Karan Chhunchha](https://karanchhunchha.in) [Software Developer | AI Automation]
 - [Karrar Nazim](https://karrarnazim.space) [Full Stack Web Developer]
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
