@@ -124,6 +124,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Raj Srivastava](https://portfolio-lilac-eight-33.vercel.app) [Full Stack Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
+- [Aditya Thakur](https://adityathakur.me) [Software Engineer | Full-Stack Engineer]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Aditya](https://aditya-a-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Adityakumar Sinha](https://aditya113141.github.io)
