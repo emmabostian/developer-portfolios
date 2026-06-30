@@ -667,6 +667,7 @@ Extension]
 - [Freddy Mcloughlan](https://mcloughlan.com) [Backend Developer]
 - [Frederic Henri](https://cloud06.io)
 - [Furkan Kapukaya](https://furkankapukayaa.github.io)
+- [Forhad Khan](https://forhadkhandev.vercel.app)
 
 ## G
 
