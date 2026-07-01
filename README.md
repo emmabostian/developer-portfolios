@@ -1784,6 +1784,7 @@ Extension]
 - [Valter Negreiros](https://valternegreiros.com) [Senior Mobile Software Engineer]
 - [Vamsi Indugu](https://vamsiindugu.vercel.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
+- [Vamshi Kumar](https://thvvamshi-dev.onrender.com/) [Software Engineer | Backend & Full-Stack Developer]
 - [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
 - [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com)
