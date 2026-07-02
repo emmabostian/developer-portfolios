@@ -742,6 +742,7 @@ Extension]
 - [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
+- [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app/) [AI|ML Engineer]
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
