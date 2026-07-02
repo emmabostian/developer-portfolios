@@ -1839,6 +1839,7 @@ Extension]
 - [Vladimir Rybalsky](https://alevoldon.com) [AI Builder & Creative Technologist]
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
+- [Vrushali Patil](https://vrushali.in) [QA Engineer | Manual, Automation & API Testing]
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
 
 ## W
