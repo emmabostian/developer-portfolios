@@ -657,6 +657,7 @@ Extension]
 - [Fikri Rozan](https://fikrirozan.vercel.app) [Full Stack Developer]
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
+- [Forhad_Khan](https://forhadkhandev.vercel.app) [Front-End Developer]
 - [Frances Coronel](https://francescoronel.com)
 - [Francisco Salido](https://paco.fyi?utm_source=gh) [Software Engineer]
 - [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
