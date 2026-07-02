@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1806
+## Current Portfolio Count: 1807
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1286,6 +1286,7 @@ Extension]
 - [Param Chaudhari](https://paramsc.dev)
 - [Parinith Mavurapu](https://parinithmavurapu.vercel.app) [Machine Learning & Full Stack Developer]
 - [Parish Khan](https://parish.cv) [Senior Software Developer | React, TypeScript, Frontend Architecture]
+- [Paritosh Khubchandani](https://paritosh-dev.vercel.app) [Full Stack Developer | React, Next.js, Django, FastAPI]
 - [Parth Kale](https://parkky.vercel.app) [AI Engineer]
 - [Parth Kaul](https://parthkaul-bit.github.io/portfolio)
 - [Parth Kothari](https://0xparthdev.netlify.app)
