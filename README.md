@@ -1782,6 +1782,7 @@ Extension]
 - [Valentin Lefrançois](https://valentinlefrancois.dev) [Senior Full Stack Engineer]
 - [Vallarasu](https://vallarasuk.com) [React, Next.Js Full Stack Developer]
 - [Valter Negreiros](https://valternegreiros.com) [Senior Mobile Software Engineer]
+- [Vamshi Kumar](https://thvvamshi-dev.onrender.com) [Software Engineer | Backend & Full-Stack Developer]
 - [Vamsi Indugu](https://vamsiindugu.vercel.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
