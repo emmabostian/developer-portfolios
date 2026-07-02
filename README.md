@@ -792,7 +792,7 @@ Extension]
 - [Indrajeet Nikam](https://indrajeet.me)
 - [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
 - [Ingus Jansons](https://ingus.co.uk)
-- [Ioannis Jone-Magalhaes](https://ioannisjonemagalhaes.com) [Sofware Engineer | Cloud & IoT]
+- [Ioannis Jone-Magalhaes](https://ioannisjonemagalhaes.com) [Software Engineer | Cloud & IoT]
 - [Irfan.Dev](https://irfan-devs.vercel.app) [Frontend Developer]
 - [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Ray](https://galaxir.vercel.app) [Full Stack Developer | AI Engineer]
