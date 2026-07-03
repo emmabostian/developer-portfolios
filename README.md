@@ -426,6 +426,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brian Kamau](https://brian-portfolio-two.vercel.app) [Full Stack Software Engineer]
 - [Brianna Brockington](https://briannab1997.github.io/BBPortfolio/) [Software Engineer | QA & Support]
 - [Brihadeesh](https://briha.xyz) [Full Stack Developer]
+- [Brijesh Chandrakar](https://brijesh-chandrakar.vercel.app)
 - [Brijesh Patel](https://brijesh.work)
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
