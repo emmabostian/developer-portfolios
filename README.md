@@ -1010,6 +1010,7 @@ Extension]
 - [Loic Duong](https://www.loicduong.dev)
 - [Long Do](https://longpdo.github.io)
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+- [Loren Kamau](https://lorenkamau.com/) [Founder of Aptifolio]
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
