@@ -31,7 +31,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
-- [Aakarsh Bibhaw](https://aakarsh-devhq.vercel.app) [CS Undergrad | Full-Stack & AI Eng.]
+- [Aakarsh Bibhaw](https://aakarsh-devhq.vercel.app) [CS Undergrad | Full Stack & AI Eng.]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
@@ -125,7 +125,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
 - [Aditya Raj Srivastava](https://portfolio-lilac-eight-33.vercel.app) [Full Stack Developer]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
-- [Aditya Thakur](https://adityathakur.me) [Software Engineer | Full-Stack Engineer]
+- [Aditya Thakur](https://adityathakur.me) [Software Engineer | Full Stack Engineer]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Aditya](https://aditya-a-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Adityakumar Sinha](https://aditya113141.github.io)
@@ -734,6 +734,7 @@ Extension]
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
+- [Hanan Bhatti](https://hanan-bhatti.site) [Full Stack Developer | Creator]
 - [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
 - [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
@@ -745,7 +746,7 @@ Extension]
 - [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
-- [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app/) [AI|ML Engineer]
+- [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app) [AI|ML Engineer]
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
@@ -1010,8 +1011,8 @@ Extension]
 - [Loc Le](https://looc.dev)
 - [Loic Duong](https://www.loicduong.dev)
 - [Long Do](https://longpdo.github.io)
+- [Loren Kamau](https://lorenkamau.com) [Founder of Aptifolio]
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
-- [Loren Kamau](https://lorenkamau.com/) [Founder of Aptifolio]
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
@@ -1510,7 +1511,7 @@ Extension]
 - [Saiful Alam](https://msar.me)
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
-- [Sairithik Komuravelly](https://heysai.dev/) [Full Stack Engineer | AI Integration & Tooling]
+- [Sairithik Komuravelly](https://heysai.dev) [Full Stack Engineer | AI Integration & Tooling]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
 - [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
@@ -1671,9 +1672,9 @@ Extension]
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Stefan Topalovic](https://www.stefantopalovic.com)
 - [Stephanie Lin](https://lin-stephanie.github.io)
+- [Stimmie](https://stimmie.dev) [Software Engineer | Next.js]
 - [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me)
-- [Stimmie](https://stimmie.dev) [Software Engineer | Next.js]
 - [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
 - [Subhasish Das](https://subhasish-portfolio.vercel.app)
@@ -1695,7 +1696,6 @@ Extension]
 - [Swagata Ganguly](https://swagata.tech) [Full Stack Developer with GEN AI]
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
 - [Swayam Kesarkar](https://nerd-swayam.vercel.app) [Nerd | Machine Learning | CyberSecurity
-]
 - [Syauqi Suhaimi](https://portfolio-syauqi.vercel.app)
 - [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
 - [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
@@ -1706,6 +1706,7 @@ Extension]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
+]
 
 ## T
 
@@ -1791,7 +1792,7 @@ Extension]
 - [Valentin Lefrançois](https://valentinlefrancois.dev) [Senior Full Stack Engineer]
 - [Vallarasu](https://vallarasuk.com) [React, Next.Js Full Stack Developer]
 - [Valter Negreiros](https://valternegreiros.com) [Senior Mobile Software Engineer]
-- [Vamshi Kumar](https://thvvamshi-dev.onrender.com) [Software Engineer | Backend & Full-Stack Developer]
+- [Vamshi Kumar](https://thvvamshi-dev.onrender.com) [Software Engineer | Backend & Full Stack Developer]
 - [Vamsi Indugu](https://vamsiindugu.vercel.app)
 - [Vamsi Krishna Chandaluri](https://vamsi-krishna-portfolio.vercel.app)
 - [Vansh Agarwal](https://portfolio-2-0-murex-three.vercel.app) [Full Stack Developer | AI & Agentic Systems]
