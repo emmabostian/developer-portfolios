@@ -31,6 +31,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
+- [Aakarsh Bibhaw](https://aakarsh-devhq.vercel.app) [CS Undergrad | Full-Stack & AI Eng.]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer] - Animated
