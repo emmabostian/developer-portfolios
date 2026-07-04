@@ -1835,6 +1835,7 @@ Extension]
 - [Vishal Rai](https://vishalrai.netlify.app)
 - [Vishal Sharma](https://snick0128.github.io/snick0128/) [Vishal]
 - [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
+- [Vishnu Rohith B](https://vishnurohithb.dev) [Full-Stack Developer]
 - [Vishnu Sharma](https://vs-code-cloud.github.io)
 - [Vishvaas Kumar](https://vishvaas.dev) [Cat | Chomik]
 - [Vishwanath](https://frozenhearth.vercel.app)
