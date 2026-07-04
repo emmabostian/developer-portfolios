@@ -1889,6 +1889,7 @@ Extension]
 - [Yassine Ben Zriouil](https://ybz.vercel.app) [Full Stack-Dev]
 - [Yassine Erradouani](https://yerradouani.me) [Data Engineer | Data Analyst | BI Consultant]
 - [Yassine Oularbi](https://yassineoularbi.github.io)
+- [Yaswanth](https://dlyaswanth.vercel.app) [AI Full Stack Engineer]
 - [Yatharth Dixit](https://yath.dev) [Backend/Full Stack Engineer | AI Products]
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
