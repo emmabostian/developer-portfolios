@@ -52,6 +52,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aayush Raj](https://ayushcmd.me) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
 - [Aayush Sood](https://www.aayushsood.com)
 - [Abbas Raza](https://abbasraza.dev) [Software Engineer | Freelancer | AI & Blockchain Enthusiast]
+- [Abdalla Elradi](https://aelradi.engineer) [AI Automation Engineer]
 - [Abdalwahed Aldaghir](https://awrs.me/en)[Software Engineer | Flutter Developer | Mobile Developer]
 - [Abdelaziz El Arassi](http://aelarassi.com)
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
