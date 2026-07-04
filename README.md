@@ -1673,7 +1673,8 @@ Extension]
 - [Stefan Bohacek](https://fourtonfish.com)
 - [Stefan Topalovic](https://www.stefantopalovic.com)
 - [Stephanie Lin](https://lin-stephanie.github.io)
-- [Stimmie](https://stimmie.dev) [Software Engineer | Next.js]
+- [Stimmie](https://www.stimmie.dev) [Software Engineer | Next.js]
+- [Stimmie – web portfolio](https://web.stimmie.dev) [Freelance Developer | Nuxt]
 - [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me)
 - [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
