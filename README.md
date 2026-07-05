@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
@@ -433,7 +434,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
-Extension]
+  Extension]
 
 ## C
 
@@ -597,7 +598,7 @@ Extension]
 - [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-[Ai & Data Science Enthusiast]
+  [Ai & Data Science Enthusiast]
 
 ## E
 
@@ -982,8 +983,8 @@ Extension]
 
 ## L
 
--  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
--  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
+- [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+- [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
 - [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
@@ -1528,6 +1529,7 @@ Extension]
 - [Sameer Agarwal](https://www.elite-lord.com) [Computer Science Student | Software Intern]
 - [Sameer](https://sameer27.netlify.app)
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
+- [Sammeyak Wankhade](https://sammeyak-portfolio.netlify.app/) [Software Engineer | Solution Architect]
 - [Samrat Mitra](https://lionelsamrat10.github.io)
 - [Samrin Jaji](https://samrinjaji.github.io/my-portfolio/) [Frontend Developer | Web Applications]
 - [Samrit Mukherjee](https://samrit.dev) [Full Stack Dev | AI Dev | Product Dev]
@@ -1710,7 +1712,7 @@ Extension]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-]
+  ]
 
 ## T
 
