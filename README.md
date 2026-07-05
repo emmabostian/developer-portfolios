@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1836
+## Current Portfolio Count: 1831
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -38,7 +38,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aaleksa Janjic](https://akkila.dev) [Full Stack Developer]
 - [Aanand Madhav](https://aanandmadhav.com) [Senior PM | UX]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
-- [Aarav Gupta](https://aarus2709.me)
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashay Wase](https://aashay-dev-ed.develop.my.site.com/AashayWase/s) [Salesforce Developer]
@@ -579,7 +578,6 @@ Extension]
 - [Dina Taklit](https://dinataklit.github.io/DinaTaklitPortfolio)
 - [Dinesh Barri](https://dineshbarri-portfolio.vercel.app) [Data Sceintist | Ai Automation Engineer]
 - [Dineshreddy Paidi](https://dineshreddypaidi.vercel.app)
-- [Dino Gomez](https://dinogomez.vercel.app)
 - [Dino Kupinic](https://dino-kupinic.dev) [Software Engineer]
 - [Dinokage](https://dinokage.in)
 - [Dipak Mourya](https://dipakdev.in) [Full Stack Developer]
@@ -803,7 +801,6 @@ Extension]
 - [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
 - [Ingus Jansons](https://ingus.co.uk)
 - [Ioannis Jone-Magalhaes](https://ioannisjonemagalhaes.com) [Software Engineer | Cloud & IoT]
-- [Irfan.Dev](https://irfan-devs.vercel.app) [Frontend Developer]
 - [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Ray](https://galaxir.vercel.app) [Full Stack Developer | AI Engineer]
 - [Ishaan Sheikh](https://frikishaan.com)
@@ -977,7 +974,6 @@ Extension]
 - [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
 - [Kushan Devarajegowda](https://ikushdev.github.io) [Software Developer | Software Engineer | Sde | Swe]
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
-- [Kwameh Dhegbo](https://kwamehdhegbo.com) [Full Stack Developer | Software Developer | Software Engineer | Student]
 - [Kyle Smith](https://yskkyle.com)
 - [Kyson](https://kyson.dev)
 - [kenTom](https://kentom.co.ke) [Software Developer]
@@ -1828,7 +1824,6 @@ Extension]
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
-- [Vinay Katikireddy](https://vinaykatikireddy.is-a.dev) [Cybersecurity, Full Stack Developer]
 - [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
 - [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
