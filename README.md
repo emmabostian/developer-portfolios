@@ -159,6 +159,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akash Kumar](https://portfolio-site-git-main-akash-kumar5s-projects.vercel.app) [Quant Developer | Full Stack]
 - [Akash Rajpurohit](https://akashrajpurohit.com)
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
+- [Akash Santra](https://my-portfolio-one-roan-33.vercel.app) [Full Stack Developer | AI & Open Source Contributor]
 - [Akashkumar Jadav](https://akashjadav.com) [Founder & Senior Full Stack Engineer]
 - [Akhileswar Kamale](https://akhileswar6.github.io/Portfolio/) [Full Stack Developer]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
