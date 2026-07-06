@@ -1567,6 +1567,7 @@ Extension]
 - [Saurabh Talele](https://saurabhtalele.com) [Full Stack developer]
 - [Saurabh Verma](https://saurabhv749.github.io) [Full Stack Developer]
 - [Saurav](https://sauravmh.com)
+- [Saurav G.C.](https://gcsaurav.com.np) [Full Stack Developer| ML]
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Adhikary](https://www.sayanadhikary.me) [Full Stack Mern]
