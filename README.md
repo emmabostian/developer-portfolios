@@ -1664,7 +1664,7 @@ Extension]
 - [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app)
-- [Soumyaranjan Rout](https://soumya-portfolio.pages.dev)
+- [Soumyaranjan Rout](https://soumya-portfolio.pages.dev) [Full Stack Developer | Agentic AI & Innovation Enthusiast]
 - [Sourabh Kothari](https://sourabhkothari.vercel.app)
 - [Sourav Dey](https://souravdey.space)
 - [Sourav Dutta](http://i-am-souravdutta.firebaseapp.com)
