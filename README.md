@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1831
+## Current Portfolio Count: 1832
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -971,6 +971,7 @@ Extension]
 - [Kumar Nishant](https://www.kumar-nishant.me) [Kumar Nishant | Backend & DevOps Engineer]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kunal Patil](https://kunalpatil.me) [Kunal Patil | Java SpringBoot, DevOps, Generative AI]
+- [Kunal K](https://kunalx.is-a.dev) [Data Scientist | AI & Agentic AI Engineer | Backend | DevOps | Voice AI Agents]
 - [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
 - [Kushan Devarajegowda](https://ikushdev.github.io) [Software Developer | Software Engineer | Sde | Swe]
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
