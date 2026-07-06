@@ -461,9 +461,9 @@ Extension]
 - [Chetan Padia](https://chetbox.com)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chethin Manage](https://www.cmanage.dev)
-- [Chigozie Ghislian](https://ghislian-ai.netlify.app/) [Junior Machine Learning Engineer | AI & Data Science]
 - [Chicago It Systems](https://www.chicagoitsystems.com)
 - [ChickyHuynh](https://chickyhuynhprojects.xo.je) [Junior Flutter Dev]
+- [Chigozie Ghislian](https://ghislian-ai.netlify.app) [Junior Machine Learning Engineer | AI & Data Science]
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io)
 - [Chiragchrg](https://chiragchrg.netlify.app) [Full Stack Developer]
