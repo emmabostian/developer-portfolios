@@ -38,6 +38,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaleksa Janjic](https://akkila.dev) [Full Stack Developer]
 - [Aanand Madhav](https://aanandmadhav.com) [Senior PM | UX]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
+- [Aarav Sharma](https://aarav-sharma-liart.vercel.app) [Founder at Wensity | Sr. design engineer | UI/UX developer in Rune]
 - [Aaron Dunphy](https://aarondunphy.com)
 - [Aaryanna Simonelli](https://ashleighsimonelli.co.uk)
 - [Aashay Wase](https://aashay-dev-ed.develop.my.site.com/AashayWase/s) [Salesforce Developer]
