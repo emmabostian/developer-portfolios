@@ -39,7 +39,7 @@ If you have never opened a PR and need direction, read more below.
 
 # Contributor's Guide
 
-Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues).
+Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmabostian/developer-portfolios/issues).
 
 Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
@@ -54,7 +54,7 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 
 ### Forking Developer Portfolios
 
-1. Go to the top-level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
+1. Go to the top-level page of this [repository](https://github.com/emmabostian/developer-portfolios)
 2. Click the "Fork" button in the upper right-hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo))
 3. After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
 
@@ -77,7 +77,7 @@ This will download the entire `Developer Portfolios` repo to your project's dire
 2. Add a remote to the original `Developer Portfolios` repo:
 
 ```shell
-git remote add upstream https://github.com/emmawedekind/developer-portfolios.git
+git remote add upstream https://github.com/emmabostian/developer-portfolios.git
 ```
 
 Congratulations, you now have a local copy of the `Developer Portfolios` repo!
@@ -154,7 +154,7 @@ A pull request (PR) is a method of submitting your new site to the `Developer Po
 
 #### Need Help?
 
-Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues), we are here to help.
+Feel free to ask for [help](https://github.com/emmabostian/developer-portfolios/issues), we are here to help.
 
 #### Important: ALWAYS EDIT ON A BRANCH
 
