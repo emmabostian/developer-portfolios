@@ -656,6 +656,7 @@ Extension]
 - [Felipe Schmidt](https://felipeschmidt.me) [Front-End Developer]
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
+- [Ferhat Ölmez](https://ferhatolmez.vercel.app/) [Full Stack Developer | React & Node]
 - [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full Stack Developer & Cibersecurity]
 - [Fernando Morenilla](https://fmorenil.dev) [Front End Developer]
 - [Fidalgo Pedro](http://fidalgo.dev)
