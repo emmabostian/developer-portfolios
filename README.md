@@ -189,6 +189,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
+- [Allen Koch](https://allenkoch.dev/) [Full Stack Developer & AI Builder]
 - [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
 - [Aloys Dillar](https://trolologuy.github.io)
 - [Althruist](https://althruist.fyi) [Game Developer]
