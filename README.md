@@ -186,8 +186,8 @@ This repo can serve as inspiration for your portfolio!
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
 - [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
-- [Alif Jobaer](https://alifjobaer12.vercel.app) [Full-Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
+- [Alif Jobaer](https://alifjobaer12.vercel.app) [Full-Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving]
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
 - [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
