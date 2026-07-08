@@ -55,6 +55,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdalla Elradi](https://aelradi.engineer) [AI Automation Engineer]
 - [Abdalwahed Aldaghir](https://awrs.me/en)[Software Engineer | Flutter Developer | Mobile Developer]
 - [Abdelaziz El Arassi](http://aelarassi.com)
+- [Abdelrahman Saed](https://bnsaed.com/) [Senior Mobile Engineer]
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Basit](https://abdulbasit-005.vercel.app) [Full Stack Web Developer | MERN Stack | AI Automation (n8n)]
 - [Abdul Jaber](https://aj7.is-a.dev)
