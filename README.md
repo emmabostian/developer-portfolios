@@ -640,6 +640,7 @@ Extension]
 - [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
+- [Ezra Desmond Sutanto](https://www.ezradesmonds.my.id) [AI Engineer | Full Stack Developer]
 
 ## F
 
