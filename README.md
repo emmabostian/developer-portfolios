@@ -1255,6 +1255,7 @@ Extension]
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
+- [Nishchay Jain](https://nishchayjain.vercel.app/) [Senior Software Engineer | Full-Stack, AI Systems & Distributed Architecture]
 - [Nishmika Ekanayaka](https://nishmika-dev.vercel.app) [Full Stack Developer | Junior]
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
