@@ -200,6 +200,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
+- [Aman kumar Jha](https://Amanbuilds.me) [AI Engineer & Full-Stack Developer] - Animated
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Rai](https://obliviousaman.netlify.app) [Frontend Developer | Vue.js, GSAP Animations, Bilingual English/Japanese Web Apps]
 - [Aman Rawat](https://amanrwt.com) [AI-Native Software Engineer | Frontend Developer]
