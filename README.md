@@ -445,6 +445,7 @@ Extension]
 
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
+- [Camel Djoulako](https://cameldjoulako.com) [Software Architect | Java, Spring Boot, Angular & Cloud/DevOps]
 - [Calzye](https://calzye.com) [AI-Powered Calculator Developer]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
