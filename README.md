@@ -287,6 +287,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arbaz Ansari](https://arbazansari.dev) [Full Stack Software Engineer | Exploring GenAi & Systems Design]
 - [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app)
+- [Aref Shalchi](https://arefshalchi.com/) [iOS Developer | Mobile Developer]
 - [Arhaan Siddiquee](https://arhaan-dev.vercel.app) [Full Stack Developer]
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Aries Chang](https://ariesjchang.com) [Software Engineer]
