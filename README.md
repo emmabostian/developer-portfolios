@@ -1300,6 +1300,7 @@ Extension]
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
+- [Pahasara Ridmaka](https://pahasara.me) [Aspiring Data Engineer]
 - [Pan Wei Lian](https://williamson922.github.io)
 - [Pandadev](https://pandadev.net)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
