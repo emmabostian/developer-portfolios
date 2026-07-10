@@ -7,7 +7,7 @@ Have you built a portfolio? Are you proud of it?! Open a [Pr](./CONTRIBUTING.md)
 This repo was inspired by [Ali Spittel'S](https://twitter.com/ASpittel) tweet
 
 <a href="https://twitter.com/ASpittel/status/1171604728951779328">
-	<img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
+    <img width="597" alt="Ali Spittel's inspiring tweet about developer portfolios" src="assets/ASpittel_tweet.png">
 </a>
 
 This repo can serve as inspiration for your portfolio!
@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
@@ -438,7 +439,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
-Extension]
+  Extension]
 
 ## C
 
@@ -604,7 +605,7 @@ Extension]
 - [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-[Ai & Data Science Enthusiast]
+  [Ai & Data Science Enthusiast]
 
 ## E
 
@@ -994,8 +995,8 @@ Extension]
 
 ## L
 
--  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
--  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
+- [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+- [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
 - [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
@@ -1300,6 +1301,7 @@ Extension]
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
+- [Pahasara Ridmaka](https://pahasara.me) [Aspiring Data Engineer]
 - [Pan Wei Lian](https://williamson922.github.io)
 - [Pandadev](https://pandadev.net)
 - [Pandiyan Murugan](https://pandiyancool.github.io/pandiyan.cool)
@@ -1732,7 +1734,7 @@ Extension]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-]
+  ]
 
 ## T
 
