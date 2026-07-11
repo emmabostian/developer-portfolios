@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+- [Aaaabad Aayush](https://aaaabaad-aayush.vercel.app) [Full Stack Engineer | Agentic AI Workflows | Performance Optimization]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
