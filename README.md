@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1833
+## Current Portfolio Count: 1857
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -55,7 +55,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdalla Elradi](https://aelradi.engineer) [AI Automation Engineer]
 - [Abdalwahed Aldaghir](https://awrs.me/en)[Software Engineer | Flutter Developer | Mobile Developer]
 - [Abdelaziz El Arassi](http://aelarassi.com)
-- [Abdelrahman Saed](https://bnsaed.com/) [Senior Mobile Engineer]
+- [Abdelrahman Saed](https://bnsaed.com) [Senior Mobile Engineer]
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Basit](https://abdulbasit-005.vercel.app) [Full Stack Web Developer | MERN Stack | AI Automation (n8n)]
 - [Abdul Jaber](https://aj7.is-a.dev)
@@ -162,6 +162,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akash Samanta](https://akashcraft.ca) [Full Stack Developer]
 - [Akash Santra](https://my-portfolio-one-roan-33.vercel.app) [Full Stack Developer | AI & Open Source Contributor]
 - [Akashkumar Jadav](https://akashjadav.com) [Founder & Senior Full Stack Engineer]
+- [Akhil Pillay](https://akhil-devs-portfolio.vercel.app) [Full Stack Dev | Agentic Systems Architect]
 - [Akhileswar Kamale](https://akhileswar6.github.io/Portfolio/) [Full Stack Developer]
 - [Akhshy Ganesh](https://akhshyganesh.github.io) [Full Stack Developer | Solution Architect]
 - [Akira Yoshiro](https://gungho0619.vercel.app) [Full Stack Developer Web | Blockchain]
@@ -188,10 +189,10 @@ This repo can serve as inspiration for your portfolio!
 - [Ali Ahtisham](https://aliahtisham.pro) [Professional Web Developer]
 - [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
-- [Alif Jobaer](https://alifjobaer12.vercel.app) [Full-Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving]
+- [Alif Jobaer](https://alifjobaer12.vercel.app) [Full Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving]
 - [Allan Im](https://allanim.com) [Software Engineer]
 - [Allan Muturi](https://allanmuturi.vercel.app)
-- [Allen Koch](https://allenkoch.dev/) [Full Stack Developer & AI Builder]
+- [Allen Koch](https://allenkoch.dev) [Full Stack Developer & AI Builder]
 - [Almaz Bisenbaev](https://almazb.vercel.app) [Web Developer]
 - [Aloys Dillar](https://trolologuy.github.io)
 - [Althruist](https://althruist.fyi) [Game Developer]
@@ -199,8 +200,8 @@ This repo can serve as inspiration for your portfolio!
 - [Alvalens](https://www.alvalens.my.id)
 - [Aman Anku](http://amananku26.github.io)
 - [Aman Bam](https://my-portfolio-d7jf.vercel.app) [Full Stack Developer]
+- [Aman Kumar Jha](https://Amanbuilds.me) [AI Engineer & Full Stack Developer] - Animated
 - [Aman Kumar](https://amankumar.ai) [Product | Ai Engineer]
-- [Aman kumar Jha](https://Amanbuilds.me) [AI Engineer & Full-Stack Developer] - Animated
 - [Aman Mittal](http://amanhimself.dev)
 - [Aman Rai](https://obliviousaman.netlify.app) [Frontend Developer | Vue.js, GSAP Animations, Bilingual English/Japanese Web Apps]
 - [Aman Rawat](https://amanrwt.com) [AI-Native Software Engineer | Frontend Developer]
@@ -287,7 +288,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arbaz Ansari](https://arbazansari.dev) [Full Stack Software Engineer | Exploring GenAi & Systems Design]
 - [Arctan2](https://arctan2.github.io) [Full Stack | Frontend Heavy | Software Generalist]
 - [Areeb Ahmed](https://areebahmed-portfolio.netlify.app)
-- [Aref Shalchi](https://arefshalchi.com/) [iOS Developer | Mobile Developer]
+- [Aref Shalchi](https://arefshalchi.com) [iOS Developer | Mobile Developer]
 - [Arhaan Siddiquee](https://arhaan-dev.vercel.app) [Full Stack Developer]
 - [Ariel Andrade](https://sudoariel.github.io)
 - [Aries Chang](https://ariesjchang.com) [Software Engineer]
@@ -558,7 +559,7 @@ Extension]
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev Saini](https://devportfolio001.netlify.app) [Full Stack Developer & AI/ML Engineer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
-- [Devanshu Chicholikar](https://devanshuchicholikar.com) [Software Engineer | Full-Stack & AI]
+- [Devanshu Chicholikar](https://devanshuchicholikar.com) [Software Engineer | Full Stack & AI]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Devi](https://devi-r.com)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com)
@@ -630,8 +631,8 @@ Extension]
 - [Emmanuel Alabi](https://emjjkk.tech) [CS Student | Full Stack Web/App]
 - [Emmanuel Ziem Yaan-Tol](https://emmanuelmayne23.vercel.app)
 - [Emre Akçadağ](https://akcadag.dev) [Mobile Developer | Android & Flutter]
-- [Enea](https://eneawork.it/) [Designer]
 - [Enea Xharja](https://eneaxharja.com)
+- [Enea](https://eneawork.it) [Designer]
 - [Enes Hacısağır](https://enesehs.github.io)
 - [Erdal Taşkesen](https://www.erdaltaskesen.com)
 - [Eren Aygün](https://www.erenaygun.com) [Frontend Developer]
@@ -665,7 +666,7 @@ Extension]
 - [Felipe Schmidt](https://felipeschmidt.me) [Front-End Developer]
 - [Felix Leupold](https://xiel.dev)
 - [Felix Tellmann](https://flext.dev)
-- [Ferhat Ölmez](https://ferhatolmez.vercel.app/) [Full Stack Developer | React & Node]
+- [Ferhat Ölmez](https://ferhatolmez.vercel.app) [Full Stack Developer | React & Node]
 - [Fernando Andres Raggio](https://raggiodev.vercel.app) [Full Stack Developer & Cibersecurity]
 - [Fernando Morenilla](https://fmorenil.dev) [Front End Developer]
 - [Fidalgo Pedro](http://fidalgo.dev)
@@ -755,7 +756,7 @@ Extension]
 - [Hanumant Jain](https://hanumantjain.tech) [Software Developer | Full Stack Developer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
-- [Hariharan Narlakanti](https://portfolio-harin999s-projects.vercel.app/) [AI Engineer | Backend Developer]
+- [Hariharan Narlakanti](https://portfolio-harin999s-projects.vercel.app) [AI Engineer | Backend Developer]
 - [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
@@ -786,7 +787,7 @@ Extension]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
-- [Hosama Adem](https://hosamaadem-portfolio-6ujt.vercel.app/) [Software Engineering Student | Full-Stack Developer]
+- [Hosama Adem](https://hosamaadem-portfolio-6ujt.vercel.app) [Software Engineering Student | Full Stack Developer]
 - [Houssam Bouzid](https://houssambouzid.dev) [Software Engineer]
 - [Hozaifa Ali](https://hozi-web3.site) [Software Engineer | Flutter Developer]
 - [Hrithik Dhakrey](https://iamdhakrey.dev) [Backend Developer]
@@ -900,7 +901,7 @@ Extension]
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
-- [Joshua Paul](https://joshuapaul.me) [Senior Fullstack & Applied AI Engineer]
+- [Joshua Paul](https://joshuapaul.me) [Senior Full Stack & Applied AI Engineer]
 - [Joshua Prini](https://joshuaprini.com) [Full Stack Developer | Software Engineer]
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
@@ -984,9 +985,9 @@ Extension]
 - [Kuei Poch Kuei](http://kueiyiee-portfolio.vercel.app) [Full Stack Dev and Creative Thinker]
 - [Kuldeepsinh Jadeja](https://kuldeepjadeja.dev) [Full Stack Developer | MERN Stack]
 - [Kumar Nishant](https://www.kumar-nishant.me) [Kumar Nishant | Backend & DevOps Engineer]
-- [Kunal K](https://kunalx.is-a.dev) [Data Scientist | AI & Agentic AI Engineer | Backend | DevOps | Voice AI Agents]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kunal Patil](https://kunalpatil.me) [Kunal Patil | Java SpringBoot, DevOps, Generative AI]
+- [Kunal](https://kunalx.is-a.dev) [Data Scientist | AI & Agentic AI Engineer | Backend | DevOps | Voice AI Agents]
 - [Kuppili Nikhilesh Raju](https://nikhileshraju.me) [AI/ML Engineer]
 - [Kushan Devarajegowda](https://ikushdev.github.io) [Software Developer | Software Engineer | Sde | Swe]
 - [Kushwinth Kumar](https://iamkushwidev.vercel.app) [Software Developer | Frontend Engineer | Mern Stack Developer]
@@ -1259,7 +1260,7 @@ Extension]
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
 - [Nishant Dewangan](https://nishantdewangan.vercel.app)
-- [Nishchay Jain](https://nishchayjain.vercel.app/) [Senior Software Engineer | Full-Stack, AI Systems & Distributed Architecture]
+- [Nishchay Jain](https://nishchayjain.vercel.app) [Senior Software Engineer | Full Stack, AI Systems & Distributed Architecture]
 - [Nishmika Ekanayaka](https://nishmika-dev.vercel.app) [Full Stack Developer | Junior]
 - [Nitesh Nagpal](https://niteshnagpal.com)
 - [Nitesh Seram](https://niteshseram.in)
@@ -1585,8 +1586,8 @@ Extension]
 - [Saurabh Singh](https://saurabh-works.netlify.app)
 - [Saurabh Talele](https://saurabhtalele.com) [Full Stack developer]
 - [Saurabh Verma](https://saurabhv749.github.io) [Full Stack Developer]
+- [Saurav G.C](https://gcsaurav.com.np) [Full Stack Developer| ML]
 - [Saurav](https://sauravmh.com)
-- [Saurav G.C.](https://gcsaurav.com.np) [Full Stack Developer| ML]
 - [Savan Rathod](https://portfolio-8xwk.vercel.app)
 - [Sawyer Hollenshead](https://www.sawyer.soy)
 - [Sayan Adhikary](https://www.sayanadhikary.me) [Full Stack Mern]
@@ -1659,7 +1660,7 @@ Extension]
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Dey](https://shubhamdey01.github.io) [Student | AI/ML | Data Science]
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
-- [Shubham Gupta](https://www.shubhamgupta.dev/) [Senior Software Engineer | Full Stack Developer]
+- [Shubham Gupta](https://www.shubhamgupta.dev) [Senior Software Engineer | Full Stack Developer]
 - [Shubham Tarade](https://coder-shanks.github.io)
 - [Shubham Vandara](https://shubhamvandara.netlify.app) [Full Stack Developer]
 - [Shubhanshu Singh](https://shubhanshusingh.com) [Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
