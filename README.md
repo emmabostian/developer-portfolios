@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1857
+## Current Portfolio Count: 1859
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -447,8 +447,8 @@ Extension]
 
 - [Cade Kynaston](https://cade.codes)
 - [Caiovisuals](https://www.caiovisuals.com) [Front-End Developer]
-- [Camel Djoulako](https://cameldjoulako.com) [Software Architect | Java, Spring Boot, Angular & Cloud/DevOps]
 - [Calzye](https://calzye.com) [AI-Powered Calculator Developer]
+- [Camel Djoulako](https://cameldjoulako.com) [Software Architect | Java, Spring Boot, Angular & Cloud/DevOps]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
@@ -1055,6 +1055,7 @@ Extension]
 - [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahdi Hasan](https://mahdihasan.space) [Software Engineer]
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
+- [Mahesh Darapureddy](https://maheshdarapureddy.in) [Full Stack Developer]
 - [Mahin Hasan](https://mahin527.vercel.app) [Shopify Expert | Full Stack Web Developer]
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
 - [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
