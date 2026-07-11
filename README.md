@@ -1022,7 +1022,7 @@ Extension]
 - [Leroy Rosales](https://leroyrosales.com)
 - [Levi Kingma](https://www.levikingma.com)
 - [Lewis Hadden](https://portfolio.lewishadden.com) [Senior Full Stack Engineer | React, Typescript, Node]
-- [Lina Brihoum]([portfolio-link](https://www.linabrihoum.com/)) [Cloud Architect & Manager | Full Stack]
+- [Lina Brihoum](https://www.linabrihoum.com/) [Cloud Architect & Manager | Full Stack]
 - [Lindsey Howard](https://lindseyk.dev)
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate At Snyk, Github Star, Openjs Foundation Pathfinder For Security Award]
