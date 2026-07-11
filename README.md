@@ -644,6 +644,7 @@ Extension]
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
+- [Ethan Villalovoz](https://ethanvillalovoz.com) [Software Engineer | Robotics & AI Researcher]
 - [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
 - [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
