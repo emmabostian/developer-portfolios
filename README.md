@@ -1558,6 +1558,7 @@ Extension]
 - [Samrit Mukherjee](https://samrit.dev) [Full Stack Dev | AI Dev | Product Dev]
 - [Samuel Alewi](https://krash-cod3.github.io) [Backend Engineer and Web Automation Expert]
 - [Samuel Ezra](https://www.samuelezranas.codes) [Full Stack & Mobile Developer | Tech Student & Enthusiast]
+- [Samvesh ](https://portfolio-site-two-virid.vercel.app/) [Full Stack Developer]
 - [Sanajit Jana](https://sanajitjana.github.io)
 - [Sandeep Mallick](https://sandeepmallick.github.io/sandeepportfolio/)
 - [Sandeep Panigrahi](https://sandeepdot1.github.io)
@@ -1963,3 +1964,4 @@ Extension]
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+  
