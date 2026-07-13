@@ -1538,6 +1538,7 @@ Extension]
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
+- [Sajid Alam](https://sajidalam.pages.dev) [Full Stack Developer]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Sairithik Komuravelly](https://heysai.dev) [Full Stack Engineer | AI Integration & Tooling]
