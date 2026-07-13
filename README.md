@@ -972,6 +972,7 @@ Extension]
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
 - [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
+- [Khushboo Mundada]([portfolio-link](https://khushm.netlify.app/)) [Data Scientist]
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
 - [Kishore](https://mkishore.is-a.dev)
