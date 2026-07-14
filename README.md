@@ -1466,7 +1466,7 @@ Extension]
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
 - [Rishabh Chaturvedi](https://rishabhchaturvedi.dev) [Lead Engineer | AI Architect & Backend Systems]
 - [Rishav](https://v0idrsh.vercel.app)
-- [Rishav kumar singh] (https://rishavkumar-portfolio.vercel.app/) [Software Engineer | Full stack Developer]
+- [Rishav kumar singh](https://rishavkumar-portfolio.vercel.app/) [Software Engineer | Full stack Developer]
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rito Chabalala](https://ritochabalala.github.io) [Software Engineer | Full Stack & AI / GenAI Engineer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
