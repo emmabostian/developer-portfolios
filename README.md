@@ -1463,6 +1463,7 @@ Extension]
 - [Riley Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
+- [Rishabh Chaturvedi](https://rishabhchaturvedi.dev) [Lead Engineer | AI Architect & Backend Systems]
 - [Rishav](https://v0idrsh.vercel.app)
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rito Chabalala](https://ritochabalala.github.io) [Software Engineer | Full Stack & AI / GenAI Engineer]
