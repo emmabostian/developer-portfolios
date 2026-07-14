@@ -1333,6 +1333,7 @@ Extension]
 - [Patrick Hyatt](https://www.patrickhyatt.com)
 - [Patrick Müller](https://p-mueller.dev) [Software Developer]
 - [Patrick Obermeier](https://www.patrickobermeier.at)
+- [Patryk Jablonski](https://patrykjablonski.cloud) [DevOps, Cloud & Systems Engineer]
 - [Paul Henry Atienza](https://www.paulatienza.dev) [Software Engineer | Enterprise Java Developer]
 - [Paul Koeck](https://paul.koeck.dev)
 - [Paul Pietzko](https://www.paulpietzko.com)
