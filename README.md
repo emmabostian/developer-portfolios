@@ -1821,6 +1821,7 @@ Extension]
 - [Utkarsh Satav](https://utkarshsatav.netlify.app) [Full Stack Developer]
 - [Utsav Adhikari](https://utsavadhikari07.com.np) [Full Stack Developer]
 - [Utsav Ghimire](https://www.utsavghimire.com.np)
+- [Utsav Gupta](https://portfolio-84ka.vercel.app/) [AI & LLM Automation Developer]
 - [Uygar Polat](https://uygarpolat.com) [Software Engineer]
 - [Uğur Atmaca](https://uguratmacacv.web.app)
 
