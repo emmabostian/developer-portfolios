@@ -1547,6 +1547,7 @@ Extension]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
 - [Sairithik Komuravelly](https://heysai.dev) [Full Stack Engineer | AI Integration & Tooling]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
+- [Sajid Alam](https://sajidalam.pages.dev) [Full Stack Developer]
 - [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
