@@ -544,6 +544,7 @@ Extension]
 - [David Hérault](https://dherault.com)
 - [Davide Santangelo](https://davidesantangelo.com)
 - [Dax](https://daolanx.com)[Front-End Developer | Freelancer]
+- [Daytime Dev](https://daytime-dev.uk/)[Game Developer]
 - [Debasish Dutta](https://debasishdutta.is-a.dev)
 - [Debpriyo Ghosal](https://debpriyo.is-a.dev)[Design Engineer]
 - [Declan Chidlow](https://vale.rocks/portfolio) [Front-End Developer]
