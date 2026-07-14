@@ -1292,6 +1292,7 @@ Extension]
 - [Om](https://omchaudhari1107.github.io)
 - [Omar Ashraf](https://portfollio-five-nu.vercel.app) [Frontend Developer]
 - [Omar Gastón Chalas](https://ogaston.com)
+- [Omar Mubaidin](https://mubx.dev) [Full Stack Developer | AI Engineer | CS Student]
 - [Omargpax](https://omargpax.pages.dev)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
