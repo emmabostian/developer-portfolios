@@ -661,6 +661,7 @@ Extension]
 - [Fabien Laurence](https://fabienlaurence.com) [Full Stack Developer | TypeScript / Python / C#]
 - [Fabio Junior Raminhuk](https://fabra.dev)
 - [Fahed Khan](https://fahed-khan.vercel.app)
+- [Fahim Ahmed](https://fahim-cloud.vercel.app/) [Full Stack Developer]
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Faisal Saifi](https://faisalsaifi.tech)
 - [Faishal Hakim](https://faishal24.my.id)
