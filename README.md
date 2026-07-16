@@ -803,6 +803,7 @@ Extension]
 - [Hugo Folloni](https://hugofolloni.com)
 - [Humanshu Jaglan](https://humanshu-jaglan.vercel.app)
 - [Hungry Bear Studio](https://www.hungrybearstudios.com)
+- [Hussam Barqawi](https://portfolio-kappa-mauve-pfdsqi3ae7.vercel.app/) [AI Engineer | LLM Engineer | AI Agent Developer]
 - [Hussein Sarea](https://ho011.vercel.app)
 
 ## I
