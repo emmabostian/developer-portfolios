@@ -461,6 +461,7 @@ Extension]
 - [Cemal Türkcan](https://cemalturkcan.com)
 - [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Full Stack Developer]
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
+- [Chalwe Chisela](https://chalwe.com) [Senior Software Engineer | Flutter & Go]
 - [Chambrin Alexandre](https://chambrin.dev)
 - [Chamindu Wn](https://chamindu-wn.vercel.app) [Mern Stack Developer | Mobile App Developer (Flutter/ Kotlin/ React Native)| Full Stack Developer]
 - [Chandradithya Janaswami](https://chandradithya.dev) [Undergrad, SWE and OSC]
