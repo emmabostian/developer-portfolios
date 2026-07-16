@@ -1,4 +1,4 @@
-<img width="415" height="250" alt="image" src="https://github.com/user-attachments/assets/6deaab2c-e833-4d9d-8d6e-f2abe0d83b4f" /># Developer Portfolios
+# Developer Portfolios
 
 A list of developer portfolios for your inspiration
 
