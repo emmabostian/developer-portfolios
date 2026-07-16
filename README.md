@@ -1,4 +1,4 @@
-# Developer Portfolios
+<img width="415" height="250" alt="image" src="https://github.com/user-attachments/assets/6deaab2c-e833-4d9d-8d6e-f2abe0d83b4f" /># Developer Portfolios
 
 A list of developer portfolios for your inspiration
 
@@ -26,6 +26,7 @@ This repo can serve as inspiration for your portfolio!
 ## A
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
+- [Aabhas Raj](https://www.ayushcmd.me/) [UI/UX | Web Developer | Cybersecurity | Cloud]
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
