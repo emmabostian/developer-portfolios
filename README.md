@@ -1703,6 +1703,7 @@ Extension]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soufiane El Hamri](https://www.soufiane-elhamri.com) [Full Stack Developer]
 - [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
+- [Soumya Jain](https://soumyajain.vercel.app/) [Software Developer | AI Exgineering]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app)
 - [Soumyaranjan Rout](https://soumya-portfolio.pages.dev) [Full Stack Developer | Agentic AI & Innovation Enthusiast]
