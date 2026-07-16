@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+- [Ashif E.K](https://ashifek.in) [Full-Stack Engineer]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabaad Al Aziz](https://red1-for-hek.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
@@ -771,7 +772,6 @@ Extension]
 - [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app) [AI|ML Engineer]
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
-- [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
@@ -1704,7 +1704,6 @@ Extension]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
 - [Soufiane El Hamri](https://www.soufiane-elhamri.com) [Full Stack Developer]
 - [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
-- [Soumya Jain](https://soumyajain.vercel.app/) [Software Developer | AI Exgineering]
 - [Soumyajit Basak](https://soumyajitbasak.netlify.app) [Software Developer]
 - [Soumyajit Behera](https://soumyajit.vercel.app)
 - [Soumyaranjan Rout](https://soumya-portfolio.pages.dev) [Full Stack Developer | Agentic AI & Innovation Enthusiast]
