@@ -1788,7 +1788,6 @@ Extension]
 - [Thierry Bungaroo](https://crackedontiti.github.io) [Software Developer & Software Engineer]
 - [Thinh Ngo](https://thinhcorner.com)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
-- [Thomas Galabert](https://thomas-galabert.com) [Fullstack developer]
 - [Thomas Havlik](https://thavlik.dev) [Software Architect | Medical Student]
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
