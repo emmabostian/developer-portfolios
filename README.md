@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1879
+## Current Portfolio Count: 1880
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1241,6 +1241,7 @@ Extension]
 - [Naveed Sohail Gung](https://naveed-gung.dev) [Software Engineer]
 - [Naveen Kumar](https://naveenweb.site) [Full Stack Developer | MERN Stack]
 - [NaveenKumar](https://naveenkumarm.space) [Full Stack Developer]
+- [Naveen Kumar Pasupuleti](https://naveens-portfolio-three.vercel.app) [Salesforce QA]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
