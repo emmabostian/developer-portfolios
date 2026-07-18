@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+- [AltF4Shayan](https://altf4shayan.vercel.app) [Frontend Developer]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
@@ -370,7 +371,7 @@ This repo can serve as inspiration for your portfolio!
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https:omargpax.vercel.app) [Software Developer - Full Stack]
 - [Azwad Fawad Hasan](https://azwadfawadhasan.github.io/resume/) [SWE | Researcher | Tech Enthusiast]
-
+- [AltF4Shayan](https://altf4shayan.vercel.app) [Frontend Developer]
 ## B
 
 - [Badhon Ai](https://www.badhon.online)
@@ -1054,7 +1055,7 @@ Extension]
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
-
+- [Muhammad Shayan Faisal](https://altf4shayan.vercel.app) [Frontend Developer]
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
@@ -1224,7 +1225,7 @@ Extension]
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
-
+- [Muhammad Shayan Faisal](https://altf4shayan.vercel.app) [Frontend Developer]
 ## N
 
 - [Nabin Khair](https://www.nabinkhair.com.np)
@@ -1514,7 +1515,7 @@ Extension]
 - [Ryan Pereira](http://ryanpereira.me)
 
 ## S
-
+- [Shayan Faisal](https://altf4shayan.vercel.app) [Frontend Developer]
 - [SE Jihad](https://sejihad.vercel.app) [Full Stack Developer]
 - [Saad Mehmood](https://iamsaadmehmood.com) [Full Stack Software Developer]
 - [Saad](https://saadarqam.vercel.app)
@@ -1762,7 +1763,7 @@ Extension]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-]
+- [Shayan Faisal](https://altf4shayan.vercel.app) [Frontend Developer]
 
 ## T
 
