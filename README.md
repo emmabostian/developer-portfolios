@@ -441,6 +441,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brijesh Chandrakar](https://brijesh-chandrakar.vercel.app)
 - [Brijesh Patel](https://brijesh.work)
 - [Brittany Chiang](https://brittanychiang.com)
+- [Bruno Simon](https://bruno-simon.com/)[Three.js Developer]
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 Extension]
