@@ -21,14 +21,25 @@
     ### Result
     - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
 
-5. Commit changes and push the new branch.
-6. Open and submit a PR.
+5. Verify your submission meets the checklist below.
+6. Commit changes and push the new branch.
+7. Open and submit a PR.
+
+### PR Submission Checklist
+
+Before opening a pull request, confirm each of the following:
+
+- [ ] I have opened my portfolio link in a browser and it loads correctly — it does **not** redirect to a domain parking/sale page or return an error.
+- [ ] My entry is added in **strict alphabetical order** by first name.
+- [ ] I have **not** edited `feed.json` — it is auto-generated and will be updated automatically.
+
+> **Note on the automated link checker:** A scheduled workflow runs every Saturday to verify all links in the repo. Broken or parked links are flagged and removed. You can view a sample broken link report [here](https://github.com/emmabostian/developer-portfolios/issues/3696).
 
 If you have never opened a PR and need direction, read more below.
 
 # Contributor's Guide
 
-Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues).
+Feedback, bug reports, and pull requests are welcome. Feel free to ask for [help](https://github.com/emmabostian/developer-portfolios/issues).
 
 Working on your first Pull Request? You can learn how from this _free_ series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
@@ -43,7 +54,7 @@ This guide has been modified from [freeCodeCamp's Contributors Guide](https://gi
 
 ### Forking Developer Portfolios
 
-1. Go to the top-level page of this [repository](https://github.com/emmawedekind/developer-portfolios)
+1. Go to the top-level page of this [repository](https://github.com/emmabostian/developer-portfolios)
 2. Click the "Fork" button in the upper right-hand corner of the interface ([More Details Here](https://help.github.com/articles/fork-a-repo))
 3. After the repository (repo) has been forked, you will be taken to your copy of the Developer Portfolios repo at <https://github.com/yourUsername/developer-portfolios>
 
@@ -66,7 +77,7 @@ This will download the entire `Developer Portfolios` repo to your project's dire
 2. Add a remote to the original `Developer Portfolios` repo:
 
 ```shell
-git remote add upstream https://github.com/emmawedekind/developer-portfolios.git
+git remote add upstream https://github.com/emmabostian/developer-portfolios.git
 ```
 
 Congratulations, you now have a local copy of the `Developer Portfolios` repo!
@@ -143,7 +154,7 @@ A pull request (PR) is a method of submitting your new site to the `Developer Po
 
 #### Need Help?
 
-Feel free to ask for [help](https://github.com/emmawedekind/developer-portfolios/issues), we are here to help.
+Feel free to ask for [help](https://github.com/emmabostian/developer-portfolios/issues), we are here to help.
 
 #### Important: ALWAYS EDIT ON A BRANCH
 
