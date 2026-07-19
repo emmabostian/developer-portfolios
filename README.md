@@ -409,6 +409,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhavesh Gudlani](https://bhaveshgudlani.me) [AI/ML Engineer | Full Stack Development-Android-AI/ML]
 - [Bhavesh Mishra](https://bhaveshmishra.dev)
 - [Bhavya Tomar](https://bhavya.dev)
+- [Bhumika Patil](https://portfolio-psi-lovat-25.vercel.app) [Computer Science Student | Full-Stack Developer]
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
 - [Bhushan Zade](https://bhushanz.netlify.app) [Senior Full Stack Developer (Angular, React, NodeJS)]
