@@ -1093,6 +1093,7 @@ Extension]
 - [Mansha Qarib](https://manshaqarib.vercel.app)
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
 - [Marc Backes](http://marc.dev)
+- [Maruf Hasan](https://itsmaruf.me/) [Mobile Developer]
 - [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | vanillaJS | TailwindCSS]
 - [Marco Baldini](https://marcobaldini.pages.dev)
 - [Marcos Moura](https://marcos-moura97.github.io)
@@ -1224,7 +1225,7 @@ Extension]
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
-- [Maruf Hasan](https://itsmaruf.me/) [Mobile Developer]
+
 
 ## N
 
