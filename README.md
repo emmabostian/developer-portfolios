@@ -895,6 +895,7 @@ Extension]
 - [Jin Jheng Rong](https://jinrup.vercel.app)
 - [Jiru Gutema](https://jirugutema.vercel.app) [Full Stack Developer, Software Engineer, Backend Developer]
 - [Jithin Vijayan](https://jithin.dev) [Lead Software Engineer / Full Stack Developer (React / Node / Angular / Vue)]
+- [Joaquín Méndez](https://joaquin-mendez.vercel.app) [Full Stack Develooper]
 - [Jo Lienhoop](https://jolienhoop.com)
 - [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
 - [John Doe](https://portfolio-john2.netlify.app)
