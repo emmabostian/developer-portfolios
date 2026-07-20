@@ -1601,6 +1601,7 @@ Extension]
 - [Sathwik Yellapragada](https://www.sathwiky.dev) [Full Stack Developer]
 - [Satish Jhanwer](https://satishjhanwer.dev) [Frontend Architect | AI & ML Engineer]
 - [Satish Vaishnav](http://satishvaishnav.in)
+- [Satnam Singh](https://satnamsingh.in) [AI Engineer | Agentic GenAI Developer |  Azure AI Foundry, Langraph & MCP]
 - [Satyam Gupta](https://imlolman.github.io)
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer)
