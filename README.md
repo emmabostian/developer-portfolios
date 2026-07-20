@@ -1617,6 +1617,7 @@ Extension]
 - [Sayandeep Majumdar](https://sayandeepmajumdar.github.io) [Software Engineer]
 - [Sayantan Basu](https://sayantan-basu.vercel.app)
 - [Sayed Anowar](https://sayedanowar.netlify.app) [Freelance Web Developer]
+- [Sayeed Joy](https://sayeedjoy.com) [Software Engineer | .NET Core, React, Next.js]
 - [Sayeed Shorif](https://sayeeed-shorif.vercel.app) [FrontEnd Web Developer]
 - [Sayyed](https://sayyedrabeeh.github.io/portfoliyo/) [Full Stack Developer]
 - [Sayyid Marvan](https://sayyidmarvanvt.vercel.app)
@@ -1986,4 +1987,4 @@ Extension]
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-  
+
