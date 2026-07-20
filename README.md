@@ -346,6 +346,7 @@ This repo can serve as inspiration for your portfolio!
 - [Austin Gericke](https://www.austingericke.com)
 - [Austin Pham](https://auspham.dev)
 - [Austin Serb](https://www.austinserb.com) [Full Stack Developer]
+- [Avilash Bharti](https://avilashbharti.in?src=gir) [Full Stack Developer]
 - [Avinash Pauskar](https://avinashhhportfolio.netlify.app)
 - [Avinash Singh](https://www.avinash-singh.in) [Full Stack Developer]
 - [Avinash Suthar](https://avinashsuthar.in) [Full Stack Developer]
