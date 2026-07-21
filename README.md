@@ -1778,6 +1778,7 @@ Extension]
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
+- [Taiwo Bamidele](https://taiwobuilds.github.io/my-portfolio) [Frontend Developer]
 - [Talha Kılıç](https://talhakilic.com.tr) [Junior Frontend Developer]
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
 - [Tanish Rai](https://tanishrai.dev) [Software Developer]
