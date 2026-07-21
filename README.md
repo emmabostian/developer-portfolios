@@ -1263,6 +1263,7 @@ Extension]
 - [Nicolo Rebughini](https://nirebu.com)
 - [Nidal Ghonaim](https://www.nidal.dev) [Full Stack Developer | Designer]
 - [Nigam Prasad Sahoo](https://nigam-portfolio-2026.web.app) [Android & Full Stack Systems Engineer]
+- [Nihir Praful Shah](https://nihir-mobile-portfolio.vercel.app/) [Frontend Developer | Full Stack Developer]
 - [Nikhil Kumar](https://routesguard.lovable.app/r/portfolio) [Full Stack Developer | Backend Developer]
 - [Nikhil Madaravena](https://www.nikhilmadaravena.me) [Full Stack Developer and Systems Engineer]
 - [Nikhil Yadav](https://niksoriginals.in) [Software Developer & Designer]
