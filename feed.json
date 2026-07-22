@@ -234,11 +234,6 @@
     "url": "https://abdullah-warraich-ch.vercel.app"
   },
   {
-    "name": "Abdur Rahman",
-    "url": "https://itsmeabdur.in",
-    "tagline": "Full Stack developer"
-  },
-  {
     "name": "Abdusamad Malikov",
     "url": "https://www.abdusamad.uz"
   },
@@ -871,11 +866,6 @@
     "url": "https://amirdev.nl"
   },
   {
-    "name": "Amirali Rashidi",
-    "url": "https://amiralirashidi.github.io",
-    "tagline": "Front-End Developer"
-  },
-  {
     "name": "Amit Kumar Raj",
     "url": "https://amitkumarraj.vercel.app",
     "tagline": "Full Stack Developer | MERN"
@@ -1404,6 +1394,11 @@
     "name": "Ashlok Chaudhary",
     "url": "https://ashlok.dev",
     "tagline": "Full Stack Developer || DevOps"
+  },
+  {
+    "name": "Ashmit Borawake",
+    "url": "https://ashmit-borawake.vercel.app",
+    "tagline": "Software Engineer | Full Stack Developer"
   },
   {
     "name": "Ashutosh Dhakre",
@@ -2155,11 +2150,6 @@
   {
     "name": "Clyde D'Souza",
     "url": "https://clydedsouza.net"
-  },
-  {
-    "name": "Clément Clix Garcia",
-    "url": "https://clixmods.github.io",
-    "tagline": "Game Developer | Full Stack Developer"
   },
   {
     "name": "Codervai",
@@ -3417,11 +3407,6 @@
     "tagline": "Software Engineer"
   },
   {
-    "name": "Hosama Adem",
-    "url": "https://hosamaadem-portfolio-6ujt.vercel.app",
-    "tagline": "Software Engineering Student | Full Stack Developer"
-  },
-  {
     "name": "Houssam Bouzid",
     "url": "https://houssambouzid.dev",
     "tagline": "Software Engineer"
@@ -4079,10 +4064,6 @@
   {
     "name": "Katie Haus",
     "url": "https://astro-portfolio-site.netlify.app"
-  },
-  {
-    "name": "Katleho Mokhele",
-    "url": "https://mokhele.pythonanywhere.com"
   },
   {
     "name": "Kaung Myat",
@@ -5142,11 +5123,6 @@
   {
     "name": "Mohit Verma",
     "url": "https://mohitverma.codes"
-  },
-  {
-    "name": "Mohsin Raz",
-    "url": "https://www.mohsinraz.me",
-    "tagline": "Full Stack Developer | Ai Automation"
   },
   {
     "name": "Moin Sheikh",
@@ -6242,11 +6218,6 @@
     "tagline": "AI Sofware Engineer"
   },
   {
-    "name": "Rasyid Nuruddin",
-    "url": "https://thesimpanze.github.io/Portofolio-Rasyid",
-    "tagline": "Front-End Developer"
-  },
-  {
     "name": "Ravi Bhushan Kumar",
     "url": "https://ravibhushan-portfolio.vercel.app",
     "tagline": "Full Stack Developer | Mern"
@@ -6387,11 +6358,6 @@
     "name": "Ritesh Bucha",
     "url": "https://bucharitesh.in",
     "tagline": "Full Stack Developer"
-  },
-  {
-    "name": "Rito Chabalala",
-    "url": "https://ritochabalala.github.io",
-    "tagline": "Software Engineer | Full Stack & AI / GenAI Engineer"
   },
   {
     "name": "Rituparna Warwatkar",
@@ -7765,10 +7731,6 @@
   {
     "name": "Thibaud Dervily",
     "url": "https://www.thibaud-dervily.fr"
-  },
-  {
-    "name": "Thibault Mathian",
-    "url": "https://thibault.sh"
   },
   {
     "name": "Thierry Bungaroo",
