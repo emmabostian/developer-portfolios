@@ -560,6 +560,7 @@ This repo can serve as inspiration for your portfolio!
 - [Delwer Hossain](https://delwer.live)
 - [Demon142](https://demon142.net)
 - [Denil Dominic](https://portfolio.denil-dominic.com)
+- [Denis Borovets](https://borove4ik.vercel.app/) [Frontend Developer]
 - [Denis Tokarev](https://devlato.com)
 - [Dennis Cristian](https://denncriss.com)
 - [Derek Chen](https://www.derekchen.dev)
