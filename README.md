@@ -24,6 +24,7 @@ This repo can serve as inspiration for your portfolio!
 ---
 
 ## A
+
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
@@ -447,7 +448,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bruno Simon](https://bruno-simon.com/)[Three.js Developer]
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
-Extension]
+  Extension]
 
 ## C
 
@@ -616,7 +617,7 @@ Extension]
 - [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
-[Ai & Data Science Enthusiast]
+  [Ai & Data Science Enthusiast]
 
 ## E
 
@@ -938,6 +939,7 @@ Extension]
 
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
+- [Kritan Shrestha](https://kritan560.github.io/portfolio/) [Senior Full Stack Developer]
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kaligotla Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
@@ -984,7 +986,7 @@ Extension]
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
 - [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
-- [Khushboo Mundada]([Portfolio-Link](https://khushm.netlify.app)) [Data Scientist]
+- [Khushboo Mundada](<[Portfolio-Link](https://khushm.netlify.app)>) [Data Scientist]
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
 - [Kishore](https://mkishore.is-a.dev)
@@ -1014,8 +1016,8 @@ Extension]
 
 ## L
 
--  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
--  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
+- [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+- [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
 - [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
@@ -1612,7 +1614,7 @@ Extension]
 - [Sathwik Yellapragada](https://www.sathwiky.dev) [Full Stack Developer]
 - [Satish Jhanwer](https://satishjhanwer.dev) [Frontend Architect | AI & ML Engineer]
 - [Satish Vaishnav](http://satishvaishnav.in)
-- [Satnam Singh](https://satnamsingh.in) [AI Engineer | Agentic GenAI Developer |  Azure AI Foundry, Langraph & MCP]
+- [Satnam Singh](https://satnamsingh.in) [AI Engineer | Agentic GenAI Developer | Azure AI Foundry, Langraph & MCP]
 - [Satyam Gupta](https://imlolman.github.io)
 - [Saurabh Daware](https://www.saurabhdaware.in)
 - [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer)
@@ -1775,7 +1777,7 @@ Extension]
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-]
+  ]
 
 ## T
 
@@ -2000,4 +2002,3 @@ Extension]
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-
