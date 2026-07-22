@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1899
+## Current Portfolio Count: 1903
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -780,6 +780,7 @@ This repo can serve as inspiration for your portfolio!
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
+- [Harshith Raj](https://harshithrajbangera.github.io/Portfolio/) [Full Stack Developer]
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
@@ -819,6 +820,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
 - [Igor Clauss](https://igorclauss.de) [Full Stack Developer]
+- [Ilan Lenzner](https://ilans.net) [Creative Technologist & Design Engineer]
 - [Ilham Riski Wibowo](http://ilhamriski.com) [Full Stack Developer]
 - [Ilija Korodic](https://ilijakorodic.com) [Frontend & Webflow Developer]
 - [Ilke Ozsekerli](https://ilkeozs.info)
@@ -1117,6 +1119,7 @@ This repo can serve as inspiration for your portfolio!
 - [Martin Barker](https://martinbarker.me)
 - [Martin Lefebvre](https://martinlefebvre.com) [Senior Full Stack Developer | Tech Lead]
 - [Martin Tale](https://martintale.com) [Web, App, Game Developer]
+- [Maruf Hasan](https://itsmaruf.me) [Mobile Developer]
 - [Masab Qurban](https://www.masabqurban.com) [Software Engineer | Full Stack Developer]
 - [MasirJafri](https://www.masirjafri.in) [Software Engineer | Full Stack Development | Backend System Design | Generative AI]
 - [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
@@ -1253,6 +1256,7 @@ This repo can serve as inspiration for your portfolio!
 - [Naveen Kumar Pasupuleti](https://naveens-portfolio-three.vercel.app) [Salesforce QA]
 - [Naveen Kumar](https://naveenweb.site) [Full Stack Developer | MERN Stack]
 - [NaveenKumar](https://naveenkumarm.space) [Full Stack Developer]
+- [Nayan Bobde](https://nayanbobde.github.io/Portfoliowebsite/) [Data Analyst | SQL | Power BI | Python | Azure]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
