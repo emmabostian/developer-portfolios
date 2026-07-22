@@ -1552,6 +1552,7 @@ Extension]
 - [Sahil Kapoor](https://sahilkapoor.com)
 - [Sahil Khan](https://sahil-site-chi.vercel.app) [Full Stack Developer]
 - [Sahil Md](https://macios.vercel.app) [Full Stack Software Engineer | Specialist in AI Integration & Software Development | Freelancer]
+- [Sahinur](https://www.sahinur.dev) [Full-Stack Developer | AI Engineer | Freelancer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
 - [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adobe Tools]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
