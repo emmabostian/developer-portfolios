@@ -779,6 +779,7 @@ Extension]
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
 - [Harshit Singh](https://eharshit.cfd) [Data Science]
+- [Harshith Raj](https://harshithrajbangera.github.io/Portfolio/) [Full Stack Developer]
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
