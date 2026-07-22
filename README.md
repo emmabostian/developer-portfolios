@@ -818,6 +818,7 @@ Extension]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
 - [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
 - [Igor Clauss](https://igorclauss.de) [Full Stack Developer]
+- [Ilan Lenzner](https://ilans.net) [Creative Technologist & Design Engineer]
 - [Ilham Riski Wibowo](http://ilhamriski.com) [Full Stack Developer]
 - [Ilija Korodic](https://ilijakorodic.com) [Frontend & Webflow Developer]
 - [Ilke Ozsekerli](https://ilkeozs.info)
