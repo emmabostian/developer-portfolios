@@ -3314,6 +3314,11 @@
     "tagline": "Data Science"
   },
   {
+    "name": "Harshith Raj",
+    "url": "https://harshithrajbangera.github.io/Portfolio/",
+    "tagline": "Full Stack Developer"
+  },
+  {
     "name": "Harwin Dan",
     "url": "https://itscrazydev.netlify.app"
   },
@@ -4211,7 +4216,7 @@
   },
   {
     "name": "Khushboo Mundada",
-    "url": "[Portfolio-Link](https://khushm.netlify.app"
+    "url": "<[Portfolio-Link](https://khushm.netlify.app"
   },
   {
     "name": "Kiran Poudel",
@@ -4246,6 +4251,11 @@
   {
     "name": "Krishnanand",
     "url": "https://krishnananda.netlify.app"
+  },
+  {
+    "name": "Kritan Shrestha",
+    "url": "https://kritan560.github.io/portfolio/",
+    "tagline": "Senior Full Stack Developer"
   },
   {
     "name": "Krupal Fataniya",
@@ -4334,16 +4344,6 @@
     "tagline": "Software Developer"
   },
   {
-    "name": "Lalith Kumar",
-    "url": "https://lalith-d-portfolio.netlify.app",
-    "tagline": "AI Engineer | Data Scientist | Machine Learning Engineer"
-  },
-  {
-    "name": "Lalith",
-    "url": "https://portfolic.vercel.app/lalithdabilpuram01",
-    "tagline": "Data Scientist"
-  },
-  {
     "name": "Laercio Rios",
     "url": "https://laerciorios.com",
     "tagline": "Full Stack Developer | Software Engineer"
@@ -4361,6 +4361,16 @@
     "name": "Lakshya Jain",
     "url": "https://port-folio-nine-lemon-27.vercel.app",
     "tagline": "For Any Developer | Has Multiple Templates | Semi - Automated Data Update Feature"
+  },
+  {
+    "name": "Lalith Kumar",
+    "url": "https://lalith-d-portfolio.netlify.app",
+    "tagline": "AI Engineer | Data Scientist | Machine Learning Engineer"
+  },
+  {
+    "name": "Lalith",
+    "url": "https://portfolic.vercel.app/lalithdabilpuram01",
+    "tagline": "Data Scientist"
   },
   {
     "name": "Lamine Neggazi",
@@ -6934,7 +6944,7 @@
   {
     "name": "Satnam Singh",
     "url": "https://satnamsingh.in",
-    "tagline": "AI Engineer | Agentic GenAI Developer |  Azure AI Foundry, Langraph & MCP"
+    "tagline": "AI Engineer | Agentic GenAI Developer | Azure AI Foundry, Langraph & MCP"
   },
   {
     "name": "Satyam Gupta",
