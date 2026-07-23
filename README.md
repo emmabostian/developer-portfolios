@@ -1390,6 +1390,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pranshu Patel](https://pranshu05.vercel.app)
 - [Prashant Khandelwal](https://prashantk.dev)
 - [Prataya Silla](https://prataya-portfolio.vercel.app)
+- [Pratik Salunke](https://pratiksalunkeportfolio.vercel.app) [Aspiring Backend Developer | Python & Django]
 - [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React Js Developer | Director Of Engineering]
 - [Praveen Kumar](https://praveengongada.com) [Software Development Engineer]
 - [Preet Suthar](https://preetsuthar.me)
