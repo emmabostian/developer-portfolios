@@ -1090,6 +1090,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
 - [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
 - [Manikanta Darapureddy](https://manikantadarapureddy.in)💛[AI/ML Enginner | Full-Stack Developer]
+- [Manish Kumar](https://manixh.vercel.app)💝[Full-Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full Stack Developer | React | Spring Boot]
