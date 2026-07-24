@@ -987,6 +987,7 @@ This repo can serve as inspiration for your portfolio!
 - [Khushboo Mundada](<[Portfolio-Link](https://khushm.netlify.app)>) [Data Scientist]
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
+- [Kishor Marasini](https://kishormarasini.com.au) [Software Developer]
 - [Kishore](https://mkishore.is-a.dev)
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
