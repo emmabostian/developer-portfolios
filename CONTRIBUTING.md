@@ -9,7 +9,7 @@
     Add your portfolio entry in the following format:
     
     ```markdown
-    - [Your Name](portfolio-link) [Your Title | Your Expertise]
+    - [Pavan Kumar Gupta](https://portfolio-roan-nine-77.vercel.app/) [Pavan's Portfolio | Software developer]
     ```
 
     ### Example
