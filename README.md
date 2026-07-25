@@ -329,6 +329,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashlok Chaudhary](https://ashlok.dev) [Full Stack Developer || DevOps]
 - [Ashmit Borawake](https://ashmit-borawake.vercel.app) [Software Engineer | Full Stack Developer]
 - [Ashutosh Dhakre](https://thecodehead.com) [Senior Software Engineer | Full Stack Developer]
+- [Ashutosh Dash](ashutoshdash.in) [Frontend Engineer | ReactJS, Next.JS]
 - [Ashutosh Pandey](https://about.ashutoshcodes.in) [Backend Developer | Llm And Agentic Ai Engineer | Langchain Expert]
 - [Ashwin Hariharan](https://ashwinhariharan.com/software-engineering) [Full Stack Developer]
 - [Asif Javed](https://asifjaved.dev) [Software Engineer]
