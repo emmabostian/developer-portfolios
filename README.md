@@ -1785,6 +1785,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## T
 
+- [Tarikur Rahman](https://yourtarikur.vercel.app)
 - [Tadashi Amano](https://tadashiamano.vercel.app)
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Taiwo Bamidele](https://taiwobuilds.github.io/my-portfolio) [Frontend Developer]
