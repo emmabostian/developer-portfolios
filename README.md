@@ -317,7 +317,7 @@ This repo can serve as inspiration for your portfolio!
 - [Asad Shah](https://iamasadshah-ibnerafi.vercel.app)
 - [Asamit](https://asamitportfolio.vercel.app)
 - [Asfakur Nariz](https://asfakur-portfolio-nextjs.vercel.app) [Front-end Developer || UI/UX Designer || Full Stack Developer]
-- [Ashak Zahin Hasan](https://aboutzahin.pages.dev)
+- [Ashak Zahin Hasan](https://zahin.dev) [Software Engineer]
 - [Ashar DevX](https://ashardevx.com) [Frontend & CMS Developer | WordPress, Shopify & React, Php, Html, CSS]
 - [Ashar Kamran](https://asharkamran.netlify.app) [Full Stack & Cms Developer | Content Creator]
 - [Ashif E.K](https://ashifek.in) [Full Stack Engineer]
