@@ -282,6 +282,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anurag Zete](https://portfolio-anuragzete.web.app) [Software Engineer]
 - [Anushka Isuranga](https://anushkaisuranga.github.io) [Full Stack Developer]
 - [Anuvab Das](https://anvv.tech) [Full Stack App/Web and Embedded Systems Engineer]
+- [Anwar Ul Haq](https://anwarluck.github.io) [Senior Dynamics 365 CRM & Power Platform Consultant]
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website) [Software Developer]
 - [Aprameya Kannan](https://aprameyak.vercel.app)) [Software Engineer]
 - [Aradhya Pavan](https://aradhyapavan.github.io) [Full Stack Web Dev & Aspiring Ai / Ml Engineer]
