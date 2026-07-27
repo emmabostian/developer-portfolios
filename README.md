@@ -59,6 +59,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdenassar Amimi](https://abdenassar-portfolio-4smfcqph6-abdenassaramimi99-gmailcom.vercel.app)
 - [Abdul Basit](https://abdulbasit-005.vercel.app) [Full Stack Web Developer | MERN Stack | AI Automation (n8n)]
 - [Abdul Jaber](https://aj7.is-a.dev)
+- [Abdul Malik](https://abdulmal1ksy3d.vercel.app) [Student | AI | Homelab | Infrastructure]
 - [Abdul Mannan](https://mannan.io) [Senior Front-end Engineer]
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
 - [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
