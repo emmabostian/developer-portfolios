@@ -152,6 +152,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ahmed Tokyo](https://ahmedtokyo.com) [Senior Software Engineer | Ai]
 - [Ahmet Eren Odacı](https://ahmete.ren)
 - [Aishani Pachauri](https://aishanipach.netlify.app)
+- [Aishwarya Shyam](https://aishwarya-cs-portfolio.netlify.app) [Software Engineer | Full Stack & AI]
 - [Aitezaz Sikandar](https://aitezazdev.vercel.app) [Full Stack Developer]
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
