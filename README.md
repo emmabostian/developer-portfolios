@@ -868,6 +868,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jam Moonbami](https://moonbamiofficial.vercel.app)
 - [James Mumo](https://jamesmumo.vercel.app)
 - [James Turner](http://turnerj.com)
+- [Janay Rawal](https://janayrawal.in) [Software Engineer]
 - [Jann Chie](https://jannchie.com/en)
 - [Jason Cameron](https://jsn.cam) [Repo](https://jsn.cam/repo)]
 - [Jason Flatford](https://jasonflatford.com) [Product & Engineering Leader]
