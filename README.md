@@ -109,6 +109,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adarsh Singh](https://adarshsinghh.vercel.app) [Software Engineer]
 - [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
 - [Adham Dannaway](https://www.adhamdannaway.com) [Ux/Ui Designer & Frontend Developer]
+- [Adhivishnu M](https://adhivishnuportfolio.web.app) [AI Developer | Freelancer]
 - [Adina Hawaldar](https://www.adinaa.me) [Web Designer & Developer]
 - [Adithya Krishnan](https://www.adithyakrishnan.com)
 - [Aditi Arya](https://aditiarya.netlify.app) [Software Engineer]
