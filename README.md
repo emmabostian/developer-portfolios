@@ -997,7 +997,7 @@ This repo can serve as inspiration for your portfolio!
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
 - [Krishna Sathyamurthy Pokédex Portfolio](https://krshsl.github.io)
 - [Krishnanand](https://krishnananda.netlify.app)
-- [Kritan Shrestha](https://dev-kritan.github.io/portfolio/) [Senior Full Stack Developer]
+- [Kritan Shrestha](https://dev-kritan.github.io/portfolio/) [Full Stack Developer]
 - [Krupal Fataniya](https://krupal.vercel.app) [Full Stack Developer | Python, Django & React Specialist]
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
 - [Krushna Rathod](https://krushna.gridly.xyz) [UI/UX Designer]
