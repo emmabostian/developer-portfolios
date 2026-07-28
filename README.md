@@ -939,7 +939,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
-- [Kritan Shrestha](https://kritan560.github.io/portfolio/) [Senior Full Stack Developer]
+- [Kritan Shrestha](https://dev-kritan.github.io/portfolio/) [Senior Full Stack Developer]
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kaligotla Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
