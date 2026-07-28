@@ -1762,6 +1762,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sudev Thapa Magar](https://www.sudevmagar.tech)
 - [Suhail Roushan](https://suhailroushan.com)
 - [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
+- [Sujal Goel](https://hecodesforme.com) [Top Rated Full Stack Developer | AI & Automation]
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Sunil Band](https://www.sunilband.com) [Frontend Engineer]
