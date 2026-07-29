@@ -248,8 +248,8 @@ This repo can serve as inspiration for your portfolio!
 - [Anh Nguyen](https://anhnq15.github.io) [Software Engineer]
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
 - [Aniket Joshi](https://aniketj.dev) [Software Architect]
-- [Aniket Kudale](https://aniket.co)
 - [Aniket Kshirsagar](https://aniketksh.github.io) [SRE Engineer]
+- [Aniket Kudale](https://aniket.co)
 - [Anil Khatri](https://imkaka.github.io)
 - [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Anirban Banerjee](https://anirban-portfolio-delta.vercel.app) [Data Architect | Data & AI Engineer]
