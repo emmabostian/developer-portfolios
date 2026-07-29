@@ -951,6 +951,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kaleigh Scruggs](http://kaleighscruggs.com)
 - [Kaligotla Sri Datta Sai Vithal](https://sridattasai18.github.io/Neo-folio/) [Full Stack Developer / Gen AI Engineer]
 - [Kalp Senghani](https://kalpsenghani.com) [‍ Full Stack Developer || Ai Engineer]
+- [Kamal Mohamed Sorour](https://kamal.is-a.dev) [Frontend Developer | React, Next.js, TypeScript]
 - [Kamil Mazurek](https://kamilmazurek.pl)
 - [Kamran Mushtaq](https://kamipresents.com) [Full Stack Developer]
 - [Karan Chhunchha](https://karanchhunchha.in) [Software Developer | AI Automation]
