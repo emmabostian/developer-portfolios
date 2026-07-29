@@ -1071,6 +1071,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## M
 
+- [MD MONIRUJJAMAN](https://monirujjaman.pro.bd) [Software Engineer | Full Stack Developer]
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
