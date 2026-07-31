@@ -1371,8 +1371,8 @@ This repo can serve as inspiration for your portfolio!
 - [Paul Koeck](https://paul.koeck.dev)
 - [Paul Pietzko](https://www.paulpietzko.com)
 - [Paulo Oliveira](https://paul8liveira.is-a.dev)
-- [Pavan Srivatsav Valluru](https://pavansrivatsav.com) [Full Stack Developer]
 - [Pavan Gupta](https://www.pavangupta.in) [Project Manager | Full Stack Developer]
+- [Pavan Srivatsav Valluru](https://pavansrivatsav.com) [Full Stack Developer]
 - [Pawaret Meungkaew](https://www.pawaret.dev)
 - [Pazindu Shane](https://pazindushane.github.io)
 - [Pep Alonso](https://pepalonso.com) [Software Engineer]
