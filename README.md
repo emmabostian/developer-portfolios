@@ -1341,6 +1341,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## P
 
+- [Pradip Chaudhary](https://www.pradipchaudhary.com.np/) [Full Stack & Frontend Developer]
 - [Paal Stakvik](https://paalss.vercel.app)
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
