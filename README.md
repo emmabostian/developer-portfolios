@@ -1238,6 +1238,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
+- [Munyaradzi Mzite](https://munyaradzimzite.vercel.app/)[AI Graphics Engineer]
 - [Mushfiqur Rahman](https://mushfiq.xyz)
 - [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
 - [Mustapha El Alamy](https://alamy.vercel.app) [Full Stack Software Engineer]
