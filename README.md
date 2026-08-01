@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1895
+## Current Portfolio Count: 1896
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -304,6 +304,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
 - [Armel Munyaneza](https://munyaneza.vercel.app)
 - [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
+- [Arnel Go](https://arnelbg.com) [WordPress Systems Engineer | Performance & Security]
 - [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
