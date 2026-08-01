@@ -1861,6 +1861,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ujjwal Soni](https://ujjwalsoni-portfolio.vercel.app) [Full Stack Developer]
 - [Ulysse Pavloff](https://pavloffulysse.com)
 - [Umesh Nagare](https://umeshnagare.com)
+- [Usman Ghias](https://usman.codcrafters.org) [Senior Odoo Technical Developer | Full Stack & Flutter]
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
 - [Utkarsh Satav](https://utkarshsatav.netlify.app) [Full Stack Developer]
