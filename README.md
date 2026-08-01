@@ -1473,6 +1473,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app) [Software Engineer | Full Stack Developer]
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
 - [Ravi Bhushan Kumar](https://ravibhushan-portfolio.vercel.app) [Full Stack Developer | Mern]
+- [Ravi K Gupta](https://devravik.github.io) [Senior Backend Engineer | Laravel | Go]
 - [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
 - [Raymond Valencia](https://paolo1231.github.io)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev)
