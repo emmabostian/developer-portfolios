@@ -1073,7 +1073,7 @@ This repo can serve as inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
-
+- [Mouzan Raza](http://my-portfolio-jz1h.vercel.app/)[AI/LLM Engineer]
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
