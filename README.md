@@ -516,7 +516,6 @@ This repo can serve as inspiration for your portfolio!
 - [Cornelius Weidmann](https://caweidmann.dev) [Senior Front-End / Full Stack Engineer]
 - [Crisbelo Neto](https://crisbeloneto.github.io) [Software Engineer]
 - [Cristian Barreiro](https://cristianbarreiro.github.io)
-- [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
 - [Cui Ding](https://cuierd.github.io)
@@ -676,7 +675,6 @@ This repo can serve as inspiration for your portfolio!
 - [Fahed Khan](https://fahed-khan.vercel.app)
 - [Fahim Ahmed](https://fahim-cloud.vercel.app) [Full Stack Developer]
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
-- [Faisal Saifi](https://faisalsaifi.tech)
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np)
 - [Fayaz Bin Salam](https://p32929.github.io)
@@ -1005,7 +1003,6 @@ This repo can serve as inspiration for your portfolio!
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
 - [Krishna Sathyamurthy Pokédex Portfolio](https://krshsl.github.io)
 - [Krishnanand](https://krishnananda.netlify.app)
-- [Kritan Shrestha](https://kritan560.github.io/portfolio/) [Senior Full Stack Developer]
 - [Krupal Fataniya](https://krupal.vercel.app) [Full Stack Developer | Python, Django & React Specialist]
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
 - [Krushna Rathod](https://krushna.gridly.xyz) [UI/UX Designer]
