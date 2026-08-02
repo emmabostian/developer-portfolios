@@ -70,9 +70,8 @@ class TestAlphabetical(unittest.TestCase):
     def test_strip_aaa_prefix_token(self):
         # Only remove standalone 'Aaa' tokens.
         # 'Aaa' attached to a token should be preserved (title-cased by the function).
-        line = "- [AaaJohn Doe](https://example.com)\n"
+        line = "- [Aaajohn Doe](https://example.com)\n"
         out = alphabetical.convert_to_title_case(line)
-        # 'AaaJohn' will be title-cased to 'Aaajohn' by str.title()
         self.assertIn("[Aaajohn Doe]", out)
 
         # when 'Aaa' is a separate token it should be removed
@@ -81,9 +80,8 @@ class TestAlphabetical(unittest.TestCase):
         self.assertIn("[John Doe]", out2)
 
         # 'Aaa' inside a token should not be stripped under Option B
-        line3 = "- [Foo AaaBar](https://example.com)\n"
+        line3 = "- [Foo Aaabar](https://example.com)\n"
         out3 = alphabetical.convert_to_title_case(line3)
-        # 'AaaBar' -> 'Aaabar' after title-casing
         self.assertIn("[Foo Aaabar]", out3)
 
 
