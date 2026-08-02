@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1896
+## Current Portfolio Count: 1897
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1253,6 +1253,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nabin Khair](https://www.nabinkhair.com.np)
 - [Nacho Caiafa](https://nachokai.github.io/rpg-cv)
 - [Nader Ferjani](https://nader.run)
+- [Nafiz Iqbal](https://nafiziqbal.com) [Full Stack Web Developer]
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
 - [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
