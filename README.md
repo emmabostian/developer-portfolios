@@ -1073,7 +1073,6 @@ This repo can serve as inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
-- [Mouzan Raza](http://my-portfolio-jz1h.vercel.app/)[AI/LLM Engineer]
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
@@ -1214,6 +1213,7 @@ This repo can serve as inspiration for your portfolio!
 - [Moin Sheikh](https://moinsheikh.in) [Full Stack Developer | AI Innovator]
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
 - [Mouad Ziani](https://mouadziani.github.io)
+- [Mouzan Raza](http://my-portfolio-jz1h.vercel.app/) [AI/LLM Engineer]
 - [Mp3Martin](https://mp3martin.xyz)
 - [Mubashar Hussain | Mubashar Dev](https://mubashar.dev) [Senior Full Stack Engineer | Mobile App Developer | Python & AI Specialist]
 - [Mudassir Ali](https://mudassirali.com) [Full Stack Developer | Software Engineer]
