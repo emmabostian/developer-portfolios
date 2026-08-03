@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1895
+## Current Portfolio Count: 1896
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1460,6 +1460,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ramiz](https://my-portfolio-pied-xi.vercel.app)
 - [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app) [Software Engineer | Full Stack Developer]
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
+- [Rathod Ramraj](https://rathodram.vercel.app) [Full Stack Dev | Student at NITJ]
 - [Ravi Bhushan Kumar](https://ravibhushan-portfolio.vercel.app) [Full Stack Developer | Mern]
 - [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
 - [Raymond Valencia](https://paolo1231.github.io)
