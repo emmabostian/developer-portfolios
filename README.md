@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1929
+## Current Portfolio Count: 1930
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1261,6 +1261,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
 - [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
+- [Nanday Das](https://nandaydas.in) [Mobile App Developer]
 - [Naresh Khatri](https://www.nareshkhatri.site)
 - [Naseem Khan](https://naseemkhan.dev) [Full Stack Developer | SaaS Builder | Freelancer]
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-End Developer | Design Technologist | Ui/Ux Engineer]
