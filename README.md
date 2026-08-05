@@ -1497,6 +1497,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
 - [Rifat Ishtiyak](https://rifat-ishtiyak.web.app)
 - [Rifqisakha](https://www.rifqisakha.my.id) [Frontend Developer, Designer, Ui/Ux]
+- [Rihan Mulla](https://portfolio-frontend-eight-blond.vercel.app) [Full Stack Developer]
 - [Riley Shaw](https://rileyjshaw.com)
 - [Rimenes Ribeiro](https://rimenesribeiro.com)
 - [Rimon Chowdhury](https://rimonchowdhury.netlify.app)
