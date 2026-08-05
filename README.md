@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1926
+## Current Portfolio Count: 1928
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1073,6 +1073,7 @@ This repo can serve as inspiration for your portfolio!
 - [Luís Oliveira](https://lo-devpage.netlify.app)
 
 ## M
+
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
 - [Madalina-Eleonora Gheorghe](https://madalinaeleonorag.github.io) [Frontend Developer]
@@ -1153,6 +1154,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mayurdhvajsinh Jadeja](https://mayurdhvaj.in) [Software Engineer | Backend, AI]
 - [Mbitu James](https://mbitu-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Md Kawsar](https://www.kawsarlog.com) [Python Developer | Web Scraping, Automation, And Development Expert]
+- [Md Monirujjaman](https://monirujjaman.pro.bd) [Software Engineer | Full Stack Developer]
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
 - [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
 - [Md Rakib Ali](https://rakibislam22.github.io) [Full Stack Developer & Problem Solver]
