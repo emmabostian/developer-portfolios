@@ -349,6 +349,7 @@ This repo can serve as inspiration for your portfolio!
 - [Atanu Biswas](https://atanu-portfolio-devsecops-production.up.railway.app) [DevSecOps Engineer | DevOps Specialist]
 - [Ateeb Shahid](https://teebs339.github.io/portfolio) [Rpa Developer | Ai Automation]
 - [Atharva Kote](https://atharvakote.netlify.app) [Full Stack Developer | DevOps]
+- [Atishay Kasliwal](https://atishaykasliwal.com) [Software Engineer | AI/ML & Distributed Systems]
 - [Atul Gupta](https://atul-portfolio-work.vercel.app) [Full Stack Developer]
 - [Atul Kumar Awasthi](https://atultheportfolio.netlify.app)
 - [Augusto Polonio](https://augustopolonio.vercel.app) [Game Developer | Senior Full Stack Engineer]
