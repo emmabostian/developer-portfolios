@@ -1688,6 +1688,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shawn Osborne](https://shawnosborne.dev) [Full Stack Developer]
 - [Shazeb Khan](https://shazeb-portfolio.vercel.app) [AI Engineer | Full Stack Developer]
 - [Shefali](https://shefali.dev)
+- [Sheriff Abouchekeir](https://sheriff-a.com) [Software Engineer | Full Stack Developer]
 - [Shihablabs](https://shihablabs.vercel.app) [Full Stack Developer / Software Engineer]
 - [Shikhar Gupta](https://shikhar97.github.io)
 - [Shiva Raj Paudel](https://shivarajpaudel.com.np)
