@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1928
+## Current Portfolio Count: 1929
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1397,6 +1397,7 @@ This repo can serve as inspiration for your portfolio!
 - [Poluianov Ivan](https://poluianov.com) [Senior Software Engineer]
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Poorvaj Hinge](https://poorvajhinge.vercel.app) [DevOps and AIOps Software Engineer]
+- [Pradip Chaudhary](https://www.pradipchaudhary.com.np) [Full Stack & Frontend Developer]
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
 - [Prakash Pun](https://prakashpun.me) [Software Engineer]
