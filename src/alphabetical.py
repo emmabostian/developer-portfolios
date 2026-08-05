@@ -22,8 +22,11 @@ def convert_to_title_case(readme_text):
             if stripped.lower() == "aaa":
                 # drop standalone 'Aaa' token
                 continue
-            if re.fullmatch(r"(?i)[A-Za-z]", stripped):
-                # drop standalone single-letter tokens (e.g. 'A', 'B', 'x')
+            # Only drop a standalone single-letter token when it leads the name
+            # (e.g. a stray "A John Doe" typo). A single letter elsewhere is
+            # commonly a real middle/last initial (e.g. "Ravi K Gupta") and must
+            # be preserved.
+            if not cleaned_tokens and re.fullmatch(r"(?i)[A-Za-z]", stripped):
                 continue
             cleaned_tokens.append(stripped)
         if not cleaned_tokens:

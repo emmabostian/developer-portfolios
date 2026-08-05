@@ -109,7 +109,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adarsh Singh](https://adarshsinghh.vercel.app) [Software Engineer]
 - [Adebanjo Stephen](https://myportfoliome.vercel.app) [Sofware Engineer]
 - [Adham Dannaway](https://www.adhamdannaway.com) [Ux/Ui Designer & Frontend Developer]
-- [Adhivishnu](https://adhivishnuportfolio.web.app) [AI Developer | Freelancer]
+- [Adhivishnu M](https://adhivishnuportfolio.web.app) [AI Developer | Freelancer]
 - [Adina Hawaldar](https://www.adinaa.me) [Web Designer & Developer]
 - [Adithya Krishnan](https://www.adithyakrishnan.com)
 - [Aditi Arya](https://aditiarya.netlify.app) [Software Engineer]
@@ -1480,7 +1480,7 @@ This repo can serve as inspiration for your portfolio!
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
 - [Rathod Ramraj](https://rathodram.vercel.app) [Full Stack Dev | Student at NITJ]
 - [Ravi Bhushan Kumar](https://ravibhushan-portfolio.vercel.app) [Full Stack Developer | Mern]
-- [Ravi Gupta](https://devravik.github.io) [Senior Backend Engineer | Laravel | Go]
+- [Ravi K Gupta](https://devravik.github.io) [Senior Backend Engineer | Laravel | Go]
 - [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
 - [Raymond Valencia](https://paolo1231.github.io)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev)
