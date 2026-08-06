@@ -1804,6 +1804,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tarikur Rahman](https://yourtarikur.vercel.app)
 - [Tariqul Islam](https://tariqulislamrc.vercel.app) [Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote]
 - [Tarun](https://tarunms.netlify.app)
+- [Tauqeer Ahmed](https://tauqeerkhattak.github.io/) [Full Stack Developer | Flutter, Android, Golang]
 - [Techfolios](https://techfolios.github.io)
 - [Tejas Gupta](https://www.tejas-gupta.com)
 - [Tejas Jadhav](https://teeejaey.github.io)
