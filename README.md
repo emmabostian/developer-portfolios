@@ -420,6 +420,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhavesh Mishra](https://bhaveshmishra.dev)
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhumika Patil](https://portfolio-psi-lovat-25.vercel.app) [Computer Science Student | Full Stack Developer]
+- [Bhumika Wadhwani](https://bhumika-wadhwani-portfolio.onrender.com) [Computer Science Student | Full Stack Developer]
 - [Bhupendra Singh](https://bhupi2508.netlify.app)
 - [Bhushan Borole](https://bhushan-borole.github.io)
 - [Bhushan Zade](https://bhushanz.netlify.app) [Senior Full Stack Developer (Angular, React, NodeJS)]
