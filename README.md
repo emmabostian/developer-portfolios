@@ -678,6 +678,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farindra Bhandari](https://fbb.com.np)
+- [Favian Izza](https://www.favianizza.space) [Software Engineer | Full-Stack | IoT]
 - [Fayaz Bin Salam](https://p32929.github.io)
 - [Fayed Ishtar Chowdhury](https://portfolio-fayed.vercel.app) [Full Stack Developer]
 - [Felipe Schmidt](https://felipeschmidt.me) [Front-End Developer]
