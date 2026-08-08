@@ -1592,6 +1592,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sakshi Hanwat](https://sakshi-portfolio-eta-swart.vercel.app) [Java Full Stack Developer]
 - [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
+- [Sam Gao](https://dinq.me/sam) [CEO and Co-founder, DINQ]
 - [Samad Talukder](https://samadtalukder.com) [Full Stack & Mobile Developer | Exploring GenAi & Innovation Enthusiast]
 - [Samarth Batra](https://batrasamarth.com) [Software Developer]
 - [Samarth Kadam](https://samarthkadam.vercel.app)
