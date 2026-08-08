@@ -789,6 +789,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
 - [Hasan](https://hasansiddiqui.netlify.app)
+- [Hasibul Islam](https://devhasibulislam.vercel.app) [Senior Full-Stack Engineer | Node.js, NestJS, TypeScript]
 - [Hasnat Amir](https://hasnatdev.com) [Full Stack Developer | Node.js/React.js/Next.js/Typescript]
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full Stack AI Developer | DevOps Engineer]
