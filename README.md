@@ -1463,6 +1463,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rakesh Adak](https://rakesh404.vercel.app) [Animated Portfolio | GSAP | Student | Backend Dev]
 - [Rakesh Kannepelli](https://portfolio-ruby-tau-62.vercel.app) [AI / ML and Full Stack Developer]
 - [Rakibul Islam](https://rakibul-islam-hasib.web.app)
+- [Raksha Sinha](https://rakshasinha.dev) [Software Engineer | AI & Full Stack]
 - [Ralf Müller](https://fiveandahalfstars.ninja/rdmueller.html)
 - [Raman Ramanouski](https://ratu.dev)
 - [Ramesh Kumar](https://rameskum.com)
