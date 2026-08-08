@@ -483,6 +483,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chandradithya Janaswami](https://chandradithya.dev) [Undergrad, SWE and OSC]
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
 - [Chanhdai](https://chanhdai.com)
+- [Charan Reddy](https://charanreddy.qzz.io/) [Student | Cyber Security]
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
 - [Charles Pustejovsky Iii](https://cpustejovsky.com)
 - [Chetan Padia](https://chetbox.com)
