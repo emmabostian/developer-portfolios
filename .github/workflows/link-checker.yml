@@ -6,6 +6,7 @@ on:
 name: Check markdown links
 jobs:
   linkChecker:
+    if: github.repository == 'emmabostian/developer-portfolios'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6

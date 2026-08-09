@@ -6,6 +6,7 @@ on:
 name: Check for ad/parking redirects
 jobs:
   parkingChecker:
+    if: github.repository == 'emmabostian/developer-portfolios'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
