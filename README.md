@@ -433,7 +433,7 @@ This repo can serve as inspiration for your portfolio!
 - [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome]
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
-- [Blake Karbon](https://balakekarbon.github.io) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer] ([Written In 100% Cobol](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
+- [Blake Karbon](https://balakekarbon.github.io) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer]
 - [Blake Werlinger](https://werlinger.dev) [Gameplay Programming | Backend Architecture | Web Development]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bluezly](https://www.bluezly.exid.me)
@@ -663,8 +663,8 @@ This repo can serve as inspiration for your portfolio!
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
 - [Ethan Villalovoz](https://ethanvillalovoz.com) [Software Engineer | Robotics & AI Researcher]
-- [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
-- [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
+- [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer]
+- [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE]
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 - [Ezra Desmond Sutanto](https://www.ezradesmonds.my.id) [AI Engineer | Full Stack Developer]
@@ -1382,7 +1382,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pep Alonso](https://pepalonso.com) [Software Engineer]
 - [Peter Kyale](https://studio44.is-a.dev) [Blockchain Developer | Web3]
 - [Peter Oravec](https://peteroravec.com) [Full Stack Developer]
-- [Peter Steinberger](https://steipete.me) (Creator of [Openclaw](https://openclaw.ai))
+- [Peter Steinberger](https://steipete.me) [Creator of Openclaw]
 - [Petros Dhespollari](https://peterdsp.dev) [iOS Engineer]
 - [Phat Tran Tan](https://portfolio-ttp.vercel.app) [Software Engineer | Frontend Developer]
 - [Philip Johnson](https://philipmjohnson.org)
@@ -1962,7 +1962,7 @@ This repo can serve as inspiration for your portfolio!
 - [Wasif Amin](https://camelon.app) [Software & AI Engineer | Cybersecurity | Data Science]
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
-- [William Thanh Long](https://long18.github.io) ([@Long18](https://github.com/Long18))
+- [William Thanh Long](https://long18.github.io)
 - [Wilson Costa](https://wilsoncosta-portfolio.vercel.app) [Backend Engineer | Full Stack Developer]
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
