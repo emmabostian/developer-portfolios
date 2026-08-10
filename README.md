@@ -289,7 +289,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anuvab Das](https://anvv.tech) [Full Stack App/Web and Embedded Systems Engineer]
 - [Anwar Ul Haq](https://anwarluck.github.io) [Senior Dynamics 365 CRM & Power Platform Consultant]
 - [Anzhelika Kostyuk](https://a-coderr.github.io/portfolio-website) [Software Developer]
-- [Aprameya Kannan](https://aprameyak.vercel.app)) [Software Engineer]
+- [Aprameya Kannan](https://aprameyak.vercel.app) [Software Engineer]
 - [Aradhya Pavan](https://aradhyapavan.github.io) [Full Stack Web Dev & Aspiring Ai / Ml Engineer]
 - [Aradhya Puneeth](https://aradhyapuneeth.github.io) [DevOps Engineer]
 - [Arafat Hossan](https://arafat.com.bd) [Full Stack Developer]
@@ -430,7 +430,7 @@ This repo can serve as inspiration for your portfolio!
 - [Binay Shaw](https://binay-shaw.onrender.com) [Mobile Developer]
 - [Binyam Seyoum](https://binyam.io) [DevOps & Cloud Solutions Engineer]
 - [Bipin](https://bipinmv.netlify.app)
-- [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome
+- [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome]
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
 - [Blake Karbon](https://balakekarbon.github.io) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer] ([Written In 100% Cobol](https://medium.com/@karboncodes/writing-web-apps-in-cobol-a18f74dc44f5))
@@ -796,7 +796,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hasnat Amir](https://hasnatdev.com) [Full Stack Developer | Node.js/React.js/Next.js/Typescript]
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full Stack AI Developer | DevOps Engineer]
-- [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer
+- [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer]
 - [Hassan Tech](https://hassanx.tech) [Web Developer]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
@@ -871,7 +871,7 @@ This repo can serve as inspiration for your portfolio!
 - [James Turner](http://turnerj.com)
 - [Janay Rawal](https://janayrawal.in) [Software Engineer]
 - [Jann Chie](https://jannchie.com/en)
-- [Jason Cameron](https://jsn.cam) [Repo](https://jsn.cam/repo)]
+- [Jason Cameron](https://jsn.cam) [Repo](https://jsn.cam/repo)
 - [Jason Flatford](https://jasonflatford.com) [Product & Engineering Leader]
 - [Jatin Jadon](https://portfolio-jatin-two.vercel.app) [Full Stack Developer]
 - [Jatin Jha](https://jatin0jha.github.io)
@@ -1638,7 +1638,7 @@ This repo can serve as inspiration for your portfolio!
 - [Satnam Singh](https://satnamsingh.in) [AI Engineer | Agentic GenAI Developer | Azure AI Foundry, Langraph & MCP]
 - [Satyam Gupta](https://imlolman.github.io)
 - [Saurabh Daware](https://www.saurabhdaware.in)
-- [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer)
+- [Saurabh Nemade](https://www.nemade.eu) [Staff Engineer]
 - [Saurabh Patil](https://saurabhpatil.netlify.app) [Code Craftsman]
 - [Saurabh Singh](https://saurabh-works.netlify.app)
 - [Saurabh Talele](https://saurabhtalele.com) [Full Stack developer]
@@ -1791,7 +1791,7 @@ This repo can serve as inspiration for your portfolio!
 - [Swagata Ganguly](https://swagata.tech) [Full Stack Developer with GEN AI]
 - [Swarnava Dutta](https://swarnava.dev) [Lead AI Architect | Gen AI | Full Stack]
 - [Swaroop Vyawahare](https://swaroop.codes) [Full Stack Developer]
-- [Swayam Kesarkar](https://nerd-swayam.vercel.app) [Nerd | Machine Learning | CyberSecurity
+- [Swayam Kesarkar](https://nerd-swayam.vercel.app) [Nerd | Machine Learning | CyberSecurity]
 - [Syed Aashiq Ahamed](https://www.syedahamed.in) [Software Development Engineer | Frontend Engineer]
 - [Syed Abdul Aman](https://p-r-e-m-i-u-m.github.io/AmanGenAI/) [Generative AI Developer | LLMs | Python]
 - [Syed Muhammad Abdullah Ahsan](https://linktr.ee/abdullahahsan)
