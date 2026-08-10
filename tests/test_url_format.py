@@ -9,6 +9,12 @@ class TestUrlFormat(unittest.TestCase):
         issues = alphabetical.find_malformed_urls(lines)
         self.assertEqual(issues, [(1, "Foo", "https:example.com")])
 
+    def test_detects_nested_markdown_link(self):
+        lines = ["- [Foo](<[Portfolio-Link](https://example.com)>) [Dev]\n"]
+        issues = alphabetical.find_malformed_urls(lines)
+        self.assertEqual(len(issues), 1)
+        self.assertEqual(issues[0][:2], (1, "Foo"))
+
     def test_accepts_valid_urls(self):
         lines = [
             "- [Foo](https://example.com)\n",

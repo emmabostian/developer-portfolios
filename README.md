@@ -995,7 +995,7 @@ This repo can serve as inspiration for your portfolio!
 - [Khizar Fareed](https://khizarfareed.netlify.app) [Engineer]
 - [Khokon](https://khokon.dev)
 - [Khulile Nzimande](https://khulilen.github.io/Portfolio-Website/) [Software Developer]
-- [Khushboo Mundada](<[Portfolio-Link](https://khushm.netlify.app)>) [Data Scientist]
+- [Khushboo Mundada](https://khushm.netlify.app) [Data Scientist]
 - [Kim Carl Macapayad](https://kcmacapayad-portfolio.vercel.app) [Computer Engineer | SEO-Focused Front-End Developer]
 - [Kiran Poudel](https://pkiran.com.np)
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)

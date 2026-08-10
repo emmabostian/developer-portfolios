@@ -592,14 +592,23 @@ def extract_portfolio_data(lines):
     return portfolios
 
 
+# Characters that never belong in a real portfolio URL but show up when
+# someone pastes markdown link syntax (or an angle-bracketed link) into the
+# URL slot, e.g. '[Name](<[Portfolio-Link](https://example.com)>)'.
+_INVALID_URL_CHARS = set("<>[]")
+
+
 def find_malformed_urls(lines):
     """Scan portfolio entry lines for malformed URLs.
 
-    Flags entries whose URL declares an http/https scheme but is missing the
-    required '//' authority separator (e.g. 'https:example.com' instead of
-    'https://example.com'). Such URLs are frequently accepted by browsers
-    (which repair them) but rejected or mis-parsed by link checkers and HTTP
-    clients, so they slip past manual review.
+    Flags entries whose URL either:
+    - declares an http/https scheme but is missing the required '//'
+      authority separator (e.g. 'https:example.com' instead of
+      'https://example.com'), which browsers silently repair but link
+      checkers and HTTP clients reject or mis-parse; or
+    - contains leftover markdown syntax such as '<', '>', '[' or ']',
+      typically from pasting a '[text](url)' snippet (or an angle-bracketed
+      link) into the URL position instead of the bare URL.
 
     Returns a list of (line_number, name, url) tuples, 1-indexed by line.
     """
@@ -611,6 +620,9 @@ def find_malformed_urls(lines):
             continue
         name = match.group(1).strip()
         url = match.group(2).strip()
+        if any(ch in _INVALID_URL_CHARS for ch in url):
+            issues.append((idx, name, url))
+            continue
         parsed = urlparse(url)
         if parsed.scheme in ("http", "https") and not parsed.netloc:
             issues.append((idx, name, url))
