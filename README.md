@@ -1807,6 +1807,7 @@ This repo can serve as inspiration for your portfolio!
 ## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
+- [Talha Siddique](https://talhasiddique-portfolio.vercel.app/) [AI Engineer | Full Stack Developer]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Taiwo Bamidele](https://taiwobuilds.github.io/my-portfolio) [Frontend Developer]
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
