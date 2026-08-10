@@ -1733,7 +1733,6 @@ This repo can serve as inspiration for your portfolio!
 - [Siem Van Bree](https://siemvanbree.nl) [Siem Van Bree - Software Developer]
 - [Silas Rodrigues](https://silasrodrigues.vercel.app)
 - [Simon Aytes](https://saytes.io) [Senior Data Scientist | AI/ML, Software Engineering]
-- [Simon Fereshetyan](https://fereshetyan.space) [Software Engineer / DevOps]
 - [Simon Knott](https://simonknott.de)
 - [Siraj AL Zahran](https://sirajalzahran.com) [Software Engineer | Tech Artisan]
 - [Siva Vignesh](https://siva-vignesh.github.io/portfolio)
