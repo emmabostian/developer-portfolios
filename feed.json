@@ -1659,7 +1659,7 @@
   },
   {
     "name": "Azel",
-    "url": "https:omargpax.vercel.app",
+    "url": "https://omargpax.vercel.app",
     "tagline": "Software Developer - Full Stack"
   },
   {
@@ -7487,11 +7487,6 @@
     "tagline": "Senior Data Scientist | AI/ML, Software Engineering"
   },
   {
-    "name": "Simon Fereshetyan",
-    "url": "https://fereshetyan.space",
-    "tagline": "Software Engineer / DevOps"
-  },
-  {
     "name": "Simon Knott",
     "url": "https://simonknott.de"
   },
@@ -7816,6 +7811,11 @@
     "name": "Taiwo Bamidele",
     "url": "https://taiwobuilds.github.io/my-portfolio",
     "tagline": "Frontend Developer"
+  },
+  {
+    "name": "Talha Siddique",
+    "url": "https://talhasiddique-portfolio.vercel.app",
+    "tagline": "AI Engineer | Full Stack Developer"
   },
   {
     "name": "Tanay Shah",

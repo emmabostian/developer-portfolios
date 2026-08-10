@@ -592,6 +592,31 @@ def extract_portfolio_data(lines):
     return portfolios
 
 
+def find_malformed_urls(lines):
+    """Scan portfolio entry lines for malformed URLs.
+
+    Flags entries whose URL declares an http/https scheme but is missing the
+    required '//' authority separator (e.g. 'https:example.com' instead of
+    'https://example.com'). Such URLs are frequently accepted by browsers
+    (which repair them) but rejected or mis-parsed by link checkers and HTTP
+    clients, so they slip past manual review.
+
+    Returns a list of (line_number, name, url) tuples, 1-indexed by line.
+    """
+    pattern = re.compile(r'^-\s+\[([^\]]+)\]\(([^)]+)\)')
+    issues = []
+    for idx, line in enumerate(lines, start=1):
+        match = pattern.match(line.strip())
+        if not match:
+            continue
+        name = match.group(1).strip()
+        url = match.group(2).strip()
+        parsed = urlparse(url)
+        if parsed.scheme in ("http", "https") and not parsed.netloc:
+            issues.append((idx, name, url))
+    return issues
+
+
 def create_feed_json(readme_path="README.md", output_path="feed.json"):
     """
     Read README.md and create/update feed.json with portfolio data.
@@ -707,6 +732,14 @@ def main():
     portfolio_count = create_feed_json()
     if portfolio_count:
         print(f"Created feed.json with {portfolio_count} portfolio entries.")
+
+    # Warn about malformed URLs (e.g. missing '//' after the scheme) so they
+    # can be fixed before merge instead of silently slipping through review.
+    malformed = find_malformed_urls(final_lines)
+    if malformed:
+        print(f"WARNING: found {len(malformed)} malformed URL(s):")
+        for line_no, name, url in malformed:
+            print(f"  line {line_no}: [{name}]({url})")
 
 
 if __name__ == "__main__":
