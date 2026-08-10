@@ -592,25 +592,43 @@ def extract_portfolio_data(lines):
     return portfolios
 
 
-# Characters that never belong in a real portfolio URL but show up when
-# someone pastes markdown link syntax (or an angle-bracketed link) into the
-# URL slot, e.g. '[Name](<[Portfolio-Link](https://example.com)>)'.
-_INVALID_URL_CHARS = set("<>[]")
+# A hostname: one or more dot-separated labels followed by an alphabetic
+# TLD, with an optional port. Deliberately does not accept IPv6/bracket
+# literals or userinfo ('user@host') — portfolio links don't need either,
+# and allowing them would reopen the door to markdown/angle-bracket junk.
+_HOSTNAME_RE = re.compile(
+    r'^(?=.{1,253}$)'
+    r'([A-Za-z0-9]([A-Za-z0-9-]{0,61}[A-Za-z0-9])?\.)+'
+    r'[A-Za-z]{2,63}'
+    r'(:\d{1,5})?$'
+)
+
+
+def is_well_formed_url(url):
+    """Return True if `url` is a properly formed http(s) URL.
+
+    Requires an http/https scheme, a '//' authority, and a netloc that
+    parses as a real hostname. This single structural check subsumes
+    narrower cases we've hit in practice — a scheme with no '//'
+    (e.g. 'https:example.com', which leaves netloc empty) and leftover
+    markdown/angle-bracket syntax pasted into the URL slot (e.g.
+    '<[Portfolio-Link](https://example.com)>', which fails to parse a
+    scheme or netloc at all) — without needing to special-case individual
+    bad characters.
+    """
+    if re.search(r'\s', url):
+        return False
+    parsed = urlparse(url)
+    if parsed.scheme not in ("http", "https"):
+        return False
+    return bool(_HOSTNAME_RE.match(parsed.netloc))
 
 
 def find_malformed_urls(lines):
-    """Scan portfolio entry lines for malformed URLs.
+    """Scan portfolio entry lines for URLs that are not well-formed.
 
-    Flags entries whose URL either:
-    - declares an http/https scheme but is missing the required '//'
-      authority separator (e.g. 'https:example.com' instead of
-      'https://example.com'), which browsers silently repair but link
-      checkers and HTTP clients reject or mis-parse; or
-    - contains leftover markdown syntax such as '<', '>', '[' or ']',
-      typically from pasting a '[text](url)' snippet (or an angle-bracketed
-      link) into the URL position instead of the bare URL.
-
-    Returns a list of (line_number, name, url) tuples, 1-indexed by line.
+    See `is_well_formed_url` for what counts as well-formed. Returns a list
+    of (line_number, name, url) tuples, 1-indexed by line.
     """
     pattern = re.compile(r'^-\s+\[([^\]]+)\]\(([^)]+)\)')
     issues = []
@@ -620,11 +638,7 @@ def find_malformed_urls(lines):
             continue
         name = match.group(1).strip()
         url = match.group(2).strip()
-        if any(ch in _INVALID_URL_CHARS for ch in url):
-            issues.append((idx, name, url))
-            continue
-        parsed = urlparse(url)
-        if parsed.scheme in ("http", "https") and not parsed.netloc:
+        if not is_well_formed_url(url):
             issues.append((idx, name, url))
     return issues
 

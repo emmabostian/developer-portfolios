@@ -3,7 +3,42 @@ import unittest
 from src import alphabetical
 
 
-class TestUrlFormat(unittest.TestCase):
+class TestIsWellFormedUrl(unittest.TestCase):
+    def test_valid_urls(self):
+        for url in (
+            "https://example.com",
+            "http://example.org/path",
+            "https://sub.example.co.uk",
+            "https://example.com:8080/path?q=1#frag",
+            "https://example-with-hyphen.com",
+        ):
+            self.assertTrue(alphabetical.is_well_formed_url(url), url)
+
+    def test_missing_slashes(self):
+        self.assertFalse(alphabetical.is_well_formed_url("https:example.com"))
+
+    def test_nested_markdown_link(self):
+        self.assertFalse(
+            alphabetical.is_well_formed_url("<[Portfolio-Link](https://example.com)>")
+        )
+
+    def test_non_http_scheme(self):
+        self.assertFalse(alphabetical.is_well_formed_url("ftp://example.com"))
+
+    def test_no_scheme(self):
+        self.assertFalse(alphabetical.is_well_formed_url("example.com"))
+
+    def test_no_tld(self):
+        self.assertFalse(alphabetical.is_well_formed_url("https://localhost"))
+
+    def test_embedded_whitespace(self):
+        self.assertFalse(alphabetical.is_well_formed_url("https://exa mple.com"))
+
+    def test_empty_host(self):
+        self.assertFalse(alphabetical.is_well_formed_url("https://"))
+
+
+class TestFindMalformedUrls(unittest.TestCase):
     def test_detects_missing_slashes(self):
         lines = ["- [Foo](https:example.com) [Full Stack]\n"]
         issues = alphabetical.find_malformed_urls(lines)
