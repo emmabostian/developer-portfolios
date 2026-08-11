@@ -1812,7 +1812,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tanay Shah](https://tanayshah.dev) [AI Engineer | Agent Infrastructure · Founding-Engineer Reps · NYC]
 - [Tanish Rai](https://tanishrai.dev) [Software Developer]
 - [Tanisha Gupta](https://tanishagupta1.github.io/Tanisha-Gupta-portfolio)
-- [Tarikur Rahman](https://yourtarikur.vercel.app)
+- [Tarikur Rahman](https://yourtarikur.vercel.app) [Robotics Inventor & Tech Researcher]
 - [Tariqul Islam](https://tariqulislamrc.vercel.app) [Technical Project Manager and Tech Lead | Agile/Scrum delivery | SaaS, ERP and multi-tenant platforms | Cross-functional team leadership | Laravel, Node.js, React | Open to remote]
 - [Tarun](https://tarunms.netlify.app)
 - [Tauqeer Ahmed](https://tauqeerkhattak.github.io) [Full Stack Developer | Flutter, Android, Golang]
