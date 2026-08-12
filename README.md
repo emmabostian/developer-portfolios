@@ -216,6 +216,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ameya Ramteke](https://ameyajarvis.qzz.io) [AI & DS Student]
 - [Amine Rebbouh](https://main.dodjas56cfa3.amplifyapp.com)
 - [Amir Akbulut](https://amirdev.nl)
+- [Amir Sohail](http://portfolio.proaikit.com/)
 - [Amit Kumar Raj](https://amitkumarraj.vercel.app) [Full Stack Developer | MERN]
 - [Amit Sah](https://amit-sah.com.np) [Ios Developer | Backend Engineer (Node.Js, Llms) | Cloud Computing]
 - [Amresh Prasad Sinha](https://amreshsinha.vercel.app)
