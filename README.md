@@ -1115,6 +1115,7 @@ This repo can serve as inspiration for your portfolio!
 - [Marc Backes](http://marc.dev)
 - [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | vanillaJS | TailwindCSS]
 - [Marco Baldini](https://marcobaldini.pages.dev)
+- [Marco Bellingeri](https://marcobellingeri.dev) [Cloud Platform & AI Security Engineer | RAG & agentic AI | OWASP LLM Top 10]
 - [Marcos Moura](https://marcos-moura97.github.io)
 - [Marcus Sánchez](https://marcuss.pro) [Staff Backend Engineer | Distributed Systems | AI]
 - [Marin Takanov](https://www.takanov.com) [Senior Software Engineer]
