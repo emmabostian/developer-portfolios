@@ -1538,6 +1538,7 @@ This repo can serve as inspiration for your portfolio!
 - [Roshan Parajuli](https://roshanparajuli.com.np) [Senior Engineer | Technical Project Manager]
 - [Roxana Lafuente](https://www.roxanalafuente.com/en?utm_source=github&utm_content=developer-portfolios) [Coding Instructor | Full Stack Web Developer | AI]
 - [Ruban Gino Singh](https://www.rubangino.ca) [AI Engineer | AI Systems Builder | Full Stack AI Developer]
+- [Ruben Marcus](https://www.rubenmarcus.dev/?utm_source=developer_portfolios&utm_medium=directory&utm_campaign=authority_2026&utm_content=agent_ready) [AI Fullstack Engineer | Agent Systems | AI-Native Frontend]
 - [Rumman Srummanf](https://srummanf.vercel.app)
 - [Rutansh Chawla](https://rutansh.is-a.dev) [Software Engineer]
 - [Rutik Kulkarni](https://www.crio.do/learn/portfolio/rutikkulkarni2001)
