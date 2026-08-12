@@ -25,6 +25,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## A
 
+- [A Denny's Portfolio](https://hdgurjar.netlify.app/) [Fresher's Portfolio] - Harshil Gurjar
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
