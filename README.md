@@ -62,6 +62,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdul Jaber](https://aj7.is-a.dev)
 - [Abdul Malik](https://abdulmal1ksy3d.vercel.app) [Student | AI | Homelab | Infrastructure]
 - [Abdul Mannan](https://mannan.io) [Senior Front-end Engineer]
+- [Abdul Mateen](https://abdulmateenzwl.com) [Site Reliability Engineer, Cloud, Solution Architect]
 - [Abdul Momin](https://abdulmomin.dev) [Software Engineer | Full Stack Engineer]
 - [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
 - [Abdul Rahman](https://abdulrahman.id)
