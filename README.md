@@ -117,6 +117,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Chaudhary](https://aditya-portfolio-dusky.vercel.app)
 - [Aditya Chauhan](https://aditya-chauhan.vercel.app) [Full Stack Developer]
 - [Aditya Domle](https://adittya.site) [Software Developer | Freelancer]
+- [Aditya Dubey](https://ad1tya.me) [Cloud and Platform Engineer]
 - [Aditya Dutt Pandey](https://www.adpandey.com) [Founder | Backend Engineer | System Architect]
 - [Aditya Kumar Gupta](https://aditya30051993.github.io/my-portfolio) [Doctor & Developer]
 - [Aditya Kumar Srivastava](https://adityasri.in) [Full Stack Developer (Mern & Java Springboot Developer)]
