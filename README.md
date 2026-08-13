@@ -1294,7 +1294,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nigam Prasad Sahoo](https://nigam-portfolio-2026.web.app) [Android & Full Stack Systems Engineer]
 - [Nihir Praful Shah](https://nihir-mobile-portfolio.vercel.app) [Frontend Developer | Full Stack Developer]
 - [Nikhil Kumar](https://routesguard.lovable.app/r/portfolio) [Full Stack Developer | Backend Developer]
-- [Nikhil Kumawat](https://nikhilkumawat.netlify.app/) [Full Stack Developer | MERN, Java, DSA]
+- [Nikhil Kumawat](https://nikhilkumawat.netlify.app) [Full Stack Developer | MERN, Java, DSA]
 - [Nikhil Madaravena](https://www.nikhilmadaravena.me) [Full Stack Developer and Systems Engineer]
 - [Nikhil Yadav](https://niksoriginals.in) [Software Developer & Designer]
 - [Nikhila Koneru](https://nikhilakoneru.com) [Full Stack Developer | DevOps Engineer]
@@ -1401,6 +1401,7 @@ This repo can serve as inspiration for your portfolio!
 - [Poluianov Ivan](https://poluianov.com) [Senior Software Engineer]
 - [Poonam Chauhan](https://poo17nam.github.io/profile)
 - [Poorvaj Hinge](https://poorvajhinge.vercel.app) [DevOps and AIOps Software Engineer]
+- [Popuri Sushanth](https://p-sushanth.github.io/Portfolio/) [Full Stack & AI Engineer | Quantum Computing]
 - [Pradip Chaudhary](https://www.pradipchaudhary.com.np) [Full Stack & Frontend Developer]
 - [Prajwol Karki](https://prajwolkarki.com.np)
 - [Prakash Jha](https://prakashjha.com) [Full Stack Dev.]
@@ -1807,7 +1808,6 @@ This repo can serve as inspiration for your portfolio!
 - [Syed Syab Ahmad Link Tree](https://linktr.ee/syedsyab)
 - [Syed Syab Ahmad Portfolio](https://syab.tech)
 - [Syed Zain Ul Abideen](https://www.szain.co) [Full Stack Developer]
-  ]
 
 ## T
 
