@@ -1501,6 +1501,7 @@ This repo can serve as inspiration for your portfolio!
 - [Renjith Abraham](https://renjith.com)
 - [Rensith Udara](https://rensithudara.github.io/portfolio)
 - [Revan Azra](https://portoku0091.dpdns.org) [Frontend Dev]
+- [Rhenz Ganotice](https://rhenzportfolio.vercel.app/) [Full Stack Developer Software Engineer]
 - [Riccardo Venturini](https://riccardoventurini.dev)
 - [Richard Hill](https://www.rhdigital.co.uk) [Digital Designer]
 - [Richard Porter](https://richardporter.dev) [Full Stack Developer | Laravel | Vue | React]
