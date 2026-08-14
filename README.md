@@ -982,6 +982,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Razin Rayees](https://www.razinrayees.com)
 - [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
 - [Reeya Gupta](https://reeyadev.vercel.app/) [Full Stack Developer]
+- [Rhenz Ganotice](https://rhenzportfolio.vercel.app/) [Full Stack Developer]
 - [Remi Jara](https://www.remi-jara.fr)
 - [Remy Jouni](https://remyjouni.dev) [Frontend Developer & UI/UX Designer]
 - [Renan Silva](https://renansilvadev.netlify.app) [Full Stack Developer]
