@@ -773,6 +773,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hafiq Iqmal](https://hafiq.dev) [Software Engineer | Backend & API Engineering | DevSecOps]
 - [Hamish Williams](https://hamishw.com)
 - [Hamza Ehsan](https://www.hamzaehsan.com)
+- [Hamza Fareed](https://hamzafareed.vercel.app) [Full Stack AI Developer | React, Next.js, Node, Python, FastAPI]
 - [Hamza Naseem](https://hamzanaseem.vercel.app)
 - [Hanan Bhatti](https://hanan-bhatti.site) [Full Stack Developer | Creator]
 - [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
