@@ -854,7 +854,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ivin Titus](https://ivin.site) [Full Stack Engineer]
 
 ## J
-
+- [Jiban Budhathoki](https://jibanbudhathoki.com.np) [Software Engineer | Full Stack Developer]
 - [Jachin Samuel](https://jachin-portfolio.vercel.app) [Software Developer | Full Stack & AI]
 - [Jack Parsons](https://jackparsonss.me)
 - [Jack Phát](https://jackphat.vercel.app) [Full Stack Developer | Vibe coding]
