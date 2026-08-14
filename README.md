@@ -907,6 +907,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jesus Santander](https://jsantanders.dev)
 - [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
+- [Jiban Budhathoki](https://jibanbudhathoki.com.np) [Software Engineer | Full Stack Developer]
 - [Jim Raptis](http://www.raptis.wtf)
 - [Jimmy Yazji](https://yazji.dev) [Full Stack Developer]
 - [Jin Jheng Rong](https://jinrup.vercel.app)
