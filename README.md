@@ -929,6 +929,7 @@ This repo can serve as inspiration for your portfolio!
 - [Johnson Siziba](https://www.johnsonsiziba.com)
 - [Jonas Werner](https://jonaswerner.com)
 - [Jonathan Peters](https://github.com/QMS85/MyPortfolio) [Front End Developer]
+- [Jonathan Rufus Samuel](https://jrs-studios.web.cern.ch/) [Systems Administrator | Software Development, Infrastructure & DevOps, Research]
 - [Jooeun Lee](https://jooeunlee.com) [Web Developer | UI/UX Designer]
 - [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app) [Full Stack Developer | cybersecurity Enthusiast]
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
