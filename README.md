@@ -479,6 +479,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cecelia Martinez](http://ceceliacreates.com)
 - [Cedric Karungu](https://cedric-karungu.vercel.app)
 - [Cemal Türkcan](https://cemalturkcan.com)
+- [César Gómez](https://cesargomez.dev) [Senior Vue/Nuxt & Fullstack Engineer]
 - [Cesar Gonzalez Anaya](https://www.caesarcode.com.mx/index.html) [Full Stack Developer]
 - [Chaitanya Sai Meka](https://chaitanya-sai-meka.vercel.app) [Full Stack Developer]
 - [Chalwe Chisela](https://chalwe.com) [Senior Software Engineer | Flutter & Go]
