@@ -1595,6 +1595,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sahil Md](https://macios.vercel.app) [Full Stack Software Engineer | Specialist in AI Integration & Software Development | Freelancer]
 - [Sahil](https://sahil500-portfolio.netlify.app)
 - [Sai Ganesh](https://my-portfolio-iota-mauve-22.vercel.app) [Full Stack Developer, Ui/Ux Designer And Adobe Tools]
+- [Sailesh Atreya](https://sailesh-atreya.vercel.app/) [Photographer | Videographer | Editor]
 - [Sai Sudheer Dontha](https://github.com/saisudhir14)
 - [Sai Teja](https://saiteja13427.github.io)
 - [Sai Terukula](https://saiterukula.com) [DevOps Engineer]
