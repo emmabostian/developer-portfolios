@@ -283,6 +283,7 @@ This repo can serve as inspiration for your portfolio!
 - [Antony Jude Shaman](https://antonyjudeshaman.vercel.app)
 - [Antônio Junior](https://portfolio-antonio-ten.vercel.app)
 - [Anubhav Singh](https://mylivecv.com/mylivecv/pf-anubhav) [Full Stack Developer]
+- [Anuj Khurana](https://aanujkhurana.github.io) [Software Engineer]
 - [Anuj Magar](https://anujmagar.com.np) [Full Stack Developer]
 - [Anukool Patel](https://anukool.me) [Full Stack Developer | AI]
 - [Anup Pradhan](https://www.anuppradhan.in) [Full Stack Developer | Terminal Portfolio]
