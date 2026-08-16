@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1943
+## Current Portfolio Count: 1944
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1217,6 +1217,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
+- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio) [MACHINE LEARNING BEGINNER | Founder of @Qofeno]
 - [Mohibur Rahman Sani](https://www.sanimohibur.me) [Full Stack Developer]
 - [Mohit Joe](https://mohitjoe.vercel.app)
 - [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps]
@@ -1262,7 +1263,6 @@ This repo can serve as inspiration for your portfolio!
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
-- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio)[MACHINE LEARNING BEGINNER | Founder of @Qofeno]
 
 ## N
 
