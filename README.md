@@ -2041,3 +2041,4 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio)[MACHINE LEARNING BEGINNER | Founder of @Qofeno]
