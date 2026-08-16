@@ -1260,6 +1260,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
+- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio)[MACHINE LEARNING BEGINNER | Founder of @Qofeno]
 
 ## N
 
@@ -2041,4 +2042,3 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio)[MACHINE LEARNING BEGINNER | Founder of @Qofeno]
