@@ -36,8 +36,10 @@ cache = true
 # These are handled by the .lycheeignore file
 
 # HTTP method to use for checking links
-# Using 'head' is faster and gentler on servers, falls back to 'get' if head fails
-method = "head"
+# GET instead of HEAD: several hosts (e.g. Netlify/Vercel edge networks) silently
+# hang on HEAD requests from datacenter IPs instead of responding, which shows up
+# as a false-positive timeout. GET is lychee's own upstream default for this reason.
+method = "get"
 
 # Prefer HTTPS over HTTP when both are available
 scheme = ["https", "http"]
