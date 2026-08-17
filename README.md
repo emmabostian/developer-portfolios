@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1939
+## Current Portfolio Count: 1936
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -469,7 +469,6 @@ This repo can serve as inspiration for your portfolio!
 
 - [Cade Kynaston](https://cade.codes)
 - [Calzye](https://calzye.com) [AI-Powered Calculator Developer]
-- [Camel Djoulako](https://cameldjoulako.com) [Software Architect | Java, Spring Boot, Angular & Cloud/DevOps]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
 - [Capt Michael](https://captmichael.dev) [Mern Full Stack Developer]
 - [Carlos Dubón](https://carlosdubon.dev)
@@ -803,7 +802,6 @@ This repo can serve as inspiration for your portfolio!
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Ali](https://hassan-ali-portfolio-nine.vercel.app) [Full Stack AI Developer | DevOps Engineer]
 - [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer]
-- [Hassan Tech](https://hassanx.tech) [Web Developer]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
@@ -1134,7 +1132,6 @@ This repo can serve as inspiration for your portfolio!
 - [Mariya Jebastin](https://mariyajebastin.netlify.app) [Full Stack Developer]
 - [Mark Ernst](https://cyntax.dev) [Freelance Senior Full Stack Software Engineer at Cyntax | .NET/PHP/TS]
 - [Marko Denic](https://markodenic.com)
-- [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
 - [Martin Barker](https://martinbarker.me)
 - [Martin Lefebvre](https://martinlefebvre.com) [Senior Full Stack Developer | Tech Lead]
