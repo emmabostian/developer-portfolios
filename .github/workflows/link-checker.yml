@@ -37,6 +37,18 @@ jobs:
             echo "## 🚫 Broken links (action needed)" >> "$GITHUB_STEP_SUMMARY"
             echo "$ACTIONABLE" >> "$GITHUB_STEP_SUMMARY"
             echo "" >> "$GITHUB_STEP_SUMMARY"
+
+            # Also written as its own file so the issue-creation step below can
+            # report just the actionable errors, without the timeout noise.
+            {
+              echo "## Broken Links Report"
+              echo ""
+              echo "Lychee found link(s) rejected with a real error. Timeouts are"
+              echo "excluded here since they're frequently false positives from CI"
+              echo "network/rate limiting — see this run's Job Summary for those."
+              echo ""
+              echo "$ACTIONABLE"
+            } > ./lychee/actionable.md
           fi
 
           if [ -n "$TIMEOUTS" ]; then
@@ -47,3 +59,11 @@ jobs:
             echo "" >> "$GITHUB_STEP_SUMMARY"
             echo "</details>" >> "$GITHUB_STEP_SUMMARY"
           fi
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v6
+        with:
+          title: "[Bot] Broken Links Report"
+          content-filepath: ./lychee/actionable.md
+          labels: report
