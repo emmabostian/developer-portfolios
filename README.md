@@ -1632,6 +1632,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sandeep Singh](https://portfolio-seven-bice-pdn04n7l52.vercel.app) [Full Stack Developer]
 - [Sanee Itas](https://saneeitas.netlify.app)
 - [Sangle Sudarshan](https://sanglesudarshan.vercel.app)
+- [Sanjana Venkatesh](https://sanjanavenkatesh.vercel.app/) [Backend Developer | Express.js & Django]
 - [Sanjiv Thapa](https://portfolio.sanjivthapa.com.np/home) [Backend Developer]
 - [Sankalp Tharu](https://sankalptharu.com.np)
 - [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
