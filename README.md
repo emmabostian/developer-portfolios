@@ -489,6 +489,7 @@ This repo can serve as inspiration for your portfolio!
 - [Charan Reddy](https://charanreddy.qzz.io) [Student | Cyber Security]
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
 - [Charles Pustejovsky Iii](https://cpustejovsky.com)
+- [Chetan Mahajan](https://chetanmahajan.vercel.app/) [Software Developer]
 - [Chetan Padia](https://chetbox.com)
 - [Chetanya Kandhari](https://availchet.github.io)
 - [Chethin Manage](https://www.cmanage.dev)
