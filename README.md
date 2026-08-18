@@ -1454,6 +1454,7 @@ This repo can serve as inspiration for your portfolio!
 - [Quint Wessels](https://quintwessels.com)
 
 ## R
+
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
@@ -1681,6 +1682,7 @@ This repo can serve as inspiration for your portfolio!
 - [Seif Osman](https://seifosman.com) [IT Store Technology Engineer | Full Stack & Security]
 - [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
 - [Sergei Chestakov](https://sergei.com)
+- [Sergio Jimenez](https://sergiojimenez.vercel.app/) [Full Stack Web Developer]
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
 - [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
 - [Seth Hall](https://sethhallcreative.com)
