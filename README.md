@@ -461,6 +461,7 @@ This repo can serve as inspiration for your portfolio!
 - [Brijesh Patel](https://brijesh.work)
 - [Brittany Chiang](https://brittanychiang.com)
 - [Bruno Simon](https://bruno-simon.com)[Three.js Developer]
+- [Burhanaddin Mirsadizada](https://burhanaddinzm.github.io/)
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
   Extension]
