@@ -1528,6 +1528,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rishabh Chaturvedi](https://rishabhchaturvedi.dev) [Lead Engineer | AI Architect & Backend Systems]
 - [Rishav Kumar Singh](https://rishavkumar-portfolio.vercel.app) [Software Engineer | Full Stack Developer]
 - [Rishav](https://v0idrsh.vercel.app)
+- [Rishhi Duetheesh](https://rishhiduetheesh.netlify.app) [Frontend Developer]
 - [Ritesh Bucha](https://bucharitesh.in) [Full Stack Developer]
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
