@@ -1347,6 +1347,7 @@ This repo can serve as inspiration for your portfolio!
 - [Omargpax](https://omargpax.pages.dev)
 - [Omari Thompson-Edwards](https://omarileon.me)
 - [Opeyemi Obembe](http://obem.be/opeyemi)
+- [Oluseye Japheth Oyewole](https://www.oluseye.cv/)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
 - [Orion Dobos](https://oriondobos.com)
 - [Osama Islam](https://osamaislam.vercel.app)
