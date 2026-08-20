@@ -488,6 +488,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chandrakant Sharma](https://ichandrasharma.vercel.app) [Software Engineer | Remote Engineer]
 - [Chanhdai](https://chanhdai.com)
 - [Charan Reddy](https://charanreddy.qzz.io) [Student | Cyber Security]
+- [Charles Degraeuwe](https://charlesdegraeuwe.com) [Student | Full Stack Engineer]
 - [Charles Ouimet](https://ouimet.info) [Backend Developer]
 - [Charles Pustejovsky Iii](https://cpustejovsky.com)
 - [Chetan Mahajan](https://chetanmahajan.vercel.app/) [Software Developer]
