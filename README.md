@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1946
+## Current Portfolio Count: 1947
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -463,8 +463,8 @@ This repo can serve as inspiration for your portfolio!
 - [Bruno Simon](https://bruno-simon.com)[Three.js Developer]
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
-  Extension]
 - [Burhanaddin Mirsadizada](https://burhanaddinzm.github.io)
+  Extension]
 
 ## C
 
@@ -583,6 +583,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dev Jadiya](https://dev-jadiya.web.app)
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev Saini](https://devportfolio001.netlify.app) [Full Stack Developer & AI/ML Engineer]
+- [Dev Verma](https://devverma.dev) [Full Stack AI Developer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devanshu Chicholikar](https://devanshuchicholikar.com) [Software Engineer | Full Stack & AI]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
