@@ -1832,6 +1832,7 @@ This repo can serve as inspiration for your portfolio!
 ## T
 
 - [Tadashi Amano](https://tadashiamano.vercel.app)
+- [Taha Hassan](https://tahahassan.vercel.app/) [ML/DL Engineer & Frontend Developer | RAG · NLP · Predictive Modeling · React | End-to-end: model to UI]
 - [Taiizor](https://github.com/Taiizor) [.Net Developer]
 - [Taiwo Bamidele](https://taiwobuilds.github.io/my-portfolio) [Frontend Developer]
 - [Talha Siddique](https://talhasiddique-portfolio.vercel.app) [AI Engineer | Full Stack Developer]
