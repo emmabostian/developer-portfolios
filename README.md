@@ -46,6 +46,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashish Jaini](https://aashishjaini.me) [Freelancer | AI & Full Stack Dev]
 - [Aashutosh Rathi](https://aashutosh.dev)
+- [Al Marzan](https://almarzancom.vercel.app/)[Full Stack Developer]
 - [Aathif Zahir](https://az-dev.vercel.app)
 - [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
 - [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
