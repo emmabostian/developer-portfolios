@@ -46,7 +46,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aashir Khan](https://portfolio-n4sn.vercel.app)
 - [Aashish Jaini](https://aashishjaini.me) [Freelancer | AI & Full Stack Dev]
 - [Aashutosh Rathi](https://aashutosh.dev)
-- [Al Marzan](https://almarzancom.vercel.app/)[Full Stack Developer]
 - [Aathif Zahir](https://az-dev.vercel.app)
 - [Aaweł Szostak](https://pawelszostak.vercel.app) [Full Stack Dev | Freelancer | AI & ML Student]
 - [Aayush Bharti](https://aaabaa-aayush.vercel.app) [Developer | Freelancer | Problem Solver]
@@ -179,6 +178,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akshay Abraham](https://akshayabraham.vercel.app?utm_source=github&utm_medium=readme&utm_campaign=dev_portfolios") [Aspiring Physicist | Backend & Research-Oriented Developer| Frontend For Hobby]
 - [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full Stack 3D Software Developer]
 - [Akshay](https://devakshay.vercel.app)
+- [Al Marzan](https://almarzancom.vercel.app/)[Full Stack Developer]
 - [Al Amin](https://alamin-portfolio-site.vercel.app) [Full Stack Developer]
 - [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
 - [Alan Khalili](https://www.alan-khalili.com)
