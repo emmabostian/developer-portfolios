@@ -1659,8 +1659,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sarshij Karn](https://sarshijkarn.com.np) [Electronics,Communication & Information Engineer]
 - [Sartaj Alam](https://sak03.github.io/sartaj.dev)
 - [Sarthak Bhushan](https://portfolio-ten-gules-teouuqn2p2.vercel.app) [Backend Developer | Spring Boot | React]
-- [Sarthak Sharma](https://neo-folio-jet.vercel.app) [Full Stack Developer | Cloud & DevOps]
-- [Sarthak Sharma](https://sarthak-mac.vercel.app) [Full Stack Developer]
+- [Sarthak Sharma](https://portfolio.sarthaksharma927.me) [Full Stack Developer]
 - [Saswata Dutta](https://saztech.org)
 - [Satish Jhanwer](https://satishjhanwer.dev) [Frontend Architect | AI & ML Engineer]
 - [Satish Vaishnav](http://satishvaishnav.in)
