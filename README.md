@@ -914,6 +914,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jerry Hirsch](https://jerryhirsch.com)
 - [Jeslor Ssozi](https://www.jeslor.com) [Full Stack Engineer]
 - [Jesus Santander](https://jsantanders.dev)
+- [Jetsadakorn Muangwichit](https://www.7sadakonr.xyz/) [Frontend-Focused Full-Stack Developer]
 - [Jhal Albert Berioso](https://portfolio.dwnppo.dev)
 - [Jhed Adrine Mendoza](https://jhedmendoza.is-a.dev)
 - [Jiban Budhathoki](https://jibanbudhathoki.com.np) [Software Engineer | Full Stack Developer]
