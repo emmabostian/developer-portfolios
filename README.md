@@ -179,7 +179,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akshay Santhoshkumar](https://akshaysanthoshkumar.vercel.app) [Full Stack 3D Software Developer]
 - [Akshay](https://devakshay.vercel.app)
 - [Al Amin](https://alamin-portfolio-site.vercel.app) [Full Stack Developer]
-- [Al Marzan](https://almarzancom.vercel.app) [Full Stack Developer]
+- [Al Marzan](https://almarzan-com.vercel.app/) [Full Stack Developer]
 - [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
 - [Alan Khalili](https://www.alan-khalili.com)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
