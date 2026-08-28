@@ -1238,6 +1238,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mudassir Junejo](https://mudassir-junejo.vercel.app) [AI Developer | Portfolio]
 - [Mufida Andi](https://heymufi.com) [Software Engineer | Frontend]
 - [Muhammad Aamir Malik](https://www.muhammadaamirmalik.com) [Full Stack Hybride App Developer]
+- [Muhammad Abdullah](https://abd-cloud-resume-v1.pages.dev/) [Cloud Engineering Student | AWS & Cloudflare]
 - [Muhammad Adnan](https://portfolio-orpin-nu-27.vercel.app) [Full Stack Developer | MERN, Nextjs, Nestjs]
 - [Muhammad Azlaan Zubair](https://www.mdazlaanzubair.com) [Frontend Developer]
 - [Muhammad Faheem Iqbal Faheem506Pk](https://faheem506pk.vercel.app) [Frontend Developer | Mern Stack Developer | Iot Enthusiast]
@@ -1431,7 +1432,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
 - [Pranay Bandaru](https://pranaybandaru.vercel.app) [Data Science]
 - [Pranshu Patel](https://pranshu05.vercel.app)
-- [Prasad Jaagirdar](https://prasada-dev.netlify.app/) 
+- [Prasad Jaagirdar](https://prasada-dev.netlify.app/)
 - [Prashant Khandelwal](https://prashantk.dev)
 - [Prataya Silla](https://prataya-portfolio.vercel.app)
 - [Pratik Salunke](https://pratiksalunkeportfolio.vercel.app) [Aspiring Backend Developer | Python & Django]
