@@ -984,6 +984,7 @@ This repo can serve as inspiration for your portfolio!
 - [Katie Haus](https://astro-portfolio-site.netlify.app)
 - [Kaung Myat](https://kgmyat.vercel.app) [Frontend Developer]
 - [Kaushal Raj Gupta](https://kaushalrajgupta.is-a.dev) [Full Stack Developer | Cybersecurity Expert]
+- [Kaushal Satam](https://kaushal.dev) [Software Developer | Tech Nerd]
 - [Kaustubhai](https://kaustubhai.netlify.app)
 - [Kavan Bhavsar](https://kavan-bhavsar.vercel.app) [Full Stack Web Developer | Ui/Ux Designer]
 - [Kaveen Kumarasinghe](https://kaveenk.com) [Software Engineer | Money Movement & AI]
