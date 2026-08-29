@@ -1260,6 +1260,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muhammad Ubaid Raza](https://mubaidr.js.org) [Sr. Software Engineer | Full Stack Developer | Chrome Extension Expert]
 - [Muhammed Ijlan](https://ijlan.dev)
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
+- [Mujtaba Saqib](https://www.mujtabasaqib.com/) [Data Engineer | Data Scientist]
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
 - [Mukul Chugh](https://mukulchugh.com)
 - [Munyaradzi Mzite](https://munyaradzimzite.vercel.app)[AI Graphics Engineer]
