@@ -198,6 +198,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ali Hamza](https://alihamza-fawn.vercel.app) [Full Stack Developer | MERN, Next.js, AWS & Web3]
 - [Ali Mohsin](https://www.ali-ch.dev) [Architect Of Ai-Driven Systems | Machine Learning, Security, And Full Stack Engineering]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
+- [Ali Younes](https://aliyounes.dev) [Software Engineer | Systems & Full Stack]
 - [Alif Jobaer](https://alifjobaer12.vercel.app) [Full Stack MERN & Next.js Developer | IoT & Algorithmic Problem Solving]
 - [Alishba Iqbal](https://alishbaiqbal123.vercel.app) [Software Engineer & Full Stack Developer]
 - [Allan Im](https://allanim.com) [Software Engineer]
