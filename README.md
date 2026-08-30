@@ -646,6 +646,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Edgard Barquero Real](https://barquero.dev)
 - [Edikan Bassey](https://edikan-bassey.vercel.app) [Full Stack Developer]
+- [Edmund Spira](https://edmund.novyrix.com) [Systems Architect | Full-Stack Engineer]
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
 - [Ehsan Rafee](https://ehsanrafee.ir)
 - [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
