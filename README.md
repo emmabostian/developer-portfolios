@@ -25,7 +25,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## A
 
-- [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
+- [Shubham Kumar Sharma](https://shubhamsharma.in) [Software Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
