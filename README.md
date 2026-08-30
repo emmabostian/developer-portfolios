@@ -1623,7 +1623,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sairithik Komuravelly](https://heysai.dev) [Full Stack Engineer | AI Integration & Tooling]
 - [Saitheja Komalla](https://saitheja20.github.io/Portfolio)
 - [Sajid Alam](https://sajidalam.pages.dev) [Full Stack Developer]
-- [Sajjad Hossain Soykot](https://www.sajjadsoykot.me) [Full Stack Developer | System Designer]
+- [Sajjad Hossain Soykot](https://www.sajjadsoykot.me) [Full Stack Software Engineer | System Design & UI/UX | IT Trainer]
 - [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
 - [Sakib Rahman](https://rsakib.com) [Software Engineer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
