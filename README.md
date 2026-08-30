@@ -1885,6 +1885,7 @@ This repo can serve as inspiration for your portfolio!
 - [Tim Stanton](https://www.tim-stanton.dev)
 - [Timmy O'Mahony](https://timmyomahony.com) [Full Stack Developer]
 - [Tinotenda Mhedziso](https://tinotenda-mhedziso.pages.dev) [Software Developer]
+- [Tirth Dhedhi](https://www.tirthdhedhi.dev) [Full-Stack Developer]
 - [Tj Klint](https://tjklint.github.io)
 - [Tomás Martinez](https://tomasmartinez.xyz)
 - [Tomáš Đinh](https://tomasdinh.cz) [Full Stack Developer]
