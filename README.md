@@ -1914,8 +1914,8 @@ This repo can serve as inspiration for your portfolio!
 - [Ujjwal Shukla](https://ujjwalportfolio2.vercel.app)[Full Stack Developer | Ui/Ux Designer]
 - [Ujjwal Soni](https://ujjwalsoni-portfolio.vercel.app) [Full Stack Developer]
 - [Ulysse Pavloff](https://pavloffulysse.com)
-- [Ummay Maimona Chaman](https://ummaymaimonachaman.github.io/Myself_CHAMAN/) [AI Researcher | Full Stack Developer]
 - [Umesh Nagare](https://umeshnagare.com)
+- [Ummay Maimona Chaman](https://ummaymaimonachaman.github.io/Myself_CHAMAN/) [AI Researcher | Full Stack Developer]
 - [Usman Ghias](https://usman.codcrafters.org) [Senior Odoo Technical Developer | Full Stack & Flutter]
 - [Utkarsh Aggarwal](https://utkarshaggarwal.vercel.app)
 - [Utkarsh Maurya](https://utkarshs-terminal.netlify.app)
