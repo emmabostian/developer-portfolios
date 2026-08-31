@@ -1157,6 +1157,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mathiscool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Mumoli](https://matteomumoli.dev) [Full Stack | Web | App | Game Dev & Freelancer]
+- [Mattia Verdecchi](https://mattiaverdecchi.dev) [Full-Stack Engineer]
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maxim Villivald](https://villivald.com)
