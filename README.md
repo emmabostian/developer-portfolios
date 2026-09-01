@@ -136,6 +136,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Aditya](https://aditya-a-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Adityakumar Sinha](https://aditya113141.github.io)
+- [Adnan Khan](https://adnan-portfolio-web.onrender.com) [Developer | Innovative UI Designer]
 - [Adrian Hansen](https://adrian-hansen-dev.github.io/portfolio/) [Software Developer]
 - [Advait Nair](https://advaitnair.org) [Full Stack Engineer]
 - [Adwitya](https://adwityac.netlify.app)
