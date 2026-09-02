@@ -22,8 +22,11 @@ def convert_to_title_case(readme_text):
             if stripped.lower() == "aaa":
                 # drop standalone 'Aaa' token
                 continue
-            if re.fullmatch(r"(?i)[A-Za-z]", stripped):
-                # drop standalone single-letter tokens (e.g. 'A', 'B', 'x')
+            # Only drop a standalone single-letter token when it leads the name
+            # (e.g. a stray "A John Doe" typo). A single letter elsewhere is
+            # commonly a real middle/last initial (e.g. "Ravi K Gupta") and must
+            # be preserved.
+            if not cleaned_tokens and re.fullmatch(r"(?i)[A-Za-z]", stripped):
                 continue
             cleaned_tokens.append(stripped)
         if not cleaned_tokens:
@@ -589,6 +592,57 @@ def extract_portfolio_data(lines):
     return portfolios
 
 
+# A hostname: one or more dot-separated labels followed by an alphabetic
+# TLD, with an optional port. Deliberately does not accept IPv6/bracket
+# literals or userinfo ('user@host') — portfolio links don't need either,
+# and allowing them would reopen the door to markdown/angle-bracket junk.
+_HOSTNAME_RE = re.compile(
+    r'^(?=.{1,253}$)'
+    r'([A-Za-z0-9]([A-Za-z0-9-]{0,61}[A-Za-z0-9])?\.)+'
+    r'[A-Za-z]{2,63}'
+    r'(:\d{1,5})?$'
+)
+
+
+def is_well_formed_url(url):
+    """Return True if `url` is a properly formed http(s) URL.
+
+    Requires an http/https scheme, a '//' authority, and a netloc that
+    parses as a real hostname. This single structural check subsumes
+    narrower cases we've hit in practice — a scheme with no '//'
+    (e.g. 'https:example.com', which leaves netloc empty) and leftover
+    markdown/angle-bracket syntax pasted into the URL slot (e.g.
+    '<[Portfolio-Link](https://example.com)>', which fails to parse a
+    scheme or netloc at all) — without needing to special-case individual
+    bad characters.
+    """
+    if re.search(r'\s', url):
+        return False
+    parsed = urlparse(url)
+    if parsed.scheme not in ("http", "https"):
+        return False
+    return bool(_HOSTNAME_RE.match(parsed.netloc))
+
+
+def find_malformed_urls(lines):
+    """Scan portfolio entry lines for URLs that are not well-formed.
+
+    See `is_well_formed_url` for what counts as well-formed. Returns a list
+    of (line_number, name, url) tuples, 1-indexed by line.
+    """
+    pattern = re.compile(r'^-\s+\[([^\]]+)\]\(([^)]+)\)')
+    issues = []
+    for idx, line in enumerate(lines, start=1):
+        match = pattern.match(line.strip())
+        if not match:
+            continue
+        name = match.group(1).strip()
+        url = match.group(2).strip()
+        if not is_well_formed_url(url):
+            issues.append((idx, name, url))
+    return issues
+
+
 def create_feed_json(readme_path="README.md", output_path="feed.json"):
     """
     Read README.md and create/update feed.json with portfolio data.
@@ -704,6 +758,14 @@ def main():
     portfolio_count = create_feed_json()
     if portfolio_count:
         print(f"Created feed.json with {portfolio_count} portfolio entries.")
+
+    # Warn about malformed URLs (e.g. missing '//' after the scheme) so they
+    # can be fixed before merge instead of silently slipping through review.
+    malformed = find_malformed_urls(final_lines)
+    if malformed:
+        print(f"WARNING: found {len(malformed)} malformed URL(s):")
+        for line_no, name, url in malformed:
+            print(f"  line {line_no}: [{name}]({url})")
 
 
 if __name__ == "__main__":
