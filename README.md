@@ -259,6 +259,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anil Khatri](https://imkaka.github.io)
 - [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Anirban Banerjee](https://anirban-portfolio-delta.vercel.app) [Data Architect | Data & AI Engineer]
+- [Anirudh Negi](https://negiadventures.github.io) [AI Systems & Backend Engineer]
 - [Anish Biswas](https://anish7.me) [Full Stack Dev]
 - [Anish Navalgund](https://anishknavalgund.vercel.app) [AI, Robotics and Automation]
 - [Ankit Dey](https://dub.sh/ankitdey)
