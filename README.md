@@ -1782,6 +1782,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sixtus Miracle Agbo](https://www.sixtusagbo.dev)
 - [Siyana Zdravkova](https://szwebdeveloper.netlify.app)
 - [Slimaeus](https://slimaeus.github.io) [.NET Developer]
+- [Soham Mondal](https://sohammondal.com) [Senior Frontend Engineer | React & React Native]
 - [Soham Penshanwar](https://thesoham2203.vercel.app)
 - [Soham Sarkar](https://sohamsarkar.com) [Builder | Tech | Product]
 - [Sohanuzzaman Soad](https://ssoad.github.io) [Software Engineer | Mobile App Developer | AI Engineer]
