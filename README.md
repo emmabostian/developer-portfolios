@@ -1733,7 +1733,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## V
 
-- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [AI Full Developer]
+- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [AI & Full-Stack Developer | Generative AI]
 - [Vaibhav Baranwal](https://vaibhavbaranwal.me) [Backend/ML Developer]
 - [Vaibhav Jaiswal](https://vaibhavjaiswal.vercel.app/#)
 - [Vaibhav Padmani](https://vi0650.github.io)
