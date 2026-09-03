@@ -949,7 +949,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
-- [João Claudio Prestes](https://www.joaoprestes.dev) [Backend Developer | APIs & Data Engineering]
+- [João Claudio Prestes](https://www.joaoprestes.dev) [Full Stack Developer | ML Engineer]
 - [Juan Benito](https://juanbenito.vercel.app) [Full Stack Web Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
