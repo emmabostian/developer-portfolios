@@ -6,12 +6,13 @@ on:
 name: Check for ad/parking redirects
 jobs:
   parkingChecker:
+    if: github.repository == 'emmabostian/developer-portfolios'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v7
         with:
           python-version: "3.11"
 
