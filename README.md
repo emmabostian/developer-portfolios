@@ -1363,6 +1363,7 @@ This repo can serve as inspiration for your portfolio!
 - [Omar Mubaidin](https://mubx.dev) [Full Stack Developer | AI Engineer | CS Student]
 - [Omargpax](https://omargpax.pages.dev)
 - [Omari Thompson-Edwards](https://omarileon.me)
+- [Omkar Gadekar](https://omkargadekar.vercel.app/) [AI/ML & Software Developer | Student]
 - [Opeyemi Obembe](http://obem.be/opeyemi)
 - [Oraz Gulchayew](https://orazgulcayew.vercel.app)
 - [Orion Dobos](https://oriondobos.com)
