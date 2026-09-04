@@ -692,6 +692,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fahim Ahmed](https://fahim-cloud.vercel.app) [Full Stack Developer]
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Faishal Hakim](https://faishal24.my.id)
+- [Farhan Segujja](https://farhansegujja.com) [Software Developer]
 - [Farindra Bhandari](https://fbb.com.np)
 - [Favian Izza](https://www.favianizza.space) [Software Engineer | Full Stack | IoT]
 - [Fayaz Bin Salam](https://p32929.github.io)
