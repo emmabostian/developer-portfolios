@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1969
+## Current Portfolio Count: 1981
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -249,7 +249,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andy Bell](https://andy-bell.design)
 - [Andy Wong](https://www.andy-hk.com) [Full Stack Developer | Mobile App Developer]
 - [Aneeth Kumaar](https://akwastaken.github.io) [Graphic Designer | Programmer]
-- [Angkon Kar](https://angkonkar.netlify.app) [‍Frontend Engineer | 👨🏽‍💻 Computer Engineering Student]
+- [Angkon Kar](https://angkonkar.netlify.app) [‍Frontend Engineer | Competitive Programmer | CSE Student]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app) [‍Frontend Developer]
 - [Anh Nguyen](https://anhnq15.github.io) [Software Engineer]
 - [Anik Ahammed Khan](https://anikahammedkhan.com)
@@ -692,6 +692,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fahim Ahmed](https://fahim-cloud.vercel.app) [Full Stack Developer]
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Faishal Hakim](https://faishal24.my.id)
+- [Farhan Segujja](https://farhansegujja.com) [Software Developer]
 - [Farindra Bhandari](https://fbb.com.np)
 - [Favian Izza](https://www.favianizza.space) [Software Engineer | Full Stack | IoT]
 - [Fayaz Bin Salam](https://p32929.github.io)
@@ -1118,6 +1119,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mamoon Siddiqui](https://mamoon-siddiqui.vercel.app)
 - [Manan Kanani](https://manankanani.in) [Full Stack Developer]
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
+- [Manas Singh](https://manassingh.dev) [Full Stack Developer | React, TypeScript, Node.js]
 - [Manav Chudasama](https://manav-chudasama.vercel.app) [Full Stack Developer]
 - [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
 - [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
@@ -1162,7 +1164,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mathiscool](https://mathiscool.is-a.dev)
 - [Matt Filer](http://mattfiler.co.uk)
 - [Matteo Mumoli](https://matteomumoli.dev) [Full Stack | Web | App | Game Dev & Freelancer]
-- [Mattia Verdecchi](https://mattiaverdecchi.dev) [Full-Stack Engineer]
+- [Mattia Verdecchi](https://mattiaverdecchi.dev) [Full Stack Engineer]
 - [Matus Stafura](https://stafura.dev)
 - [Matvey Kottsov](https://matvey.codes)
 - [Maxim Villivald](https://villivald.com)
@@ -1994,7 +1996,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vito Sartori](https://vito.io)
 - [Vitor Forbrig](https://forbrig.github.io)
 - [Vivek Choudhary](https://vivekportfoliopersonal.vercel.app) [Full Stack Engineer | AI Engineer]
-- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [AI & Full-Stack Developer | Generative AI]
+- [Vivek Ghodadra](https://vivek-ghodadra.web.app) [AI & Full Stack Developer | Generative AI]
 - [Vivek Jaiswal](https://www.vivekjaiswal.me) [Software Archutect | Ai/Ml Expert]
 - [Vivek Patel Ubuntu](http://vivek9patel.github.io)
 - [Vivek Patel](http://vivek9patel.com)
