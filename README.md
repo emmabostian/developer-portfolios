@@ -1435,7 +1435,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prakhar Patel](https://prakharpatel.vercel.app) [Full Stack Developer | Technical Lead]
 - [Prakhar Yadav](https://prakharyxdev.vercel.app) [Full Stack Developer | Tech Content Creator]
 - [Pramesh Karki](https://karkipramesh.com.np)
-- [Pramuditha](https://www.pramuditha.is-a.dev) - Dual-discipline portfolio (Software Engineer & Motion Designer) built with React 19, Vite, Framer Motion, and Supabase. ([Source](https://github.com/PramudithaN/pramuditha.dev))
+- [Pramuditha Nadun](https://www.pramuditha.is-a.dev) [Software Engineer | Motion Designer]
 - [Pranav Arya](https://pranavarya.in) [Software Engineer]
 - [Pranava Jayanthi Krishna](https://pranavajk.com) [Senior Software Engineer | AI Engineering]
 - [Pranay Bandaru](https://pranaybandaru.vercel.app) [Data Science]
