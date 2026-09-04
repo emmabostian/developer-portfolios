@@ -1119,6 +1119,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mamoon Siddiqui](https://mamoon-siddiqui.vercel.app)
 - [Manan Kanani](https://manankanani.in) [Full Stack Developer]
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
+- [Manas Singh](https://manassingh.dev) [Full Stack Developer | React, TypeScript, Node.js]
 - [Manav Chudasama](https://manav-chudasama.vercel.app) [Full Stack Developer]
 - [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
 - [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
