@@ -777,7 +777,7 @@ This repo can serve as inspiration for your portfolio!
 - [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
 
 ## H
-
+- [Haris](https://portfolio.haresmohd012.workers.dev/) [DevOps Engineer | Full Stack Developer | Cloud Engineer]
 - [Hafeez Mohamad](https://www.haffee.dev) [Software Engineer | Full Stack Developer | AI Engineer]
 - [Hafid Ziti](https://www.hafidziti.dev)
 - [Hafiq Iqmal](https://hafiq.dev) [Software Engineer | Backend & API Engineering | DevSecOps]
