@@ -794,6 +794,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
 - [Hariharan Narlakanti](https://portfolio-harin999s-projects.vercel.app) [AI Engineer | Backend Developer]
+- [Haris](https://portfolio.haresmohd012.workers.dev/) [DevOps Engineer | Full Stack Developer | Cloud Engineer]
 - [Haris Priantury](https://harispriantury.netlify.app) [Web Developer]
 - [Harlon Garcia](https://harlon.netlify.app)
 - [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
