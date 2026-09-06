@@ -1211,6 +1211,7 @@ This repo can serve as inspiration for your portfolio!
 - [Minmitha](https://minmitha.vercel.app)
 - [Missael Rangel](https://missaelr.com/en) [Frontend Developer | React/Typescript]
 - [Mitul Savani](http://mitulsavani.com)
+- [Mnelisi Mthuli](https://www.seniordevelopermnelisi.com) [Senior C# / .NET Developer]
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
 - [Mohamed Khayyer](https://mwamed.com/portfolio/)
 - [Mohamed Zhioua](https://mohamedzhioua.vercel.app/en)
