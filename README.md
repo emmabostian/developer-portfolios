@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1980
+## Current Portfolio Count: 1981
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -967,6 +967,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## K
 
+- [Kabilesh](https://ikabidev.app) [Product Engineer | Full Stack Developer  | AI]
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
@@ -1519,6 +1520,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ramzi Bouzaiene](https://ramzibouzaiene.vercel.app) [Software Engineer | Full Stack Developer]
 - [Raphaël Giraud](https://toukoum.fr) [AI Sofware Engineer]
 - [Rathod Ramraj](https://rathodram.is-a.dev/) [Full Stack Dev | Student at NITJ]
+- [Rathod Ramraj](https://rathodramraj.vercel.app) [Frontend Developer | NITJ]
 - [Ravi Bhushan Kumar](https://ravibhushan-portfolio.vercel.app) [Full Stack Developer | Mern]
 - [Ravi K Gupta](https://devravik.github.io) [Senior Backend Engineer | Laravel | Go]
 - [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
@@ -1796,7 +1798,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sohayel Mahmud](https://sohayelmahmud.github.io) [Computer Science Student| Competitive Programmer]
 - [Somenath Sau](https://somenathsau.github.io) [Data Analyst | gen AI | Cloud]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
-- [Sonu Suman Ojha](https://sonu-portfolio-1.netlify.app) [Software Engineer]
+- [Sonu Suman Ojha](https://my-portfolio-wkse.vercel.app/) [Software Engineer]
 - [Soufiane El Hamri](https://www.soufiane-elhamri.com) [Full Stack Developer]
 - [Souilah Moncef](https://moncef37i.github.io/portfolio/) [Full Stack Web Developer | Algeria]
 - [Soumya Jain](https://soumyajain.vercel.app) [Software Developer | AI Exgineering]
@@ -1831,6 +1833,7 @@ This repo can serve as inspiration for your portfolio!
 - [Suhail Roushan](https://suhailroushan.com)
 - [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
 - [Sujal Goel](https://hecodesforme.com) [Top Rated Full Stack Developer | AI & Automation]
+- [Suman Dey](https://www.sumandey.com) [Senior Technical Lead | Full Stack Engineer | AI & RAG Integration | DevOps]
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
 - [Sumonta Saha Mridul](https://sumonta056.github.io)
 - [Sunil Band](https://www.sunilband.com) [Frontend Engineer]
