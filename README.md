@@ -967,6 +967,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## K
 
+- [Kabilesh](https://ikabidev.app) [Product Engineer | Full Stack Developer  | AI]
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
