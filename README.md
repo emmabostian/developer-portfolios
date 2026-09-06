@@ -1766,6 +1766,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shrey Asthana](https://shrey-asthana-portfolio.netlify.app)
 - [Shrey Varshney](https://shreyvarshney.pages.dev) [Software Engineer | Full Stack Developer]
 - [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
+- [Shreyam Adhikari](https://shreyam1008.com.np/) [Full Stack Developer | Go, TypeScript & Development Tools]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
 - [Shubhadeep Mahapatra](https://shubhadeepsec.github.io) [Cybersecurity]
 - [Shubham 404](https://shubham-404.vercel.app) [Crafting Code with Purpose | Student]
