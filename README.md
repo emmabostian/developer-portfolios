@@ -2049,6 +2049,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yatharth Dixit](https://yath.dev) [Backend/Full Stack Engineer | AI Products]
 - [Yeabsira Tarekegn](https://yeabsiras-portfolio.vercel.app)
 - [Yechiel Kalmenson](https://yechiel.me)
+- [Yehia Gewily](https://yehia-gewily.me) [AI Software Engineer]
 - [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
 - [Yoav](https://yoav.xyz)
 - [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer | Full Stack]
