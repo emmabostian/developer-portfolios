@@ -442,7 +442,6 @@ This repo can serve as inspiration for your portfolio!
 - [Biplob Sutradhar](https://biplobsd.github.io) [Software Engineer | Android | Web | Chrome]
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
-- [Blake Karbon](https://balakekarbon.github.io) [Legacy Systems / COBOL, Firmware, AI / Big Data, and Full Stack Developer]
 - [Blake Werlinger](https://werlinger.dev) [Gameplay Programming | Backend Architecture | Web Development]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bluezly](https://www.bluezly.exid.me)
@@ -740,7 +739,6 @@ This repo can serve as inspiration for your portfolio!
 - [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gary Doman / GareBear99 / GareBearProductionz / TizWildin](https://garebear99.github.io/TizWildinEntertainmentHUB/) [Software Developer | Audio DSP | AI Infrastructure | Music Tech]
-- [Gaspare Tortora](https://gaspavar.dev)
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app)
 - [Gaurav Rathva](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
 - [Gaurav Saxena](https://www.gauravsaxena.site) [Full Stack Engineer | AI Engineer]
@@ -1087,7 +1085,6 @@ This repo can serve as inspiration for your portfolio!
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
-- [Lucas De Moraes](https://devlucas.website) [Full Stack Developer]
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
@@ -1230,7 +1227,6 @@ This repo can serve as inspiration for your portfolio!
 - [Mohammed Ibrahim Islam](https://macromanager.dev)
 - [Mohan Reddy](https://mohanreddy0909.github.io/MyPortfolio) [Mobile Developer]
 - [Mohd Ubaid Khan](https://mdubaid.in) [Software Engineer | Full Stack Engineer | Problem Solver]
-- [Mohd Zaheer Uddin](https://sohailkhan0525.github.io/MyPortfolio) [MACHINE LEARNING BEGINNER | Founder of @Qofeno]
 - [Mohibur Rahman Sani](https://www.sanimohibur.me) [Full Stack Developer]
 - [Mohit Kumar](https://mohit1r.github.io/Portfolio) [Cloud Native Software Engineer | Java | Spring Boot | Azure | DevOps]
 - [Mohit Paudyal](https://findmohit.netlify.app)
@@ -1981,8 +1977,6 @@ This repo can serve as inspiration for your portfolio!
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vikas Uniyal](https://vikasdev-in.vercel.app) [Full Stack Developer]
-- [Vinay Kumar](https://n4ryn.com) [Full Stack Developer]
-- [Vinay Somawat](https://vinaysomawat.github.io)
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Viraj Mavani](https://virajmavani.dev) [Full Stack Engineer | AI Engineer]
