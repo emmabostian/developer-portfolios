@@ -2037,6 +2037,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yagyaraj Lodhi](https://yagyaraj.com) [Full Stack AI Developer]
 - [Yaksh Bambhroliya](https://yakshcore.vercel.app) [Full Stack Developer]
 - [Yared Tekileselassie](https://yared.vercel.app)
+- [Yasir Arfat](https://yasirarfat.com) [YasirOS | Full Stack Software Engineer | AI Engineer]
 - [Yaroslav Lebedenko](https://portfolio-nailheart.vercel.app)
 - [Yash Datir](https://yashdatir.github.io/profile-os)
 - [Yash Johri](https://yash1200.github.io)
