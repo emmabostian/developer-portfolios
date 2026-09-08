@@ -789,6 +789,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hangga Aji Sayekti](https://hangga.web.id) [Software Engineer · Security Researcher · Tech Author]
 - [Hanif Yuli Abdillah](https://hanifabdlh.vercel.app) [Ai Software Engineer And Data Science]
 - [Hansana Prabath](https://hansana.is-a.dev)
+- [Hanzala Mohammadi Darahi](https://hanzala.spiderwall.app) [Software Developer . Senior Full Stack Developer . AI Engineer . Cybersecurity Engineer]
 - [Hanzla Tauqeer](https://github.com/1hanzla100/developer-portfolio)
 - [Hareesh Bhittam](https://hareesh.is-a.dev) [Full Stack Developer]
 - [Hariharan Narlakanti](https://portfolio-harin999s-projects.vercel.app) [AI Engineer | Backend Developer]
@@ -967,7 +968,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## K
 
-- [Kabilesh](https://ikabidev.app) [Product Engineer | Full Stack Developer  | AI]
+- [Kabilesh](https://ikabidev.app) [Product Engineer | Full Stack Developer | AI]
 - [Kaic Salomão](https://kaicsm.dev) [Full Stack Developer]
 - [Kaiyu Hsu](https://kyh.io)
 - [Kajendran Alagaratnam](https://kajendran.dev) [Senior Engineer | Developer Experience & Tooling]
