@@ -1356,6 +1356,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ohk Soe Htet](https://www.ohksoehtet.dev) [Software Engineer | Full Stack Developer]
 - [Oktay Shakirov](https://oktayshakirov.com)
 - [Oliver Granlund](https://olli.works)
+- [Oliver Newth](https://n3wth.com) [AI Product Leader | Google Trust & Safety]
 - [Olle Andreasson](https://oted.online) [Staff Engineer]
 - [Oluseye Oyewole](https://www.oluseye.cv)
 - [Om Takale](https://omtakale.vercel.app)
