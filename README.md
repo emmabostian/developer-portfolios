@@ -1545,6 +1545,7 @@ This repo can serve as inspiration for your portfolio!
 - [Richard Hill](https://www.rhdigital.co.uk) [Digital Designer]
 - [Richard Porter](https://richardporter.dev) [Full Stack Developer | Laravel | Vue | React]
 - [Rick Hanlon](https://rickhanlonii.github.io)
+- [Ricky Gipson](https://www.rickygipson.com/) [UI Developer/UX Designer]
 - [Ricky Serrano](https://rickyserrano.dev) [Help Desk Grunt | Next.js, React, SpringBoot, Full Stack]
 - [Ridoy Dey](https://iamridoydey.me) [Devops & Cloud Engineer | python, bash, go, Docker, CI/CD, Kubernetes, aws, azure, azure devops]
 - [Ridwan Ajanaku](https://olakunle.dev) [Frontend Software Engineer]
