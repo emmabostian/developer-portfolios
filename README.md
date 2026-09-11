@@ -230,6 +230,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anadi Sharma](https://asharma.tech) [Software Engineer | Cse'25 Iit Jodhpur]
 - [Anamuddin Ahmad](https://github.com/AnamuddinAhmad/Portfolio_1) [Software Engineer & Freelancer]
 - [Anand Thakkar](https://www.anandthakkar.com) [Software Developer & Tech Creator]
+- [Anandhasivam Sambathkumar](https://www.anandhasivam.indevs.in) [Full-Stack Developer]
 - [Anandhu Sajan](https://anandhusajan.com) [Full Stack Developer | Cybersecurity & Network Forensics Specialist | UI/UX | NextJs • React Native • WordPress • Creative Designer]
 - [Ananya Biswas](https://dub.sh/ananyabiswas)
 - [Anas Boubechra](https://cschad.com)
