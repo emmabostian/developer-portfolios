@@ -162,6 +162,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aishwarya Shyam](https://aishwarya-cs-portfolio.netlify.app) [Software Engineer | Full Stack & AI]
 - [Aitezaz Sikandar](https://aitezazdev.vercel.app) [Full Stack Developer]
 - [Ajay Kannan](https://ajaykannan.netlify.app)
+- [Ajay Kumar Sharma](https://ajay-sharma.in) [Web Developer]
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
