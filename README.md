@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 1984
+## Current Portfolio Count: 1986
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -237,7 +237,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anas Boubechra](https://cschad.com)
 - [Anav Chand](https://www.anav.dev) [Software Engineering Student | DevOps & AI Enthusiast.]
 - [Anay Paraswani](https://anayparaswani.dev)
-- [Andre Nunes da Silva](https://andresilva.tech) [Software Engineering Student | Backend Engineer]
+- [Andre Nunes Da Silva](https://andresilva.tech) [Software Engineering Student | Backend Engineer]
 - [Andrea Ojeda](https://www.andreaoz.com)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app)
@@ -341,7 +341,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ashik Saleem](https://ashik.ie) [Full Stack Developer | Data + DevOps]
 - [Ashikur Rahaman](https://portfolio-by-ashik.netlify.app)
 - [Ashim Rudra Paul](https://ashimrudrapaul.com) [Software Engineer | Gen AI Engineer & Cloud Architect]
-- [Ashish Choudhary](https://ashishchoudhary.dev) [Software Engineer | Full-Stack Web Developer]
+- [Ashish Choudhary](https://ashishchoudhary.dev) [Software Engineer | Full Stack Web Developer]
 - [Ashish Madan](https://ashishmadan.netlify.app) [Senior Software Engineer | Full Stack Developer]
 - [Ashish Mehra](https://ashishmehra.dev)
 - [Ashish Namdeo](https://ashishnamdeo.com)
@@ -1036,7 +1036,6 @@ This repo can serve as inspiration for your portfolio!
 - [Kuchizu](https://kuchizu.com) [DevOps Engineer]
 - [Kuei Poch Kuei](http://kueiyiee-portfolio.vercel.app) [Full Stack Dev and Creative Thinker]
 - [Kuldeep Rajput](https://macos-kuldeeprajput.vercel.app) [Software Engineer | Full Stack Web Developer]
-- [Kuldeepsinh Jadeja](https://kuldeepjadeja.dev) [Full Stack Developer | MERN Stack]
 - [Kunal Passan](https://kunalpassan.vercel.app)
 - [Kunal Patil](https://kunalpatil.me) [Kunal Patil | Java SpringBoot, DevOps, Generative AI]
 - [Kunal](https://kunalx.is-a.dev) [Data Scientist | AI & Agentic AI Engineer | Backend | DevOps | Voice AI Agents]
@@ -1569,7 +1568,6 @@ This repo can serve as inspiration for your portfolio!
 - [Rohit Singh](https://rohitsinghworks.vercel.app) [Software & Web Developer | Next.js, MERN & Full Stack]
 - [Rohit Singh](https://rohitwork.vercel.app) [Software Engineer | Next.js, MERN]
 - [Rohit Solanki](https://rohitsolanki.me)
-- [Rohit Soni](https://rohitsoni007.github.io/portfolio) [Full Stack, Mern, Reactnative]
 - [Rohit Wadhwa](https://github.com/rohit-wadhwa)
 - [Roland Taylor](http://rolandixor.pro)
 - [Rolind Roy](https://rolind.me) [DevOps]
@@ -1733,7 +1731,6 @@ This repo can serve as inspiration for your portfolio!
 - [Shailendra Singh](https://singhshailendra.in)
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
-- [Shalon Fernando](https://shalon.vercel.app) [Software Engineer]
 - [Shamsur Rahman Shaikat](https://shaikat.xyz) [Software Engineer | Laravel]
 - [Shankumar Pitta](http://shankumar.is-a.dev)
 - [Shannon Crabill](http://shannoncrabill.com)

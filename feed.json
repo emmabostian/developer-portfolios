@@ -29,6 +29,11 @@
     "tagline": "Software Developer"
   },
   {
+    "name": "Aahana Surya",
+    "url": "https://aahana-surya.github.io",
+    "tagline": "CS Undergrad | AI & Robotics"
+  },
+  {
     "name": "Aahire Yash",
     "url": "https://yashahire.info",
     "tagline": "Full Stack & AI Engineer | React, NestJS, AI"
@@ -984,6 +989,11 @@
     "url": "https://anayparaswani.dev"
   },
   {
+    "name": "Andre Nunes Da Silva",
+    "url": "https://andresilva.tech",
+    "tagline": "Software Engineering Student | Backend Engineer"
+  },
+  {
     "name": "Andrea Ojeda",
     "url": "https://www.andreaoz.com"
   },
@@ -1462,6 +1472,11 @@
     "name": "Ashim Rudra Paul",
     "url": "https://ashimrudrapaul.com",
     "tagline": "Software Engineer | Gen AI Engineer & Cloud Architect"
+  },
+  {
+    "name": "Ashish Choudhary",
+    "url": "https://ashishchoudhary.dev",
+    "tagline": "Software Engineer | Full Stack Web Developer"
   },
   {
     "name": "Ashish Madan",
@@ -4459,11 +4474,6 @@
     "tagline": "Software Engineer | Full Stack Web Developer"
   },
   {
-    "name": "Kuldeepsinh Jadeja",
-    "url": "https://kuldeepjadeja.dev",
-    "tagline": "Full Stack Developer | MERN Stack"
-  },
-  {
     "name": "Kunal Passan",
     "url": "https://kunalpassan.vercel.app"
   },
@@ -6782,11 +6792,6 @@
     "url": "https://rohitsolanki.me"
   },
   {
-    "name": "Rohit Soni",
-    "url": "https://rohitsoni007.github.io/portfolio",
-    "tagline": "Full Stack, Mern, Reactnative"
-  },
-  {
     "name": "Rohit Wadhwa",
     "url": "https://github.com/rohit-wadhwa"
   },
@@ -7512,9 +7517,9 @@
     "tagline": "Full Stack Developer"
   },
   {
-    "name": "Shalon Fernando",
-    "url": "https://shalon.vercel.app",
-    "tagline": "Software Engineer"
+    "name": "Shamsur Rahman Shaikat",
+    "url": "https://shaikat.xyz",
+    "tagline": "Software Engineer | Laravel"
   },
   {
     "name": "Shankumar Pitta",
@@ -8599,6 +8604,11 @@
     "name": "Vikas Uniyal",
     "url": "https://vikasdev-in.vercel.app",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Vineet Machchal",
+    "url": "https://vineetcodes.vercel.app",
+    "tagline": "Web Developer"
   },
   {
     "name": "Vineet Saraf",
