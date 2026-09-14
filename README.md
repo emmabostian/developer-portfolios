@@ -1978,6 +1978,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
 - [Vikas Uniyal](https://vikasdev-in.vercel.app) [Full Stack Developer]
+- [Vineet Machchal](https://vineetcodes.vercel.app) [Web Developer]
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
 - [Viraj Mavani](https://virajmavani.dev) [Full Stack Engineer | AI Engineer]
