@@ -237,6 +237,7 @@ This repo can serve as inspiration for your portfolio!
 - [Anas Boubechra](https://cschad.com)
 - [Anav Chand](https://www.anav.dev) [Software Engineering Student | DevOps & AI Enthusiast.]
 - [Anay Paraswani](https://anayparaswani.dev)
+- [Andre Nunes da Silva](https://andresilva.tech) [Software Engineering Student | Backend Engineer]
 - [Andrea Ojeda](https://www.andreaoz.com)
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app)
