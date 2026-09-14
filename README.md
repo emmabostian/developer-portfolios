@@ -1731,6 +1731,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shakhzhakhan Maxudbek](https://args.tech)
 - [Shakir Ali](https://shakiraliswe.com) [Full Stack Developer]
 - [Shalon Fernando](https://shalon.vercel.app) [Software Engineer]
+- [Shamsur Rahman Shaikat](https://shaikat.xyz) [Software Engineer | Laravel]
 - [Shankumar Pitta](http://shankumar.is-a.dev)
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
