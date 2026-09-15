@@ -553,6 +553,7 @@ This repo can serve as inspiration for your portfolio!
 - [Daniel Ortiz](https://danielortiz.web.app) [Full Stack Developer]
 - [Daniel Peace](https://concrete.codes) [Web Developer]
 - [Daniel Steele](https://www.danielsteele.dev) [Full Stack Developer]
+- [Daniella Ovbude](https://daniella3.github.io/portfolio/) [Software Engineer | Frontend & Full Stack Developer]
 - [Danil Gordeev](https://dangor220.github.io/developer-portfolio)
 - [Danilo Castro](https://www.welcomedeveloper.com)
 - [Danilo Silva](https://www.iamdanilo.com)
