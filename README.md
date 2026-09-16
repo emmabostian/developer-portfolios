@@ -1782,7 +1782,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shubhanshu Singh](https://shubhanshusingh.com) [Platform Engineer, Enterprise Architect, Founder @ exemplar.dev]
 - [Shushay Kebedew](https://shushaykebedew-portfolio.vercel.app) [Full Stack Developer]
 - [Shuvam Manna](http://shuvam.xyz)
-- [Siddharth e](https://sidharthe.dev)
+- [Siddharth e](https://sidharthe.dev) [Senior AI Engineer | Full Stack Developer]
 - [Siddharth Chattoraj](https://siddharthchattoraj.com) [Full Stack Developer | Production Designer]
 - [Siddharth Roy](https://siddharthroy.com)
 - [Siddharth](https://sudosidd.dev) [Game Developer]
