@@ -1121,6 +1121,7 @@ This repo can serve as inspiration for your portfolio!
 - [Manan Narwal](https://manannarwal.vercel.app) [Full Stack | App | Web]
 - [Manas Singh](https://manassingh.dev) [Full Stack Developer | React, TypeScript, Node.js]
 - [Manav Chudasama](https://manav-chudasama.vercel.app) [Full Stack Developer]
+- [Manav Gupta](https://manav-portfolio-lab.vercel.app) [Software Developer | Backend & Cybersecurity]
 - [Mandip Umretiya](https://mandip-dev-portfolio.vercel.app) [Full Stack Developer]
 - [Manics](https://devmani-cs-code.vercel.app) [Software Engineer]
 - [Manikandan Ramar](https://manikandanramar.com) [Software Engineer]
