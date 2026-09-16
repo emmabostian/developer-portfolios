@@ -738,6 +738,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gambhir.Dev](https://gambhir.dev) [Full Stack | DevOps]
 - [Ganesh Angadi](https://ganeshangadi.online) [Devops Engineer | System Thinker]
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
+- [Ganesh Narayanapurapu](https://ganesh-vscode.netlify.app/) [Developer | Turning Ideas into Code]
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Ganesh](https://ganesh717.netlify.app)
 - [Garima Bhayana](https://garimabhayana.vercel.app)
