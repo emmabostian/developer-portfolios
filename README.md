@@ -431,6 +431,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bhavani Ravi](http://bhavaniravi.com)
 - [Bhavesh Gudlani](https://bhaveshgudlani.me) [AI/ML Engineer | Full Stack Development-Android-AI/ML]
 - [Bhavesh Mishra](https://bhaveshmishra.dev)
+- [Bhavya Popat] (https://bhavyajustchill.vercel.app) [Software Engineer | MERN Specialist]
 - [Bhavya Tomar](https://bhavya.dev)
 - [Bhumika Patil](https://portfolio-psi-lovat-25.vercel.app) [Computer Science Student | Full Stack Developer]
 - [Bhumika Wadhwani](https://bhumika-wadhwani-portfolio.onrender.com) [Computer Science Student | Full Stack Developer]
