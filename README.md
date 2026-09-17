@@ -144,7 +144,7 @@ This repo can serve as inspiration for your portfolio!
 - [Adwitya](https://adwityac.netlify.app)
 - [Afam Olie](https://afamolie.com) [Full Stack Developer]
 - [Afaq Awan](https://afaq35202.github.io) [Mobile App Developer]
-- [Affan Raza](https://affanraza.vercel.app/) [FullStack Developer | React | Next.js | Typescript]
+- [Affan Raza](https://affan-portfolio-kappa.vercel.app/) [FullStack Developer | React | Next.js | Typescript]
 - [Afjal Ansari](https://md-afjal-ansari.onrender.com) [Mern-Stack Developer]
 - [Aftab Alam](https://datasciencefolio.streamlit.app) [An Open-Source, Customizable Portfolio Template For Ai/Ml/Dl Developers And Data Scientists]
 - [Aggelos Ladas](https://aggelosladas.com) [Spring Boot Backend | Android Developer]
