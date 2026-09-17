@@ -903,6 +903,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
+- [Jay Singh Chauhan](https://jaysinghchauhan.com) [Full Stack Developer | UI UX Designer]
 - [Jay](https://jay-65.netlify.app) [Frontend Developer]
 - [Jaya Vignesh](https://jayavignesh.dev) [Backend Developer]
 - [Jayant Goel](http://jayantgoel001.github.io)
