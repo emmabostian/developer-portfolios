@@ -2033,6 +2033,7 @@ This repo can serve as inspiration for your portfolio!
 - [Wilson Costa](https://wilsoncosta-portfolio.vercel.app) [Backend Engineer | Full Stack Developer]
 - [Wilson Mun](https://rebrand.ly/wilsonmun)
 - [Wilson Tu](https://dumbyoodoodo.github.io/wilsonportfolio.github.io/)
+- [Wisaroot Lertthaweedech](https://wisl.dev) [Senior Data Engineer]
 - [Wisit Longsida](https://wisit-blog.vercel.app/about)
 - [Wyatt Hansen](https://www.wyatthansen.dev)
 
