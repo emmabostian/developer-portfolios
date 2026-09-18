@@ -82,6 +82,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdullah Warraich](https://abdullah-warraich-ch.vercel.app)
 - [Abdusamad Malikov](https://www.abdusamad.uz)
 - [Abhay Rana](https://abhayrana.com) [Full Stack Developer]
+- [Abhay Vachhani](https://txtnode.com/abhay-vachhani) [Full Stack Developer | DevOps Engineer | AI Engineer]
 - [Abhijeet Bhale](https://abhijeetbhale.github.io/Portfolio) [Software Engineer]
 - [Abhijeet Singh Parihar](https://abhijeet-singh-parihar-portfolio.vercel.app) [Software Engineer]
 - [Abhijit Mondal](https://abhijitmondal.info) [Full Stack Web Developer | React, Next.js, Python]
