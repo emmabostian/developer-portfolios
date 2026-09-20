@@ -1664,7 +1664,7 @@ This repo can serve as inspiration for your portfolio!
 - [Samik Malhotra](https://samikmalhotra.netlify.app)
 - [Sammeyak Wankhade](https://sammeyak-portfolio.netlify.app) [Software Engineer | Solution Architect]
 - [Samrat Mitra](https://lionelsamrat10.github.io)
-- [Samrin Jaji](https://samrinjaji.github.io/my-portfolio/) [Frontend Developer | Web Applications]
+- [Samrin Jaji](https://samrinjaji.vercel.app/) [Full Stack Developer | Cyber Security]
 - [Samrit Mukherjee](https://samrit.dev) [Full Stack Dev | AI Dev | Product Dev]
 - [Samuel Alewi](https://krash-cod3.github.io) [Backend Engineer and Web Automation Expert]
 - [Samuel Ezra](https://www.samuelezranas.codes) [Full Stack & Mobile Developer | Tech Student & Enthusiast]
