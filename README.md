@@ -1034,6 +1034,7 @@ This repo can serve as inspiration for your portfolio!
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
+- [Koushik Paul](https://koushikpaul7.github.io/koushikpaul/) [Software Engineer | php & Laravel]
 - [Krishna Sathyamurthy Pokédex Portfolio](https://krshsl.github.io)
 - [Krishnanand](https://krishnananda.netlify.app)
 - [Kritan Shrestha](https://dev-kritan.github.io/portfolio/) [Full Stack Developer]
