@@ -681,6 +681,7 @@ This repo can serve as inspiration for your portfolio!
 - [Eric Zhu](https://eric4048.framer.website)
 - [Erick Namukolo](https://www.ericknamukolo.com)
 - [Erik Henrique Alves Cunha](https://www.erikunha.dev)
+- [Eskinder Gezahagne](https://eskinderg.github.io) [Full Stack Developer]
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
 - [Ethan Villalovoz](https://ethanvillalovoz.com) [Software Engineer | Robotics & AI Researcher]
