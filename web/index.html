@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Browse and sort the developer portfolios list by newest, most popular or most viewed/clicked." />
+  <title>Developer Portfolios — Browse &amp; Sort</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <p class="eyebrow">Developer Portfolios</p>
+      <h1>Browse the portfolio list</h1>
+      <p class="lead">
+        A curated collection of <span id="total-count">…</span> developer portfolios.
+        Pick a sort option to control how the list is displayed.
+      </p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="controls" aria-label="List controls">
+      <div class="control">
+        <label for="sort-select">Sort by</label>
+        <select id="sort-select">
+          <option value="name">Name (A–Z)</option>
+          <option value="newest">Newest</option>
+          <option value="popular">Most Popular</option>
+          <option value="views">Most Viewed/Clicked</option>
+        </select>
+      </div>
+      <p id="status" class="status" role="status" aria-live="polite">Loading portfolios…</p>
+    </section>
+
+    <p id="metrics-note" class="note" hidden>
+      View/click analytics are not in <code>feed.json</code> yet, so the
+      popularity sorts fall back to alphabetical order. See
+      <code>FEED_JSON.md</code> for how to add <code>portfolio_metrics.json</code>.
+    </p>
+
+    <p id="error" class="error" hidden></p>
+    <ul id="portfolio-list" class="grid" aria-label="Portfolios"></ul>
+    <div id="sentinel" class="sentinel" hidden>
+      <span class="spinner" aria-hidden="true"></span>
+      <span class="visually-hidden">Loading more portfolios…</span>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>
+        Data from
+        <a href="https://github.com/emmabostian/developer-portfolios">emmabostian/developer-portfolios</a>.
+        Regenerate it with <code>python src/generate_feed.py</code>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
+</body>
+</html>
