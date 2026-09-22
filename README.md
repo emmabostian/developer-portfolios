@@ -834,6 +834,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hien Dao](https://hiendao.dev) [Software Engineer | Backend]
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
+- [hipuku](https://hipuku.dev) [Software Engineer | Design Systems & Frontend]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
