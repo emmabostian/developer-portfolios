@@ -168,6 +168,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Kumar Sharma](https://ajay-sharma.in) [Web Developer]
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
+- [Ajay Prajapat](https://ajayprajapat.com) [Founder | Full Stack Engineer | Software Architecture | Applied AI]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
 - [Ajyendu Chaudhary](https://ajyendu.vercel.app) [Full Stack Developer]
@@ -476,7 +477,6 @@ This repo can serve as inspiration for your portfolio!
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 - [Burhanaddin Mirsadizada](https://burhanaddinzm.github.io)
-  Extension]
 
 ## C
 
