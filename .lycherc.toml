@@ -2,19 +2,20 @@
 # This configuration helps reduce false positives and handles SSL certificate issues
 
 # Accept these HTTP status codes as valid
-accept = [200, 201, 204, 301, 302, 307, 308, 403, 429]
+# 405 = Method Not Allowed (some servers reject HEAD but serve GET fine)
+accept = [200, 201, 204, 301, 302, 307, 308, 403, 405, 429]
 
 # Timeout for each request (in seconds)
-timeout = 20
+timeout = 60
 
 # Maximum number of retries per link
 max_retries = 3
 
-# Number of concurrent network requests
-max_concurrency = 10
+# Number of concurrent network requests (lower = less likely to trigger rate limits)
+max_concurrency = 2
 
 # Retry wait time between attempts (in seconds)
-retry_wait_time = 2
+retry_wait_time = 10
 
 # Set a custom User-Agent to avoid being blocked as a bot
 user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
@@ -35,7 +36,13 @@ cache = true
 # These are handled by the .lycheeignore file
 
 # HTTP method to use for checking links
+# GET instead of HEAD: several hosts (e.g. Netlify/Vercel edge networks) silently
+# hang on HEAD requests from datacenter IPs instead of responding, which shows up
+# as a false-positive timeout. GET is lychee's own upstream default for this reason.
 method = "get"
+
+# Prefer HTTPS over HTTP when both are available
+scheme = ["https", "http"]
 
 
 # Additional headers to send with requests (helps avoid bot detection)
@@ -46,5 +53,8 @@ Accept-Encoding = "gzip, deflate, br"
 DNT = "1"
 Connection = "keep-alive"
 Upgrade-Insecure-Requests = "1"
+Sec-Fetch-Dest = "document"
+Sec-Fetch-Mode = "navigate"
+Sec-Fetch-Site = "none"
 
 

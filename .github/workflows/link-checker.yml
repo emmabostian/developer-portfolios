@@ -6,6 +6,7 @@ on:
 name: Check markdown links
 jobs:
   linkChecker:
+    if: github.repository == 'emmabostian/developer-portfolios'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
@@ -19,10 +20,50 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         continue-on-error: true
 
+      - name: Write broken links to Job Summary
+        if: steps.lychee.outputs.exit_code != 0
+        run: |
+          OUT=./lychee/out.md
+          [ -f "$OUT" ] || exit 0
+
+          # Timeouts are frequently false positives (e.g. hosts rate-limiting or
+          # silently dropping requests from CI datacenter IPs) rather than real
+          # dead links, so they're reported separately from actionable errors
+          # instead of drowning them out. See git history of this file/.lycherc.toml.
+          ACTIONABLE=$(grep '^\* \[' "$OUT" | grep -v '^\* \[TIMEOUT\]' || true)
+          TIMEOUTS=$(grep '^\* \[TIMEOUT\]' "$OUT" || true)
+
+          if [ -n "$ACTIONABLE" ]; then
+            echo "## 🚫 Broken links (action needed)" >> "$GITHUB_STEP_SUMMARY"
+            echo "$ACTIONABLE" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+
+            # Also written as its own file so the issue-creation step below can
+            # report just the actionable errors, without the timeout noise.
+            {
+              echo "## Broken Links Report"
+              echo ""
+              echo "Lychee found link(s) rejected with a real error. Timeouts are"
+              echo "excluded here since they're frequently false positives from CI"
+              echo "network/rate limiting — see this run's Job Summary for those."
+              echo ""
+              echo "$ACTIONABLE"
+            } > ./lychee/actionable.md
+          fi
+
+          if [ -n "$TIMEOUTS" ]; then
+            COUNT=$(echo "$TIMEOUTS" | wc -l | tr -d ' ')
+            echo "<details><summary>⏳ $COUNT timeout(s) — often false positives from CI network/rate limiting, verify manually before removing</summary>" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "$TIMEOUTS" >> "$GITHUB_STEP_SUMMARY"
+            echo "" >> "$GITHUB_STEP_SUMMARY"
+            echo "</details>" >> "$GITHUB_STEP_SUMMARY"
+          fi
+
       - name: Create Issue From File
         if: steps.lychee.outputs.exit_code != 0
         uses: peter-evans/create-issue-from-file@v6
         with:
           title: "[Bot] Broken Links Report"
-          content-filepath: ./lychee/out.md
+          content-filepath: ./lychee/actionable.md
           labels: report
