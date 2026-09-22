@@ -33,6 +33,7 @@ Viewed/Clicked.
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
 - [Aabraham James](https://seera.framer.website)
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
+- [Aadarsh Rai](https://aadarshrai.vercel.app) [AI Engineer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
 - [Aahana Surya](https://aahana-surya.github.io) [CS Undergrad | AI & Robotics]
@@ -171,6 +172,7 @@ Viewed/Clicked.
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Kumar Sharma](https://ajay-sharma.in) [Web Developer]
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
+- [Ajay Prajapat](https://ajayprajapat.com) [Founder | Full Stack Engineer | Software Architecture | Applied AI]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
 - [Ajyendu Chaudhary](https://ajyendu.vercel.app) [Full Stack Developer]
@@ -479,7 +481,6 @@ Viewed/Clicked.
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 - [Burhanaddin Mirsadizada](https://burhanaddinzm.github.io)
-  Extension]
 
 ## C
 
