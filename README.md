@@ -477,7 +477,6 @@ This repo can serve as inspiration for your portfolio!
 - [Bryan Elliott](https://elliottprogrammer.com) [Senior/Staff Frontend Leaning Full Stack Software Engineer]
 - [Bryan Smith](https://multikitty.onrender.com)
 - [Burhanaddin Mirsadizada](https://burhanaddinzm.github.io)
-  Extension]
 
 ## C
 
