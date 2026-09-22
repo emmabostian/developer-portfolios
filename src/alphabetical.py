@@ -3,6 +3,11 @@ import json
 from collections import defaultdict
 from urllib.parse import urlparse, urlunparse
 
+try:  # imported as a package (e.g. `from src import alphabetical`)
+    from .portfolio_sorting import order_entry_fields, preserve_metadata
+except ImportError:  # executed directly (`python src/alphabetical.py`)
+    from portfolio_sorting import order_entry_fields, preserve_metadata
+
 
 def convert_to_title_case(readme_text):
     # Only title-case bracketed text that is immediately followed by '(' —
@@ -646,13 +651,26 @@ def find_malformed_urls(lines):
 def create_feed_json(readme_path="README.md", output_path="feed.json"):
     """
     Read README.md and create/update feed.json with portfolio data.
-    Returns the number of portfolios extracted.
+    Metadata previously generated for existing entries (date_added, views,
+    clicks, popularity) is carried over so regenerating the feed never drops
+    it. Returns the number of portfolios extracted.
     """
     try:
         with open(readme_path, 'r', encoding='utf-8') as f:
             lines = f.readlines()
 
         portfolios = extract_portfolio_data(lines)
+
+        # Preserve enrichment fields written by src/generate_feed.py.
+        try:
+            with open(output_path, 'r', encoding='utf-8') as f:
+                previous = json.load(f)
+            if isinstance(previous, list):
+                portfolios = preserve_metadata(portfolios, previous)
+        except (OSError, json.JSONDecodeError):
+            pass
+
+        portfolios = [order_entry_fields(entry) for entry in portfolios]
 
         with open(output_path, 'w', encoding='utf-8') as f:
             json.dump(portfolios, f, indent=2, ensure_ascii=False)
