@@ -195,6 +195,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aishani Pachauri](https://aishanipach.netlify.app)
 - [Ajay Kannan](https://ajaykannan.netlify.app)
 - [Ajay Pawar](https://ajay-pawar.vercel.app) [Full Stack Developer]
+- [Ajay Prajapat](https://ajayprajapat.com) [Founder | Full Stack Engineer | Software Architecture | Applied AI]
 - [Ajink Gupta](https://ajinkgupta.vercel.app)
 - [Ajvad Laseen](https://ajvadlaseen.com) [Full Stack Developer]
 - [Akash Balasubhramanyam](https://akashblsbrmnm.github.io) [C Developer]
