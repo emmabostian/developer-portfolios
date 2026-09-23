@@ -1147,6 +1147,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mansha Qarib](https://manshaqarib.vercel.app)
 - [Maphangwa Tshifhiwa](https://tmaphangwa.github.io/Profile)
 - [Marc Backes](http://marc.dev)
+- [Marc Cheng](https://chengmarc.com) [Founder | Software Architect | Data & ML]
 - [Marciano Mavungo](https://marcmav.dev) [Frontend Software Engineer | vanillaJS | TailwindCSS]
 - [Marco Baldini](https://marcobaldini.pages.dev)
 - [Marco Bellingeri](https://marcobellingeri.dev) [Cloud Platform & AI Security Engineer | RAG & agentic AI | OWASP LLM Top 10]
