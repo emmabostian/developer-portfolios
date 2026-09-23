@@ -1317,6 +1317,7 @@ This repo can serve as inspiration for your portfolio!
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Neev Gupta](https://neevgupta.com)
 - [Nemanja Pavlovic](https://nemanja.works) [Frontend Developer | Full Stack Developer | Software Engineer]
+- [Nestor Jr Agnis](https://nja-systems.vercel.app/) [Full Stack Developer | Software Engineer]
 - [Newton Yuan](https://newtonyuan.com) [Software Engineer | Full Stack Engineer]
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nicholas Gannon](https://nicholasgannon.io)
