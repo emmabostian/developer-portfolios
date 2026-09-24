@@ -1393,6 +1393,7 @@ This repo can serve as inspiration for your portfolio!
 ## P
 
 - [Paal Stakvik](https://paalss.vercel.app)
+- [Paras Rahu Pingale](https://paras-pingale-portfolio.vercel.app)[SOFTWARE DEVELOPER]
 - [Pablo Conejos](https://www.pabloconejos.dev)
 - [Pablo Ramon](https://pabloramon.com.br)
 - [Pahasara Ridmaka](https://pahasara.me) [Aspiring Data Engineer]
