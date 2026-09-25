@@ -14,6 +14,10 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
+Want a different order? Run `python -m http.server` and open `web/` in your
+browser to browse and sort the list by Newest, Most Popular or Most
+Viewed/Clicked.
+
 ## Current Portfolio Count: 1986
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
