@@ -387,6 +387,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aycan Öğüt](https://aycan.dev)
 - [Ayfri](https://ayfri.com)
 - [Ayman Ismail](https://aymanismail.com) [Software Engineer | Full Stack Developer]
+- [Ayman Naeem](https://ayman.de5.net/index-en.html) [Web Developer & Designer | WordPress, Frontend & SEO]
 - [Ayodele Ayoola](https://www.ayodeleayoola.com) [Software Developer | Frontend Heavy Full Stack]
 - [Ayush Acharya](https://ayushacharya.vercel.app) [Passionate - Full Stack Software Developer]
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
