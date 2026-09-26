@@ -646,6 +646,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dustin Brett](https://dustinbrett.com)
 - [Dustin Doan](https://dustindoan-portfolio.vercel.app)
 - [Dustin VanKrimpen](https://dustinvk.com) [Full Stack Web Developer | Platform | Backend]
+- [Dryden Bryson](https://www.dryd3n.ca) [Full Stack Developer | Student]
 - [Dylan Gil Amaro](https://dga-dev.fr)
 - [Dzmitry Drepin](https://linktr.ee/drepin)
   [Ai & Data Science Enthusiast]
