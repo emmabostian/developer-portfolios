@@ -325,6 +325,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
+- [Arshdeep Singh](https://chahalarsh.in) [Software Engineer]
 - [Arslan Sarfraz](https://arslansarfraz.github.io/portfolio)
 - [Arthur Rasera](https://raseraa0.github.io) [Software Engineer]
 - [Artur Bień](https://expensive.toys) [Ui & Frontend Developer]
