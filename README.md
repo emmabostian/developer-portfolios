@@ -754,6 +754,7 @@ This repo can serve as inspiration for your portfolio!
 - [Garv Nanwani](https://garvnanwani.netlify.app)
 - [Gary Doman / GareBear99 / GareBearProductionz / TizWildin](https://garebear99.github.io/TizWildinEntertainmentHUB/) [Software Developer | Audio DSP | AI Infrastructure | Music Tech]
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app)
+- [Gaurav Kashyap](https://gauravgrv.vercel.app) [AI/ML Engineer | Full-Stack Developer]
 - [Gaurav Rathva](https://gauravrathva.me) [Full Stack Engineer | Mobile & Agentic AI Systems]
 - [Gaurav Saxena](https://www.gauravsaxena.site) [Full Stack Engineer | AI Engineer]
 - [Gazi Anas](https://gazimdanas.netlify.app) [AI-assisted Developer | Problem Solver]
