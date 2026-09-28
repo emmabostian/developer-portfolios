@@ -33,6 +33,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
 - [Aahana Surya](https://aahana-surya.github.io) [CS Undergrad | AI & Robotics]
+- [Aahil Khan](https://aahil-khan.xyz) [AI Engineer | Full Stack Developer]
 - [Aahire Yash](https://yashahire.info) [Full Stack & AI Engineer | React, NestJS, AI]
 - [Aakarsh Bibhaw](https://aakarsh-devhq.vercel.app) [CS Undergrad | Full Stack & AI Engineer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
