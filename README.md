@@ -264,6 +264,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aniket Joshi](https://aniketj.dev) [Software Architect]
 - [Aniket Kshirsagar](https://aniketksh.github.io) [SRE Engineer]
 - [Aniket Kudale](https://aniket.co)
+- [Aniket Patidar](https://aniketpatidar.com) [Software Engineer | Ruby on Rails]
 - [Anil Khatri](https://imkaka.github.io)
 - [Anil Peter](https://anilpeter.vercel.app) [[‍Frontend Developer]
 - [Anirban Banerjee](https://anirban-portfolio-delta.vercel.app) [Data Architect | Data & AI Engineer]
