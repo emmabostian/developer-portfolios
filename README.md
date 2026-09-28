@@ -1143,6 +1143,7 @@ This repo can serve as inspiration for your portfolio!
 - [Manikanta Darapureddy](https://manikantadarapureddy.in) [AI/ML Enginner | Full Stack Developer]
 - [Manish Kumar Dholpuriya](https://manish-dholpuriya.netlify.app)
 - [Manish Kumar](https://manixh.vercel.app) [Full Stack Developer]
+- [Manish Pal](https://manish-portfolio-gamma-henna.vercel.app/) [AI/ML Enginner | Full Stack Developer]
 - [Manish Tamang](https://www.manishtamang.com)
 - [Manjunath Bhandari](https://manjunathbhandari.vercel.app) [Full Stack Developer | React | Spring Boot]
 - [Mann Patel](https://patelmann.vercel.app) [Full Stack Developer]
