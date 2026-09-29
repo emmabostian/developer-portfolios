@@ -945,6 +945,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jo Lienhoop](https://jolienhoop.com)
 - [Joaquín Méndez](https://joaquin-mendez.vercel.app) [Full Stack Developer]
 - [Joel Johnson](https://www.joelcjohnson.me) [Full Stack Developer, Software Engineer]
+- [John Born](https://johnborn.co.uk) [Software Engineer | Shopify Developer]
 - [John Doe](https://portfolio-john2.netlify.app)
 - [John Kimeu](https://kimeu-johnn.vercel.app) [Front-End Developer & Creative]
 - [John Mutua Musee](https://spongebobportfolio.framer.website) [System Admin]
