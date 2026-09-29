@@ -245,6 +245,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andrej Sharapov](https://sharapov.dev)
 - [Andres Alcaraz](https://andres-alcaraz.netlify.app)
 - [Andrew Demarest](https://portfolio-sweandrew.vercel.app) [Senior Software Engineer]
+- [Andrew Simpson](https://andrewleesimpson.com)
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
 - [Andrey Perestoronin](https://prs2rnn.github.io) [Python Backend Developer]
