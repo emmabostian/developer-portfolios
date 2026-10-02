@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 2004
+## Current Portfolio Count: 2005
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -1762,6 +1762,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sharif](https://developersharif.github.io/me/) [Full Stack Engineer]
 - [Sharon Yi](https://sharon-yi.com) [Frontend Developer]
 - [Sharuk Sayyed](https://sayyed-sharuk-portfolio.vercel.app) [Frontend Developer]
+- [Sharujan Vickneswaran](https://www.sharujanvickneswaran.com) [Software Engineer | AI & Data Science Engineer]
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shashank Shet](https://shashank-shet.vercel.app)
 - [Shashi Kant](https://shashikantportfolio.web.app) [Full Stack Developer]
