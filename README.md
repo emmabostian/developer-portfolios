@@ -1242,6 +1242,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mohammad Goli Khatir](https://github.com/mgolikhatir) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
 - [Mohammad Hadi Siavashi](https://mhsiavashi.com) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
+- [Mohammad Huzaifa](https://mhuzaifa04.vercel.app) [ AI & DS Student]
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammad Siddique Sakib](https://ssakib-portfolio.vercel.app) [Frontend Developer | React, Nextjs, TypeScript]
 - [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com) [React Native Developer | Full Stack Developer | Software Engineer]
