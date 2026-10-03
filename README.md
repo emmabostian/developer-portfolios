@@ -1297,6 +1297,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muzammil Khalil](https://muzammalkhalil.github.io/My-personal-Portfolio/) [Wordpress Dev]
 - [Mwaki Denis](https://mwakidenis.pages.dev) [Prompt AI]
 - [Mydhily](https://mydhily-mr.github.io/portfolio/) [Embedded Developer | Electronics]
+- [Mohammad Huzaifa](https://mhuzaifa04.vercel.app) [ AI & DS Student]
 
 ## N
 
