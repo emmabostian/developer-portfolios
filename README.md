@@ -859,6 +859,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Ian Lunn](https://ianlunn.co.uk) [Frontend Developer | Responsive Web Specialist]
 - [Ibrahim Hizlioglu](https://www.ibrahimhizlioglu.com)
+- [Ícaro Galvão](https://icaro0310.github.io) [Senior QA Engineer]
 - [Ifaz Md Zahin](https://ifazzahin.vercel.app) [Full Stack Developer | ML Engineer]
 - [Igor Clauss](https://igorclauss.de) [Full Stack Developer]
 - [Ilan Lenzner](https://ilans.net) [Creative Technologist & Design Engineer]
