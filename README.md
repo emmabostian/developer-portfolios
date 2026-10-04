@@ -618,8 +618,8 @@ This repo can serve as inspiration for your portfolio!
 - [Dhruv Parmar](https://dhruvjs.com) [Full Stack / Frontend Developer]
 - [Dhruv Patel](https://dhruvpatelofficial.vercel.app)
 - [Dhruv Sathe](https://dhruv-alpha.vercel.app) [Software Engineer & Freelancer]
-- [Dhruva Bhattacharya](https://dhruvabhattacharya.github.io) [Software Engineer]
 - [Dhruva Bhat](https://dhruvabhat.netlify.app)
+- [Dhruva Bhattacharya](https://dhruvabhattacharya.github.io) [Software Engineer]
 - [Dhvanit Monpara](https://dhvanitmonpara.in) [Full Stack Developer]
 - [Dhyey Bhandari](https://dhyeybhandari.vercel.app) [Full Stack Developer & Ui/Ux Designer]
 - [Diana Kit](https://winehoused.github.io/my-portfolio) [Front-End Developer]
