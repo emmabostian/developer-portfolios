@@ -1215,6 +1215,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mehedi Hasan Abir](https://mehedi-hasan-abir.github.io) [Senior AI/ML Engineer | LLMs, RAG, Agentic AI]
 - [Mehedi Hasan Janny](https://mhjanny.com) [Full Stack Developer]
 - [Mehedi Hasan](https://m-hasan.vercel.app) [Frontend Developer]
+- [Mehedi Hasan](https://mehedi-hasan-portfolio-client.vercel.app) [Full Stack Developer | MERN, Next.js, TypeScript]
 - [Meicloudie](https://thucvan-portfolio.vercel.app) [Software Engineer]
 - [Mejed Alkoutaini](https://majd-portfolio.framer.website) [Software Engineer]
 - [Melih Arık](https://meliharik.dev) [Software Engineer | Mobile Developer]
