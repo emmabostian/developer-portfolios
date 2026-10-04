@@ -225,8 +225,8 @@ This repo can serve as inspiration for your portfolio!
 - [Aman Shrivastava](https://aman04.netlify.app)
 - [Ameed Darawsha](https://darawsha.github.io) [Computer Engineer | Design Verification , VLSI , Hardware]
 - [Ameer Muavia Shah](https://maveeshah.github.io/projects.html) [Frappe | Erpnext | Python]
-- [Amin Nepali](https://aminnepali.com.np) [Network Enthusiastic | Vibe Coder]
 - [Ameya Ramteke](https://ameyajarvis.qzz.io) [AI & DS Student]
+- [Amin Nepali](https://aminnepali.com.np) [Network Enthusiastic | Vibe Coder]
 - [Amir Akbulut](https://amirdev.nl)
 - [Amir Sohail](http://portfolio.proaikit.com)
 - [Amit Kumar Raj](https://amitkumarraj.vercel.app) [Full Stack Developer | MERN]
