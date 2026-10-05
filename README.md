@@ -494,6 +494,7 @@ This repo can serve as inspiration for your portfolio!
 - [Carlos Dubón](https://carlosdubon.dev)
 - [Carlos Gutierrez](https://cargdev.io) [Senior Full Stack Engineer | Python, Typescript, Distributed Systems]
 - [Carlos Rojas](https://carlos-rojas-portfolio.vercel.app) [Full Stack Developer | Aspiring Software Engineer]
+- [Carlton Lindsay](https://carlton.dev) [Design Engineer | Astro, React, TypeScript]
 - [Carter Ogunsola](https://carterogunsola.com) [Creative Developer | WebGL, Three.js, Astro]
 - [Cassiane Nascimento](https://cassymari.github.io/Portfolio-profissional/)
 - [Cecelia Martinez](http://ceceliacreates.com)
