@@ -1314,6 +1314,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nafiz Iqbal](https://nafiziqbal.com) [Full Stack Web Developer]
 - [Nahid Hasan](https://mdnahidhasan.netlify.app)
 - [Naimur Reza](https://naimur-reza.vercel.app) [Software Engineer | Mid Level]
+- [Naman Kumar](https://naman-kumar2397.github.io) [Lead Site Reliability Engineer | AWS, Observability, AI Ops]
 - [Nandan Sai](https://nandan.engineer) [Full Stack Developer | AI Tools]
 - [Nanday Das](https://nandaydas.in) [Mobile App Developer]
 - [Naqqash](https://portfolionaqqash.vercel.app) [Full Stack 3D Developer]
