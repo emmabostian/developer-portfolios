@@ -1705,6 +1705,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
 - [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
 - [Santosh Yadav](http://santoshyadav.dev)
+- [Santusht Kotai](https://santusht.online) [Software Engineer | Backend & Distributed Systems]
 - [Sanyam Kumar](https://sanyam.dev)
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang](https://srng.dev)
