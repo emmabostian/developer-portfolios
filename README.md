@@ -404,6 +404,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ayush Nighoskar](https://ayushn.netlify.app)
 - [Ayush Patel](https://ayushpatel996.github.io/portfolio/) [Developer | Software Development Engineer II]
 - [Ayush Pradhan](https://ayushpradhan29.netlify.app) [Full Stack Developer | Computer Vision Engineer | Well-versed in modern tech stacks]
+- [Ayush Yadav](https://ayush-yadav.com) [Software Engineer | Web Apps, Data Pipelines, ML]
 - [Azaan Suhail](https://personal-portfolio-website-seven-teal.vercel.app)
 - [Azel](https://omargpax.vercel.app) [Software Developer - Full Stack]
 - [Azwad Fawad Hasan](https://azwadfawadhasan.github.io/resume/) [SWE | Researcher | Tech Enthusiast]
