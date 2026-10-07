@@ -1994,6 +1994,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vansh Mehta](https://vansh-mehta-portfolio.vercel.app)
 - [Vanshaj Rawat](https://portfolio-vanshaj-rawat.onrender.com)
 - [Varinder Singh](https://varinder148.github.io/portfolio)
+- [Varshil Shah](https://varshilshah.tech/) [AI Engineer]
 - [Varun Dey](https://varundey.me)
 - [Varun Ragunathan](https://varunr.dev) [Full Stack Developer | AI Adoption, Velocity & 0-1]
 - [Vasudev Katariya](https://vasudev7891.github.io/Portfolio/) [Software Engineer | Java & DSA | Full Stack (MERN)]
