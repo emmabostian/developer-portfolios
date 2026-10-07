@@ -38,6 +38,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aahil Khan](https://aahil-khan.xyz) [AI Engineer | Full Stack Developer]
 - [Aahire Yash](https://yashahire.info) [Full Stack & AI Engineer | React, NestJS, AI]
 - [Aakarsh Bibhaw](https://aakarsh-devhq.vercel.app) [CS Undergrad | Full Stack & AI Engineer]
+- [Aakash Gugilla](https://aakashgugilla.is-a.dev) [CS Undergrad | AI/ML & Full Stack Developer]
 - [Aakash Rajbanshi](https://aakashrajbanshi.com.np) [Flutter Developer]
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer]
