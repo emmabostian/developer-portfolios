@@ -72,6 +72,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abdul Quddus](https://quddus.is-a.dev) [Typescript Developer]
 - [Abdul Rahman](https://abdulrahman.id)
 - [Abdul Rauf](https://armujahid.me)
+- [Abdul Rehman Muhammad](https://bugblazer.dev) [Freelance Software Engineer | Business Websites, Web Apps, Discord Bots, AI Code Rescue]
 - [Abdul Rehman Waseem](https://abdulrehmanwaseem.me) [Full Stack Developer | 3D Web Specialist]
 - [Abdul Samad](https://samadd.vercel.app) [Software Developer]
 - [Abdul Wahab Khan](https://wahab-khan.github.io/Abdul-Wahab-Khan) [Mobile Developer]
