@@ -1962,6 +1962,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ubeyidah](https://ubeyidah.tech)
 - [Uday Ahire](https://udayahireexe.vercel.app) [Design Engineer | Frontend Developer]
 - [Uday Bagda](https://terminal-portfolio-seven-black.vercel.app)
+- [Uday Khalsa](https://udaykhalsa.dev) [Full Stack Engineer & Solution Architect]
 - [Uday Lunawat](https://udaylunawat.github.io)
 - [Uday](https://portfoliov3-puce.vercel.app) [React, Typescript, Tailwindcss, Node.Js]
 - [Ujjal Sigdel](https://www.ujjalsigdel.com.np)
