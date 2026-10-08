@@ -848,6 +848,7 @@ This repo can serve as inspiration for your portfolio!
 - [Herman Starikov](http://starikov.dev)
 - [Herve Mbilo](https://diliwo.github.io) [Cloud-Native Software Engineer]
 - [Hesbon Angwenyi](https://hezy.netlify.app) [Full Stack Developer | DevOps Engineer]
+- [Het Patel](https://hetxpatel.vercel.app/) [Machine Learning Engineer | Software Engineer]
 - [Hien Dao](https://hiendao.dev) [Software Engineer | Backend]
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
