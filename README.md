@@ -597,6 +597,7 @@ This repo can serve as inspiration for your portfolio!
 - [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
 - [Deepak Chawla](https://deepak-chawla.com)
 - [Deepak Singh](https://deepaksingh.vercel.app)
+- [Deepu Kunjumon](https://deepukunjumon.vercel.app) [Software Developer - PHP | Laravel | Slim | React.js]
 - [Delba](https://delba.dev)
 - [Delvin Khor](https://delvin.portfolio-me.bio)
 - [Demon142](https://demon142.net)
