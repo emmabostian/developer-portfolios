@@ -25,6 +25,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## A
 
+- [Abu Raihan](https://iamraihan.xo.je/) [Diploma Engineer & Tech Developer]
 - [Aaaabad Ahmed](https://sawad.framer.website) [Software Engineer]
 - [Aaabad Aziz](https://red1-for-hek-demo.vercel.app) [Full Stack Engineer]
 - [Aaabad Touk](https://aaabadcode.com) [AI Engineer]
