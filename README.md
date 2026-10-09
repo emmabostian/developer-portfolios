@@ -834,6 +834,7 @@ This repo can serve as inspiration for your portfolio!
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
 - [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
 - [Harshith Raj](https://harshithrajbangera.github.io/Portfolio/) [Full Stack Developer]
+- [Harshitha C](https://harshitha-portfolio-fawn.vercel.app/) [Software Developer | Java, Spring Boot, React, REST APIs, SQL]
 - [Harwin Dan](https://itscrazydev.netlify.app)
 - [Hasan Ashab](https://hasan-ashab.vercel.app) [Cloud Architect | DevOps Engineer | Backend Developer]
 - [Hasan Aydoğdu](https://haydogdu1990.github.io/resume-json-css)
