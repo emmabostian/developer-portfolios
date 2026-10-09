@@ -32,6 +32,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aabu Sayed](https://aabu-sayed-portfolio.vercel.app) [Software Engineer & Web Developer]
 - [Aadarsh Rai](https://aadarshrai.vercel.app) [AI Engineer]
 - [Aaditya Domle](https://aadi.is-a.dev) [Full Stack Developer]
+- [Aditya Raj](https://portfolio-mti1.vercel.app/) [Low-Level Systems Research | AI & Applied Data Science]
 - [Aaftab Vijapura](https://aaftab.is-a.dev)[Full-Stack & Frontend Developer]
 - [Aahana Bobade](https://aahanabobade.com) [Software Developer]
 - [Aahana Surya](https://aahana-surya.github.io) [CS Undergrad | AI & Robotics]
