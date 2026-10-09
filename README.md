@@ -1492,6 +1492,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pratik Salunke](https://pratiksalunkeportfolio.vercel.app) [Aspiring Backend Developer | Python & Django]
 - [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React Js Developer | Director Of Engineering]
 - [Praveen Kumar](https://praveengongada.com) [Software Development Engineer]
+- [Praveen Singh](https://www.praveensingh.co.in) [Senior React Native Developer | iOS & Android]
 - [Preet Suthar](https://preetsuthar.me)
 - [Prem Acharya](https://premacharya.vercel.app)
 - [Prem Gangadharan](https://premsg.info)
