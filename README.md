@@ -829,10 +829,10 @@ This repo can serve as inspiration for your portfolio!
 - [Haroon Khalid](https://haronkhalid.github.io/portfolio) [Software Engineer & Digital Creator]
 - [Harsh Banka](https://harshbanka.tech) [Ai/Ml & Software Engineer]
 - [Harsh Doshi](https://iamharshdoshi.com) [Cloud Architect | Software Engineer | Agile Certified | Photographer | Entrepreneur]
-- [Harshitha C](https://harshitha-portfolio-fawn.vercel.app/) [Software Developer | Java, Spring Boot, React, REST APIs, SQL]
 - [Harsh Prajapati](https://harsh-prajapati54-github-io.vercel.app) [AI|ML Engineer]
 - [Harsh Singhvi](https://harshsinghvi.com)
 - [Harsh Vardhan Singh](https://hvsingh.vercel.app) [Full Stack Developer]
+- [Harshitha C](https://harshitha-portfolio-fawn.vercel.app/) [Software Developer | Java, Spring Boot, React, REST APIs, SQL]
 - [Harshendra Prajapati](https://harshendra.web.app) [Creative Developer | MERN Stack & React Native]
 - [Harshith Raj](https://harshithrajbangera.github.io/Portfolio/) [Full Stack Developer]
 - [Harwin Dan](https://itscrazydev.netlify.app)
