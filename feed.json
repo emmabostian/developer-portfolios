@@ -34,6 +34,10 @@
     "tagline": "Full Stack Developer"
   },
   {
+    "name": "Aaftab Vijapura",
+    "url": "https://aaftab.is-a.dev"
+  },
+  {
     "name": "Aahana Bobade",
     "url": "https://aahanabobade.com",
     "tagline": "Software Developer"
@@ -1473,6 +1477,11 @@
     "tagline": "Full Stack Developer (Python + MERN)"
   },
   {
+    "name": "Asad Amad Sheikh",
+    "url": "https://asadamadsh.me",
+    "tagline": "Full Stack Engineer | Startup MVPs"
+  },
+  {
     "name": "Asad Saeed",
     "url": "https://asad-saeed-portfolio.vercel.app",
     "tagline": "Full Stack Developer"
@@ -2146,6 +2155,16 @@
     "name": "Carlos Rojas",
     "url": "https://carlos-rojas-portfolio.vercel.app",
     "tagline": "Full Stack Developer | Aspiring Software Engineer"
+  },
+  {
+    "name": "Carlton Lindsay",
+    "url": "https://carlton.dev",
+    "tagline": "Design Engineer | Astro, React, TypeScript"
+  },
+  {
+    "name": "Carter Ogunsola",
+    "url": "https://carterogunsola.com",
+    "tagline": "Creative Developer | WebGL, Three.js, Astro"
   },
   {
     "name": "Cassiane Nascimento",
@@ -5711,6 +5730,11 @@
     "name": "Naimur Reza",
     "url": "https://naimur-reza.vercel.app",
     "tagline": "Software Engineer | Mid Level"
+  },
+  {
+    "name": "Naman Kumar",
+    "url": "https://naman-kumar2397.github.io",
+    "tagline": "Lead Site Reliability Engineer | AWS, Observability, AI Ops"
   },
   {
     "name": "Nandan Sai",
