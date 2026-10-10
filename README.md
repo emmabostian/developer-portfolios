@@ -1760,6 +1760,7 @@ This repo can serve as inspiration for your portfolio!
 - [Seif Osman](https://seifosman.com) [IT Store Technology Engineer | Full Stack & Security]
 - [Serdar Salim](https://serdarsalim.com) [Automation Engineer]
 - [Sergei Chestakov](https://sergei.com)
+- [Sergio Fernández](https://cv.geiser.cloud) [Staff AI DevOps Engineer]
 - [Sergio Jimenez](https://sergiojimenez.vercel.app) [Full Stack Web Developer]
 - [Sergio Sanchez](https://sdsanchezm.github.io) [.Net And Java Dev]
 - [Serhii Nazarov](https://www.serhii-nazarov.com) [Senior Front-End | Full Stack Engineer]
