@@ -994,7 +994,7 @@ This repo can serve as inspiration for your portfolio!
 - [Juan Pablo Jimenez](https://juanpablojimenez.dev) [Front-End Developer]
 - [Jubin Ayoob](https://web-portfolio-jubin369.vercel.app)
 - [Judicaël Ahyi](https://judicael-ahyi.com)
-- [Juhil K Bhatt] (https://juhilkbhatt.com) [Full Stack Software Engineer]
+- [Juhil K Bhatt](https://juhilkbhatt.com) [Full Stack Software Engineer]
 - [Julia Johnson](http://juliacodes.com)
 - [Julian Teofilov](https://julian-teofilov.vercel.app)
 - [Junaid Irfan](https://www.junaidirfan.com) [DevOps | Full Stack Developer]
