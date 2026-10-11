@@ -1247,6 +1247,7 @@ This repo can serve as inspiration for your portfolio!
 - [Michelle Brenner](https://michellebrenner.com)
 - [Miguel Rodriguez](https://migu.es)
 - [Mihir Chauhan](https://chauhan-mihir.vercel.app) [ML / AI Engineer | Data Science]
+- [Md Mizan] (https://www.md-mizan.vercel.app)
 - [Mihir Das](https://getmihir.com) [Full Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast]
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app) [Front-End Developer]
