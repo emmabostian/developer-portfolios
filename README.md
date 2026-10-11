@@ -1675,6 +1675,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shaan Khan](https://www.shaankhan.dev)
 - [Shafiuzzaman](https://shafisma.me) [Full Stack Developer | UI/UX]
 - [Shahan Arshad](https://shahan-arshad.github.io) [Full Stack Developer]
+- [Shahariar Azim Aksad](https://aksadio.github.io/Shahariar-Azim-Aksad/) [Developer | Python, AI Automation]
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shahmeer Rizwan](https://shahmeerrizwan.com) [Software Engineer]
