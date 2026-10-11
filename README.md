@@ -1678,6 +1678,7 @@ This repo can serve as inspiration for your portfolio!
 - [Said Kharboutli](https://saidk.io)
 - [Saif Ur Rehman](https://saifwebdev.netlify.app)
 - [Saiful Alam](https://msar.me)
+- [Saiful Veri Fernando](https://saifulveri.com) [Senior Web & App Developer]
 - [Saikiran Somanagoudar](https://www.saikiransomanagoudar.com)
 - [Sailesh Atreya](https://sailesh-atreya.vercel.app) [Photographer | Videographer | Editor]
 - [Saim Shafique](https://saimshafique.com) [Frontend Developer]
