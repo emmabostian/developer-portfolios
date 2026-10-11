@@ -722,6 +722,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fahed Khan](https://fahed-khan.vercel.app)
 - [Fahim Ahmed](https://fahim-cloud.vercel.app) [Full Stack Developer]
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
+- [Fahyan](https://fahyan.vercel.app/)[Software Developer  | Video Editor ]
 - [Faishal Hakim](https://faishal24.my.id)
 - [Farhan Segujja](https://farhansegujja.com) [Software Developer]
 - [Farindra Bhandari](https://fbb.com.np)
