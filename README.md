@@ -1721,6 +1721,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sankalp Tharu](https://sankalptharu.com.np)
 - [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
 - [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
+- [Sanskar Tiwari](https://santiwari07.qzz.io) [AI Systems Builder | Full Stack & IoT Developer]
 - [Santosh Yadav](http://santoshyadav.dev)
 - [Santusht Kotai](https://santusht.online) [Software Engineer | Backend & Distributed Systems]
 - [Sanyam Kumar](https://sanyam.dev)
