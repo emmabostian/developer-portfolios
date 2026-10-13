@@ -612,6 +612,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dev Patel](https://devpatel-freelancer.netlify.app) [.Net Devloper & Freelancer]
 - [Dev Saini](https://devportfolio001.netlify.app) [Full Stack Developer & AI/ML Engineer]
 - [Dev Verma](https://devverma.dev) [Full Stack AI Developer]
+- [Devesh Chandan](https://deveshchandan.me) [Software Engineer | Full Stack Developer]
 - [Devansh Baghel](https://baghel.dev) [Full Stack Developer]
 - [Devanshu Chicholikar](https://devanshuchicholikar.com) [Software Engineer | Full Stack & AI]
 - [Devanshu Verma](https://www.devanshuverma.in) [Frontend Developer]
