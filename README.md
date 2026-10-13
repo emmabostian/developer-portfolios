@@ -1120,6 +1120,7 @@ This repo can serve as inspiration for your portfolio!
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
+- [Lucas De Moraes](https://devlucas.site) [Full Stack Developer]
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
