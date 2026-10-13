@@ -2142,5 +2142,7 @@ This repo can serve as inspiration for your portfolio!
 - [Zubayer Hossain Patowari](https://zubayer-sigma.vercel.app) [Ai Engineer]
 - [Zulfiqar Alam](https://zulfiqaralam18.github.io)
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
+- [Zun Ul Noor](http://zunulnoor.vercel.app) [Frontend & Full Stack Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+
