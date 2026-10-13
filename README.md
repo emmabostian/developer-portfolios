@@ -1957,7 +1957,7 @@ This repo can serve as inspiration for your portfolio!
 - [Trisha Darure](https://trishadar.github.io/Portfolio/#about) [Full Stack Engineer]
 - [Tristan Chin](https://www.chintristan.io)
 - [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
-- [Tuanleanh](https://tuanleanh.com) [Full Stack Developer]
+- [Tuan Le Anh](https://tuanleanh.com) [Full Stack Developer]
 - [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
