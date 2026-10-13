@@ -897,7 +897,6 @@ This repo can serve as inspiration for your portfolio!
 - [Issam SENSI](https://issamsensi.com) [AI Developer | Full Stack Developer]
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
 - [Ivin Titus](https://ivin.site) [Full Stack Engineer]
-- [TuanLeAnh1003](https://tuanleanh.com)
 - [Ícaro Galvão](https://icaro0310.github.io) [Senior QA Engineer]
 
 ## J
@@ -1958,6 +1957,7 @@ This repo can serve as inspiration for your portfolio!
 - [Trisha Darure](https://trishadar.github.io/Portfolio/#about) [Full Stack Engineer]
 - [Tristan Chin](https://www.chintristan.io)
 - [Truong Thanh Long](https://portfolio-thanhlong.vercel.app/en) [Frontend Developer]
+- [Tuanleanh](https://tuanleanh.com) [Full Stack Developer]
 - [Tushar Kanjariya](https://tusharkanjariya.me) [Full Stack Developer]
 - [Tushar Singh Bisht](https://tusharsinghbisht.github.io)
 - [Tushar Singh](https://tusharsingh110.github.io/My-Portfolio)
