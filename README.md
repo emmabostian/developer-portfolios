@@ -616,6 +616,7 @@ This repo can serve as inspiration for your portfolio!
 - [Devanshu Chicholikar](https://devanshuchicholikar.com) [Software Engineer | Full Stack & AI]
 - [Devanshu Verma](https://www.devanshuverma.in) [Frontend Developer]
 - [Devdeep Saha](https://devdeepsaha.in) [ Designer who Codes | Full Stack Web Developer]
+- [Devesh Chandan](https://deveshchandan.me) [Software Engineer | Full Stack Developer]
 - [Devi Prasad](https://deviprasadkl.github.io/Portfolio/)
 - [Devi](https://devi-r.com)
 - [Devrim Mehmet Pattabanoğlu](https://devrimmehmet.com)
