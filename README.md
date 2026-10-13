@@ -1142,6 +1142,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
 - [Mahesh Darapureddy](https://maheshdarapureddy.in) [Full Stack Developer]
 - [Mahin Hasan](https://mahin527.vercel.app) [Shopify Expert | Full Stack Web Developer]
+- [Mahir Faysal](https://mfaysal.com/)
 - [Mahmoud Nabhan](https://mahmoudnabhan.com)
 - [Mahmoud Zalt](https://zalt.me) [Full Stack Engineer | Software Architect | Ai Engineer | Tech Consultant | Mentor]
 - [Mahtab Ahmad](https://portfolio-1-0xhg.onrender.com) [Machine Learning Engineer]
