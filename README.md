@@ -1038,6 +1038,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kavin](https://devekavin.github.io/Portfolio) [Web Developer]
 - [Kavy Sachaniya](https://kavy-sachaniya.vercel.app) [Full Stack Developer | Student]
 - [Kay Evans-Stocks](https://www.kaystocks.com) [Design Engineer]
+- [Keerthana R](https://keerthana-raghu.vercel.app/) [Data Analyst]
 - [Keita Yamada](https://p5aholic.me) [Designer & Web Developer]
 - [Keith Guo](https://dinq.me/keith) [AI Engineer]
 - [Keith Lau](https://keithlau2015.github.io/portfolio)
