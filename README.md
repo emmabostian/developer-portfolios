@@ -1829,6 +1829,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shubham Chaturvedi](https://shu8ham.netlify.app)
 - [Shubham Dey](https://shubhamdey01.github.io) [Student | AI/ML | Data Science]
 - [Shubham Gaur](https://shubhamessier.github.io/portfolio)
+- [Shubham Gupta](https://shubhamrdg.vercel.app) [Link](https://www.shubhamrdg.me) [Mern Stack Devloper]
 - [Shubham Gupta](https://www.shubhamgupta.dev) [Senior Software Engineer | Full Stack Developer]
 - [Shubham Sharma](https://shubhamsharma.in) [Full Stack Developer]
 - [Shubham Tarade](https://coder-shanks.github.io)
