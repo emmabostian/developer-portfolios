@@ -772,6 +772,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ganesh Narayanapurapu](https://ganesh-vscode.netlify.app) [Developer | Turning Ideas into Code]
 - [Ganesh Patil](https://hardikjain.netlify.app)
 - [Ganesh](https://ganesh717.netlify.app)
+- [Gareth Wright](https://garpunkal.dev) [Senior .NET & C# Solutions Architect]
 - [Garima Bhayana](https://garimabhayana.vercel.app)
 - [Gary Doman / GareBear99 / GareBearProductionz / TizWildin](https://garebear99.github.io/TizWildinEntertainmentHUB/) [Software Developer | Audio DSP | AI Infrastructure | Music Tech]
 - [Gaurav Bansal](https://gaurav-bansal.vercel.app)
