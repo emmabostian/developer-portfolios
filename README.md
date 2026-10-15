@@ -265,7 +265,7 @@ This repo can serve as inspiration for your portfolio!
 - [André De Faria](https://andredfaria.github.io)
 - [Andy Bell](https://andy-bell.design)
 - [Andy Wong](https://www.andy-hk.com) [Full Stack Developer | Mobile App Developer]
-- [Aneeth Kumaar](https://akwastaken.github.io) [Graphic Designer | Programmer]
+- [Aneeth Kumaar](https://aneethkumaar.is-a.dev) [Graphic Designer | Programmer]
 - [Angkon Kar](https://angkonkar.netlify.app) [‍Frontend Engineer | Competitive Programmer]
 - [Anh Duong](https://dhlananh-dev-portfolio.vercel.app) [‍Frontend Developer]
 - [Anh Nguyen](https://anhnq15.github.io) [Software Engineer]
