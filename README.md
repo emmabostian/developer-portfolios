@@ -1313,6 +1313,7 @@ This repo can serve as inspiration for your portfolio!
 - [Muhammet Fatih Di̇Nç](https://mfatihdinc.com)
 - [Mujtaba Saqib](https://www.mujtabasaqib.com) [Data Engineer | Data Scientist]
 - [Mukesh](https://themukesh.com) [Java,React, next.js, Full Stack Developer]
+- [Mukesh Kumar](https://mukeshdevx.vercel.app) [Full Stack Developer (MukeshDevX)]
 - [Mukul Chugh](https://mukulchugh.com)
 - [Munyaradzi Mzite](https://munyaradzimzite.vercel.app)[AI Graphics Engineer]
 - [Mustafa Yalçın](https://mylcin.vercel.app) [Front-End Developer]
