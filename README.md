@@ -1948,6 +1948,7 @@ This repo can serve as inspiration for your portfolio!
 - [Thinh Ngo](https://thinhcorner.com)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Thomas Havlik](https://thavlik.dev) [Software Architect | Medical Student]
+- [Thuany Paula Kamers](https://thuanykamers.github.io/portfolio/) [Junior Developer & IT Support | Cybersecurity Enthusiast]
 - [Tiago Hermano](https://tiagohermano.dev)
 - [Tiago Leite](https://www.tiagocreator.com)
 - [Tibor Ignéczi](https://igneczitibor.hu) [Full Stack Developer]
