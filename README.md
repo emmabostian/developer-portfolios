@@ -1503,6 +1503,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prashanth Kumar G](https://prashanth-kumar-g.github.io) [🚀 Software Engineer | Full Stack Developer | Java Backend Developer | System Design | ⭐ Leetcode | Internet of Things | Generative AI]
 - [Prataya Silla](https://prataya-portfolio.vercel.app)
 - [Pratik Salunke](https://pratiksalunkeportfolio.vercel.app) [Aspiring Backend Developer | Python & Django]
+- [Pratik Wani](https://pratikwani.vercel.app) [Full Stack Developer]
 - [Praveen Kumar Purushothaman](https://praveen.science) [Full Stack React Js Developer | Director Of Engineering]
 - [Praveen Kumar](https://praveengongada.com) [Software Development Engineer]
 - [Praveen Singh](https://www.praveensingh.co.in) [Senior React Native Developer | iOS & Android]
