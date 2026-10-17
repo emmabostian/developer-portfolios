@@ -107,6 +107,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Kumar T](https://abhishek-kumar-t.vercel.app/) [Full Stack Developer]
 - [Abhishek Panchal](https://skillstackpanchal.vercel.app)
 - [Abhishek Panthee](https://abhishekpanthee.com.np)
+- [Abhishek Rai A](https://portfolio.abhirai2006.workers.dev/) [AI & ML Student | Aspiring Machine Learning Engineer]
 - [Abhishek Sah](https://www.abhisheksah.dev) [Software Engineer]
 - [Abhishek Sharma](https://www.abhisheksharma.codes) [Full Stack Developer | Software Engineer]
 - [Abhishek Singh](https://www.abhishekworks.com) [Full Stack Developer]
