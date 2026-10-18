@@ -1699,6 +1699,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sajjad Hossain Soykot](https://www.sajjadsoykot.me) [Full Stack Software Engineer | System Design & UI/UX | IT Trainer]
 - [Sakib Mansuri](https://sakib-m.me) [Software engineer/AI developer]
 - [Saksham Agarwal](https://skshamagarwal.github.io)
+- [Saksham Garg](https://sakshamgargportfolio.vercel.app/) [Full Stack Developer | React, Next.js & Node.js]
 - [Saksham Sirohi](https://saksham-sirohi.github.io) [Software Engineer | Open Source | Full Stack]
 - [Sakshi Hanwat](https://sakshi-portfolio-eta-swart.vercel.app) [Java Full Stack Developer]
 - [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
