@@ -2086,6 +2086,7 @@ This repo can serve as inspiration for your portfolio!
 - [Waleed Ahmed](https://waleedahmed.site) [Full Stack Developer | Typescript, Next.js, Node.js]
 - [Walker Smith](https://walkersmith.me)
 - [Walter Veriza](https://walter-veriza.vercel.app) [Senior Product Owner | Product Manager & PMO]
+- [Waqas Sharif](https://waqas01cp.github.io/) [AI Engineer | LLM Reliability | Agentic Systems in Production]
 - [Wasif Amin](https://camelon.app) [Software & AI Engineer | Cybersecurity | Data Science]
 - [Wesker Shek](https://weskershek.com) [Full Stack/Creative Developer]
 - [Whilmar Bitoco](https://whilmarbitoco.vercel.app) [Software Developer | Web & Cloud]
