@@ -43,6 +43,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aakash Sharma](https://aakash-sharma.netlify.app)
 - [Aakhand Tajmirul](https://www.tajmirul.site) [Frontend Engineer]
 - [Aaleksa Janjic](https://akkila.dev) [Full Stack Developer]
+- [Aali WordPress](https://ali-wordpress-developer.com) [WordPress WooCommerce Developer]
 - [Aanand Madhav](https://aanandmadhav.com) [Senior PM | UX]
 - [Aarab Nishchal](https://aarab.vercel.app) [Engineering Student | Full Stack Developer]
 - [Aarav Sharma](https://aarav-sharma-liart.vercel.app) [Founder at Wensity | Sr. design engineer | UI/UX developer in Rune]
