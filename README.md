@@ -467,6 +467,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bishoy Nabil](https://bishonabil.github.io/Portfolio/) [Web & CMS Developer | WordPress, Shopify & React, Php, Html, CSS]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
+- [Blake Karbon](https://blakekarbon.github.io/) [ COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack + ]
 - [Blake Werlinger](https://werlinger.dev) [Gameplay Programming | Backend Architecture | Web Development]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bluezly](https://www.bluezly.exid.me)
