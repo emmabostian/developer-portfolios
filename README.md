@@ -1284,6 +1284,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mohit Shrivastava](https://iamohit.com) [Senior Full Stack Engineer | Next.js Specialist]
 - [Mohit Verma](https://mohitverma.codes)
 - [Moin Sheikh](https://moinsheikh.in) [Full Stack Developer | AI Innovator]
+- [Moritz Hauer](https://moritzhauer.github.io) [Software Developer & Architect]
 - [Moteeullah Azmi](https://moteeullahazmi.com) [Full Stack Developer & Freelancer]
 - [Mouad Ziani](https://mouadziani.github.io)
 - [Mouzan Raza](http://my-portfolio-jz1h.vercel.app) [AI/LLM Engineer]
