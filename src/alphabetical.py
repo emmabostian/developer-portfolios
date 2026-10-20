@@ -624,6 +624,24 @@ def is_well_formed_url(url):
     return bool(_HOSTNAME_RE.match(parsed.netloc))
 
 
+_ESCAPED_SCHEME_RE = re.compile(r'(\]\()(https?)\\+(://)')
+
+
+def fix_escaped_url_scheme(lines):
+    """Strip stray backslashes from the scheme of entry links.
+
+    Markdown pasted from other sources often escapes the colon, producing
+    'https\\://example.com'. Returns (new_lines, fixed_count).
+    """
+    fixed = 0
+    out = []
+    for line in lines:
+        new_line, n = _ESCAPED_SCHEME_RE.subn(r'\1\2\3', line)
+        fixed += n
+        out.append(new_line)
+    return out, fixed
+
+
 def find_malformed_urls(lines):
     """Scan portfolio entry lines for URLs that are not well-formed.
 
@@ -705,6 +723,11 @@ def main():
     # Matches [ spaces content spaces ] and removes the extra spaces
     bracket_padding_re = re.compile(r"\[\s+([^]]*?)\s+\]")
     cleaned_bracket_lines = [bracket_padding_re.sub(r"[\1]", line) for line in normalized_lines]
+
+    # Repair escaped URL schemes ('https\\://') before duplicate detection
+    cleaned_bracket_lines, escaped_fixed = fix_escaped_url_scheme(cleaned_bracket_lines)
+    if escaped_fixed:
+        print(f"Fixed {escaped_fixed} URL(s) with an escaped scheme in README.md.")
 
     # New: remove duplicate URLs across the document (keep first occurrence)
     url_deduped_lines, url_removed = remove_duplicate_urls(cleaned_bracket_lines)
