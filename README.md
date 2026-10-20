@@ -1348,6 +1348,7 @@ This repo can serve as inspiration for your portfolio!
 - [Natasha Pierre-Louis](https://www.natashasfolio.com) [Front-End Developer | Design Technologist | Ui/Ux Engineer]
 - [Nathan Simpson](https://nathansimpson.design)
 - [Navdeep Singh](https://navdeep.site) [Full Stack Dev | Student at NITJ]
+- [Naved Alam](https://naved.xyz) [Design Engineer | Design Systems & Front-End]
 - [Naveed Ahmed](https://www.trixum.net)
 - [Naveed Sohail Gung](https://naveed-gung.dev) [Software Engineer]
 - [Naveen Kumar Pasupuleti](https://naveens-portfolio-three.vercel.app) [Salesforce QA]
