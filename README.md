@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 2054
+## Current Portfolio Count: 2063
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -467,7 +467,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bishoy Nabil](https://bishonabil.github.io/Portfolio/) [Web & CMS Developer | WordPress, Shopify & React, Php, Html, CSS]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
-- [Blake Karbon](https://blakekarbon.github.io/) [ COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack + ]
+- [Blake Karbon](https://blakekarbon.github.io) [ COBOL / Legacy Systems Developer (Healthcare) | Firmware Developer | Full Stack +]
 - [Blake Werlinger](https://werlinger.dev) [Gameplay Programming | Backend Architecture | Web Development]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bluezly](https://www.bluezly.exid.me)
@@ -1068,7 +1068,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kishor Jeyachandran](https://kishorrj.vercel.app)
 - [Kishor Marasini](https://kishormarasini.com.au) [Software Developer]
 - [Kishore](https://mkishore.is-a.dev)
-- [Kittipop Sanpho](https://www.kktp.my/) [Full Stack Developer]
+- [Kittipop Sanpho](https://www.kktp.my) [Full Stack Developer]
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
@@ -1811,7 +1811,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shashank Kumar Chaudhary](https://my-portfolio-shashank-crypto.vercel.app)
 - [Shashank Shet](https://shashank-shet.vercel.app)
 - [Shashi Kant](https://shashikantportfolio.web.app) [Full Stack Developer]
-- [Shashi Kumar](https://shashiben.me) [Creative Full-Stack Engineer]
+- [Shashi Kumar](https://shashiben.me) [Creative Full Stack Engineer]
 - [Shaun Fischmann](https://heyshaun.fr) [Partnership Manager | Web Developer | Proptech]
 - [Shaun Furtado](https://shaunfurtado.is-a.dev)
 - [Shaurya Chandhoke](https://shauryachandhoke.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio) [Software Engineer | Machine Learning Engineer]
@@ -1836,7 +1836,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shrey Varshney](https://shreyvarshney.pages.dev) [Software Engineer | Full Stack Developer]
 - [Shreya Saraswat](https://shreya-saraswat-portfolio.vercel.app) [Frontend Developer | ReactJs]
 - [Shreyam Adhikari](https://shreyam1008.com.np) [Full Stack Developer | Go, TypeScript & Development Tools]
-- [Shreyansh Agarwal](https\://shreyanshportfolio.in) [Backend Developer | Python, Java & AI Tools]
+- [Shreyansh Agarwal](https://shreyanshportfolio.in) [Backend Developer | Python, Java & AI Tools]
 - [Shreyas Raviprakash](https://portfolio-vfee.vercel.app) [Full Stack Developer]
 - [Shubhadeep Mahapatra](https://shubhadeepsec.github.io) [Cybersecurity]
 - [Shubham 404](https://shubham-404.vercel.app) [Crafting Code with Purpose | Student]

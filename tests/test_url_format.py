@@ -71,3 +71,15 @@ class TestFindMalformedUrls(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+class TestFixEscapedUrlScheme(unittest.TestCase):
+    def test_removes_backslash(self):
+        lines = ["- [A](https\\://a.com) [Dev]\n", "- [B](http\\://b.com)\n"]
+        fixed, n = alphabetical.fix_escaped_url_scheme(lines)
+        self.assertEqual(n, 2)
+        self.assertEqual(fixed[0], "- [A](https://a.com) [Dev]\n")
+        self.assertEqual(fixed[1], "- [B](http://b.com)\n")
+
+    def test_leaves_good_lines(self):
+        lines = ["- [A](https://a.com)\n"]
+        self.assertEqual(alphabetical.fix_escaped_url_scheme(lines), (lines, 0))
