@@ -172,5 +172,6 @@ README.md.bak
 tmp_README.md
 src/__pycache__/
 tests/__pycache__/
+CLAUDE.md
 
 # End of https://www.gitignore.io/api/linux,visualstudiocode,jetbrains+all,sublimetext,vim
