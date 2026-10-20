@@ -1259,6 +1259,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mihir Das](https://getmihir.com) [Full Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast]
 - [Milan Milanovic](https://milan.milanovic.org)
 - [Min Khant Kyaw](https://min-khant-kyaw-portfolio.vercel.app) [Front-End Developer]
+- [Minh Quan](https://nauqh.github.io) [Software Engineer | AI Automation]
 - [Minmitha](https://minmitha.vercel.app)
 - [Mitul Savani](http://mitulsavani.com)
 - [Mohamad Fadhil Yaacob](https://fadhil-blog.dev)
