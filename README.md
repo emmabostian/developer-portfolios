@@ -2063,6 +2063,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vishnu Rohith](https://vishnurohithb.dev) [Full Stack Developer]
 - [Vishnu Sharma](https://vs-code-cloud.github.io)
 - [Vishvaas Kumar](https://vishvaas.dev) [Cat | Chomik]
+- [Vishvajeet Shukla](https://www.vishvajeetshukla.in) [Full Stack Developer | MERN, Next.js & DevOps]
 - [Vishwanath](https://frozenhearth.vercel.app)
 - [Vishwasa Navada](https://vishwas.tech)
 - [Vitaliy Ivanov](https://vitaliy.vercel.app)
