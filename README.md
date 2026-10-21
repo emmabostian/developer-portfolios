@@ -441,6 +441,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ben Rogers](https://benrogers.dev)
 - [Ben Zimmermann](https://benzimmermann.dev) [Security/OSINT Researcher]
 - [Benedict Lutab](https://marbelona.com) [Full Stack Software Engineer | Product Engineer | AI UGC Video Creator]
+- [Benjamin Blanke](https://blanke.lol) [Full Stack Developer | Web Developer]
 - [Benjamin Cyubahiro](https://beno-portofolio-v2.onrender.com)
 - [Benjamin Dallard](https://github.com/bdallard/ai-resume-portfolio)
 - [Benjamin Lannon](https://lannonbr.com)
