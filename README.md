@@ -604,6 +604,7 @@ This repo can serve as inspiration for your portfolio!
 - [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
 - [Deepak Chawla](https://deepak-chawla.com)
 - [Deepak Singh](https://deepaksingh.vercel.app)
+- [Deepak Terse](https://deepak-terse.github.io) [Technical Architect & AI Engineer]
 - [Deepu Kunjumon](https://deepukunjumon.vercel.app) [Software Developer - PHP | Laravel | Slim | React.js]
 - [Delba](https://delba.dev)
 - [Delvin Khor](https://delvin.portfolio-me.bio)
@@ -2166,4 +2167,3 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
-
