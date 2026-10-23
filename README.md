@@ -922,6 +922,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jai Li](https://lijw07.github.io/portfolio) [Software Engineer]
 - [Jaimin Bariya](https://jaimin-bariya.web.app)
 - [Jainex Patel](https://jainex.vercel.app)
+- [Jaison David](https://jaisondavid.in) [Backend & Distributed Systems Engineer | Go, Kafka, Redis]
 - [Jake Ginesin](https://jakegines.in)
 - [Jake Walklate](https://svnty.is-a.dev) [Biotech Engineer]
 - [Jakub Borowy](https://jakubborowy.com)
