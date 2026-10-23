@@ -1371,6 +1371,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nguyen Chanh Dang](https://chanhdang.com)
 - [Nicholas Gannon](https://nicholasgannon.io)
 - [Nick Gray](https://nickgray.net)
+- [Nickolas Diaz](https://nickolasddiaz.github.io)
 - [Nico Bachner](https://nicobachner.com)
 - [Nico Van Zyl](https://nicovanzyl.com)
 - [Nicolas Nguyen](https://www.nic-nguyen.com)
