@@ -2074,6 +2074,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vishal Singh](https://vi5hal.vercel.app) [Full Stack Developer (Mern)]
 - [Vishnu Rohith](https://vishnurohithb.dev) [Full Stack Developer]
 - [Vishnu Sharma](https://vs-code-cloud.github.io)
+- [Vishwa R](https://vishwa.vercel.app) [Full Stack Developer | React, Next.js, APIs & Automation]
 - [Vishvaas Kumar](https://vishvaas.dev) [Cat | Chomik]
 - [Vishvajeet Shukla](https://www.vishvajeetshukla.in) [Full Stack Developer | MERN, Next.js & DevOps]
 - [Vishwanath](https://frozenhearth.vercel.app)
