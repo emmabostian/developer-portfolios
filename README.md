@@ -1156,6 +1156,7 @@ This repo can serve as inspiration for your portfolio!
 - [Mahatab Hossen Sudip](https://sudipmhx.pro.bd) [MERN Stack Developer]
 - [Mahdi Hasan](https://mahdihasan.space) [Software Engineer]
 - [Mahdi.Is-A.Dev](http://mahdi.is-a.dev)
+- [Mahdi Salek](https://mahdis24.tech) [Front-End Developer | Vue.js]
 - [Mahesh Darapureddy](https://maheshdarapureddy.in) [Full Stack Developer]
 - [Mahin Hasan](https://mahin527.vercel.app) [Shopify Expert | Full Stack Web Developer]
 - [Mahir Faysal](https://mfaysal.com)
