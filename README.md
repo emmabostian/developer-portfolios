@@ -534,6 +534,7 @@ This repo can serve as inspiration for your portfolio!
 - [Chigozie Ghislian](https://ghislian-ai.netlify.app) [Junior Machine Learning Engineer | AI & Data Science]
 - [Chirag Bhalotia](https://chirag.codes)
 - [Chirag Samal](http://chiragsamal.github.io)
+- [Chirag Shetty](https://chirag4798.github.io/) [AI/ML Engineer | Generative AI & Computer Vision]
 - [Chiragchrg](https://chiragchrg.netlify.app) [Full Stack Developer]
 - [Chosensoul](https://chosensoul.kesug.com) [Frontend\Embedded Developer]
 - [Chris Coyier](https://chriscoyier.net) [Co-Founder Of Codepen]
