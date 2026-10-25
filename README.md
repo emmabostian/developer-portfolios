@@ -1030,6 +1030,7 @@ This repo can serve as inspiration for your portfolio!
 - [Karan Chhunchha](https://karanchhunchha.in) [Software Developer | AI Automation]
 - [Karthik Menon](https://www.karthikmenon.com)
 - [Karthik Shetty](http://karthikshetty.info) [Software Engineer | Full Stack Developer]
+- [Kartik Gaikwad](https://react-portfolio-fawn-three.vercel.app) [Software Engineer | Full Stack Developer]
 - [Kartik Gautam](https://kartikgautam.com) [SDE 3 | Full Stack Engineer]
 - [Kartik Jain](https://jkartik.in) [‍ Backend Developer | Cybersecurity Enthusiast]
 - [Karunika](https://karunika.work)
