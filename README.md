@@ -2145,6 +2145,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yogesh Saini](https://saini-yogesh.github.io/Portfolio)
 - [Yogi Arif Widodo](https://yogiarifwidodo.my.id) [Full Stack Software Engineer]
 - [Yohannes Getachew](https://johngech.netlify.app) [Full Stack Developer | Software Engineer]
+- [Yorben Vander Sleyen](https://yorben.me) [Apple Platforms Engineer | SwiftUI & Architecture]
 - [Younes Megaache](https://younes-megaache.com) [Software Developer]
 - [Yubraj Khatri](https://www.yubrajkhatri.com.np) [Full Stack/Ai Developer]
 - [Yuelin Liu](https://www.liuyuelin.dev) [Full Stack Developer]
