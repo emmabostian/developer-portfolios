@@ -905,6 +905,7 @@ This repo can serve as inspiration for your portfolio!
 - [Israel Mitolu](https://israelmitolu.netlify.app)
 - [Issam SENSI](https://issamsensi.com) [AI Developer | Full Stack Developer]
 - [Istiuqe Ahmed](https://istiuqeahmed.vercel.app) [Front-End Developer]
+- [Ivan Markin](https://curiouseyes.tech) [Full Stack Engineer | React / Vue / Node.js / Electron]
 - [Ivin Titus](https://ivin.site) [Full Stack Engineer]
 - [Ícaro Galvão](https://icaro0310.github.io) [Senior QA Engineer]
 
