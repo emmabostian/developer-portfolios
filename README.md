@@ -1076,6 +1076,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kishore](https://mkishore.is-a.dev)
 - [Kittipop Sanpho](https://www.kktp.my) [Full Stack Developer]
 - [Konan Serge](https://serge07cloud.github.io/portfolio/) [Web Developer | PERN]
+- [Korey Wang Tianru](https://korey2028.tech) [Product Manager | AI applications / Agent workflows]
 - [Kosikan Nagananthakumaran](https://kosikan.vercel.app)
 - [Koushik Goud Shaganti 💻](https://koushik1133.github.io/portfolio1) [Software Engineer Co-op | AI & Full Stack Dev]
 - [Koushik Paul](https://koushikpaul7.github.io/koushikpaul/) [Software Engineer | php & Laravel]
