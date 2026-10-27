@@ -1563,6 +1563,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rahul Gulabaji](https://rahulgulabaji.github.io) [Software Engineer]
 - [Rahul Gurujala](https://rahulgurujala.is-a.dev) [Full Stack Developer]
 - [Rahul Khatwani](https://rahulkhatwani.vercel.app) [Full Stack Developer]
+- [Rahul Kumar](https://rahnoxa.antideploy.com) [Software Architect & Full-Stack Engineer]
 - [Rahul Kumar](https://rahulbaran.vercel.app)
 - [Rahul Kushwaha](https://raahullkushwaha.dev) [Full Stack Developer | Java | Spring Boot]
 - [Rahul Mehta](https://rahulmehta.dev)
