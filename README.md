@@ -999,6 +999,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joy Biswas](https://joybtw.com) [Backend Developer]
 - [Jozsef Pallagi](https://jozsefpallagi.com) [Full Stack Engineer]
 - [João Claudio Prestes](https://www.joaoprestes.dev) [Full Stack Developer | ML Engineer]
+- [João Pedro Moreira](https://nayetdet.dev) [Full Stack Developer]
 - [Juan Benito](https://juanbenito.vercel.app) [Full Stack Web Developer]
 - [Juan Cisneros](https://portfoliojuanfranciscocisneros.web.app)
 - [Juan Diaz](https://jpdiaz.dev)
