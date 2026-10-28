@@ -751,6 +751,7 @@ This repo can serve as inspiration for your portfolio!
 - [Floris Melchers](https://Floriscodes.nl)
 - [Forhad_Khan](https://forhadkhandev.vercel.app) [Front-End Developer]
 - [Frances Coronel](https://francescoronel.com)
+- [Francis Luz](https://entry.fyi/francisluz) [Founder, Entry | Software Engineer]
 - [Francisco Salido](https://paco.fyi?utm_source=gh) [Software Engineer]
 - [Franck Galliod](https://www.franckwebpro.com) [Full Stack & Webflow Developer]
 - [Franco Ruiz](https://francoruiz.dev) [Staff Frontend Engineer]
