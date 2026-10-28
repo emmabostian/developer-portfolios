@@ -2069,6 +2069,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vineet Machchal](https://vineetcodes.vercel.app) [Web Developer]
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)
+- [Vip3r](https://vip3r-portfolio.vercel.app) [Full-Stack Web Developer | Exiled Developer]
 - [Viraj Mavani](https://virajmavani.dev) [Full Stack Engineer | AI Engineer]
 - [Viren Hirpara](https://www.virenhirpara.com) [Python Developer | Digital Forensic Expert]
 - [Vishal Bhangare](https://vishalbhangare.netlify.app)
