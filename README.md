@@ -562,6 +562,7 @@ This repo can serve as inspiration for your portfolio!
 - [Cristiano Filho](https://cristianofilho.github.io)
 - [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
 - [Cui Ding](https://cuierd.github.io)
+- [Custard](https://custard.top/en) [Data Analysis | Product Development]
 - [César Gómez](https://cesargomez.dev) [Senior Vue/Nuxt & Full Stack Engineer]
 
 ## D
