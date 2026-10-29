@@ -207,6 +207,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aleksei Ross](https://ross.aleksei.digital/98?ref=emmabostian) [Tech Lead & Sr. Software Engineer]
 - [Alestor Aldous](http://alestor123.github.io)
 - [Alex Michailidis](https://alexandros.tech)
+- [Alex Koncept](https://alexkoncept.github.io/) [Creative Technologist & Maker. Interactive Web OS, Three.js 3D Holo-Deck, local & multimodal AI prototypes]
 - [Alexandre Fernandes](https://alexandrefernandes.dev) [Software Engineer | AI/ML & Full Stack]
 - [Alexandre Trotel](https://www.alexandretrotel.org)
 - [Alexey Golub](http://tyrrrz.me)
