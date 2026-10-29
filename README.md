@@ -750,6 +750,7 @@ This repo can serve as inspiration for your portfolio!
 - [Flora Liu](https://floraliu.dev) [Hardware Engineer | Mechanical Engineering & NPI]
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
+- [Foisal](https://foisal.org) [Full Stack Developer | Blockchain]
 - [Forhad_Khan](https://forhadkhandev.vercel.app) [Front-End Developer]
 - [Frances Coronel](https://francescoronel.com)
 - [Francis Luz](https://entry.fyi/francisluz) [Founder, Entry | Software Engineer]
