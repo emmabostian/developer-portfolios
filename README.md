@@ -2036,6 +2036,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vaibhav Singh](https://www.vaibhavspace.tech) [Full Stack Developer | Open Source Developer]
 - [Vaidhyanathan](https://vaidhyanathansm.netlify.app)
 - [Vaishali Purohit](https://vaishali-portfolio-nine.vercel.app) [Senior Full Stack Engineer | React, Next.js, TypeScript, Node.js, Python | AI & Data Science]
+- [Vaishali Wankhede](https://vaishbil.github.io/portfolio) [Full Stack Developer]
 - [Valentin Gil](https://vgil.fr) [Student]
 - [Valentin Lefrançois](https://valentinlefrancois.dev) [Senior Full Stack Engineer]
 - [Valter Negreiros](https://valternegreiros.com) [Senior Mobile Software Engineer]
