@@ -1137,6 +1137,7 @@ This repo can serve as inspiration for your portfolio!
 - [Long Do](https://longpdo.github.io)
 - [Loren Kamau](https://lorenkamau.com) [Founder of Aptifolio]
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
+- [Louey Lahwel](https://forkfolio.dev/loueylahwel) [Data Engineer]
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
