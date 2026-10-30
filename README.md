@@ -1822,6 +1822,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shannon Crabill](http://shannoncrabill.com)
 - [Shanthosh Krishnakumar](https://drmsweb.com)
 - [Shanto Joseph](https://shantojoseph.com) [Full Stack | Developer]
+- [Sharath Pai](https://sharathpai.vercel.app) [AI & Backend Developer | LLMs, Agents, RAG]
 - [Sharif Rahat](https://sharifrahat.com) [Full Stack Developer]
 - [Sharif](https://developersharif.github.io/me/) [Full Stack Engineer]
 - [Sharon Yi](https://sharon-yi.com) [Frontend Developer]
