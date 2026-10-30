@@ -59,7 +59,6 @@ This repo can serve as inspiration for your portfolio!
 - [Aayush Mishra](https://aayush-mishra.xyz) [Front-End Developer]
 - [Aayush Raj](https://ayushcmd.me) [Full Stack Developer | Problem Solver | AI & ML | React & Node.js Developer]
 - [Aayush Sood](https://www.aayushsood.com)
-- [Ayush Anand Srivastava](https://www.ayushdoesdev.in/) [Backend & GenAI Systems Engineer | Technical Lead]
 - [Abass Alzouma](https://abass.wanecrea.com)
 - [Abbas Raza](https://abbasraza.dev) [Software Engineer | Freelancer | AI & Blockchain Enthusiast]
 - [Abdalla Elradi](https://aelradi.engineer) [AI Automation Engineer]
@@ -405,6 +404,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ayman Ismail](https://aymanismail.com) [Software Engineer | Full Stack Developer]
 - [Ayodele Ayoola](https://www.ayodeleayoola.com) [Software Developer | Frontend Heavy Full Stack]
 - [Ayush Acharya](https://ayushacharya.vercel.app) [Passionate - Full Stack Software Developer]
+- [Ayush Anand Srivastava](https://www.ayushdoesdev.in/) [Backend & GenAI Systems Engineer | Technical Lead]
 - [Ayush Das](https://ayushdas.vercel.app) [Full Stack Developer]
 - [Ayush Kumar Gupta](https://ayyush08.vercel.app) [Full Stack Developer]
 - [Ayush Kumar](https://ayushj.is-a.dev)
