@@ -114,6 +114,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhisht Singh](https://abhisht2000.github.io/Portfolio/) [Full Stack Developer | AIML Enthusiast]
 - [Abinash Sharma](https://abinash-sharma.pages.dev) [Software Developer | MCA | Cloud | AI]
 - [Abraham Bankole](https://abrahambankole.dev)[Software Engineer | Full Stack Web Developer]
+- [Abu Jafor](https://portfolio-website-bc28.vercel.app/) [Frontend Developer | React, Next.js]
 - [Abu Suhaib](https://ceo.pronexus.in) [Leading Startup Founder]
 - [Abubakr Mufutau-Oseni](https://abubakrmo.com)
 - [Achint Verma](https://achint.vercel.app) [Full Stack Developer]
