@@ -1,14 +1,13 @@
 #!/usr/bin/env python3
 """Detect portfolio links whose domains redirect to ad/parking pages.
 
-Strategy (two-phase to minimise network cost):
-  1. HEAD request to every URL — cheap, follows redirects, captures final URL.
-  2. Only when the final domain differs from the original do we issue a GET
-     request and inspect the page body for parking keywords.
-
-This means the ~95% of links that stay on their own domain cost only one fast
-HEAD request each. Expensive GET+content checks are reserved for the small
-subset that actually redirected somewhere unexpected.
+Strategy (two-phase):
+  1. HEAD request to every URL — cheap, follows redirects, captures final URL,
+     and catches dead/expired domains.
+  2. GET request to every URL that survives phase 1. The page <title> is
+     checked for gambling spam (a hijacked domain often serves it without
+     redirecting). When the final domain differs from the original, the page
+     body is also checked for parking keywords.
 
 Usage:
   python src/check_parking_redirects.py                    # dry-run, prints report
@@ -59,6 +58,17 @@ PARKING_PHRASES = [
     "domain registration expired",
 ]
 
+# Matched against the <title> only, to keep false positives low (a developer's
+# casino-game project shouldn't trip this; a gambling-spam title will).
+GAMBLING_TITLE_PHRASES = [
+    "slot88", "slot gacor", "situs slot", "slot online", "slot demo",
+    "togel", "toto online", "situs toto", "bandar toto", "judi online",
+    "situs judi", "judi slot", "casino online", "online casino",
+    "agen judi", "link alternatif", "sbobet", "pragmatic play",
+]
+
+_TITLE_RE = re.compile(r"<title[^>]*>(.*?)</title>", re.IGNORECASE | re.DOTALL)
+
 _USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
@@ -99,6 +109,18 @@ def _has_parking_content(text: str) -> tuple:
     return False, ""
 
 
+def _has_gambling_title(text: str) -> tuple:
+    """Return (True, matched_phrase) if the page <title> looks like gambling spam."""
+    m = _TITLE_RE.search(text)
+    if not m:
+        return False, ""
+    title = m.group(1).lower()
+    for phrase in GAMBLING_TITLE_PHRASES:
+        if phrase in title:
+            return True, phrase
+    return False, ""
+
+
 def _make_request(url: str, method: str, timeout: int) -> urllib.request.Request:
     req = urllib.request.Request(url, method=method)
     req.add_header("User-Agent", _USER_AGENT)
@@ -134,10 +156,6 @@ def check_url(url: str, timeout: int) -> dict:
         final_domain = _netloc(final_url)
         domain_changed = orig_domain and final_domain and orig_domain != final_domain
 
-        # If domain stayed the same and isn't a known parking domain, we're done
-        if not domain_changed:
-            return result
-
     except urllib.error.HTTPError as e:
         if e.code in (404, 410):
             result["status"] = "dead"
@@ -161,7 +179,7 @@ def check_url(url: str, timeout: int) -> dict:
         result["reason"] = str(e)
         return result
 
-    # --- Phase 2: GET + content check (only for cross-domain redirects) ---
+    # --- Phase 2: GET + content check ---
     try:
         resp, final_url = _follow(url, "GET", timeout)
         result["final_url"] = final_url
@@ -172,11 +190,21 @@ def check_url(url: str, timeout: int) -> dict:
             return result
 
         body = resp.read(65_536).decode("utf-8", errors="replace")
-        matched, phrase = _has_parking_content(body)
+
+        matched, phrase = _has_gambling_title(body)
         if matched:
             result["status"] = "ad"
-            result["reason"] = f"page contains parking keyword: \"{phrase}\""
+            result["reason"] = f"page title looks like gambling spam: \"{phrase}\""
             return result
+
+        # Body phrases like "make an offer" are too generic to apply to pages
+        # that stayed on their own domain, so only check after a redirect.
+        if domain_changed:
+            matched, phrase = _has_parking_content(body)
+            if matched:
+                result["status"] = "ad"
+                result["reason"] = f"page contains parking keyword: \"{phrase}\""
+                return result
 
     except Exception:
         # Phase 2 failure is non-fatal — phase 1 passed, treat as ok
