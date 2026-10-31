@@ -1377,6 +1377,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nayan Bobde](https://nayanbobde.github.io/Portfoliowebsite/) [Data Analyst | SQL | Power BI | Python | Azure]
 - [Nazia Shehnaz Joynab](https://geek-a-byte.github.io)
 - [Nazmus Sayad](https://sayad.dev)
+- [Neel Patel](https://muse.ai/s/neel-patel-portfolio-tomas-style-xzxx6m5xtl3huxh/44rs8uC9gN1nl-HjxoLSA9T-gfn27ZKRX8RhxAimXuw) [IT Support | Help Desk | Junior Network & Cybersecurity]
 - [Neelanjan Chakraborty](https://neelanjan-chakraborty.github.io)
 - [Neev Gupta](https://neevgupta.com)
 - [Nemanja Pavlovic](https://nemanja.works) [Frontend Developer | Full Stack Developer | Software Engineer]
