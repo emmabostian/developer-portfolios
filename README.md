@@ -1852,6 +1852,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shivesh Chaturvedi](https://shivesh1606.github.io/portfolio)
 - [Shivram Sambhus](https://shivi.io)
 - [Shivy Patel](https://shivypatel.com) [Full Stack Developer]
+- [Shlok Bam](https://shlokbam.in) [AI / Generative AI Engineer | Agents, RAG, LLM Evals]
 - [Shomi Khan](https://shomi-khan.github.io)
 - [Shourov Paul](https://shourov-paul.github.io) [Electronics Engineer | Embedded Systems]
 - [Shrestha Mishra](https://shresthamishra.vercel.app) [Software Engineer | CS @ University Of Texas At Austin]
