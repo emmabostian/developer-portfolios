@@ -426,6 +426,7 @@ This repo can serve as inspiration for your portfolio!
 - [Bana Tawalbeh](https://rknastenka.com) [Computer Engineer | Developer]
 - [Bandi Revanth](https://bandirevanth.github.io) [Ai/Ml Systems Architect & Full Stack Engineer]
 - [Baptiste Miramont](https://baptistemiramont.fr)
+- [Baqir Naqvi](https://www.baqirnaqvi.dev/) [Senior Full Stack Engineer | SaaS, Payments & AI]
 - [Barnabas Varga](https://barnabasvarga.com)
 - [Barnav Mitra Jos](https://jos.gg) [Software, Devops, & UGC Engineer]
 - [Barthélémy Pousset](https://barthelemypousset.com) [Full Stack Developer | DevOps]
