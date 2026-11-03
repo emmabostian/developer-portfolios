@@ -502,6 +502,7 @@ This repo can serve as inspiration for your portfolio!
 ## C
 
 - [Cade Kynaston](https://cade.codes)
+- [Caden Chau](https://cadenchau.com)
 - [Calzye](https://calzye.com) [AI-Powered Calculator Developer]
 - [Camil Bradea](https://bradeac.dev) [Senior Full Stack Engineer | TypeScript, React, Laravel, Docker, AWS]
 - [Carlos Dubón](https://carlosdubon.dev)
