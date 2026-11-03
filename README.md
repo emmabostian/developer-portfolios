@@ -1134,6 +1134,7 @@ This repo can serve as inspiration for your portfolio!
 - [Liplan Lekipising](https://lekipising.com)
 - [Liran Tal](https://lirantal.com) [Developer Advocate At Snyk, Github Star, Openjs Foundation Pathfinder For Security Award]
 - [Lisa Blunt](https://lisablunt.github.io)
+- [Lithira Thulnith](https://wltweerasinghe.com) [Full Stack Developer | AI Builder]
 - [Liz Lam](https://lizlam.github.io)
 - [Loc Le](https://looc.dev)
 - [Loic Duong](https://www.loicduong.dev)
