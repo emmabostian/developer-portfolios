@@ -336,6 +336,7 @@ This repo can serve as inspiration for your portfolio!
 - [Armel Munyaneza](https://munyaneza.vercel.app)
 - [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
 - [Arnel Go](https://arnelbg.com) [WordPress Systems Engineer | Performance & Security]
+- [Arsh Javed](https://arshjaved.in) [Product Engineer]
 - [Arsh Mishra](https://windows-xp-portfolio-tau.vercel.app) [Full Stack Engineer | Systems Builder | Event-Driven System Design | Full Stack Application Architecture | AI-Integrated Data Processing Pipelines]
 - [Arshad Mq](https://arshadmq.com) [Sr. Full Stack Developer And Freelancer]
 - [Arshdeep Singh](https://arshdeepsingh.me)
