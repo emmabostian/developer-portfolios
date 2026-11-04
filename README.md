@@ -2111,6 +2111,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vladimir Rybalsky](https://alevoldon.com) [AI Builder & Creative Technologist]
 - [Vladyslav Shtatskyi](https://www.techinz.dev) [Full Stack Developer]
 - [Vm](https://vmthedev.web.app)
+- [Vojtěch Klepáček](https://klepacek.xyz) [Full Stack Developer]
 - [Vrushali Patil](https://vrushali.in) [QA Engineer | Manual, Automation & API Testing]
 - [Vyom Dubey](https://vmoyd.github.io/portfolio-app) [Vmoy]
 
