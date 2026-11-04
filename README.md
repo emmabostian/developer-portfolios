@@ -910,6 +910,7 @@ This repo can serve as inspiration for your portfolio!
 - [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Ray](https://galaxir.vercel.app) [Full Stack Developer | AI Engineer]
 - [Ishaan Sheikh](https://frikishaan.com)
+- [Irina Stéphane](https://irina.is-a.dev) [Full Stack Developer | DevOps]
 - [Isitha Subasinghe](https://isub.dev)
 - [Ismail Ghallou Aka Smakosh](https://smakosh.com)
 - [Israel Mitolu](https://israelmitolu.netlify.app)
