@@ -910,6 +910,7 @@ This repo can serve as inspiration for your portfolio!
 - [Indrayudh Dhara](https://my-portfolio-ba1h.vercel.app) [Full Stack Developer]
 - [Ingus Jansons](https://ingus.co.uk)
 - [Ioannis Jone-Magalhaes](https://ioannisjonemagalhaes.com) [Software Engineer | Cloud & IoT]
+- [Irina Stéphane](https://irina.is-a.dev) [Full Stack Developer | DevOps]
 - [Isabella Riquetti](https://isabella-riquetti.netlify.app)
 - [Ishaan Ray](https://galaxir.vercel.app) [Full Stack Developer | AI Engineer]
 - [Ishaan Sheikh](https://frikishaan.com)
