@@ -1543,7 +1543,7 @@ This repo can serve as inspiration for your portfolio!
 - [Prem Gangadharan](https://premsg.info)
 - [Prem Kumar Rajbhar](https://premkrrajbhar.github.io/prem_kumar_rajbhar/) [Software Developer]
 - [Prem Prakash Sharma](https://premprakashsharma.vercel.app)
-- [Prem Thatikonda](https://premthatikonda.xyz) [Full Stack & AI Engineer]
+- [Prem Thatikonda](https://premthatikonda.runs-on.dev) [Full Stack & AI Engineer]
 - [Prince Bhayani](https://princeb.dev) [Full Stack Developer]
 - [Prince Kumar](https://prince-kumar-portfolio-five.vercel.app/) [Java Backend Developer]
 - [Pritam Debnath](https://pridebnath.github.io/portfolio-v2) [Frontend Developer]
