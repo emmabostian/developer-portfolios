@@ -1100,6 +1100,7 @@ This repo can serve as inspiration for your portfolio!
 - [Kritan Shrestha](https://dev-kritan.github.io/portfolio/) [Full Stack Developer]
 - [Krupal Fataniya](https://krupal.vercel.app) [Full Stack Developer | Python, Django & React Specialist]
 - [Krupal Sanchaniya](https://krupal-portfolio.vercel.app) [Software Developer]
+- [Krushal Gopale](https://krushalgopale.vercel.app) [Software Engineer]
 - [Ksv Muralidhar](https://ksvmuralidhar.in)
 - [Kuchizu](https://kuchizu.com) [DevOps Engineer]
 - [Kuldeep Rajput](https://macos-kuldeeprajput.vercel.app) [Software Engineer | Full Stack Web Developer]
