@@ -1158,6 +1158,7 @@ This repo can serve as inspiration for your portfolio!
 - [Lucas De Moraes](https://devlucas.site) [Full Stack Developer]
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
+- [Luis Peche Aparcana](https://luispeche.vercel.app/) [Backend & AI Developer | Java, Python & Aws]
 - [Luiz Gustavo Alves](https://www.luizgustavoalves.dev) [Full Stack Developer]
 - [Lukasz Kups](https://lukaszkups.net)
 - [Luke Liukonen](https://liukonen.dev) [Senior Software Engineer | Technical Lead, AI Strategy, Infrastructure]
