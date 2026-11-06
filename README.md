@@ -1739,6 +1739,7 @@ This repo can serve as inspiration for your portfolio!
 - [Saksham Sirohi](https://saksham-sirohi.github.io) [Software Engineer | Open Source | Full Stack]
 - [Sakshi Hanwat](https://sakshi-portfolio-eta-swart.vercel.app) [Java Full Stack Developer]
 - [Sakshi Jaiswal](https://sakshi.is-cool.dev) [Full Stack Developer | Next.Js | Ui/Ux]
+- [Salih Karakuş](https://karakus.me) [Software Engineer]
 - [Salsabeel Ibrahim](https://salsabeelibrahim.com) [Full Stack Developer & Software Engineer]
 - [Sam Foreman](https://samforeman.me) [Computational Scientist]
 - [Sam Gao](https://dinq.me/sam) [CEO and Co-founder, DINQ]
