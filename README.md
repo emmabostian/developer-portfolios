@@ -882,6 +882,7 @@ This repo can serve as inspiration for your portfolio!
 - [Himanshu Kumar Mishra](https://hemanshu-mishra.vercel.app) [Full Stack Developer | Web Developer]
 - [Himavanth Kumar Perni](http://himavanth-kumar-perni-portfolio.vercel.app) [Full Stack Developer]
 - [Hisami Kurita](https://hsmkrt1996.com) [Frontend Developer]
+- [Hitarth Anand Rohra](https://www.hitaarthh.com/) [Software Engineer | Building Intelligent Systems]
 - [Hitesh Sahu](https://hiteshsahu.com) [Full Stack Developer | Frontend/Mobile | Backend | Cloud Infra]
 - [Ho Do Minh Quan](https://nauqh.github.io) [Software Engineer | AI Automation]
 - [Ho Van Hoa](https://hovanhoa.net) [Software Engineer]
