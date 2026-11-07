@@ -1775,6 +1775,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sanyam Kumar](https://sanyam.dev)
 - [Saptarshi Mandal](https://saptarshimandal1618.framer.ai)
 - [Sarang](https://srng.dev)
+- [Sarfarosh Alam](https://sarfarosh.vercel.app/) [Full Stack Developer | React, TypeScript]
 - [Sarker Ayon](https://www.thenicedev.xyz)
 - [Sarker Mohammad Riduan](https://devfolio-riduan.vercel.app) [Software Engineer]
 - [Saroj Pradhan](https://pradhansaroj.com.np)
