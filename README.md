@@ -1153,6 +1153,7 @@ This repo can serve as inspiration for your portfolio!
 - [Loren Kamau](https://lorenkamau.com) [Founder of Aptifolio]
 - [Loránd Kiss](https://lorandkissdev.github.io/github-portfolio)
 - [Louey Lahwel](https://forkfolio.dev/loueylahwel) [Data Engineer]
+- [Luca Celebrano](https://lukecele-research.vercel.app/) [Medicine & Bioinformatics | Computational Oncology & 3D Twins]
 - [Luca Félix](https://luca-felix.com) [Design System Engineer | Digital Product Designer & Developer]
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
