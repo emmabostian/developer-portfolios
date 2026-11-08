@@ -1623,6 +1623,7 @@ This repo can serve as inspiration for your portfolio!
 - [Raymond Valdepeñas](https://raymondvaldepenas-dev.vercel.app) [Full Stack Developer | Aiot & Embedded Systems | Junior Software Engineer]
 - [Raymond Valencia](https://paolo1231.github.io)
 - [Raziel Rodrigues](https://www.razielrodrigues.dev)
+- [Razvan-Andrei Borca](https://www.borcarazvan.tech/) [Junior Software Engineer | Computer Engineering Student]
 - [Reagan Hsu](https://reaganhsu.com) [Full Stack Developer]
 - [Redoyanul Haque](https://www.redoyanulhaque.me) [AI Engineer | Full Stack Developer | Python Programmer]
 - [Reeya Gupta](https://reeyadev.vercel.app) [Full Stack Developer]
