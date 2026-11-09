@@ -829,6 +829,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gustavo Gutierrez](https://gutierrez-cv.vercel.app) [Full Stack/Ai&Ml Developer]
 - [Guyon Emeric](https://emericguyon.com) [Freelance Full Stack Developer]
 - [Görkem Karamolla](https://gorkemkaramolla.com) [Software Engineer | Full Stack Developer]
+- [Gabriel Rossi](https://rossidev.vercel.app) [Full Stack Developer]
 
 ## H
 
