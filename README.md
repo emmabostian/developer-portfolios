@@ -1701,6 +1701,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sabin Ranabhat](https://sawin.com.np) [Senior Mobile Developer]
 - [Sabittwa Banerjee](https://strangelytrue.vercel.app)
 - [Sachin Goyal](https://www.sachingoyal.me) [Full Stack AI Engineer]
+- [Sachin Kumar](https://sachingg.me) [Cybersecurity Enthusiast]
 - [Sachin Srinivasan](https://s8sachin.github.io)
 - [Saeid Doroudi](https://saeiddoroudi.ir)
 - [Safal Narshing Shrestha](https://safalnarshing.com.np) [ML/AI Engineer]
