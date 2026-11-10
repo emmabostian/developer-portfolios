@@ -1436,6 +1436,7 @@ This repo can serve as inspiration for your portfolio!
 - [Noor Rehman](https://www.noorrehman.me) [Data Scientist | AI Engineer | Freelancer]
 - [Nurliman Diara](https://nurliman.dev)
 - [Nuwan Jaliyagoda](http://nuwanjaliyagoda.com)
+- [Nihindu Dulavin](https://nihindu-dulavin-portfolio.netlify.app/) [Full Stack Developer | Student]
 
 ## O
 
