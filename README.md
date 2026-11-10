@@ -776,6 +776,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gabriel López](https://glpzzz.dev)
 - [Gabriel Machado](https://machado001.github.io)
 - [Gabriel Maggioni](https://maggioni.dev) [Programmer as a hobby - enjoys Linux, Blender, and GameDev.]
+- [Gabriel Rossi](https://rossidev.vercel.app) [Fullstack Developer]
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
 - [Gambhir.Dev](https://gambhir.dev) [Full Stack | DevOps]
