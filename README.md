@@ -1989,7 +1989,7 @@ This repo can serve as inspiration for your portfolio!
 - [Thekaushikgoswami](https://thekaushikgoswami.github.io)
 - [Thiago Sousa](https://github.com/ThiagoSousa81) [Cryptographer - Full Stack Developer]
 - [Thibaud Dervily](https://www.thibaud-dervily.fr)
-- [Thierry Bungaroo](https://crackedontiti.github.io) [Software Developer & Software Engineer]
+- [Thierry Bungaroo](https://crackedontiti.dev) [Software Developer & Software Engineer]
 - [Thinh Ngo](https://thinhcorner.com)
 - [Thomas David](https://thomas-david-portfolio.netlify.app)
 - [Thomas Havlik](https://thavlik.dev) [Software Architect | Medical Student]
