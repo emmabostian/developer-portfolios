@@ -633,6 +633,7 @@ This repo can serve as inspiration for your portfolio!
 - [Dewald Els](https://dewaldels.com)
 - [Dhanush Nehru](https://chat-portfolio-dhanushnehru.netlify.app) [Unique Whatsapp Portfolio]
 - [Dhaval Patel](https://dhavalcode.com)
+- [Dhawal Mahajan](https://dhawalmahajan.vercel.app) [Full Stack Developer]
 - [Dheeraj Akula](https://dheerajakula.dev) [Software Engineer | Agent Harnesses & Developer Tools]
 - [Dheeraj Gupta](https://dheerajgupta.netlify.app/#)
 - [Dhilip](https://dhilipmpms.github.io/pf/) [Software Engineer | Foss Activist]
