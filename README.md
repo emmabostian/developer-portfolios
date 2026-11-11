@@ -1537,6 +1537,7 @@ This repo can serve as inspiration for your portfolio!
 - [Pranay Bandaru](https://pranaybandaru.vercel.app) [Data Science]
 - [Praneeth Reddy](https://praneeth-portfolio-silk.vercel.app) [Java Backend Developer]
 - [Pranshu Patel](https://pranshu05.vercel.app)
+- [Prarit Sidana](https://praritsidana.com/) [AI Engineer | Full-Stack Developer]
 - [Prasad Jaagirdar](https://prasada-dev.netlify.app)
 - [Prashant Khandelwal](https://prashantk.dev)
 - [Prashanth Kumar G](https://prashanth-kumar-g.github.io) [🚀 Software Engineer | Full Stack Developer | Java Backend Developer | System Design | ⭐ Leetcode | Internet of Things | Generative AI]
@@ -2210,3 +2211,4 @@ This repo can serve as inspiration for your portfolio!
 - [Zuned Aalim](https://zunedaalim.com) [Full Stack Web Developer]
 - [Zyon Tiangson](https://zyon-portfolio.vercel.app) [.Net Developer]
 - [Zzlly Potie](http://valentinpotie.github.io/portfolio)
+
