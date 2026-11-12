@@ -610,6 +610,7 @@ This repo can serve as inspiration for your portfolio!
 - [Debpriyo Ghosal](https://debpriyo.is-a.dev)[Design Engineer]
 - [Declan Chidlow](https://vale.rocks/portfolio) [Front-End Developer]
 - [Decoopman Nicolas](https://ncsdecoopman.github.io) [Data & DevOps]
+- [DeenFoool](https://deenfoool.github.io/portfolio/) [Software Developer | Windows Apps, Web Tools & Games]
 - [Deepak Chawla](https://deepak-chawla.com)
 - [Deepak Singh](https://deepaksingh.vercel.app)
 - [Deepak Terse](https://deepak-terse.github.io) [Technical Architect & AI Engineer]
