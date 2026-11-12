@@ -1660,6 +1660,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
+- [Robert Melcher](https://merox.dev) [Linux & Infrastructure Engineer | Homelab, Kubernetes]
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kumar Ranjan](https://rohitkumarranjan.in) [Cyber Security]
 - [Rohit Kumar Sahoo](https://rohitksahoo.vercel.app) [Systems Architect | Backend Developer]
