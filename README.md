@@ -932,6 +932,7 @@ This repo can serve as inspiration for your portfolio!
 - [Jachin Samuel](https://jachin-portfolio.vercel.app) [Software Developer | Full Stack & AI]
 - [Jack Parsons](https://jackparsonss.me)
 - [Jack Phát](https://jackphat.vercel.app) [Full Stack Developer | Vibe coding]
+- [Jackson MacGregor](https://jacksonm.dev) [Systems | Rust, Python | Linux]
 - [Jacob Herper](https://jacobherper.com)
 - [Jaen Nova](https://jaenn.netlify.app)
 - [Jagadeesh](https://jagadeeshftw.netlify.app)
