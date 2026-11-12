@@ -1660,6 +1660,7 @@ This repo can serve as inspiration for your portfolio!
 - [Rituparna Warwatkar](https://rituparnawarwatkar.com) [Sde@Aws Ec2, Berlin]
 - [Rizan Bhandari](https://acchyut.com.np) [Researcher & Full Stack Developer]
 - [Rizwan Shah](https://rizwanshah9792.github.io/Portfolio)
+- [Robert Melcher](https://merox.dev) [Linux & Infrastructure Engineer | Homelab, Kubernetes]
 - [Robin Mastromari](http://robinmastromarino.com) [Ui/Ux Designer]
 - [Robiul Hasan](https://www.robiulhasan.dev)
 - [Rohit Kumar Ranjan](https://rohitkumarranjan.in) [Cyber Security]
