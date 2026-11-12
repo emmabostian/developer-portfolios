@@ -1946,6 +1946,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sujal Bedre](https://sujal-bedre.vercel.app) [Ai/Ml Dev && Mern-Stack Dev]
 - [Sujal Goel](https://hecodesforme.com) [Top Rated Full Stack Developer | AI & Automation]
 - [Sujan Bhatta](https://sujanbhatta.tech) [AI Product Engineer | LLM Systems & React Native]
+- [Sujeeth Sundarajan Rajkumar](https://sujeethsr.com) [AI Engineer | Software Engineer]
 - [Sulayman Bowles](https://sulayman-bowles.dev) [Software, Product & AI]
 - [Suman Dey](https://www.sumandey.com) [Senior Technical Lead | Full Stack Engineer | AI & RAG Integration | DevOps]
 - [Sumeet](https://full-stack-liard-eight.vercel.app)[Software Developer]
