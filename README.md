@@ -215,6 +215,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Hamza](https://alihamza-fawn.vercel.app) [Full Stack Developer | MERN, Next.js, AWS & Web3]
 - [Ali Linares](https://alilinares.com) [Software Developer | Web Application Development]
+- [Ali Nguyen](https://duytruyenthong.github.io/Alinguyen-portfolio/) [Applied AI & Product Engineer]
 - [Ali Raza](https://alirazaai.page/) [Product Manager & AI Builder | AI Prototypes, Analytics, LLM Evaluation]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
 - [Ali Younes](https://aliyounes.dev) [Software Engineer | Systems & Full Stack]
