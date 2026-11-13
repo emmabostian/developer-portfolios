@@ -870,7 +870,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Ali](https://hassanalidev.me) [Full Stack AI Developer | DevOps Engineer]
 - [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer]
-- [Haylee Pulisciano](https://hellohaylee.com) [Software Developer | Full Stack Web Development]
+- [Haylee Pulisciano](https://hellohaylee.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=developer-portfolios) [Software Developer | Full Stack Web Development]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
