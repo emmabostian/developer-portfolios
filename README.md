@@ -1914,6 +1914,7 @@ This repo can serve as inspiration for your portfolio!
 - [Soham Mondal](https://sohammondal.com) [Senior Frontend Engineer | React & React Native]
 - [Soham Penshanwar](https://thesoham2203.vercel.app)
 - [Soham Sarkar](https://sohamsarkar.com) [Builder | Tech | Product]
+- [Sohan Bhat](https://sohanbhat.me) [Machine Learning | Web Apps | Robotics]
 - [Sohanuzzaman Soad](https://ssoad.github.io) [Software Engineer | Mobile App Developer | AI Engineer]
 - [Somenath Sau](https://somenathsau.github.io) [Data Analyst | gen AI | Cloud]
 - [Sonu Hansda](https://sonu-hansda.netlify.app) [Full Stack Developer]
