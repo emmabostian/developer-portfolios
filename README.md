@@ -14,7 +14,7 @@ This repo can serve as inspiration for your portfolio!
 
 [Developer Portfolios Website](https://6e87v.hatchboxapp.com)
 
-## Current Portfolio Count: 2101
+## Current Portfolio Count: 2117
 
 **Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i)
 | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s)
@@ -137,7 +137,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Kumar](https://www.adityakr.com)
 - [Aditya Medhe](https://aditya.medhe.in)
 - [Aditya Namdeo](https://adityanamdeo.qzz.io) [Machine Learning Intern | AI]
-- [Aditya Pillai](https://aditya-pillai.vercel.app) [Computer Science Undergraduate | SWE Intern]
+- [Aditya Pillai](https://adityapillai.dev) [Computer Science Undergraduate | SWE Intern]
 - [Aditya Poojary](https://adityapoojary.dev) [Software Developer]
 - [Aditya Punmiya](https://adityapunmiya.com) [Software Engineer]
 - [Aditya Rahmad](https://adxxya30.vercel.app) [Software Developer]
@@ -215,6 +215,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alfred Dagenais](https://alfreddagenais.com)
 - [Ali Hamza](https://alihamza-fawn.vercel.app) [Full Stack Developer | MERN, Next.js, AWS & Web3]
 - [Ali Linares](https://alilinares.com) [Software Developer | Web Application Development]
+- [Ali Nguyen](https://duytruyenthong.github.io/Alinguyen-portfolio/) [Applied AI & Product Engineer]
 - [Ali Raza](https://alirazaai.page) [Product Manager & AI Builder | AI Prototypes, Analytics, LLM Evaluation]
 - [Ali Saleem](https://alisaleem252.com) [Web Developer & Web Programmer]
 - [Ali Younes](https://aliyounes.dev) [Software Engineer | Systems & Full Stack]
@@ -870,7 +871,7 @@ This repo can serve as inspiration for your portfolio!
 - [Hassan Ahmed](https://www.hassanahmed.net)
 - [Hassan Ali](https://hassanalidev.me) [Full Stack AI Developer | DevOps Engineer]
 - [Hassan Rj](https://hassanrj.vercel.app) [Hassan RJ Full Stack Next.js Developer]
-- [Haylee Pulisciano](https://hellohaylee.com) [Software Developer | Full Stack Web Development]
+- [Haylee Pulisciano](https://hellohaylee.com/?utm_source=github&utm_medium=referral&utm_campaign=portfolio&utm_content=developer-portfolios) [Software Developer | Full Stack Web Development]
 - [Hemang Yadav](https://zemerik.vercel.app) [Passionate Developer]
 - [Hemanth Chakravarthy Kancharla](https://hemanth-chakravarthy.netlify.app) [Engineering Student | Full Stack Developer]
 - [Henry Lee](https://dragonwarrior.vercel.app)
@@ -2099,6 +2100,7 @@ This repo can serve as inspiration for your portfolio!
 - [Vijay Verma](https://vjy.me)
 - [Vikas Chauhan](https://vikaschauhan.vercel.app)
 - [Vikas Ukani](https://vikas-ukani.github.io)
+- [Vinay Kulkarni](https://imvinay.com) [Data & AI Engineer]
 - [Vineet Machchal](https://vineetcodes.vercel.app) [Web Developer]
 - [Vineet Saraf](https://coastalvinny.dev)
 - [Vinit Shahdeo](https://vinitshahdeo.com)

@@ -49,6 +49,40 @@ class TestFullStackVariants(unittest.TestCase):
             finally:
                 os.chdir(cwd)
 
+    def test_typos_normalized(self):
+        for v in ["Fulletack", "fulstack", "Full Stak", "full-stak", "FULLETACK"]:
+            with self.subTest(v=v):
+                self.assertEqual(alphabetical._FULL_STACK_RE.sub("Full Stack", v), "Full Stack")
+
+    def test_plurals_not_normalized(self):
+        for v in ["Full Stacks", "fullstacks", "Full-Stacks", "Fulletacks", "Full Stacked"]:
+            with self.subTest(v=v):
+                self.assertEqual(alphabetical._FULL_STACK_RE.sub("Full Stack", v), v)
+
+    def test_main_handles_typos_and_skips_plurals(self):
+        lines = [
+            "# Test\n", "## A\n",
+            "- [Ann](http://a.com) [Fulletack Developer]\n",
+            "- [Bob](http://b.com) [Fullstack Engineer]\n",
+            "- [Cy](http://c.com) (full_stak dev)\n",
+            "- [Di](http://d.com) [Full Stacks Wizard]\n",
+        ]
+        with tempfile.TemporaryDirectory() as td:
+            cwd = os.getcwd()
+            try:
+                os.chdir(td)
+                with open("README.md", "w", encoding="utf-8") as f:
+                    f.write("".join(lines))
+                alphabetical.main()
+                with open("README.md", "r", encoding="utf-8") as f:
+                    out = f.read()
+            finally:
+                os.chdir(cwd)
+        self.assertIn("[Full Stack Developer]", out)
+        self.assertIn("[Full Stack Engineer]", out)
+        self.assertIn("(Full Stack dev)", out)
+        self.assertIn("[Full Stacks Wizard]", out)
+
 
 if __name__ == "__main__":
     unittest.main()
