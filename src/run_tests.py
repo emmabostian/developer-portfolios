@@ -7,8 +7,14 @@ Usage:
   python3 src/run_tests.py --failfast # stop on first failure
 """
 import argparse
+import os
 import sys
 import unittest
+
+# Tests do `from src import alphabetical`, so the repo root must be importable.
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if REPO_ROOT not in sys.path:
+    sys.path.insert(0, REPO_ROOT)
 
 
 def main(argv=None):
@@ -20,7 +26,8 @@ def main(argv=None):
 
     loader = unittest.TestLoader()
     try:
-        suite = loader.discover(args.dir)
+        start_dir = args.dir if os.path.isabs(args.dir) else os.path.join(REPO_ROOT, args.dir)
+        suite = loader.discover(start_dir)
     except Exception as e:
         print(f"Error discovering tests in {args.dir}: {e}")
         return 2

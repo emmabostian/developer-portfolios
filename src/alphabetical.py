@@ -681,6 +681,14 @@ def create_feed_json(readme_path="README.md", output_path="feed.json"):
         return 0
 
 
+# Matches "full stack" and common typos (fullstack, full-stack, fulstack,
+# fulletack, full stak, ...). The trailing \b rejects plurals such as
+# "Full Stacks" / "fullstacks", which are intentionally left unchanged.
+_FULL_STACK_RE = re.compile(
+    r"(?i)\bfu?l{1,2}[\W_]*?(?:stack|etack|stak|satck|statck|stck)\b"
+)
+
+
 def main():
     # Open with explicit utf-8
     with open("README.md", "r", encoding="utf-8") as file:
@@ -712,7 +720,7 @@ def main():
         prefix, inside, suffix = m.group(1), m.group(2), m.group(3)
         # replace full-stack variants case-insensitively inside the bracket content
         # match 'full' and 'stack' as whole words allowing optional non-word or underscore separators
-        inside2 = re.sub(r"(?i)\bfull(?:[\W_]*?)stack\b", "Full Stack", inside)
+        inside2 = _FULL_STACK_RE.sub("Full Stack", inside)
         return f"{prefix}{inside2}{suffix}"
 
     # first normalize bracketed descriptions, then parenthesized descriptions
