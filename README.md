@@ -757,6 +757,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fielding Johnston](https://justfielding.com)
 - [Fikri Izzuddin](https://oyi77.github.io) [Technical Lead | System Architect & Web3]
 - [Fikri Rozan](https://fikrirozan.vercel.app) [Full Stack Developer]
+- [Fiza Amjad](https://fizaamjad.vercel.app) [Full Stack Developer | AI & 3D Web]
 - [Flora Liu](https://floraliu.dev) [Hardware Engineer | Mechanical Engineering & NPI]
 - [Florian Giacinti](https://florian.giacinti.me) [Software Developer]
 - [Floris Melchers](https://Floriscodes.nl)
