@@ -5,11 +5,6 @@
     "tagline": "Software Engineer"
   },
   {
-    "name": "Aaabad Aziz",
-    "url": "https://red1-for-hek-demo.vercel.app",
-    "tagline": "Full Stack Engineer"
-  },
-  {
     "name": "Aaabad Touk",
     "url": "https://aaabadcode.com",
     "tagline": "AI Engineer"
@@ -364,11 +359,6 @@
   {
     "name": "Abhishek Garsani",
     "url": "https://abhishek-g-mu.vercel.app"
-  },
-  {
-    "name": "Abhishek Ghimire",
-    "url": "https://www.abhishekg.com.np",
-    "tagline": "Software Engineer"
   },
   {
     "name": "Abhishek Kumar T",
@@ -1385,11 +1375,6 @@
     "name": "Anzhelika Kostyuk",
     "url": "https://a-coderr.github.io/portfolio-website",
     "tagline": "Software Developer"
-  },
-  {
-    "name": "Aprameya Kannan",
-    "url": "https://aprameyak.vercel.app",
-    "tagline": "Software Engineer"
   },
   {
     "name": "Aradhya Pavan",
@@ -2455,10 +2440,6 @@
     "url": "https://codervai.vercel.app"
   },
   {
-    "name": "Cole Emeruche",
-    "url": "https://coleruche.com"
-  },
-  {
     "name": "Colin Lord",
     "url": "https://colinlord.com"
   },
@@ -3127,10 +3108,6 @@
     "url": "https://eric4048.framer.website"
   },
   {
-    "name": "Erick Namukolo",
-    "url": "https://www.ericknamukolo.com"
-  },
-  {
     "name": "Erik Henrique Alves Cunha",
     "url": "https://www.erikunha.dev"
   },
@@ -3295,6 +3272,11 @@
     "name": "Fikri Rozan",
     "url": "https://fikrirozan.vercel.app",
     "tagline": "Full Stack Developer"
+  },
+  {
+    "name": "Fiza Amjad",
+    "url": "https://fizaamjad.vercel.app",
+    "tagline": "Full Stack Developer | AI & 3D Web"
   },
   {
     "name": "Flora Liu",
@@ -3653,11 +3635,6 @@
   {
     "name": "Hamza Naseem",
     "url": "https://hamzanaseem.vercel.app"
-  },
-  {
-    "name": "Hanan Bhatti",
-    "url": "https://hanan-bhatti.site",
-    "tagline": "Full Stack Developer | Creator"
   },
   {
     "name": "Hangga Aji Sayekti",
@@ -5436,6 +5413,11 @@
     "tagline": "Frontend | Software Engineer"
   },
   {
+    "name": "Matheus Fleck",
+    "url": "https://matheusgmello.vercel.app",
+    "tagline": "Full Stack Developer | AI & Security"
+  },
+  {
     "name": "Matheus Manuel",
     "url": "https://matheusmanuel.com",
     "tagline": "Full Stack Developer | AI Enthusiast"
@@ -5662,11 +5644,6 @@
     "name": "Mihir Chauhan",
     "url": "https://chauhan-mihir.vercel.app",
     "tagline": "ML / AI Engineer | Data Science"
-  },
-  {
-    "name": "Mihir Das",
-    "url": "https://getmihir.com",
-    "tagline": "Full Stack Web Developer | Reactjs | Typescript | Node Js | Ai Enthusiast"
   },
   {
     "name": "Milan Milanovic",
@@ -6182,10 +6159,6 @@
   {
     "name": "Nico Van Zyl",
     "url": "https://nicovanzyl.com"
-  },
-  {
-    "name": "Nicolas Nguyen",
-    "url": "https://www.nic-nguyen.com"
   },
   {
     "name": "Nicolo Rebughini",
@@ -7130,11 +7103,6 @@
     "tagline": "Full Stack Developer"
   },
   {
-    "name": "Redoyanul Haque",
-    "url": "https://www.redoyanulhaque.me",
-    "tagline": "AI Engineer | Full Stack Developer | Python Programmer"
-  },
-  {
     "name": "Reeya Gupta",
     "url": "https://reeyadev.vercel.app",
     "tagline": "Full Stack Developer"
@@ -7451,11 +7419,6 @@
   {
     "name": "Sabarish",
     "url": "https://www.sabarish.in"
-  },
-  {
-    "name": "Sabbir Ahmed Shawon",
-    "url": "https://sabbirshawon.com",
-    "tagline": "Full Stack Software Developer"
   },
   {
     "name": "Sabbir Ahmed",
@@ -8350,11 +8313,6 @@
     "url": "https://siddharthroy.com"
   },
   {
-    "name": "Siddharth",
-    "url": "https://sudosidd.dev",
-    "tagline": "Game Developer"
-  },
-  {
     "name": "Sidharth E",
     "url": "https://sidharthe.dev",
     "tagline": "Senior AI Engineer | Full Stack Developer"
@@ -8412,6 +8370,11 @@
     "name": "Soham Sarkar",
     "url": "https://sohamsarkar.com",
     "tagline": "Builder | Tech | Product"
+  },
+  {
+    "name": "Sohan Bhat",
+    "url": "https://sohanbhat.me",
+    "tagline": "Machine Learning | Web Apps | Robotics"
   },
   {
     "name": "Sohanuzzaman Soad",
@@ -9601,11 +9564,6 @@
     "tagline": "Software Developer"
   },
   {
-    "name": "Yubraj Khatri",
-    "url": "https://www.yubrajkhatri.com.np",
-    "tagline": "Full Stack/Ai Developer"
-  },
-  {
     "name": "Yuelin Liu",
     "url": "https://www.liuyuelin.dev",
     "tagline": "Full Stack Developer"
@@ -9639,11 +9597,6 @@
     "name": "Zahid Mushtaq",
     "url": "https://devzahid.in",
     "tagline": "Full Stack AI Developer"
-  },
-  {
-    "name": "Zaid Rakhange",
-    "url": "https://zaid.impiclabs.com",
-    "tagline": "Gen AI Engineer | Founder @ImpicLabs"
   },
   {
     "name": "Zangwei Zheng",
