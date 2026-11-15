@@ -1243,6 +1243,7 @@ This repo can serve as inspiration for your portfolio!
 - [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
 - [Mateus Felipe](https://mateusf.com)
 - [Matheus Almeida](https://almeida-matheus.com) [Frontend | Software Engineer]
+- [Matheus Fleck](https://matheusgmello.vercel.app) [Full Stack Developer | AI & Security]
 - [Matheus Manuel](https://matheusmanuel.com) [Full Stack Developer | AI Enthusiast]
 - [Matheus Misumoto](https://matheusmisumoto.dev)
 - [Matheus Victor](https://matheusvictor.vercel.app)
