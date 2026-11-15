@@ -2175,6 +2175,7 @@ This repo can serve as inspiration for your portfolio!
 - [Yechiel Kalmenson](https://yechiel.me)
 - [Yehia Gewily](https://yehia-gewily.me) [AI Software Engineer]
 - [Yeshwanth Krishna](https://yeshwanth-kr.github.io) [Full Stack Dev]
+- [Yevhen Makes](https://yevhenmakes.com) [Software Developer | mobile & web]
 - [Yoav](https://yoav.xyz)
 - [Yog Prajapati](https://www.yogprajapati.site) [AI/ML Engineer | Full Stack]
 - [Yogesh Choudhary Paliyal](https://yogeshpaliyal.com)
