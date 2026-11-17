@@ -1773,6 +1773,7 @@ This repo can serve as inspiration for your portfolio!
 - [Sanjiv Thapa](https://sanjivthapa.com.np) [Backend Developer]
 - [Sankalp Tharu](https://sankalptharu.com.np)
 - [Sanket Chaudhari](https://sanketchaudhari.in) [Full Stack Developer | AI & Data Science Engineer]
+- [Sanoj D](https://sanoj.dev) [AI Engineer | Machine Learning]
 - [Sanskar Suryawanshi](https://010101-sans.is-a.dev) [Full Stack Architect]
 - [Sanskar Tiwari](https://santiwari07.qzz.io) [AI Systems Builder | Full Stack & IoT Developer]
 - [Santosh Yadav](http://santoshyadav.dev)
