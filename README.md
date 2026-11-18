@@ -1159,6 +1159,7 @@ This repo can serve as inspiration for your portfolio!
 - [Luca Lischetti](https://sirlisko.com)
 - [Lucas Dantas](https://dantsdev.vercel.app)
 - [Lucas De Moraes](https://devlucas.site) [Full Stack Developer]
+- [Lucas GUELL](https://lucasguell.com) [Full Stack Developer & Data Analyst]
 - [Lucas Lima](https://lucas-lima.vercel.app)
 - [Luis Cacho](https://luiscachog.io)
 - [Luis Peche Aparcana](https://luispeche.vercel.app) [Backend & AI Developer | Java, Python & Aws]
