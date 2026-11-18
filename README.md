@@ -737,6 +737,7 @@ This repo can serve as inspiration for your portfolio!
 - [Fahim Bin Amin](https://www.fahimbinamin.com)
 - [Fahyan](https://fahyan.vercel.app)[Software Developer  | Video Editor]
 - [Faishal Hakim](https://faishal24.my.id)
+- [Falak Gala](https://falakgala.dev) [AI Engineer | Full-Stack & Next.js Developer]
 - [Farhan Segujja](https://farhansegujja.com) [Software Developer]
 - [Farindra Bhandari](https://fbb.com.np)
 - [Favian Izza](https://www.favianizza.space) [Software Engineer | Full Stack | IoT]
