@@ -556,6 +556,7 @@ This repo can serve as inspiration for your portfolio!
 - [Ciro Ciampaglia](https://cirociampaglia.it)
 - [Claudia Freitas](https://icfclaudia.com) [Product Owner | Project Manager | Digital Marketer]
 - [Cleo Balaranjith](https://cleof.us) [SITE bearly wOrKs DONT OPEN it🐺✌️🪫 | brainde*d developer]
+- [Clockwise3000](https://clockwise3000.online) [Full Stack Developer | 3D Artist/Modeler]
 - [Clyde D'Souza](https://clydedsouza.net)
 - [Codervai](https://codervai.vercel.app)
 - [Colin Lord](https://colinlord.com)
