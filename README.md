@@ -1013,6 +1013,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joop Munguia](https://my-portfolio1-nine-sage.vercel.app) [Full Stack Developer | cybersecurity Enthusiast]
 - [Jorge Cortés](https://jorgecortes.dev) [Full Stack Developer]
 - [Joseph Thomas Mansilla](https://josephmansilla.github.io/portfolio/) [System Design Engineer | Systems Engineering]
+- [Joshua Ogo](https://byteprowler.vercel.app) [Full Stack Developer | Frontend Developer]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
 - [Joshua Paul](https://joshuapaul.me) [Senior Full Stack & Applied AI Engineer]
