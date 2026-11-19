@@ -1015,6 +1015,7 @@ This repo can serve as inspiration for your portfolio!
 - [Joseph Thomas Mansilla](https://josephmansilla.github.io/portfolio/) [System Design Engineer | Systems Engineering]
 - [Joshua Chinwendu](http://joshualine.github.io)
 - [Joshua Izuchukwu](https://joshuaizu.vercel.app)
+- [Joshua Ogo](https://byteprowler.vercel.app) [Full Stack Developer | Frontend Developer]
 - [Joshua Paul](https://joshuapaul.me) [Senior Full Stack & Applied AI Engineer]
 - [Joshua Prini](https://joshuaprini.com) [Full Stack Developer | Software Engineer]
 - [Joséphin Sylvère](https://josephin-sylvere.vercel.app) [Backend Developer]
