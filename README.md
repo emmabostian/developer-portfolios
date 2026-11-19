@@ -1231,6 +1231,7 @@ This repo can serve as inspiration for your portfolio!
 - [Marin Takanov](https://www.takanov.com) [Senior Software Engineer]
 - [Mario Kandut](https://www.mariokandut.com)
 - [Marios Sofokleous](https://msof.me)
+- [Mariusz Szatkowski](https://wppoland.com/en/) [WordPress & Software Developer | WooCommerce, Astro, AI integrations]
 - [Mariya Baig](https://mariyabaig.vercel.app)
 - [Mariya Jebastin](https://mariyajebastin.netlify.app) [Full Stack Developer]
 - [Mark Ernst](https://cyntax.dev) [Freelance Senior Full Stack Software Engineer at Cyntax | .NET/PHP/TS]
