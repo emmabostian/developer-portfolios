@@ -784,6 +784,7 @@ This repo can serve as inspiration for your portfolio!
 - [Gabriel Rossi](https://rossidev.vercel.app) [Full Stack Developer]
 - [Gabriel Tekombo](https://gabrielthecode.com)
 - [Gabriele Corti](https://borntofrappe.github.io)
+- [GallantTarry](https://xn--udsye.art) [TuKuai OS | Full Stack Developer]
 - [Gambhir.Dev](https://gambhir.dev) [Full Stack | DevOps]
 - [Ganesh Angadi](https://ganeshangadi.online) [Devops Engineer | System Thinker]
 - [Ganesh Kalyan](https://www.ganeshkalyan.in)
