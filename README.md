@@ -100,6 +100,7 @@ This repo can serve as inspiration for your portfolio!
 - [Abhishek Agrawal](https://abhish0.github.io/My-Portfolio/) [Full Stack Developer]
 - [Abhishek Anand](https://abhishekdev-portfolio.vercel.app) [Software Engineer | Full Stack Developer]
 - [Abhishek Bhardwaj](https://www.imabhishek.site)
+- [Abhishek Dhiman](https://codedhiman.pages.dev/) [Backend and AI Engineer]
 - [Abhishek Ganvir](https://abhishekganvir.vercel.app) [Full Stack Developer]
 - [Abhishek Garsani](https://abhishek-g-mu.vercel.app)
 - [Abhishek Kumar T](https://abhishek-kumar-t.vercel.app) [Full Stack Developer]
