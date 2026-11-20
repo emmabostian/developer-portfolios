@@ -1591,6 +1591,7 @@ This repo can serve as inspiration for your portfolio!
 
 - [Rabeeh](https://sayyedrabeeh.github.io/personal)
 - [Rabin Thami](https://www.rabinthami.com.np)
+- [Rachit Mangawa](https://rachit-mangawa.github.io/) [Software Engineer | Systems & AI]
 - [Radiat Hossain Ridoy](https://radiat.netlify.app)
 - [Rafael Salazar](https://rafalazar.github.io)
 - [Rafael Santana](https://www.rafaelsantana.dev)
