@@ -212,6 +212,7 @@ This repo can serve as inspiration for your portfolio!
 - [Alexey Golub](http://tyrrrz.me)
 - [Alexis De Jesus](https://www.aalexis.fr) [Full Stack Developer]
 - [Alfred Dagenais](https://alfreddagenais.com)
+- [Ali Haider](https://alihaiderdev.netlify.app/) [Senior Full Stack Developer | WordPress, WooCommerce, React, Next.js]
 - [Ali Hamza](https://alihamza-fawn.vercel.app) [Full Stack Developer | MERN, Next.js, AWS & Web3]
 - [Ali Linares](https://alilinares.com) [Software Developer | Web Application Development]
 - [Ali Nguyen](https://duytruyenthong.github.io/Alinguyen-portfolio/) [Applied AI & Product Engineer]
