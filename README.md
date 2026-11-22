@@ -1247,8 +1247,7 @@ This repo can serve as inspiration for your portfolio!
 - [Maruf Hasan](https://itsmaruf.me) [Mobile Developer]
 - [Masab Qurban](https://www.masabqurban.com) [Software Engineer | Full Stack Developer]
 - [MasirJafri](https://www.masirjafri.in) [Software Engineer | Full Stack Development | Backend System Design | Generative AI]
-- [Masud Rana Shawon Dark](https://masudranashawon.netlify.app)
-- [Masud Rana Shawon Light](https://masudranashawon.vercel.app)
+- [Masud Rana Shawon](www.masudranashawon.xyz)
 - [Mateus Felipe](https://mateusf.com)
 - [Matheus Almeida](https://almeida-matheus.com) [Frontend | Software Engineer]
 - [Matheus Fleck](https://matheusgmello.vercel.app) [Full Stack Developer | AI & Security]
