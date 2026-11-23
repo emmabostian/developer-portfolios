@@ -197,6 +197,7 @@ This repo can serve as inspiration for your portfolio!
 - [Akshay Shinde](https://axay.dev) [Full Stack Developer]
 - [Akshay](https://devakshay.vercel.app)
 - [Al Amin](https://alamin-portfolio-site.vercel.app) [Full Stack Developer]
+- [Alan Babychan](https://www.alanbabychan.online) [Software Development Engineer]
 - [Alan Hamlett](https://ahamlett.com) [Founder & Ceo @Wakatime]
 - [Alan Khalili](https://www.alan-khalili.com)
 - [Alejandro Gomez](https://alejandro-gomez.vercel.app)
