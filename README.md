@@ -262,6 +262,7 @@ This repo can serve as inspiration for your portfolio!
 - [Andrew Simpson](https://andrewleesimpson.com)
 - [Andrew Smith](https://andrew.codes)
 - [Andrew Woods](https://andrewwoods.net)
+- [Andrews Mintah](https://codemintah.dev) [Software Developer | CEO of AmpedDevs]
 - [Andrey Perestoronin](https://prs2rnn.github.io) [Python Backend Developer]
 - [Andrianaivo Blaise Ismael](https://andrianaivo-ismael.vercel.app/admin)
 - [Andrii Ponomarienko](https://andriiponomarenko.vercel.app) [Frontend Developer | React, Vue, Typescript]
