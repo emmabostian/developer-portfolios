@@ -1269,8 +1269,8 @@ This repo can serve as inspiration for your portfolio!
 - [Mbitu James](https://mbitu-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Md Kawsar](https://www.kawsarlog.com) [Python Developer | Web Scraping, Automation, And Development Expert]
 - [Md Mizan] (https://www.md-mizan.vercel.app)
-- [Md Moniruzzaman Tonoy](https://md-moniruzzaman-tonoy.web.app) [Full Stack Developer]
 - [Md Monirujjaman](https://monirujjaman.pro.bd) [Software Engineer | Full Stack Developer]
+- [Md Moniruzzaman Tonoy](https://md-moniruzzaman-tonoy.web.app) [Full Stack Developer]
 - [Md Muhaiminul Islam Shihab](https://muhaiminShihab.github.io) [Software Developer | Php, Laravel, Next.Js, Mysql.]
 - [Md Nuruzzaman](https://mdnuruzzamandev.web.app) [Frontend Developer]
 - [Md Rakib Ali](https://rakibislam22.github.io) [Full Stack Developer & Problem Solver]
