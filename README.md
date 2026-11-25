@@ -1180,6 +1180,7 @@ This repo can serve as inspiration for your portfolio!
 
 ## M
 
+- [Mridul Agrawal](https://www.mridulagrawal.in/) [Product Automation Analyst]
 - [MAHG.me](https://mahg.me) [Software Developer | NextJS]
 - [Maame Yaa Twumasi](https://maameyaa.vercel.app) [Full Stack Software Engineer]
 - [Maciej Pulikowski](https://pulik.dev) [Software Engineer & Security Researcher | 8 X Google Hall Of Fame]
