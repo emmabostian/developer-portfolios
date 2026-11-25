@@ -338,6 +338,7 @@ This repo can serve as inspiration for your portfolio!
 - [Arka Mahajan](https://arkamahajan.in) [Robotics Engineer | IOT Enthusiast]
 - [Armandeep Singh](https://ummmmarmaaan.github.io) [Full Stack Developer | React, Next.js & TypeScript]
 - [Armel Munyaneza](https://munyaneza.vercel.app)
+- [Arnav Seth](https://arnavseth12.github.io/Mywebsite/) [Student Developer | Software, Engineering & Astronomy]
 - [Arne Jacob](https://dudeldups.dev) [Full Stack Developer]
 - [Arnel Go](https://arnelbg.com) [WordPress Systems Engineer | Performance & Security]
 - [Arsh Javed](https://arshjaved.in) [Product Engineer]
