@@ -1849,6 +1849,7 @@ This repo can serve as inspiration for your portfolio!
 - [Shahan Arshad](https://shahan-arshad.github.io) [Full Stack Developer]
 - [Shahariar Azim Aksad](https://aksadio.github.io/Shahariar-Azim-Aksad/) [Developer | Python, AI Automation]
 - [Shaheen Amjed](https://shaheen-amjed.vercel.app) [Full Stack Web Developer]
+- [Shahid Hussain](https://shahidhussain.dev) [Senior Mobile & Web Engineer | SwiftUI, Flutter, React, Next.js]
 - [Shahid Shaikh](http://shahidshaikh.com)
 - [Shahmeer Rizwan](https://shahmeerrizwan.com) [Software Engineer]
 - [Shahrukh Anwar](https://shahrukhanwar.vercel.app) [Senior Full Stack Developer]
