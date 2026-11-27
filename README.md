@@ -700,6 +700,7 @@ This repo can serve as inspiration for your portfolio!
 - [Edikan Bassey](https://edikan-bassey.vercel.app) [Full Stack Developer]
 - [Edmund Spira](https://edmund.novyrix.com) [Systems Architect | Full Stack Engineer]
 - [Eduard-Constantin Ibinceanu](https://eduardconstantin.github.io)
+- [Eduardo Calvo López](https://educalvolopez.com) [AI Design Engineer | UI Engineering, Design Systems]
 - [Efuwape Ayomide Oreoluwa](https://eaoreoluwa.netlify.app) [Full Stack Developer | Software Engineer]
 - [Ekaterine Mitagvaria](https://ekaterine-mitagvaria.vercel.app)
 - [Elango](https://elangodev.com)
