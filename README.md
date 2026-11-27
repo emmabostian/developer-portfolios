@@ -144,6 +144,7 @@ This repo can serve as inspiration for your portfolio!
 - [Aditya Raj](https://portfolio-mti1.vercel.app) [Low-Level Systems Research | AI & Applied Data Science]
 - [Aditya Seth](https://adityaseth.in) [Software Developer & DevOps Architect]
 - [Aditya Thakur](https://adityathakur.me) [Software Engineer | Full Stack Engineer]
+- [Aditya Verma](https://aditya-verma.me) [Young, Low-Level Systems Engineer / Rust Developer]
 - [Aditya Vikram Singh](https://www.adityavsingh.com)
 - [Aditya](https://aditya-a-portfolio.vercel.app) [Full Stack Developer | Software Developer]
 - [Adityakumar Sinha](https://aditya113141.github.io)
