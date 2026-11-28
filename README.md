@@ -1440,6 +1440,7 @@ This repo can serve as inspiration for your portfolio!
 - [Nimit Trevadiya](https://nimit-trevadiya.vercel.app) [Full Stack Developer]
 - [Nipun Jain](https://lucifernipun22.github.io)
 - [Niresh Shrestha](https://niresh.com.np)
+- [Nirmal Kharal](https://nirmalkharal.dev/) [Full Stack Developer]
 - [Nisarg Patel](https://nisarg.io)
 - [Nischal Dutt](https://nischaldutt.netlify.app)
 - [Nishant Banjade](https://nishantbanjade.com.np)
